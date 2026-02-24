@@ -9,6 +9,7 @@ TABLE_NAME = os.environ["AIRTABLE_TABLE_NAME"]
 VIEW_NAME = os.environ.get("AIRTABLE_VIEW_NAME", "")
 SESSIONS_TABLE_NAME = os.environ["AIRTABLE_SESSIONS_TABLE_NAME"]
 SESSIONS_API_URL = f"https://api.airtable.com/v0/{BASE_ID}/{SESSIONS_TABLE_NAME}"
+SESSIONS_COURSE_LINK_FIELD = os.environ["AIRTABLE_SESSIONS_COURSE_LINK_FIELD"]
 
 API_URL = f"https://api.airtable.com/v0/{BASE_ID}/{TABLE_NAME}"
 
@@ -99,13 +100,13 @@ def duration_length_format(value) -> str:
     except Exception:
         return txt
 
-def airtable_fetch_all(api_url: str) -> list[dict]:
+def airtable_fetch_all(api_url: str, view_name: str = "") -> list[dict]:
     records = []
     offset = None
     while True:
         params = {}
-        if VIEW_NAME and api_url == API_URL:
-            params["view"] = VIEW_NAME
+        if view_name:
+            params["view"] = view_name
         if offset:
             params["offset"] = offset
 
@@ -128,6 +129,32 @@ def norm_str(x) -> str:
 def norm_date(x) -> str:
     # Airtable date komt meestal als 'YYYY-MM-DD' of ISO; we houden gewoon string
     return norm_str(x)
+
+def norm_str(x) -> str:
+    return "" if x is None else str(x).strip()
+
+def build_location_block(sf: dict) -> dict:
+    block = {
+        "date_start": norm_str(sf.get("date_start")),
+        "date_end": norm_str(sf.get("date_end")),
+        "hours": norm_str(sf.get("hours")),
+        "location_name": norm_str(sf.get("location_name")),
+        "location_address": norm_str(sf.get("location_address")),
+        "location_zip": norm_str(sf.get("location_zip")),
+    }
+    city = norm_str(sf.get("location_city"))
+    if city:
+        block["location_city"] = city
+
+    maxp = norm_str(sf.get("maximum_participants"))
+    if maxp:
+        block["maximum_participants"] = maxp
+
+    reg = norm_str(sf.get("registration_deadline"))
+    if reg:
+        block["registration_deadline"] = reg
+
+    return block
 
 def build_location_block(sf: dict) -> dict:
     block = {
@@ -154,32 +181,53 @@ def build_location_block(sf: dict) -> dict:
     return block
 
 def main():
-    course_records = airtable_fetch_all(API_URL)
-session_records = airtable_fetch_all(SESSIONS_API_URL)
+    # 1) Courses ophalen
+    course_records = airtable_fetch_all(API_URL, VIEW_NAME)
+    
+    # map: Airtable record id -> internal_id
+    course_id_to_internal = {}
+    for cr in course_records:
+        iid = cr.get("fields", {}).get("internal_id", "")
+        if iid:
+            course_id_to_internal[cr["id"]] = iid
 
-# Group sessions by internal_id
-sessions_by_id = {}
-for sr in session_records:
-    sf = sr.get("fields", {})
-    iid = norm_str(sf.get("internal_id"))
-    if not iid:
-        continue
-    sessions_by_id.setdefault(iid, []).append(build_location_block(sf))
+    # 2) Sessions ophalen
+    session_records = airtable_fetch_all(SESSIONS_API_URL, "")
 
-# Sort sessions per opleiding (eerst date_start, dan location_name)
-def sort_key(b):
-    return (b.get("date_start",""), b.get("location_name",""), b.get("hours",""))
+    # group: internal_id -> list of location blocks
+    sessions_by_internal = {}
 
-for iid in sessions_by_id:
-    sessions_by_id[iid] = sorted(sessions_by_id[iid], key=sort_key)
-    records = airtable_fetch_all()
+    for sr in session_records:
+        sf = sr.get("fields", {})
+        linked = sf.get(SESSIONS_COURSE_LINK_FIELD, [])
 
+        # Airtable linked-record field = list van record ids
+        if not isinstance(linked, list):
+            linked = [linked] if linked else []
+
+        block = build_location_block(sf)
+
+        for course_rec_id in linked:
+            iid = course_id_to_internal.get(course_rec_id)
+            if not iid:
+                continue
+            sessions_by_internal.setdefault(iid, []).append(block)
+
+    # sorteer sessions per opleiding (date_start, dan location_name)
+    def sort_key(b):
+        return (b.get("date_start",""), b.get("location_name",""), b.get("hours",""))
+
+    for iid in sessions_by_internal:
+        sessions_by_internal[iid] = sorted(sessions_by_internal[iid], key=sort_key)
+
+    # 3) JSON bouwen (gebruik course_records, niet opnieuw fetchen)
     output = []
-    for rec in records:
+    for rec in course_records:
         f = rec.get("fields", {})
+        internal_id = f.get("internal_id", "")
 
         obj = {
-            "internal_id": f.get("internal_id", ""),
+            "internal_id": internal_id,
             "title": f.get("title", ""),
             "language": f.get("language", ""),
             "price": price_to_2dec(f.get("price", "")),
@@ -215,7 +263,7 @@ for iid in sessions_by_id:
     )
 ),
             # Sessions later
-            "location_and_date": sessions_by_id.get(f.get("internal_id",""), [])
+            "location_and_date": sessions_by_internal.get(internal_id, [])
         }
 
         output.append(obj)
