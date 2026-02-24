@@ -7,6 +7,8 @@ AIRTABLE_PAT = os.environ["AIRTABLE_PAT"]
 BASE_ID = os.environ["AIRTABLE_BASE_ID"]
 TABLE_NAME = os.environ["AIRTABLE_TABLE_NAME"]
 VIEW_NAME = os.environ.get("AIRTABLE_VIEW_NAME", "")
+SESSIONS_TABLE_NAME = os.environ["AIRTABLE_SESSIONS_TABLE_NAME"]
+SESSIONS_API_URL = f"https://api.airtable.com/v0/{BASE_ID}/{SESSIONS_TABLE_NAME}"
 
 API_URL = f"https://api.airtable.com/v0/{BASE_ID}/{TABLE_NAME}"
 
@@ -97,17 +99,17 @@ def duration_length_format(value) -> str:
     except Exception:
         return txt
 
-def airtable_fetch_all() -> list[dict]:
+def airtable_fetch_all(api_url: str) -> list[dict]:
     records = []
     offset = None
     while True:
         params = {}
-        if VIEW_NAME:
+        if VIEW_NAME and api_url == API_URL:
             params["view"] = VIEW_NAME
         if offset:
             params["offset"] = offset
 
-        r = requests.get(API_URL, headers=HEADERS, params=params, timeout=60)
+        r = requests.get(api_url, headers=HEADERS, params=params, timeout=60)
         if not r.ok:
             print("Airtable status:", r.status_code)
             print("Airtable response:", r.text[:800])
@@ -120,8 +122,56 @@ def airtable_fetch_all() -> list[dict]:
             break
     return records
 
+def norm_str(x) -> str:
+    return "" if x is None else str(x).strip()
+
+def norm_date(x) -> str:
+    # Airtable date komt meestal als 'YYYY-MM-DD' of ISO; we houden gewoon string
+    return norm_str(x)
+
+def build_location_block(sf: dict) -> dict:
+    block = {
+        "date_start": norm_date(sf.get("date_start")),
+        "date_end": norm_date(sf.get("date_end")),
+        "hours": norm_str(sf.get("hours")),
+        "location_name": norm_str(sf.get("location_name")),
+        "location_address": norm_str(sf.get("location_address")),
+        "location_zip": norm_str(sf.get("location_zip")),
+    }
+    # Optioneel velden (alleen toevoegen als ze bestaan en niet leeg zijn)
+    city = norm_str(sf.get("location_city"))
+    if city:
+        block["location_city"] = city
+
+    maxp = norm_str(sf.get("maximum_participants"))
+    if maxp:
+        block["maximum_participants"] = maxp
+
+    reg = norm_str(sf.get("registration_deadline"))
+    if reg:
+        block["registration_deadline"] = reg
+
+    return block
 
 def main():
+    course_records = airtable_fetch_all(API_URL)
+session_records = airtable_fetch_all(SESSIONS_API_URL)
+
+# Group sessions by internal_id
+sessions_by_id = {}
+for sr in session_records:
+    sf = sr.get("fields", {})
+    iid = norm_str(sf.get("internal_id"))
+    if not iid:
+        continue
+    sessions_by_id.setdefault(iid, []).append(build_location_block(sf))
+
+# Sort sessions per opleiding (eerst date_start, dan location_name)
+def sort_key(b):
+    return (b.get("date_start",""), b.get("location_name",""), b.get("hours",""))
+
+for iid in sessions_by_id:
+    sessions_by_id[iid] = sorted(sessions_by_id[iid], key=sort_key)
     records = airtable_fetch_all()
 
     output = []
@@ -165,7 +215,7 @@ def main():
     )
 ),
             # Sessions later
-            "location_and_date": []
+            "location_and_date": sessions_by_id.get(f.get("internal_id",""), [])
         }
 
         output.append(obj)
