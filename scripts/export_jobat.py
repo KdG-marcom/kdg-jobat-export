@@ -41,33 +41,61 @@ def to_int(value, default=0):
         return default
 
 
-def skills_to_semicolon_string(fields: dict) -> str:
+def skills_to_comma_string(fields: dict) -> str:
     """
-    Preferred: use Airtable formula field 'skills_export' = ARRAYJOIN({skills}, '; ')
-    Fallbacks:
-      - if skills is list -> join with '; '
-      - if skills is comma string -> convert to '; '
+    Output must be a single string, comma-separated.
+    Prefer Airtable formula field 'skills_export' if you have it,
+    but normalize ';' to ',' if needed.
     """
     s = fields.get("skills_export", "")
     if isinstance(s, str) and s.strip():
-        return s.strip()
+        txt = s.strip()
+        # normalize legacy semicolon export to comma
+        txt = txt.replace("; ", ", ").replace(";", ", ")
+        return txt.strip()
 
     raw = fields.get("skills", "")
     if isinstance(raw, list):
-        return "; ".join([str(x).strip() for x in raw if str(x).strip()])
+        return ", ".join([str(x).strip() for x in raw if str(x).strip()])
 
     if isinstance(raw, str):
         txt = raw.strip()
         if not txt:
             return ""
-        # if it looks comma-separated, convert commas to semicolons
-        if "," in txt and ";" not in txt:
-            parts = [p.strip() for p in txt.split(",") if p.strip()]
-            return "; ".join(parts)
+        # if it looks semicolon-separated, convert
+        if ";" in txt and "," not in txt:
+            parts = [p.strip() for p in txt.split(";") if p.strip()]
+            return ", ".join(parts)
         return txt
 
     return ""
 
+def price_to_2dec(value) -> str:
+    if value is None:
+        return ""
+    if isinstance(value, str) and not value.strip():
+        return ""
+    try:
+        num = float(value)
+        return f"{num:.2f}"
+    except Exception:
+        # als Airtable al "1900.00" als tekst geeft, hou het zo (maar trim)
+        txt = str(value).strip()
+        return txt if txt else ""
+
+def duration_length_format(value) -> str:
+    if value is None:
+        return ""
+    txt = str(value).strip()
+    if not txt:
+        return ""
+    try:
+        num = float(txt)
+        if num.is_integer():
+            return str(int(num))              # "2.0" -> "2"
+        return f"{num:.1f}"                   # "2.5" -> "2.5", "0.75" -> "0.8"
+    except Exception:
+        return txt
 
 def airtable_fetch_all() -> list[dict]:
     records = []
@@ -104,18 +132,18 @@ def main():
             "internal_id": f.get("internal_id", ""),
             "title": f.get("title", ""),
             "language": f.get("language", ""),
-            "price": f.get("price", ""),
+            "price": price_to_2dec(f.get("price", "")),
             "certificate_name": f.get("certificate_name", ""),
             "course_image": f.get("course_image", ""),
             "email": f.get("email", ""),
             "job_title": f.get("job_title", ""),  # ✅ nu ingevuld in Airtable
-            "skills": skills_to_semicolon_string(f),  # ✅ ';' divider
+            "skills": skills_to_comma_string(f),
             "audience": f.get("audience", ""),
             "domain_category": f.get("domain_category", ""),
             "domain_subcategory": f.get("domain_subcategory", ""),
             "webaddress": add_jobat_utm(f.get("webaddress", "")),
             "degree_type": to_int(f.get("degree_type", "")),  # ✅ numeriek
-            "duration_length": to_int(f.get("duration_length", "")),
+            "duration_length": duration_length_format(f.get("duration_length", "")),
             "duration_type": f.get("duration_type", ""),
             "provider": "Karel de Grote Hogeschool",
             "course_type": to_int(f.get("course_type", "")),
@@ -123,8 +151,8 @@ def main():
             "description_program": cdata(f.get("description_program_html", "")),
             "description_extrainfo": cdata(f.get("description_extrainfo_html", "")),
             # Deze velden waren bij jou eerder missing: neem ze expliciet mee
-            "job_function_category": f.get("job_function_category", ""),
-            "esco_category_code": f.get("esco_category_code", ""),
+            "job_function_category": to_int(f.get("job_function_category", ""), default=0),
+            "esco_category_code": to_int(f.get("esco_category_code", ""), default=0),
             "nacebel_sector": f.get("nacebel_sector", ""),
             "required_knowledge": f.get("required_knowledge", ""),
             "government_subsidy": (
