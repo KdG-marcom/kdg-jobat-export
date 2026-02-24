@@ -156,10 +156,14 @@ def main():
             "nacebel_sector": f.get("nacebel_sector", ""),
             "required_knowledge": f.get("required_knowledge", ""),
             "government_subsidy": (
-                "; ".join(f.get("government_subsidy", []))
-                if isinstance(f.get("government_subsidy", ""), list)
-                else f.get("government_subsidy", "")
-            ),
+    ", ".join([str(x).strip() for x in f.get("government_subsidy", []) if str(x).strip()])
+    if isinstance(f.get("government_subsidy", ""), list)
+    else (
+        f.get("government_subsidy", "").replace("; ", ", ").replace(";", ", ")
+        if isinstance(f.get("government_subsidy", ""), str)
+        else ""
+    )
+),
             # Sessions later
             "location_and_date": []
         }
