@@ -54,7 +54,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma in verpleegkunde, vroedkunde, kinesitherapie of geneeskunde vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV); KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "location_and_date": []
   },
   {
@@ -83,7 +83,7 @@
     "esco_category_code": 2166,
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen; basis computergebruik volstaat",
-    "government_subsidy": "Opleidingscheques; Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
     "location_and_date": []
   },
   {
@@ -112,7 +112,7 @@
     "esco_category_code": 3313,
     "nacebel_sector": "69.20",
     "required_knowledge": "Diploma secundair onderwijs (of gelijkgesteld) en voldoen aan taalvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof; Vlaams opleidingskrediet; Opleidingscheques; Kmo-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet, Opleidingscheques, Kmo-portefeuille",
     "location_and_date": []
   },
   {
@@ -264,7 +264,7 @@
     "internal_id": "beleggen",
     "title": "Beleggen",
     "language": "NL",
-    "price": "5135.00",
+    "price": "513.50",
     "certificate_name": "Attest micro-credential Beleggen",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "mc.beleggen@kdg.be",
@@ -286,7 +286,7 @@
     "esco_category_code": 2412,
     "nacebel_sector": "66.19",
     "required_knowledge": "Geen specifieke voorkennis vereist (basisinzicht economie en wiskunde is nuttig)",
-    "government_subsidy": "Vlaams opleidingsverlof; Opleidingscheques; Kmo-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, Kmo-portefeuille",
     "location_and_date": []
   },
   {
@@ -344,7 +344,7 @@
     "esco_category_code": 3221,
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof; Opleidingscheques; KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, KMO-portefeuille",
     "location_and_date": []
   },
   {
@@ -750,7 +750,7 @@
     "esco_category_code": 2431,
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen specifieke vooropleiding vereist",
-    "government_subsidy": "Opleidingscheques; Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
     "location_and_date": []
   },
   {
@@ -982,7 +982,7 @@
     "esco_category_code": 2421,
     "nacebel_sector": "70.22",
     "required_knowledge": "Bachelor- of masterdiploma (of equivalente werkervaring) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV); KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "location_and_date": []
   },
   {
@@ -1533,7 +1533,7 @@
     "esco_category_code": 3313,
     "nacebel_sector": "69.20",
     "required_knowledge": "Bachelor Accountancy-Fiscaliteit of master (economisch/juridisch) vereist (of gelijkwaardig diploma met 7 jaar ervaring als tax accountant)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV); KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "location_and_date": []
   },
   {
@@ -1649,7 +1649,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma verpleegkunde vereist; ervaring in de zorgsector is aanbevolen",
-    "government_subsidy": "KMO-portefeuille; Vlaams opleidingsverlof",
+    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof",
     "location_and_date": []
   },
   {
@@ -1852,7 +1852,7 @@
     "esco_category_code": 2421,
     "nacebel_sector": "70.22",
     "required_knowledge": "Bachelor- of masterdiploma vereist (gelijkwaardige HR-ervaring kan volstaan)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV); Opleidingscheques; KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
     "location_and_date": []
   },
   {
@@ -2055,7 +2055,7 @@
     "esco_category_code": 5311,
     "nacebel_sector": "88.91",
     "required_knowledge": "Ervaring in de kinderopvang of pedagogische begeleiding",
-    "government_subsidy": "KMO-portefeuille; Vlaams opleidingsverlof",
+    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof",
     "location_and_date": []
   },
   {
@@ -2120,7 +2120,7 @@
     "internal_id": "logistiek-en-voorraadbeheer",
     "title": "Logistiek en Voorraadbeheer",
     "language": "NL",
-    "price": "4956.00",
+    "price": "495.60",
     "certificate_name": "Getuigschrift Micro-credential Logistiek & Voorraadbeheer",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "jesse.mortelmans@kdg.be",
@@ -2171,7 +2171,7 @@
     "esco_category_code": 3521,
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen; basis computervaardigheden volstaan",
-    "government_subsidy": "Opleidingscheques; Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
     "location_and_date": []
   },
   {
@@ -2200,7 +2200,7 @@
     "esco_category_code": 2421,
     "nacebel_sector": "74.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof; KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
     "location_and_date": []
   },
   {
@@ -2381,7 +2381,7 @@
     "internal_id": "microdegrees-toegepaste-informatica",
     "title": "Toegepaste Informatica",
     "language": "NL",
-    "price": "2899.00",
+    "price": "289.90",
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.toegepasteinformatica@kdg.be",
@@ -2403,7 +2403,7 @@
     "esco_category_code": 2512,
     "nacebel_sector": "62.01",
     "required_knowledge": "Geen specifieke voorkennis vereist voor basis-micro-credentials; voor gevorderde modules is relevante IT-ervaring aanbevolen",
-    "government_subsidy": "Vlaams opleidingsverlof; Vlaams opleidingskrediet; Opleidingscheques",
+    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet, Opleidingscheques",
     "location_and_date": []
   },
   {
@@ -2613,7 +2613,7 @@
     "internal_id": "onderwijsbevoegdheid-rooms-katholieke-godsdienst",
     "title": "Onderwijsbevoegdheid Rooms-Katholieke Godsdienst",
     "language": "NL",
-    "price": "4230.00",
+    "price": "423.00",
     "certificate_name": "Attest Rooms-Katholieke Godsdienst (onderwijsbevoegdheid)",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "elise.linsen@kdg.be / jonas.slaats@kdg.be",
@@ -2722,7 +2722,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma in de Vroedkunde. Andere zorgprofessionals kunnen zich inschrijven na contact met Astrid Claerbout via info.vroedkunde@kdg.be, mits werkzaam in de gezondheidszorg en intensief in contact met (toekomstige) ouders.",
-    "government_subsidy": "Vlaams opleidingsverlof; KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
     "location_and_date": []
   },
   {
@@ -2809,7 +2809,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma bachelor Vroedkunde vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV); KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "location_and_date": []
   },
   {
@@ -2838,7 +2838,7 @@
     "esco_category_code": 3422,
     "nacebel_sector": "93.13",
     "required_knowledge": "Bachelordiploma in een menswetenschappelijke, sport- of zorgopleiding of aantoonbare ervaring in coaching of sportbegeleiding",
-    "government_subsidy": "KMO-portefeuille; Vlaams opleidingsverlof",
+    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof",
     "location_and_date": []
   },
   {
@@ -2925,7 +2925,7 @@
     "esco_category_code": 2656,
     "nacebel_sector": "59.20",
     "required_knowledge": "Geen voorkennis vereist",
-    "government_subsidy": "Opleidingscheques; Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
     "location_and_date": []
   },
   {
@@ -2954,7 +2954,7 @@
     "esco_category_code": 5321,
     "nacebel_sector": "86.90",
     "required_knowledge": "Secundair diploma (ASO/TSO/KSO of zorgopleiding) of werkervaring in de zorg",
-    "government_subsidy": "Vlaams opleidingsverlof; Opleidingscheques; Kmo-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, Kmo-portefeuille",
     "location_and_date": []
   },
   {
@@ -3128,7 +3128,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma in de Vroedkunde. Andere zorgprofessionals kunnen zich inschrijven na contact met Astrid Claerbout via info.vroedkunde@kdg.be, mits werkzaam in de gezondheidszorg en intensief in contact met (toekomstige) ouders.",
-    "government_subsidy": "Vlaams opleidingsverlof; KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
     "location_and_date": []
   },
   {
@@ -3215,7 +3215,7 @@
     "esco_category_code": 2641,
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen specifieke voorkennis nodig",
-    "government_subsidy": "Opleidingscheques; Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
     "location_and_date": []
   },
   {
@@ -3483,7 +3483,7 @@
     "internal_id": "supply-chain-management-introductie",
     "title": "Supply Chain Management - Introductie",
     "language": "NL",
-    "price": "4956.00",
+    "price": "495.60",
     "certificate_name": "Getuigschrift Micro-credential SCM Introductie",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "jesse.mortelmans@kdg.be",
@@ -3512,7 +3512,7 @@
     "internal_id": "sustainable-business-innovation",
     "title": "Sustainable Business & Innovation",
     "language": "EN",
-    "price": "6166.00",
+    "price": "616.60",
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "kristien.govers@kdg.be",
@@ -3563,7 +3563,7 @@
     "esco_category_code": 3313,
     "nacebel_sector": "69.20",
     "required_knowledge": "Bachelor Bedrijfsmanagement (Accountancy-Fiscaliteit), of graduaat Accountancy (2 jaar ervaring), of master (economisch/juridisch) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV); KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "location_and_date": []
   },
   {
@@ -3599,7 +3599,7 @@
     "internal_id": "transport-en-haven",
     "title": "Transport en Haven",
     "language": "NL",
-    "price": "4956.00",
+    "price": "495.60",
     "certificate_name": "Getuigschrift Micro-credential Transport en Haven",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "jesse.mortelmans@kdg.be",
@@ -3795,7 +3795,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma in de Vroedkunde. Andere zorgprofessionals kunnen zich inschrijven na contact met Astrid Claerbout via info.vroedkunde@kdg.be, mits werkzaam in de gezondheidszorg en intensief in contact met (toekomstige) ouders.",
-    "government_subsidy": "Vlaams opleidingsverlof; KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
     "location_and_date": []
   },
   {
@@ -3831,7 +3831,7 @@
     "internal_id": "verpleegkunde",
     "title": "Verpleegkunde",
     "language": "NL",
-    "price": "2899.00",
+    "price": "289.90",
     "certificate_name": "Creditbewijs micro-credential Verpleegkunde",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "mark.willekens@kdg.be",
@@ -4317,7 +4317,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Afgerond diploma Verpleegkunde (bachelor, graduaat/HBO5 of gelijkwaardig)",
-    "government_subsidy": "Vlaams opleidingsverlof; Opleidingscheques; Kmo-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, Kmo-portefeuille",
     "location_and_date": []
   },
   {
