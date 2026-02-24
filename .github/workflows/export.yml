@@ -23,6 +23,7 @@ jobs:
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
           AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME }}
           AIRTABLE_VIEW_NAME: ${{ secrets.AIRTABLE_VIEW_NAME }}
+          AIRTABLE_SESSIONS_TABLE_NAME: ${{ secrets.AIRTABLE_SESSIONS_TABLE_NAME }}
         run: python scripts/export_jobat.py
 
       - name: Commit changes if any
