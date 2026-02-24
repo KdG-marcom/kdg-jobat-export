@@ -5,7 +5,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Duurzaamheidsintegratie, Pedagogisch beleid, Teamontwikkeling, Groepsreflectie",
@@ -26,7 +26,16 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "2.5",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "acupunctuur",
@@ -55,7 +64,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Diploma in verpleegkunde, vroedkunde, kinesitherapie of geneeskunde vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-27",
+        "date_end": "2028-06-12",
+        "hours": "Vrijdag van 13:30 tot 20 u. en zaterdag van 9  ot 17 u. (tweewekelijks)",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 23",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "afbeeldingen-maken-en-bewerken",
@@ -84,7 +102,16 @@
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen; basis computergebruik volstaat",
     "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-04",
+        "date_end": "2026-03-18",
+        "hours": "Telkens op woensdagavond van 19 tot 21 u.",
+        "location_name": "Online",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "assistent-accountant",
@@ -113,7 +140,16 @@
     "nacebel_sector": "69.20",
     "required_knowledge": "Diploma secundair onderwijs (of gelijkgesteld) en voldoen aan taalvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet, Opleidingscheques, Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-18",
+        "date_end": "2026-04-02",
+        "hours": "dinsdag & donderdag 16:00-19:30",
+        "location_name": "Campus Groenplaats",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000"
+      }
+    ]
   },
   {
     "internal_id": "autismespectrum",
@@ -142,7 +178,16 @@
     "nacebel_sector": "85.60",
     "required_knowledge": "Bachelor- of masterdiploma vereist (of toelating via intake zonder diploma)",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-23",
+        "date_end": "2026-06-30",
+        "hours": "Woensdagnamiddag/avond (wekelijks)",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "babykunde-emoties-bij-babys-en-peuters",
@@ -150,7 +195,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Emotionele ondersteuning, Huilgedrag, Pedagogisch beleid, Teamontwikkeling",
@@ -171,7 +216,16 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "3",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "basistraject-voor-begeleiders-de-buitenschoolse-kinderopvang",
@@ -179,7 +233,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider in de buitenschoolse kinderopvang",
     "skills": "Zorg en welzijn, Spelbegeleiding, Gedragsmanagement, Samenwerking met ouders",
@@ -200,7 +254,16 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "12",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "basisvorming-coaching-voor-mentoren-binnen-onderwijs",
@@ -208,7 +271,7 @@
     "language": "nl",
     "price": "350.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
     "job_title": "Mentor, Begeleider, Pedagogisch coach in het onderwijs",
     "skills": "Coaching, Gespreksvaardigheden, Feedback geven, Reflectie",
@@ -229,7 +292,16 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-23",
+        "date_end": "2026-02-05",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "begrijpen-en-verbinden-communicatieskills-voor-een",
@@ -237,7 +309,7 @@
     "language": "nl",
     "price": "135.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Directie, Beleidsmedewerker in het onderwijs",
     "skills": "Communicatiestrategieën, Feedback geven, Effectief overleg, Inspireren",
@@ -258,7 +330,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-24",
+        "date_end": "2026-02-24",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "beleggen",
@@ -287,7 +369,16 @@
     "nacebel_sector": "66.19",
     "required_knowledge": "Geen specifieke voorkennis vereist (basisinzicht economie en wiskunde is nuttig)",
     "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "dinsdagavond 16:00-19:00 (deels online, deels campus)",
+        "location_name": "Campus Groenplaats / online",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000"
+      }
+    ]
   },
   {
     "internal_id": "beleidsvoerend-vermogen-versterken-bij-de-kinderopvang",
@@ -295,7 +386,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Beleidsmedewerker, Coördinator, Pedagogisch coach",
     "skills": "Beleidsontwikkeling, Teamcoaching, Organisatieontwikkeling, Kwaliteitszorg",
@@ -316,7 +407,16 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "12.5",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "bijscholing-zorgkundigen",
@@ -324,7 +424,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Getuigschrift van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Zorgkundige",
     "skills": "Infectiepreventie, Glycemiecontrole, Geneesmiddelen toediening, Zwachtelen, Professionele communicatie",
@@ -345,7 +445,16 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2024-11-13",
+        "date_end": "2024-11-16",
+        "hours": "32",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "bind-krachtvorming-er-is-meer-dan-je-denkt",
@@ -353,7 +462,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Netwerkversterking, Krachtgericht werken, Casusbespreking, Dialogische methodieken",
@@ -374,7 +483,16 @@
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "bind-krachtvorming-isolement-beperkt-budget",
@@ -382,7 +500,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider",
     "skills": "Krachtgericht werken, Reflectief handelen, Dialoog, Empowerment",
@@ -403,7 +521,16 @@
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "bind-krachtvorming-krachtgericht-onthaal",
@@ -411,7 +538,7 @@
     "language": "nl",
     "price": "150.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Krachtgericht werken, Verbindende communicatie, Reflectief handelen, Omgaan met kwetsbare doelgroepen",
@@ -432,7 +559,16 @@
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "bind-krachtvorming-onmacht-in-de-relatie",
@@ -440,7 +576,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider",
     "skills": "Krachtgericht werken, Reflectief handelen, Dialoog, Empowerment",
@@ -461,7 +597,16 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "boost-voor-startende-leerkrachten-basis-secundair-onderwijs",
@@ -469,7 +614,7 @@
     "language": "nl",
     "price": "225.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Startende leerkracht in het kleuter-, lager- of secundair onderwijs",
     "skills": "Klasmanagement, Differentiatie, Communicatie met ouders, Reflectie",
@@ -490,7 +635,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-28",
+        "date_end": "2026-05-22",
+        "hours": "Van 13 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "bouwen-aan-boa-30-2026-in-zicht",
@@ -498,7 +653,7 @@
     "language": "nl",
     "price": "75.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.verbanck@kdg.be",
     "job_title": "Opvangcoördinator, Pedagogisch coach, Beleidsmedewerker jeugd, Onderwijsprofessional",
     "skills": "Opvangorganisatie, Pedagogisch beleid, Netwerken, Beleidsanalyse, Kinderparticipatie",
@@ -519,7 +674,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-06-24",
+        "date_end": "2025-06-24",
+        "hours": "Van 9 tot 17 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "buiten-gewoon-bewegen-en-leren-trek-met-je-klas-naar-buiten",
@@ -527,7 +691,7 @@
     "language": "nl",
     "price": "135.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Zorgcoördinator, Begeleider in het onderwijs",
     "skills": "Buitenleren, Didactiek, Leerplandoelen, Veiligheid, Reflectie",
@@ -548,7 +712,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-04-28",
+        "date_end": "2026-04-28",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "buitengewoon-onderwijs",
@@ -577,7 +751,16 @@
     "nacebel_sector": "85.60",
     "required_knowledge": "Bachelor- of masterdiploma (onderwijs) vereist, of reeds werkzaam in buitengewoon onderwijs/leersteuncentrum",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "Maandag en woensdag overdag (voltijds) of woensdag namiddag/avond (deeltijds)",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "buitenspelen-en-natuur-beleven-met-jonge-kinderen",
@@ -585,7 +768,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "turn0image8",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Buitenspelen, Natuurbeleving, Pedagogisch beleid, Teamontwikkeling",
@@ -606,7 +789,16 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "2",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "cardiologie",
@@ -635,7 +827,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (bachelor of HBO5) vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-02",
+        "date_end": "2026-06-18",
+        "hours": "Donderdag (van 8.30 tot 17.45 u.) – bijna wekelijks",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "coachen-bij-weerstand-in-je-team",
@@ -643,7 +844,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
     "job_title": "Coach, Ondersteuner, Begeleider",
     "skills": "Weerstand, Teamdynamiek, Coaching, Communicatie",
@@ -664,7 +865,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "3",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "componenten-levensbeschouwelijke-religieuze-groei-kleuterklas",
@@ -672,7 +882,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "liesbeth.kustermans@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs",
     "skills": "Levensbeschouwelijke vorming, Religieuze educatie, Zill-methode, Creatief lesgeven",
@@ -693,7 +903,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "2.5",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "computationeel-denken-programmeren-met-jonge-kinderen",
@@ -701,7 +920,7 @@
     "language": "nl",
     "price": "65.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs, Leerkracht lager onderwijs",
     "skills": "Computationeel denken, Probleemoplossend denken, Digitale geletterdheid, Creatief denken",
@@ -722,7 +941,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-04-22",
+        "date_end": "2026-04-22",
+        "hours": "Van 9 tot 12 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "contentcreatie",
@@ -751,7 +980,16 @@
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen specifieke vooropleiding vereist",
     "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-03",
+        "date_end": "2026-05-26",
+        "hours": "online avondopleiding (19:00-21:00)",
+        "location_name": "Online",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "crm-crew-crisis-resource-management",
@@ -759,7 +997,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margo.wouters@kdg.be",
     "job_title": "Verpleegkundige, Hulpverlener, Teamleider",
     "skills": "Teamwerk, Communicatie, Besluitvorming, Stressbestendigheid",
@@ -780,7 +1018,16 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw organisatie of op campus Zuid",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "databeheer",
@@ -809,7 +1056,16 @@
     "nacebel_sector": "62.01",
     "required_knowledge": "Geen specifieke voorkennis vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "Avondonderwijs (dagen variabel) – modulair per onderwerp",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "de-sensitieve-leerkracht-die-het-verschil-maakt",
@@ -817,7 +1073,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
     "job_title": "Leerkracht, Onderwijsbegeleider, Pedagoog",
     "skills": "Sensitiviteit, Relatieopbouw, Reflectie, Teamontwikkeling",
@@ -838,7 +1094,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "3",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "de-vroedvrouw-en-haar-aansprakelijkheid-van-theorie-naar-praktijk",
@@ -846,7 +1111,7 @@
     "language": "nl",
     "price": "110.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Verloskundige, Zorgverlener in de perinatale zorg",
     "skills": "Juridische kennis, Evidence-based handelen, Casusbespreking, Richtlijnen interpretatie",
@@ -867,7 +1132,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-04-28",
+        "date_end": "2026-04-28",
+        "hours": "Van 9 tot 17 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "didactisch-materiaal-personaliseren-in-het-maaklab",
@@ -875,7 +1150,7 @@
     "language": "nl",
     "price": "195.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs, Leerkracht lager onderwijs, Leerkracht secundair onderwijs",
     "skills": "Cricut Design Space, Lasercutten, Personaliseren van didactisch materiaal, Creatief lesmateriaal, STEM-toepassingen",
@@ -896,7 +1171,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-01-13",
+        "date_end": "2026-03-20",
+        "hours": "Van 9 tot 12 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "differentiatie-integreren-de-kleuterklas",
@@ -904,7 +1189,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs",
     "skills": "Differentiatie, Kleuteronderwijs, Pedagogisch beleid",
@@ -925,7 +1210,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "3",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "digiplay-spelen-met-digitale-media-de-kinderopvang",
@@ -933,7 +1227,7 @@
     "language": "nl",
     "price": "70.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.verbanck@kdg.be",
     "job_title": "Begeleider in de kinderopvang, Leidinggevende in de kinderopvang, Pedagogisch ondersteuner",
     "skills": "Digitaal spelen, Creatief gebruik van technologie, Pedagogisch kader digitaal spelen, Reflectief handelen",
@@ -954,7 +1248,24 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "4",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2025-11-20",
+        "date_end": "2025-11-20",
+        "hours": "Van 9 tot 17 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "digital-business",
@@ -983,7 +1294,16 @@
     "nacebel_sector": "70.22",
     "required_knowledge": "Bachelor- of masterdiploma (of equivalente werkervaring) vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-01",
+        "date_end": "2026-01-31",
+        "hours": "Op donderdag (wekelijks) van 14 u. tot 21 u. met 2 pauzes en warme maaltijd tussendoor",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "diversiteit-in-de-kinderopvang",
@@ -991,7 +1311,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Organisator, Verantwoordelijke, Leidinggevende, Pedagogisch coach, Begeleider in de kinderopvang",
     "skills": "Interculturele communicatie, Reflectie, Teamontwikkeling, Diversiteitsbeleid",
@@ -1012,7 +1332,16 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "2.5",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "e-mobility-laadpaalinfrastructuur-de-praktijk",
@@ -1020,7 +1349,7 @@
     "language": "nl",
     "price": "375.00",
     "certificate_name": "",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "gazi.akdag@kdg.be",
     "job_title": "Technisch adviseur e-mobility, installateur laadpalen, laadinfra-technicus, EV-consultant",
     "skills": "AC/DC-laadsystemen, analyse klantbehoefte, installatievereisten, datasheetinterpretatie, AREI-veiligheid, toegangscontrole, commerciële advisering",
@@ -1041,7 +1370,32 @@
     "nacebel_sector": "43210",
     "required_knowledge": "",
     "government_subsidy": "",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-03-05",
+        "date_end": "2026-03-05",
+        "hours": "18:30 - 21:30",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      },
+      {
+        "date_start": "2026-03-12",
+        "date_end": "2026-03-12",
+        "hours": "18:30 - 21:30",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      },
+      {
+        "date_start": "2026-03-19",
+        "date_end": "2026-03-19",
+        "hours": "18:30 - 21:30",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "een-digibord-in-de-kleuterklas",
@@ -1049,7 +1403,7 @@
     "language": "nl",
     "price": "65.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Kleuterleerkracht",
     "skills": "Digibordgebruik, Digitale didactiek, Creatieve lesontwikkeling",
@@ -1070,7 +1424,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-01-28",
+        "date_end": "2026-01-28",
+        "hours": "Van 9 tot 12 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "een-geintegreerde-visie-op-evaluatie-binnen-moderne-vreemde",
@@ -1078,7 +1442,7 @@
     "language": "nl",
     "price": "135.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.verbanck@kdg.be",
     "job_title": "Leerkracht moderne vreemde talen in het secundair onderwijs",
     "skills": "Evaluatie, Rapportering, Didactiek, Formatieve en summatieve evaluatie, Feedbackstrategieën",
@@ -1099,7 +1463,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-18",
+        "date_end": "2025-11-18",
+        "hours": "Van 9 tot 15.15 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "elisa-en-qpcr",
@@ -1128,7 +1502,16 @@
     "nacebel_sector": "21.20",
     "required_knowledge": "Bachelor of master in biomedische laboratoriumtechnologie, (bio)chemie of gelijkaardig, of relevante werkervaring",
     "government_subsidy": "Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-06-02",
+        "date_end": "2025-06-09",
+        "hours": "Van 9 tot 17 u.",
+        "location_name": "Campus Hoboken",
+        "location_address": "Salesianenlaan 90",
+        "location_zip": "2660"
+      }
+    ]
   },
   {
     "internal_id": "emotieregulering-en-pijnmanagement-bij-kinderen",
@@ -1136,7 +1519,7 @@
     "language": "nl",
     "price": "130.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Verpleegkundige",
     "skills": "Emotieregulering, Pijnmanagement, Communicatie, Zelfregulatie",
@@ -1157,7 +1540,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-14",
+        "date_end": "2026-01-13",
+        "hours": "Van 8.30 tot 12 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "emotionele-coaching-bij-het-jonge-kind",
@@ -1165,7 +1558,7 @@
     "language": "nl",
     "price": "70.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Verpleegkundige",
     "skills": "Emotionele coaching, Gedragsherkenning, Grenzen stellen, Zelfregulatie",
@@ -1186,7 +1579,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-14",
+        "date_end": "2026-01-13",
+        "hours": "Van 8.30 tot 12 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "empowerment-tijdens-de-geboortezorg",
@@ -1194,7 +1597,7 @@
     "language": "nl",
     "price": "95.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "natalie.vanranst@kdg.be",
     "job_title": "Vroedvrouw",
     "skills": "Autonomie, Respectvolle zorg, Patiëntenrechten, Richtlijnen, Aansprakelijkheid",
@@ -1215,7 +1618,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-05-13",
+        "date_end": "2026-05-13",
+        "hours": "Van 8.45 u. tot 17.15 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "ervaringsgerichte-psychosociale-hulpverlening-jeugdzorg",
@@ -1223,7 +1636,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info@kdg.be",
     "job_title": "Jeugdzorgwerker, Hulpverlener in de jeugdzorg",
     "skills": "Ervaringsgericht werken, Systeemgericht werken, Casusbespreking, Videomateriaal analyse",
@@ -1244,7 +1657,16 @@
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "feedback-geven-als-pedagogisch-medewerker",
@@ -1252,7 +1674,7 @@
     "language": "nl",
     "price": "190.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info@kdg.be",
     "job_title": "Pedagogisch medewerker, Begeleider in de kinderopvang, Teamleider in de kinderopvang",
     "skills": "Feedback geven, Feedback ontvangen, Teamcommunicatie, Pedagogisch leiderschap, Reflectief handelen",
@@ -1273,7 +1695,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-01-08",
+        "date_end": "2026-02-05",
+        "hours": "Van 9 tot 16 u. en van 13 tot 16.15 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "feedback-in-de-klas-verborgen-leerkansen",
@@ -1281,7 +1712,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "vinciane.costa@kdg.be",
     "job_title": "Leerkracht, Onderwijsontwikkelaar, Pedagoog",
     "skills": "Feedback geven, Feedback ontvangen, Reflectief handelen, Didactisch ontwerp, Leerprocesbegeleiding",
@@ -1302,7 +1733,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "feedback-in-de-klas-verborgen-leerkansen-lager-onderwijs",
@@ -1310,7 +1750,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "liesbeth.kustermans@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Onderwijsbegeleider",
     "skills": "Feedback geven, Reflectie, Kwaliteitsverwachtingen, Didactische werkvormen",
@@ -1331,7 +1771,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "3",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "fijne-motoriek-trainen-om-vlot-te-leren-schrijven",
@@ -1339,7 +1788,7 @@
     "language": "nl",
     "price": "135.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Zorgcoördinator, Begeleider in het onderwijs",
     "skills": "Buitenleren, Didactiek, Leerplandoelen, Veiligheid, Reflectie",
@@ -1360,7 +1809,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-04",
+        "date_end": "2025-11-04",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "finance-essentials-voor-ondernemers-en-professionals",
@@ -1368,7 +1827,7 @@
     "language": "nl",
     "price": "300.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Ondernemer, Financieel medewerker, Accountant, Boekhouder, Business analist, Teamlead, Operationeel manager",
     "skills": "Balansanalyse, Resultatenrekening interpreteren, Cashflowanalyse, Financiële ratio’s begrijpen, Financieel evenwicht beoordelen, Jaarrekening lezen, Praktische financiële analyse, Beslissingsondersteuning",
@@ -1389,7 +1848,16 @@
     "nacebel_sector": "70.22",
     "required_knowledge": "Geen formele toelatingsvoorwaarden. Basiskennis van de eigen werkcontext is aanbevolen.",
     "government_subsidy": "KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-03-10",
+        "date_end": "2026-03-17",
+        "hours": "13.30 - 16.30 u.",
+        "location_name": "KdG Campus Zuid",
+        "location_address": "Brusselstraat 45, 2018 Antwerpen",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "fixatiearm-beleid-in-een-residentiele-setting",
@@ -1397,7 +1865,7 @@
     "language": "nl",
     "price": "70.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Beleidsmaker, Directie, Hoofdverpleegkundige, Zorgcoördinator",
     "skills": "Fixatiearm beleid, Ethiek, Risicobeheersing, Communicatie, Cultuuromslag",
@@ -1418,7 +1886,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-09",
+        "date_end": "2026-04-29",
+        "hours": "Van 13 tot 17.15 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "flowcytometrie",
@@ -1447,7 +1925,16 @@
     "nacebel_sector": "21.20",
     "required_knowledge": "Bachelor (professioneel of academisch) in biomedische laboratoriumtechnologie, farmalabo of (bio)chemie, of relevante werkervaring in lab; geen flowcytometrie-voorkennis nodig",
     "government_subsidy": "Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-16",
+        "date_end": "2025-09-18",
+        "hours": "Van 9 tot 17 u.",
+        "location_name": "Campus Hoboken",
+        "location_address": "Salesianenlaan 90",
+        "location_zip": "2660"
+      }
+    ]
   },
   {
     "internal_id": "frans-voor-heterogene-klasgroepen-en-ex-okan-leerlingen",
@@ -1455,7 +1942,7 @@
     "language": "nl",
     "price": "135.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.verbanck@kdg.be",
     "job_title": "Leerkracht Frans in het secundair onderwijs",
     "skills": "Differentiatie, Remediëring, Lesvoorbereiding, Pedagogisch-didactisch plan",
@@ -1476,7 +1963,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-04",
+        "date_end": "2025-11-04",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "fysiologische-richtlijnen-rond-stan-ctg",
@@ -1484,7 +1981,7 @@
     "language": "nl",
     "price": "115.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Gynaecoloog, Zorgverlener in de perinatale zorg",
     "skills": "CTG-interpretatie, STAN-monitoring, Fysiologische benadering, FIGO-richtlijnen",
@@ -1505,7 +2002,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-05-18",
+        "date_end": "2026-05-18",
+        "hours": "Van 8.45 u. tot 16.15 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "gecertificeerd-tax-accountant",
@@ -1534,7 +2041,16 @@
     "nacebel_sector": "69.20",
     "required_knowledge": "Bachelor Accountancy-Fiscaliteit of master (economisch/juridisch) vereist (of gelijkwaardig diploma met 7 jaar ervaring als tax accountant)",
     "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2027-06-30",
+        "hours": "Dinsdagavond (lesjaar 1 en 2), gecombineerd met vrijstellingsproeven (lesjaar 3)",
+        "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000"
+      }
+    ]
   },
   {
     "internal_id": "gedragsproblemen",
@@ -1542,7 +2058,7 @@
     "language": "nl",
     "price": "450.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht, Begeleider, Zorgcoördinator, Jeugdwerker",
     "skills": "Gedragsanalyse, Emotioneel welzijn, Traumasensitief werken, Sociaal-emotioneel leren, Grenzen stellen",
@@ -1563,7 +2079,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-20",
+        "date_end": "2026-03-17",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "gendereducatie-in-de-klas",
@@ -1571,7 +2097,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sophie.bollen@kdg.be",
     "job_title": "Leerkracht, Onderwijsbegeleider, Pedagoog",
     "skills": "Genderbewustzijn, Inclusief onderwijs, Kritisch denken, Lesontwerp",
@@ -1592,7 +2118,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "3",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "geriatrie",
@@ -1621,7 +2156,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (bachelor of HBO5) vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-02",
+        "date_end": "2026-06-18",
+        "hours": "Donderdag (telkens van 8.30 tot 17.45 u.) – wekelijks",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "gespecialiseerde-pijnverpleegkundige",
@@ -1629,7 +2173,7 @@
     "language": "nl",
     "price": "2200.00",
     "certificate_name": "Postgraduaat Gespecialiseerde Pijnverpleegkundige",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "mark.willekens@kdg.be",
     "job_title": "Gespecialiseerde pijnverpleegkundige, Verpleegkundige pijnkliniek, Coördinator pijnzorg",
     "skills": "Pijnbehandeling, Multidisciplinaire zorg, Communicatie, Evidence-based practice, Begeleiding",
@@ -1650,7 +2194,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma verpleegkunde vereist; ervaring in de zorgsector is aanbevolen",
     "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "Iedere lesdag start om 8.30 u. en eindigt ten laatste om 18 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "gotalk-leerlingenparticipatie-afsluitende-studiedag",
@@ -1658,7 +2212,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.verbanck@kdg.be",
     "job_title": "Leerkracht, Coördinator leerlingenraad, Beleidsmedewerker onderwijs",
     "skills": "Leerlingenparticipatie, Inclusie, Diversiteit, Beleidsimpact, Creatieve werkvormen",
@@ -1679,7 +2233,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-06-24",
+        "date_end": "2025-06-24",
+        "hours": "Van 9 tot 17 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "hechten-en-vechten",
@@ -1687,7 +2250,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bert.murawski@kdg.be",
     "job_title": "Leerkracht, Zorgcoördinator, Ondersteuner",
     "skills": "Hechtingstheorie, Gedragsondersteuning, Klassikale structuur, Pedagogisch handelen",
@@ -1708,7 +2271,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "3",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "hoe-echt-samen-ontspannen-op-school",
@@ -1716,7 +2288,7 @@
     "language": "nl",
     "price": "150.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Schoolcoach, Teamleider",
     "skills": "Stressmanagement, Teamontspanning, Schoolwelzijn, Teamcoaching, Reflectievaardigheden",
@@ -1737,7 +2309,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Ervaring in het onderwijs of werken binnen schoolteams",
     "government_subsidy": "KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-05",
+        "date_end": "2025-11-05",
+        "hours": "Van 16.30 - 18 u",
+        "location_name": "Campus Koningin Fabiola",
+        "location_address": "Lange Nieuwstraat 101",
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "hoe-geef-je-zelfverzekerd-en-inspirerend-online-les",
@@ -1745,7 +2327,7 @@
     "language": "nl",
     "price": "300.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Trainer, Online docent, Workshopbegeleider, Ondernemer, Freelancer, Learning & Development specialist",
     "skills": "Storytelling, Online presenteren, Visuele slides ontwerpen, Interactie creëren tijdens online lessen, Gebruik van tools zoals Teams, breakoutrooms en Wooclap, Stem- en lichaamstechnieken voor online lesgeven, Online studio inrichten, Constructieve feedback geven en ontvangen",
@@ -1766,7 +2348,16 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen formele toelatingsvoorwaarden vermeld. Ervaring met online lesgeven of het begeleiden van online sessies is een plus.",
     "government_subsidy": "",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-04-24",
+        "date_end": "2026-05-08",
+        "hours": "10.00 - 12.00 u.",
+        "location_name": "Online via Teams",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "hoe-wordt-leren-schrijven-een-plezier-zo",
@@ -1774,7 +2365,7 @@
     "language": "nl",
     "price": "295.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs, Leerkracht lager onderwijs, Ergotherapeut, Kinesist",
     "skills": "Lateralisatie, Fijne motoriek, Schrijfmotoriek, Didactiek, Differentiatie",
@@ -1795,7 +2386,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-04",
+        "date_end": "2025-12-02",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "hoop-palliatieve-zorg",
@@ -1803,7 +2404,7 @@
     "language": "nl",
     "price": "130.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.navormingen@kdg.be",
     "job_title": "Verpleegkundige, Zorgkundige, Palliatief medewerker",
     "skills": "Communicatie, Begeleiding, Hoop en veerkracht, Casusbespreking, Reflectie",
@@ -1824,7 +2425,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-03-16",
+        "date_end": "2026-03-16",
+        "hours": "Van 12.30 u. tot 17.00 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "hr-people-business",
@@ -1853,7 +2464,16 @@
     "nacebel_sector": "70.22",
     "required_knowledge": "Bachelor- of masterdiploma vereist (gelijkwaardige HR-ervaring kan volstaan)",
     "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-05",
+        "date_end": "2026-06-25",
+        "hours": "Telkens op donderdag van 14 - 21 u. met 1 uur pauze tussendoor",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "inzicht-emoties-babys-peuters-online-training",
@@ -1861,7 +2481,7 @@
     "language": "nl",
     "price": "110.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.verbanck@kdg.be",
     "job_title": "Kinderbegeleider, Pedagogisch ondersteuner",
     "skills": "Emotionele ondersteuning, Observatie, Communicatie, Pedagogisch beleid",
@@ -1882,7 +2502,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-01",
+        "date_end": "2025-10-01",
+        "hours": "Op jouw eigen tempo",
+        "location_name": "Online",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "je-team-coachen-tools-en-technieken-voor-succes",
@@ -1890,7 +2519,7 @@
     "language": "nl",
     "price": "180.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.navormingen@kdg.be",
     "job_title": "Leidinggevende, Teamcoach, Schoolbegeleider",
     "skills": "Teamcoaching, Leiderschapsvaardigheden, Teamdynamiek, Binding en afstemming",
@@ -1911,7 +2540,17 @@
     "nacebel_sector": "85.42",
     "required_knowledge": "Ervaring in leidinggeven of coachen van schoolteams",
     "government_subsidy": "KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-15",
+        "date_end": "2025-11-15",
+        "hours": "Van 9 u. tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "kinderbegeleiders-in-onderwijs",
@@ -1919,7 +2558,7 @@
     "language": "nl",
     "price": "475.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Kinderbegeleider in het onderwijs of de kinderopvang",
     "skills": "Pedagogisch inzicht, Onderwijsdoelen, Educare, Taalontwikkeling, Klasmanagement",
@@ -1940,7 +2579,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-12-11",
+        "date_end": "2026-05-07",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "kwaliteitsvol-werken-de-opvang-samen-bouwen-aan-missie-en",
@@ -1948,7 +2597,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Leidinggevenden, coördinatoren, pedagogische coaches, kinderbegeleiders",
     "skills": "Visievorming, Beleidsontwikkeling, Teamreflectie, Kwaliteitsbeleid",
@@ -1969,7 +2618,16 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "5",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "kwaliteitsvolle-aanvangsbegeleiding-binnen-onderwijs",
@@ -1977,7 +2635,7 @@
     "language": "nl",
     "price": "295.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
     "job_title": "Aanvangsbegeleider, Mentor, Coördinator in het onderwijs",
     "skills": "Begeleiden van startende leerkrachten, Coaching, Organisatie van aanvangsbegeleiding, Evaluatie",
@@ -1998,7 +2656,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-20",
+        "date_end": "2026-01-15",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "leren-hechten-voor-verpleegkundigen",
@@ -2006,7 +2674,7 @@
     "language": "nl",
     "price": "120.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info@kdg.be",
     "job_title": "Verpleegkundige",
     "skills": "Hechtingstechnieken, Wondzorg, Hygiëneprotocollen, Communicatie",
@@ -2027,7 +2695,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Basiskennis van wondzorg en hygiëneprotocollen.",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-12-04",
+        "date_end": "2026-05-26",
+        "hours": "Van 13 tot 16.30 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "lerend-netwerk-avontuurlijk-vergroenen-de-kinderopvang",
@@ -2035,7 +2713,7 @@
     "language": "nl",
     "price": "350.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "Sarah.Vorsselmans@kdg.be",
     "job_title": "Kinderbegeleider, Pedagogisch coach, Coördinator kinderopvang",
     "skills": "Buitenruimte ontwerpen, Duurzaamheid, Pedagogische begeleiding, Natuurbeleving, Teamleren",
@@ -2056,7 +2734,17 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Ervaring in de kinderopvang of pedagogische begeleiding",
     "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-15",
+        "date_end": "2026-05-20",
+        "hours": "Van 9.30 tot 12.30 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "lgbtq-dood-of-levend",
@@ -2064,7 +2752,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
     "job_title": "Mensenrechtenactivist, Beleidsadviseur, Onderzoeker",
     "skills": "Mensrechten, LGBTQ+-rechten, Strafrecht, Sociale rechtvaardigheid, Dialoogfacilitatie",
@@ -2085,7 +2773,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-08",
+        "date_end": "2025-10-08",
+        "hours": "Van 18.30 tot 21.45 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "lio-lab-kleuter-en-lager-onderwijs",
@@ -2093,7 +2791,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.suykens@kdg.be",
     "job_title": "Leerkracht Kleuteronderwijs, Leerkracht Lager Onderwijs",
     "skills": "Klasmanagement, Didactiek, Pedagogisch beleid, Lesvoorbereiding, Evaluatie",
@@ -2114,7 +2812,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-08-25",
+        "date_end": "2026-02-23",
+        "hours": "Van 9 tot 16 u. Intervisiemomenten van 18.30 tot ten laatste 20.30 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "logistiek-en-voorraadbeheer",
@@ -2143,7 +2850,16 @@
     "nacebel_sector": "52",
     "required_knowledge": "Diploma secundair onderwijs of gelijkwaardige ervaring in logistiek is aanbevolen",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-01-31",
+        "hours": "dagopleiding (lesuren overdag)",
+        "location_name": "Campus Groenplaats",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000"
+      }
+    ]
   },
   {
     "internal_id": "marketingvideos-zelf-maken",
@@ -2172,7 +2888,16 @@
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen; basis computervaardigheden volstaan",
     "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-04-21",
+        "date_end": "2026-05-26",
+        "hours": "dinsdag 19:00-21:00 (online)",
+        "location_name": "Online",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "masterclass-duurzaam-ondernemen",
@@ -2180,7 +2905,7 @@
     "language": "nl",
     "price": "3150.00",
     "certificate_name": "Certificaat Duurzaam Ondernemen",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info@kdg.be",
     "job_title": "Duurzaamheidsmanager, CSR Manager, Sustainability Consultant",
     "skills": "Duurzaamheidsstrategie, Stakeholdermanagement, Duurzaamheidsrapportering, Materialiteitsanalyse, Systeemdenken, Verandermanagement",
@@ -2201,7 +2926,16 @@
     "nacebel_sector": "74.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-23",
+        "date_end": "2026-05-12",
+        "hours": "Van 16 tot 21 u.",
+        "location_name": "Campus Groenplaats, De Kwekerij Lier",
+        "location_address": "Brusselstraat 45, 2018 Antwerpen",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "masterclass-vroegtijdige-zorgplanning",
@@ -2209,7 +2943,7 @@
     "language": "nl",
     "price": "395.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Zorgprofessional, Verpleegkundige, Zorgkundige, Medewerker in de eerstelijnszorg of GGZ",
     "skills": "Vroegtijdige zorgplanning, Communicatie, Ethische besluitvorming, Cultuursensitieve zorg",
@@ -2230,7 +2964,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-03-19",
+        "date_end": "2026-05-21",
+        "hours": "Van 8.30 tot 16.30 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "meertalige-gezinnen-de-kinderopvang-zo-ondersteun-je-hun",
@@ -2238,7 +2982,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Taalstimulering, Meertaligheid, Pedagogisch beleid, Teamcoaching",
@@ -2259,7 +3003,16 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "18",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "menopauzeconsulent",
@@ -2288,7 +3041,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Diploma bachelor Verpleegkunde of Vroedkunde vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-30",
+        "date_end": "2026-06-30",
+        "hours": "Dinsdag (hele dag) – wekelijks",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "mentor-in-stage-en-aanvangsbegeleiding",
@@ -2317,7 +3079,16 @@
     "nacebel_sector": "85.60",
     "required_knowledge": "Lerarendiploma vereist; bij voorkeur enkele jaren leservaring",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-01",
+        "date_end": "2026-06-30",
+        "hours": "Woensdagavond (tweewekelijks)",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "mentor-klinisch-onderwijs",
@@ -2346,7 +3117,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Ervaring als verpleegkundige of vroedvrouw (afgestudeerd in verpleegkunde/vroedkunde) is vereist",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-16",
+        "date_end": "2026-03-19",
+        "hours": "5 donderdagen (ca. 09:00-16:00)",
+        "location_name": "Campus (locatie via AP Hogeschool)",
+        "location_address": "tbd",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "mentorenvorming-onderwijs-coachingsvaardigheden",
@@ -2354,7 +3134,7 @@
     "language": "nl",
     "price": "350.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Mentor, Schoolcoach",
     "skills": "Coaching, Feedback, Communicatie, Begeleiding, Mentorschap",
@@ -2375,7 +3155,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Ervaring in het onderwijs en werken als mentor of begeleider",
     "government_subsidy": "KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-23",
+        "date_end": "2026-04-23",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Koningin Fabiola",
+        "location_address": "Lange Nieuwstraat 101",
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "microdegrees-toegepaste-informatica",
@@ -2404,7 +3194,16 @@
     "nacebel_sector": "62.01",
     "required_knowledge": "Geen specifieke voorkennis vereist voor basis-micro-credentials; voor gevorderde modules is relevante IT-ervaring aanbevolen",
     "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet, Opleidingscheques",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "blended: 1-2u les + 8u zelfstudie per week",
+        "location_name": "Campus Groenplaats",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000"
+      }
+    ]
   },
   {
     "internal_id": "migratie-erfgoed-en-dementie-naar-cultuursensitieve",
@@ -2412,7 +3211,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.verbanck@kdg.be",
     "job_title": "Zorgprofessionals, Mantelzorgers, Beleidsmakers, Cultuur- en erfgoedprofessionals",
     "skills": "Cultuursensitieve zorg, Dementiezorg, Migratieachtergrond, Erfgoed, Beleidsontwikkeling",
@@ -2433,7 +3232,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-22",
+        "date_end": "2025-09-22",
+        "hours": "Van 13.00 tot 17.30 u.",
+        "location_name": "Red Star Line Museum",
+        "location_address": "Montevideostraat 3",
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "minder-zitten-en-meer-bewegen-de-klas",
@@ -2441,7 +3250,7 @@
     "language": "nl",
     "price": "135.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Zorgcoördinator, Begeleider in het onderwijs",
     "skills": "Bewegend leren, Motorische ontwikkeling, Didactiek, Differentiatie",
@@ -2462,7 +3271,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-03-17",
+        "date_end": "2026-03-17",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "morele-oordeelsvorming-de-praktijk",
@@ -2470,7 +3289,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "richard.anthone@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Morele oordeelsvorming, Ethische besluitvorming, Casusbespreking, Regelgeving en deontologie",
@@ -2491,7 +3310,16 @@
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "omgaan-met-culturele-diversiteit-pedagogie-basis",
@@ -2499,7 +3327,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Begeleider, Pedagoog, Hulpverlener",
     "skills": "Transculturele competenties, Interculturele communicatie, Reflectief handelen, Diversiteitsbewustzijn",
@@ -2520,7 +3348,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "omgaan-met-onmacht-als-hulpverlener",
@@ -2528,7 +3365,7 @@
     "language": "nl",
     "price": "70.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Hulpverlener, Jeugdzorgwerker, Orthopedagoog, Maatschappelijk werker",
     "skills": "Crisishantering, Reflectie, Positieve psychologie, Communicatie",
@@ -2549,7 +3386,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-26",
+        "date_end": "2026-05-04",
+        "hours": "Van 8.30 tot 16.30 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "omgaan-met-verontrusting-en-kindermishandeling",
@@ -2557,7 +3404,7 @@
     "language": "nl",
     "price": "280.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Hulpverlener, Jeugdzorgwerker, Orthopedagoog, Maatschappelijk werker",
     "skills": "Crisishantering, Reflectie, Positieve psychologie, Communicatie",
@@ -2578,7 +3425,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-28",
+        "date_end": "2026-05-08",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "oncologie",
@@ -2607,7 +3464,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Afgerond diploma Verpleegkunde (bachelor of HBO5) vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "Een vaste weekdag (nog te bepalen) – modules per semester",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "onderwijsbevoegdheid-rooms-katholieke-godsdienst",
@@ -2636,7 +3502,16 @@
     "nacebel_sector": "85.20",
     "required_knowledge": "Lerarendiploma (kleuter of lager) en rooms-katholiek doopsel vereist voor mandaat",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-01",
+        "date_end": "2026-04-01",
+        "hours": "7 avondlessen op woensdag (na 18u30, met zelfstudie)",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "ontgrendel-de-kracht-van-gesprekstechnieken",
@@ -2644,7 +3519,7 @@
     "language": "nl",
     "price": "225.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "katrien.hens@kdg.be",
     "job_title": "Leerkracht, Begeleider, Coach, Leidinggevende, HR-professional",
     "skills": "Actief luisteren, Empathie, Vraagtechnieken, Gespreksstructuur, Coaching",
@@ -2665,7 +3540,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-03-11",
+        "date_end": "2026-04-01",
+        "hours": "Van 9 tot 13 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "palliatieve-zorg",
@@ -2694,7 +3579,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (bachelor of graduaat) of gelijkaardige zorgopleiding vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-30",
+        "date_end": "2026-06-02",
+        "hours": "Dinsdag (van 8.30 tot 17.45 u.) – modules verspreid over academiejaar",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "parenting",
@@ -2702,7 +3596,7 @@
     "language": "nl",
     "price": "400.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Perinatale coach, Zorgprofessional in perinatale zorg",
     "skills": "Hechting, Ouderschap, Partnerrelatie, Draagkracht, Draaglast",
@@ -2723,7 +3617,16 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma in de Vroedkunde. Andere zorgprofessionals kunnen zich inschrijven na contact met Astrid Claerbout via info.vroedkunde@kdg.be, mits werkzaam in de gezondheidszorg en intensief in contact met (toekomstige) ouders.",
     "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-12-05",
+        "date_end": "2026-01-23",
+        "hours": "Telkens tussen 9.30 en 18 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "pedagogische-coaching-binnen-je-kinderopvang",
@@ -2731,7 +3634,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Pedagogisch coach, Begeleider in de kinderopvang",
     "skills": "Coaching, Pedagogisch beleid, Teamontwikkeling, Reflectie",
@@ -2752,7 +3655,16 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "48",
+        "location_name": "Op locatie in jouw opvanglocatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "pediatrie-en-neonatologie",
@@ -2781,7 +3693,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde vereist (ervaring in pediatrie/neonatologie aanbevolen)",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-23",
+        "date_end": "2026-06-09",
+        "hours": "Telkens op dinsdag (hele dag)",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "perinatale-coach",
@@ -2810,7 +3731,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Diploma bachelor Vroedkunde vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-03",
+        "date_end": "2026-06-30",
+        "hours": "Vrijdag (hele dag) – wekelijks",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "personal-trainer-en-gezondheidscoach",
@@ -2818,7 +3748,7 @@
     "language": "nl",
     "price": "1550.00",
     "certificate_name": "Micro-credential Personal trainer en gezondheidscoach",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "steven.decroos@kdg.be",
     "job_title": "Personal trainer, Gezondheidscoach, Lifestylecoach, Beweegcoach",
     "skills": "Coaching, Trainingsleer, Voedingsadvies, Gedragsverandering, Gezondheidsbevordering",
@@ -2839,7 +3769,17 @@
     "nacebel_sector": "93.13",
     "required_knowledge": "Bachelordiploma in een menswetenschappelijke, sport- of zorgopleiding of aantoonbare ervaring in coaching of sportbegeleiding",
     "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-22",
+        "date_end": "2026-06-30",
+        "hours": "Je hebt meestal les op donderdagnamiddag (4 uur), met af en toe een lesmoment in de voormiddag. Op vrijdag verwachten we je in de voormiddag (2 uur). Je loopt daarnaast ook 100 uren stage.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "pijnmanagement-op-pediatrie",
@@ -2847,7 +3787,7 @@
     "language": "nl",
     "price": "70.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Verpleegkundige, Kinderverzorgster",
     "skills": "Pijnmanagement, Communicatie, Afleidingstechnieken, Co-regulatie",
@@ -2868,7 +3808,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-14",
+        "date_end": "2026-01-13",
+        "hours": "Van 13 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "pipetteren-celtelling-en-celkweek",
@@ -2897,7 +3847,16 @@
     "nacebel_sector": "21.20",
     "required_knowledge": "Bachelor of graduaat in (bio)medische of chemische richting of werkervaring in laboratoriumomgeving",
     "government_subsidy": "Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-03-03",
+        "date_end": "2025-03-05",
+        "hours": "Van 9 tot 17 u.",
+        "location_name": "Campus Hoboken",
+        "location_address": "Salesianenlaan 90",
+        "location_zip": "2660"
+      }
+    ]
   },
   {
     "internal_id": "podcasting",
@@ -2926,7 +3885,16 @@
     "nacebel_sector": "59.20",
     "required_knowledge": "Geen voorkennis vereist",
     "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-04-15",
+        "date_end": "2026-05-20",
+        "hours": "woensdag 19:00-21:00 (online)",
+        "location_name": "Online",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "praktijkassistent-de-zorg",
@@ -2955,7 +3923,16 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Secundair diploma (ASO/TSO/KSO of zorgopleiding) of werkervaring in de zorg",
     "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-01",
+        "date_end": "2025-12-31",
+        "hours": "online, flexibel (zelfstudie met online begeleiding)",
+        "location_name": "Online",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "public-finance-management",
@@ -2984,7 +3961,16 @@
     "nacebel_sector": "84",
     "required_knowledge": "Bachelor- of masterdiploma (financieel/juridisch) vereist, of relevante ervaring in financiële/publieke sector",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-01-08",
+        "date_end": "2026-06-30",
+        "hours": "Dinsdag- en donderdagavond (18:00-21:30)",
+        "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000"
+      }
+    ]
   },
   {
     "internal_id": "quality-life-science-production",
@@ -2992,7 +3978,7 @@
     "language": "nl",
     "price": "1850.00",
     "certificate_name": "Micro-credential Quality in Life Science Production (5 ECTS)",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "farrah.daponte@kdg.be",
     "job_title": "Quality Control Technician, Laborant, QA Officer, Procesoperator",
     "skills": "Kwaliteitscontrole, GMP, Validatie, Monstername, Compliance, Dataintegriteit",
@@ -3013,7 +3999,17 @@
     "nacebel_sector": "21.20",
     "required_knowledge": "Basiskennis chemie, biotechnologie of laboratoriumtechnieken is aanbevolen",
     "government_subsidy": "KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-03-23",
+        "date_end": "2026-03-27",
+        "hours": "Je volgt 5 opeenvolgende dagen les overdag.",
+        "location_name": "ViTalent",
+        "location_address": "Wetenschapspark van de Universiteit Antwerpen, Galileilaan 15, 2845 Niel",
+        "location_zip": "2845",
+        "location_city": "Niel"
+      }
+    ]
   },
   {
     "internal_id": "radiotherapie",
@@ -3042,7 +4038,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-09-01",
+        "date_end": "2027-06-30",
+        "hours": "Afwisselend een hele dag les op dinsdag + donderdag en donderdag + zaterdag",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "reflecteren-op-je-contacten-met-ouders-de-kinderopvang-met",
@@ -3050,7 +4055,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Oudercontacten, Reflectie, Teamontwikkeling, Communicatie",
@@ -3071,7 +4076,16 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "2",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "relatiemanagement-voor-scholen",
@@ -3079,7 +4093,7 @@
     "language": "nl",
     "price": "550.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "heidi.lagast@kdg.be",
     "job_title": "Directeur, Beleidsondersteuner, Zorgcoördinator",
     "skills": "Strategische communicatie, Relatiemanagement, Digitale communicatie, Visieontwikkeling",
@@ -3100,7 +4114,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "3",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "rouw-en-verlies-perinatale-periode",
@@ -3108,7 +4131,7 @@
     "language": "nl",
     "price": "500.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Perinatale coach, Zorgprofessional in perinatale zorg",
     "skills": "Rouwverwerking, Verliesbegeleiding, Prenatale screening, Diagnostiek, Ongewenste zwangerschap, Kinderwensbegeleiding",
@@ -3129,7 +4152,16 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma in de Vroedkunde. Andere zorgprofessionals kunnen zich inschrijven na contact met Astrid Claerbout via info.vroedkunde@kdg.be, mits werkzaam in de gezondheidszorg en intensief in contact met (toekomstige) ouders.",
     "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-06",
+        "date_end": "2026-03-20",
+        "hours": "Tussen 8.30 - 18 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "ruimtelijk-bewustzijn-en-lateralisatie-versterken-om-vlot-te-leren-schrijven",
@@ -3137,7 +4169,7 @@
     "language": "nl",
     "price": "295.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs, Leerkracht lager onderwijs, Ergotherapeut, Kinesist",
     "skills": "Lateralisatie, Fijne motoriek, Schrijfmotoriek, Didactiek, Differentiatie",
@@ -3158,7 +4190,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-04",
+        "date_end": "2025-11-18",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "schoolleider-in-het-basisonderwijs",
@@ -3187,7 +4229,16 @@
     "nacebel_sector": "85.20",
     "required_knowledge": "Lerarendiploma (kleuter of lager) vereist; bij voorkeur reeds (adjunct-)directiefunctie",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "Maandagavond (tweewekelijks) + enkele zaterdagen (workshops)",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "schrijven-voor-web-en-social-media",
@@ -3216,7 +4267,16 @@
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen specifieke voorkennis nodig",
     "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-03",
+        "date_end": "2026-03-17",
+        "hours": "Telkens op dinsdagavond van 19 tot 21 u.",
+        "location_name": "Online",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "seksualiteit-het-peripartum",
@@ -3224,7 +4284,7 @@
     "language": "nl",
     "price": "90.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Vroedvrouw",
     "skills": "Gespreksvoering, Seksualiteit, Perinatale zorg, Empathie",
@@ -3245,7 +4305,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-04-04",
+        "date_end": "2025-04-04",
+        "hours": "Van 9 tot 17 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "seksuele-zorgen-voor-vroedvrouwen-verpleegkundigen",
@@ -3253,7 +4323,7 @@
     "language": "nl",
     "price": "50.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Verpleegkundige",
     "skills": "Gespreksvoering, Seksualiteit, Perinatale zorg, Empathie",
@@ -3274,7 +4344,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-03-12",
+        "date_end": "2026-03-12",
+        "hours": "Van 13 u. tot 16.30 u.",
+        "location_name": "Online via Microsoft Teams",
+        "location_address": "N/A",
+        "location_zip": "N/A",
+        "location_city": "Online"
+      }
+    ]
   },
   {
     "internal_id": "sherborne-bewegingspedagogiek-introductie",
@@ -3282,7 +4362,7 @@
     "language": "nl",
     "price": "50.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leraar, Pedagogisch medewerker, Therapeut",
     "skills": "Lichaamsbewustzijn, Zelfvertrouwen, Bewegingspedagogiek",
@@ -3303,7 +4383,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-03-04",
+        "date_end": "2026-04-29",
+        "hours": "Van 13.30 tot 16.30 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "spelenderwijs-leren-schrijven-met-motoriek-als-fundament",
@@ -3311,7 +4401,7 @@
     "language": "nl",
     "price": "135.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Zorgcoördinator, Begeleider in het onderwijs",
     "skills": "Buitenleren, Didactiek, Leerplandoelen, Veiligheid, Reflectie",
@@ -3332,7 +4422,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-03-13",
+        "date_end": "2025-03-13",
+        "hours": "Van 9 tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "starterspakket-on-tour",
@@ -3340,7 +4440,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
     "job_title": "Zij-instromer, Nieuwe leerkracht, Aanvangsbegeleider",
     "skills": "Lesontwerp, Evaluatie, Klasmanagement, Didactiek, Coaching",
@@ -3361,7 +4461,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "steinerpedagogie",
@@ -3390,7 +4499,16 @@
     "nacebel_sector": "85.60",
     "required_knowledge": "Lerarendiploma of pedagogisch diploma aanbevolen",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "Maandag en dinsdagavond + enkele zaterdagen (praktijk)",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "stem-onderwijs-tot-leven-brengen-met-lego-education",
@@ -3398,7 +4516,7 @@
     "language": "nl",
     "price": "135.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Leerkracht secundair onderwijs",
     "skills": "STEM-onderwijs, LEGO® Education, Samenwerkingsvaardigheden, Competentieontwikkeling, Didactiek",
@@ -3419,7 +4537,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-19",
+        "date_end": "2025-12-03",
+        "hours": "Van 9 tot 12 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "studiedag-seksualiteit",
@@ -3427,7 +4555,7 @@
     "language": "nl",
     "price": "120.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.navormingen@kdg.be",
     "job_title": "Verpleegkundige, Orthopedagoog, Sociaal werker, Zorgprofessional",
     "skills": "Gespreksvoering, Seksualiteit, Intimiteit, Cliëntbegeleiding, Reflectie",
@@ -3448,7 +4576,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-05-12",
+        "date_end": "2026-05-12",
+        "hours": "Van 9 tot 16.45 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "supervisie-discriminatiegerelateerde-vraagstukken-pedagogie",
@@ -3456,7 +4594,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info@kdg.be",
     "job_title": "Pedagoog, Begeleider, Ondersteuner",
     "skills": "Interculturele communicatie, Reflectief handelen, Conflictbeheersing, Diversiteit",
@@ -3477,7 +4615,16 @@
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "4",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "supply-chain-management-introductie",
@@ -3506,7 +4653,16 @@
     "nacebel_sector": "52",
     "required_knowledge": "Diploma secundair onderwijs of relevante werkervaring aanbevolen",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-01-31",
+        "hours": "dagopleiding (lesuren overdag)",
+        "location_name": "Campus Groenplaats",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000"
+      }
+    ]
   },
   {
     "internal_id": "sustainable-business-innovation",
@@ -3535,7 +4691,16 @@
     "nacebel_sector": "70.22",
     "required_knowledge": "Bachelor’s or master’s degree (or equivalent professional experience)",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-01-14",
+        "hours": "Voltijds gedurende een half jaar",
+        "location_name": "Campus Groenplaats",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000"
+      }
+    ]
   },
   {
     "internal_id": "tax-accountancy-management",
@@ -3564,7 +4729,16 @@
     "nacebel_sector": "69.20",
     "required_knowledge": "Bachelor Bedrijfsmanagement (Accountancy-Fiscaliteit), of graduaat Accountancy (2 jaar ervaring), of master (economisch/juridisch) vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-16",
+        "date_end": "2026-06-30",
+        "hours": "Dinsdag- en/of donderdagavond (gespreid over 2 jaar)",
+        "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000"
+      }
+    ]
   },
   {
     "internal_id": "toegepaste-gerontologie",
@@ -3593,7 +4767,16 @@
     "nacebel_sector": "88.10",
     "required_knowledge": "Bachelor- of masterdiploma (gezondheids- of welzijnszorg) vereist (voor andere sector is een voorbereidingsprogramma nodig)",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "Eén lesdag per week (dinsdag, 8u-18u)",
+        "location_name": "Afwisselend Arteveldehogeschool - Campus Kantienberg en KdG - Campus Zuid",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "transport-en-haven",
@@ -3622,7 +4805,16 @@
     "nacebel_sector": "52",
     "required_knowledge": "Diploma secundair onderwijs of relevante ervaring in logistiek aanbevolen",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-16",
+        "date_end": "2026-03-19",
+        "hours": "5 donderdagen (ca. 9 tot 16 u.)",
+        "location_name": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
+        "location_address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "ukelele-leren-spelen-als-kleuterleerkracht",
@@ -3630,7 +4822,7 @@
     "language": "nl",
     "price": "135.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs",
     "skills": "Muzische vorming, Ukelele spelen, Didactiek, Creatief gebruik van muziek",
@@ -3651,7 +4843,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen muzikale voorkennis vereist",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-11",
+        "date_end": "2026-03-11",
+        "hours": "Van 9 tot 12 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "urgentietraining-preeclampsie",
@@ -3659,7 +4861,7 @@
     "language": "nl",
     "price": "65.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Verloskundige, Zorgverlener in de perinatale zorg",
     "skills": "Pre-eclampsie, Eclampsie, Acute zorg, Communicatie, Teamwerk",
@@ -3680,7 +4882,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-24",
+        "date_end": "2026-02-24",
+        "hours": "Van 8.45 u. tot 12.30 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "urgentietraining-schouderdystocie-reanimatie-van-de-neonaat",
@@ -3688,7 +4900,7 @@
     "language": "nl",
     "price": "80.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Verloskundige, Zorgverlener in de perinatale zorg",
     "skills": "Schouderdystocie, Neonatale reanimatie, Acute zorg, Communicatie, Teamwerk",
@@ -3709,7 +4921,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-03-03",
+        "date_end": "2026-03-03",
+        "hours": "Van 8.45 tot 12.30 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "vaardigheidstraining-gezondheidszorg",
@@ -3717,7 +4939,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
     "job_title": "Verpleegkundige, Vroedvrouw, Zorgkundige",
     "skills": "Simulatie, CRM-principes, Verpleegtechnische vaardigheden, Teamwerk",
@@ -3738,7 +4960,16 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Campus Zuid, Antwerpen",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "van-kleuter-naar-lager",
@@ -3767,7 +4998,16 @@
     "nacebel_sector": "85.60",
     "required_knowledge": "Bachelor- of masterdiploma vereist; werkzaam in kleuter- of lager onderwijs (of gelijkaardige context)",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-01",
+        "date_end": "2027-01-30",
+        "hours": "1 dinsdag per maand les van 9 tot 16 u.",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "veranderingen-in-het-peripartum",
@@ -3775,7 +5015,7 @@
     "language": "nl",
     "price": "400.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Perinatale coach, Zorgprofessional in perinatale zorg",
     "skills": "Hechting, Ouderschap, Partnerrelatie, Draagkracht, Draaglast",
@@ -3796,7 +5036,16 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma in de Vroedkunde. Andere zorgprofessionals kunnen zich inschrijven na contact met Astrid Claerbout via info.vroedkunde@kdg.be, mits werkzaam in de gezondheidszorg en intensief in contact met (toekomstige) ouders.",
     "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-17",
+        "date_end": "2025-11-28",
+        "hours": "Telkens tussen 8.30 en 18 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "verdiep-je-in-je-rol-als-mentor-binnen-het-onderwijs",
@@ -3804,7 +5053,7 @@
     "language": "nl",
     "price": "199.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Mentor, Begeleider, Pedagogisch coach in het onderwijs",
     "skills": "Coaching, Gespreksvaardigheden, Feedback geven, Reflectie",
@@ -3825,7 +5074,16 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "Af te ronden binnen 1 academiejaar. Online intervisie maandag 9 februari van 18.30 tot 19.30 u.",
+        "location_name": "Online",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "verpleegkunde",
@@ -3854,7 +5112,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (of zorgkundige met kwalificatie) vereist",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2025-12-31",
+        "hours": "wekelijks 2u (avond of overdag afhankelijk van keuzevak)",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "verpleegkundig-leiderschap",
@@ -3862,7 +5129,7 @@
     "language": "nl",
     "price": "550.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Zorgprofessional, Verpleegkundige, Teamleider in de zorg",
     "skills": "Leiderschap, Feedback geven, Teamdynamiek, Competentieontwikkeling",
@@ -3883,7 +5150,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-07",
+        "date_end": "2025-12-16",
+        "hours": "Van 8.30 tot 13 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "verpleegkundige-in-de-huisartsenpraktijk",
@@ -3912,7 +5189,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde vereist",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2023-09-21",
+        "date_end": "2024-06-30",
+        "hours": "Donderdagavond + flexibele stage-uren",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "verwarmende-rouwpraat-bij-verlies-van-een-kind",
@@ -3920,7 +5206,7 @@
     "language": "nl",
     "price": "140.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Hulpverlener, Onderwijsprofessional, Zorgprofessional",
     "skills": "Rouwbegeleiding, Cultuursensitieve zorg, Communicatie, Ondersteuning van ouders en kinderen",
@@ -3941,7 +5227,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-27",
+        "date_end": "2025-10-28",
+        "hours": "Van 8.30 u. tot 18 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "vierdaagse-effectief-klasmanagement",
@@ -3949,7 +5245,7 @@
     "language": "nl",
     "price": "450.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Pedagogisch medewerker, Schoolcoach",
     "skills": "Klasmanagement, Structuur, Differentiatie, Feedback, Reflectie, Verbinding",
@@ -3970,7 +5266,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Ervaring in het onderwijs en werken in een klascontext",
     "government_subsidy": "KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-06",
+        "date_end": "2026-04-30",
+        "hours": "Van 9 - 16 u.",
+        "location_name": "Campus Koningin Fabiola",
+        "location_address": "Lange Nieuwstraat 101",
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "vierdaagse-effectief-klasmanagement-gelijkwaardigheid",
@@ -3978,7 +5284,7 @@
     "language": "nl",
     "price": "450.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Pedagogisch medewerker, Schoolcoach",
     "skills": "Klasmanagement, Gelijkwaardigheid, Feedback, Differentiatie, Reflectie, Teamcoaching",
@@ -3999,7 +5305,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Ervaring in het onderwijs en werken in een klascontext",
     "government_subsidy": "KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-05",
+        "date_end": "2026-02-05",
+        "hours": "Van 9 - 16 u.",
+        "location_name": "Campus Koningin Fabiola",
+        "location_address": "Lange Nieuwstraat 101",
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "vierdaagse-effectief-klasmanagement-herstelgericht-werken",
@@ -4007,7 +5323,7 @@
     "language": "nl",
     "price": "450.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Pedagogisch medewerker, Schoolcoach",
     "skills": "Klasmanagement, Herstelgericht werken, Conflictbemiddeling, Communicatie, Reflectie, Teamcoaching",
@@ -4028,7 +5344,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Ervaring in het onderwijs en werken in een klascontext",
     "government_subsidy": "KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-04-30",
+        "date_end": "2026-04-30",
+        "hours": "Van 9 - 16 u.",
+        "location_name": "Campus Koningin Fabiola",
+        "location_address": "Lange Nieuwstraat 101",
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "vierdaagse-effectief-klasmanagement-rust-door-duidelijke-routines",
@@ -4036,7 +5362,7 @@
     "language": "nl",
     "price": "450.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Pedagogisch medewerker, Schoolcoach",
     "skills": "Klasmanagement, Structuur, Routines, Feedback, Teamcoaching, Reflectie",
@@ -4057,7 +5383,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Ervaring in het onderwijs en werken in een klascontext",
     "government_subsidy": "KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-01-15",
+        "date_end": "2026-01-15",
+        "hours": "Van 9 - 16 u.",
+        "location_name": "Campus Koningin Fabiola",
+        "location_address": "Lange Nieuwstraat 101",
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "vierdaagse-effectief-klasmanagement-verbinding-als-sleutel",
@@ -4065,7 +5401,7 @@
     "language": "nl",
     "price": "450.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Pedagogisch medewerker, Schoolcoach",
     "skills": "Klasmanagement, Verbinding, Differentiatie, Feedback, Reflectie",
@@ -4086,7 +5422,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Ervaring in het onderwijs en werken in een klascontext",
     "government_subsidy": "KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-11-06",
+        "date_end": "2025-11-06",
+        "hours": "Van 9 - 16 u.",
+        "location_name": "Campus Koningin Fabiola",
+        "location_address": "Lange Nieuwstraat 101",
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "visie-laten-leven-kleuter-lager-onderwijs",
@@ -4094,7 +5440,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "heidi.lagast@kdg.be",
     "job_title": "Directeur, Beleidsondersteuner, Zorgcoördinator",
     "skills": "Visieontwikkeling, Teamcoaching, Waarderend onderzoek, Beleidsplanning",
@@ -4115,7 +5461,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "3",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "voorbereiden-op-de-zorginspectie-jouw-opvang",
@@ -4123,7 +5478,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Organisator, Verantwoordelijke, Leidinggevende, Pedagogisch coach, Begeleider in de kinderopvang",
     "skills": "Zorginspectie, Vergunningsvoorwaarden, Reflectie, Teamontwikkeling",
@@ -4144,7 +5499,16 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "2",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "vroedvrouw-eerste-lijn",
@@ -4152,7 +5516,7 @@
     "language": "nl",
     "price": "115.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw",
     "skills": "Mentale gezondheid, Seksualiteit, Wondzorg, Voeding, Juridische kennis",
@@ -4173,7 +5537,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-12",
+        "date_end": "2026-02-12",
+        "hours": "Van 9 tot 17 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "waarderend-veranderen-in-de-kinderopvang",
@@ -4181,7 +5555,7 @@
     "language": "nl",
     "price": "130.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Leidinggevende, Pedagogisch medewerker, Begeleider in de kinderopvang",
     "skills": "Waarderend veranderen, Appreciative Inquiry, Groepsdynamiek, Gespreksvoering, Veranderprocessen",
@@ -4202,7 +5576,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-12-01",
+        "date_end": "2026-02-12",
+        "hours": "Van 9 tot 16.30 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "warme-overdracht",
@@ -4210,7 +5594,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Doorverwijzen, Afscheid nemen, Informatieoverdracht, Krachtgericht werken, Reflectief handelen",
@@ -4231,7 +5615,16 @@
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "werken-aan-toegankelijkheid-de-kinderopvang",
@@ -4239,7 +5632,7 @@
     "language": "nl",
     "price": "350.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.verbanck@kdg.be",
     "job_title": "BOA-medewerker, Organisator, Verantwoordelijke, Leidinggevende, Pedagogisch coach in de buitenschoolse opvang",
     "skills": "Toegankelijkheidsbeleid, Beleidsontwikkeling, Samenwerking, Visieontwikkeling, Leiderschap",
@@ -4260,7 +5653,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-10-22",
+        "date_end": "2025-12-17",
+        "hours": "Van 9 tot 17 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "werken-met-weerstand-in-groepen-in-de-kinderopvang",
@@ -4268,7 +5670,7 @@
     "language": "nl",
     "price": "130.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Leidinggevende, Pedagogisch medewerker, Begeleider in de kinderopvang",
     "skills": "Groepsdynamiek, Weerstand herkennen, Spanningen bespreekbaar maken, Meerstemmigheid inzetten, Verander- en leerprocessen begeleiden",
@@ -4289,7 +5691,17 @@
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-12-15",
+        "date_end": "2026-03-19",
+        "hours": "Van 9 tot 16.30 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "wondzorg",
@@ -4318,7 +5730,16 @@
     "nacebel_sector": "86",
     "required_knowledge": "Afgerond diploma Verpleegkunde (bachelor, graduaat/HBO5 of gelijkwaardig)",
     "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, Kmo-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "les verspreid over het academiejaar",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "workshop-rouwpraat-hoe-communiceer-ik-met-ouders-die-hun",
@@ -4326,7 +5747,7 @@
     "language": "nl",
     "price": "70.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "natalie.vanranst@kdg.be",
     "job_title": "Verpleegkundigen, Vroedvrouwen, Zorgkundigen",
     "skills": "Gespreksvoering, Rouwbegeleiding, Casusbespreking, Rollenspel",
@@ -4347,7 +5768,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Deelnemers dienen de studiedag Rouwpraat: 'Hoe communiceer ik met ouders die hun kindje verliezen?' op 27 februari 2025 te hebben bijgewoond.",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-06-09",
+        "date_end": "2026-06-09",
+        "hours": "Van 13 u. tot 16.15 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "zelfcontrole-basisprincipe-nieuwe-autoriteit",
@@ -4355,7 +5786,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Begeleider, Pedagoog, Hulpverlener",
     "skills": "Zelfcontrole, Omgaan met uitdagend gedrag, Pedagogisch leiderschap, Reflectief handelen",
@@ -4376,7 +5807,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "zelfsturende-teams-en-andere-sprookjes",
@@ -4384,7 +5824,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "heidi.lagast@kdg.be",
     "job_title": "Directeur, Beleidsondersteuner, Zorgcoördinator",
     "skills": "Teamontwikkeling, Communicatie, Reflectie, Leiderschap",
@@ -4405,7 +5845,16 @@
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "3",
+        "location_name": "Op locatie in jouw school of scholengemeenschap",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "zorgkundigen-en-palliatieve-zorgen",
@@ -4413,7 +5862,7 @@
     "language": "nl",
     "price": "70.00",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info@kdg.be",
     "job_title": "Zorgkundige",
     "skills": "Palliatieve zorg, Communicatie, Symptoomcontrole, Zelfzorg",
@@ -4434,7 +5883,17 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-02-25",
+        "date_end": "2026-05-06",
+        "hours": "Van 9 tot 13.15 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "zorgverbreding-en-remediërend-leren",
@@ -4463,7 +5922,16 @@
     "nacebel_sector": "85.60",
     "required_knowledge": "Bachelor- of masterdiploma vereist, of reeds werkzaam in het onderwijs",
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "Maandag en woensdag overdag (voltijds) of woensdag namiddag/avond (deeltijds)",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018"
+      }
+    ]
   },
   {
     "internal_id": "zorgzaam-omgaan-met-uitdagend-gedrag-en-overprikkeling-de",
@@ -4471,7 +5939,7 @@
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
-    "course_image": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Prikkelverwerking, Gedragsobservatie, Stressmanagement, Groepsdynamica",
@@ -4492,6 +5960,15 @@
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "4",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   }
 ]
