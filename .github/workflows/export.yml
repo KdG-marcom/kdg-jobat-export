@@ -34,3 +34,6 @@ jobs:
             git commit -m "Update Jobat JSON"
             git push
           )
+
+permissions:
+  contents: write
