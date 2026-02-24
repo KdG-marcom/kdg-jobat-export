@@ -10,8 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - run: pip install -r requirements.txt
-      - run: python scripts/export_jobat.py
+
+      - name: Run export
+        env:
+          AIRTABLE_PAT: ${{ secrets.AIRTABLE_PAT }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+          AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME }}
+          AIRTABLE_VIEW_NAME: ${{ secrets.AIRTABLE_VIEW_NAME }}
+        run: python scripts/export_jobat.py
+
+      - name: Commit changes if any
+        run: |
+          git add data/jobat.json
+          git diff --cached --quiet || (
+            git config user.name "jobat-bot"
+            git config user.email "jobat-bot@users.noreply.github.com"
+            git commit -m "Update Jobat JSON"
+            git push
+          )
