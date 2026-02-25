@@ -31,6 +31,7 @@ jobs:
 
           AIRTABLE_VIEW_NAME_SMARTLIONS: ${{ secrets.AIRTABLE_VIEW_NAME_SMARTLIONS }}
           AIRTABLE_SESSIONS_VIEW_NAME_SMARTLIONS: ${{ secrets.AIRTABLE_SESSIONS_VIEW_NAME_SMARTLIONS }}
+        
         run: python scripts/export_smartlions.py
 
       - name: Commit changes if any
