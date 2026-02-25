@@ -1,1 +1,44 @@
+name: Export Smartlions JSON
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 5 * * *"  # dagelijks 05:23 (pas gerust aan)
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Run Smartlions export
+        env:
+          AIRTABLE_PAT: ${{ secrets.AIRTABLE_PAT }}
+          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
+          AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME }}
+          AIRTABLE_SESSIONS_TABLE_NAME: ${{ secrets.AIRTABLE_SESSIONS_TABLE_NAME }}
+          AIRTABLE_SESSIONS_COURSE_LINK_FIELD: ${{ secrets.AIRTABLE_SESSIONS_COURSE_LINK_FIELD }}
+
+          AIRTABLE_VIEW_NAME_SMARTLIONS: ${{ secrets.AIRTABLE_VIEW_NAME_SMARTLIONS }}
+          AIRTABLE_SESSIONS_VIEW_NAME_SMARTLIONS: ${{ secrets.AIRTABLE_SESSIONS_VIEW_NAME_SMARTLIONS }}
+        run: python scripts/export_smartlions.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "smartlions-bot"
+          git config user.email "smartlions-bot@users.noreply.github.com"
+          git add data/smartlions.json
+          git diff --cached --quiet || (
+            git commit -m "Update Smartlions JSON"
+            git push
+          )
