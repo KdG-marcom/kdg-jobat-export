@@ -3,15 +3,19 @@
     "internal_id": "afbeeldingen-maken-en-bewerken",
     "title": "Afbeeldingen maken en bewerken",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/afbeeldingen-maken-en-bewerken?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/afbeeldingen-maken-en-bewerken?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Marketing & Communicatie",
+    "domain_subcategory": "Digitale media",
+    "duration_length": 6,
+    "duration_type": "weeks",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Graphic content creator",
     "job_function_category": 701,
-    "esco_category_code": 2166,
+    "esco_category_code": "2166",
     "nacebel_sector": "73.11",
-    "price": "595",
+    "price": 595.0,
     "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
     "skills": "fotografie, beeldbewerking, grafisch ontwerp, visuele storytelling",
     "audience": "Iedereen die visuele content wil leren creëren en bewerken (geen voorkennis nodig)",
@@ -19,9 +23,9 @@
     "certificate_name": "",
     "email": "digitalbusiness@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Leer visuele content maken van A tot Z! Ontdek hoe je sterke foto’s maakt, bewerkt, en omzet in opvallende infographics en memes.</p><ul><li>Geen voorkennis nodig, volledig online en flexibel in te passen naast werk of andere verplichtingen.</li></ul>]]>",
-    "description_program": "<![CDATA[Deze micro-credential duurt 6 weken en combineert 2 uur online les per week met oefentijd. Je leert stap voor stap: foto’s en afbeeldingen creatief vastleggen, beeldbewerkingstools (zoals Photoshop/Canva) gebruiken, visuele content optimaliseren voor web en social media, en eigen infographics en memes ontwerpen. De cursus is praktijkgericht – je werkt aan opdrachten waarbij je beelden creëert en bewerkt volgens opgegeven criteria.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Iedereen kan instappen; er is geen diploma of grafische voorkennis vereist (enige computervaardigheid is voldoende).</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor opleidingscheques en de kmo-portefeuille.</p>]]>",
+    "description": "<p>Leer visuele content maken van A tot Z! Ontdek hoe je sterke foto’s maakt, bewerkt, en omzet in opvallende infographics en memes.</p><ul><li>Geen voorkennis nodig, volledig online en flexibel in te passen naast werk of andere verplichtingen.</li></ul>",
+    "description_program": "Deze micro-credential duurt 6 weken en combineert 2 uur online les per week met oefentijd. Je leert stap voor stap: foto’s en afbeeldingen creatief vastleggen, beeldbewerkingstools (zoals Photoshop/Canva) gebruiken, visuele content optimaliseren voor web en social media, en eigen infographics en memes ontwerpen. De cursus is praktijkgericht – je werkt aan opdrachten waarbij je beelden creëert en bewerkt volgens opgegeven criteria.",
+    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Iedereen kan instappen; er is geen diploma of grafische voorkennis vereist (enige computervaardigheid is voldoende).</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor opleidingscheques en de kmo-portefeuille.</p>",
     "location_and_date": [
       {
         "date_start": "2026-02-04",
@@ -29,24 +33,52 @@
         "hours": "Telkens op woensdagavond van 19 tot 21 u.",
         "location_name": "Online",
         "location_address": "",
-        "location_zip": ""
+        "location_zip": "",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "04/02/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "afbeeldingen-maken-en-bewerken-start-2026-02-04",
+        "locationName": "Online",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "18/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "afbeeldingen-maken-en-bewerken-end-2026-03-18",
+        "locationName": "Online",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "assistent-accountant",
     "title": "Assistent Accountant",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/assistent-accountant?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/assistent-accountant?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Bedrijf & Economie",
+    "domain_subcategory": "Accountancy",
+    "duration_length": 15,
+    "duration_type": "weeks",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Assistent accountant",
     "job_function_category": 882,
-    "esco_category_code": 3313,
+    "esco_category_code": "3313",
     "nacebel_sector": "69.20",
-    "price": "585",
+    "price": 585.0,
     "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet, Opleidingscheques, Kmo-portefeuille",
     "skills": "boekhouden, BTW-aangifte, fiscale basiskennis, boekhoudsoftware gebruiken",
     "audience": "Starters of werknemers in finance die snel inzetbaar willen zijn in een accountantskantoor of financiële afdeling",
@@ -54,9 +86,9 @@
     "certificate_name": "Getuigschrift Assistent Accountant",
     "email": "nausikaa.vandenbulcke@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<ul><li>Na 15 lesweken ben je assistent accountant.</li><li>Leer alle nodige kennis en skills om accountants bij te staan.</li><li>Krijg alle stappen in een boekhoudkundig dossier onder de knie.</li><li>Volg les bij succesvolle accountants die hun ervaring delen.</li><li>Combineer deze opleiding met je huidige job op een financiële afdeling of accountantskantoor.</li><li>Heb je nog geen job in de financiële sector? Na deze opleiding wel.</li><li>Doorloop een hele casus in het boekhoudprogramma van jouw keuze.</li><li>Verder studeren? De verworven studiepunten leveren vrijstellingen op in de bachelor Accountancy-Fiscaliteit.</li></ul>]]>",
-    "description_program": "<![CDATA[De micro-credential Assistent Accountant omvat 20 studiepunten in een recordtempo van 15 weken. Je hebt twee lesmomenten per week (dinsdag en donderdag van 16u tot 19u30). In een doorlopende praktijkcasus leer je: <ul><li>Algemeen boekhouden: inzicht in balans, resultatenrekening en boekhoudtechniek.</li><li>BTW: wetgeving en toepassing via casus.</li><li>Vennootschaps- en personenbelasting (specifieke topics): koppeling tussen boekhouding en fiscale verwerking.</li></ul> Je sluit af met een mondelinge proef en krijgt feedback op je volledige casus.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Je beschikt over een Vlaams diploma secundair onderwijs of een ander toelatingsbewijs en voldoet aan de taalvereiste.</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor Vlaams opleidingsverlof, Vlaams opleidingskrediet, opleidingscheques en de kmo-portefeuille.</p><p><strong>Na je studie:</strong> Je bent klaar voor een job als assistent-accountant of boekhoudkundig medewerker. Bovendien leveren je behaalde studiepunten vrijstellingen op in de bachelor Accountancy-Fiscaliteit aan KdG.</p>]]>",
+    "description": "<ul><li>Na 15 lesweken ben je assistent accountant.</li><li>Leer alle nodige kennis en skills om accountants bij te staan.</li><li>Krijg alle stappen in een boekhoudkundig dossier onder de knie.</li><li>Volg les bij succesvolle accountants die hun ervaring delen.</li><li>Combineer deze opleiding met je huidige job op een financiële afdeling of accountantskantoor.</li><li>Heb je nog geen job in de financiële sector? Na deze opleiding wel.</li><li>Doorloop een hele casus in het boekhoudprogramma van jouw keuze.</li><li>Verder studeren? De verworven studiepunten leveren vrijstellingen op in de bachelor Accountancy-Fiscaliteit.</li></ul>",
+    "description_program": "De micro-credential Assistent Accountant omvat 20 studiepunten in een recordtempo van 15 weken. Je hebt twee lesmomenten per week (dinsdag en donderdag van 16u tot 19u30). In een doorlopende praktijkcasus leer je: <ul><li>Algemeen boekhouden: inzicht in balans, resultatenrekening en boekhoudtechniek.</li><li>BTW: wetgeving en toepassing via casus.</li><li>Vennootschaps- en personenbelasting (specifieke topics): koppeling tussen boekhouding en fiscale verwerking.</li></ul> Je sluit af met een mondelinge proef en krijgt feedback op je volledige casus.",
+    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Je beschikt over een Vlaams diploma secundair onderwijs of een ander toelatingsbewijs en voldoet aan de taalvereiste.</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor Vlaams opleidingsverlof, Vlaams opleidingskrediet, opleidingscheques en de kmo-portefeuille.</p><p><strong>Na je studie:</strong> Je bent klaar voor een job als assistent-accountant of boekhoudkundig medewerker. Bovendien leveren je behaalde studiepunten vrijstellingen op in de bachelor Accountancy-Fiscaliteit aan KdG.</p>",
     "location_and_date": [
       {
         "date_start": "2025-11-18",
@@ -64,24 +96,52 @@
         "hours": "dinsdag & donderdag 16:00-19:30",
         "location_name": "Campus Groenplaats",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "02/04/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "assistent-accountant-end-2026-04-02",
+        "locationName": "Campus Groenplaats",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "16",
+        "endTime": "19"
+      },
+      {
+        "date": "18/11/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "assistent-accountant-start-2025-11-18",
+        "locationName": "Campus Groenplaats",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "16",
+        "endTime": "19"
+      }
+    ]
   },
   {
     "internal_id": "beleggen",
     "title": "Beleggen",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/beleggen?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/beleggen?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Financiën",
+    "domain_subcategory": "Beleggingen",
+    "duration_length": 24,
+    "duration_type": "weeks",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Beleggingsadviseur",
     "job_function_category": 880,
-    "esco_category_code": 2412,
+    "esco_category_code": "2412",
     "nacebel_sector": "66.19",
-    "price": "513.5",
+    "price": 513.5,
     "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, Kmo-portefeuille",
     "skills": "inzicht in financiële markten, risico-rendement analyse, portefeuillebeheer, adviesverlening",
     "audience": "Iedereen met interesse in beleggingen en financiën (kennis van basis wiskunde volstaat)",
@@ -89,9 +149,9 @@
     "certificate_name": "Attest micro-credential Beleggen",
     "email": "mc.beleggen@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<ul><li>Belegger of niet? Met deze micro-credential krijg je grondig inzicht in financiële markten en producten.</li><li>Je leert hoe je rendementen en risico’s van verschillende beleggingsvormen inschat.</li><li>Je volgt 24 weken les in avondonderwijs.</li><li>Je krijgt enthousiaste docenten met jarenlange ervaring in de financiële sector voor je.</li><li>Je kan deze opleiding gemakkelijk combineren met je werk of een studie bedrijfsmanagement.</li></ul>]]>",
-    "description_program": "<![CDATA[De micro-credential Beleggen omvat 4 modules, samen goed voor 15 studiepunten. De opleiding duurt 24 lesweken en heeft 4 examinemomenten. Wekelijks heb je les op dinsdagavond van 16u tot 19u, deels op de campus en deels via online kennisclips. De modules behandelen achtereenvolgens: Bank en Beurs, Fixed Income & Asset Management, Aandelenanalyse en Specialisatie (deze kan je desgewenst over 2 jaar spreiden). Je sluit elke module af met een examen en je rondt af met een geïntegreerde praktijkopdracht.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Voor wie?</strong> Iedereen die inzicht wil verwerven in beleggingen en financiële producten, zowel beginners als mensen met al enige ervaring. Er zijn geen specifieke toelatingsvoorwaarden.</p><p><strong>Na de opleiding:</strong> Kan je een officiële erkenning aanvragen bij de financiële toezichthouder; je bent dan klaar om aan de slag te gaan in de financiële sector, bijvoorbeeld als beleggingsadviseur. Met je behaalde studiepunten kan je bovendien vrijstellingen bekomen in de bachelor Financiën en Verzekeringen.</p>]]>",
+    "description": "<ul><li>Belegger of niet? Met deze micro-credential krijg je grondig inzicht in financiële markten en producten.</li><li>Je leert hoe je rendementen en risico’s van verschillende beleggingsvormen inschat.</li><li>Je volgt 24 weken les in avondonderwijs.</li><li>Je krijgt enthousiaste docenten met jarenlange ervaring in de financiële sector voor je.</li><li>Je kan deze opleiding gemakkelijk combineren met je werk of een studie bedrijfsmanagement.</li></ul>",
+    "description_program": "De micro-credential Beleggen omvat 4 modules, samen goed voor 15 studiepunten. De opleiding duurt 24 lesweken en heeft 4 examinemomenten. Wekelijks heb je les op dinsdagavond van 16u tot 19u, deels op de campus en deels via online kennisclips. De modules behandelen achtereenvolgens: Bank en Beurs, Fixed Income & Asset Management, Aandelenanalyse en Specialisatie (deze kan je desgewenst over 2 jaar spreiden). Je sluit elke module af met een examen en je rondt af met een geïntegreerde praktijkopdracht.",
+    "description_extrainfo": "<p><strong>Voor wie?</strong> Iedereen die inzicht wil verwerven in beleggingen en financiële producten, zowel beginners als mensen met al enige ervaring. Er zijn geen specifieke toelatingsvoorwaarden.</p><p><strong>Na de opleiding:</strong> Kan je een officiële erkenning aanvragen bij de financiële toezichthouder; je bent dan klaar om aan de slag te gaan in de financiële sector, bijvoorbeeld als beleggingsadviseur. Met je behaalde studiepunten kan je bovendien vrijstellingen bekomen in de bachelor Financiën en Verzekeringen.</p>",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -99,24 +159,52 @@
         "hours": "dinsdagavond 16:00-19:00 (deels online, deels campus)",
         "location_name": "Campus Groenplaats / online",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "15/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "beleggen-start-2025-09-15",
+        "locationName": "Campus Groenplaats / online",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "16",
+        "endTime": "19"
+      },
+      {
+        "date": "30/06/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "beleggen-end-2026-06-30",
+        "locationName": "Campus Groenplaats / online",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "16",
+        "endTime": "19"
+      }
+    ]
   },
   {
     "internal_id": "contentcreatie",
     "title": "Contentcreatie",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/contentcreatie?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/contentcreatie?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Marketing & Communicatie",
+    "domain_subcategory": "Digitale contentcreatie",
+    "duration_length": 6,
+    "duration_type": "weeks",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Content marketeer",
     "job_function_category": 701,
-    "esco_category_code": 2431,
+    "esco_category_code": "2431",
     "nacebel_sector": "73.11",
-    "price": "2380",
+    "price": 2380.0,
     "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
     "skills": "copywriting, visuele contentcreatie, videoproductie, podcasting",
     "audience": "Professionals die zelf content willen creëren (geen diploma vereist)",
@@ -124,9 +212,9 @@
     "certificate_name": "",
     "email": "digitalbusiness@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<ul><li>Ben je een creatieve denker met een passie voor online communicatie, copywriting, visuele content of podcasts? Deze opleiding is dan iets voor jou.</li><li>Ontdek onze 4 micro-credentials in contentcreatie en ontwikkel professionele vaardigheden:</li><ul><li>Schrijven voor web en social media</li><li>Afbeeldingen maken en bewerken</li><li>Marketingvideo’s zelf maken</li><li>Podcasting</li></ul><li>Elke opleiding is volledig online, zodat je kunt leren waar en wanneer het je uitkomt.</li><li>Flexibel te combineren met werk, gezin of andere verplichtingen.</li><li>Je hebt geen bachelor- of masterdiploma nodig om in te schrijven: iedereen kan deelnemen.</li></ul>]]>",
-    "description_program": "<![CDATA[De micro-credential Contentcreatie omvat een bundeling van vier modules, elk gericht op een aspect van digitale content. Je leert stap voor stap sterke webteksten schrijven, visuele content creëren, doeltreffende marketingvideo’s produceren en boeiende podcasts maken. Deze modules vormen samen een volledig programma waarmee je alle content-creatieskills ontwikkelt.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Doelgroep:</strong> Deze opleiding richt zich tot professionals uit het bedrijfsleven die hun eigen online content willen leren maken. Ook iedereen met interesse in digitale contentcreatie is welkom; er is geen diploma vereist voor inschrijving.</p><p><strong>Opmerking:</strong> Je kan de modules afzonderlijk of gebundeld volgen. Na het succesvol afronden van alle vier micro-credentials heb je een volledig pakket contentcreatie-skills in huis.</p>]]>",
+    "description": "<ul><li>Ben je een creatieve denker met een passie voor online communicatie, copywriting, visuele content of podcasts? Deze opleiding is dan iets voor jou.</li><li>Ontdek onze 4 micro-credentials in contentcreatie en ontwikkel professionele vaardigheden:</li><ul><li>Schrijven voor web en social media</li><li>Afbeeldingen maken en bewerken</li><li>Marketingvideo’s zelf maken</li><li>Podcasting</li></ul><li>Elke opleiding is volledig online, zodat je kunt leren waar en wanneer het je uitkomt.</li><li>Flexibel te combineren met werk, gezin of andere verplichtingen.</li><li>Je hebt geen bachelor- of masterdiploma nodig om in te schrijven: iedereen kan deelnemen.</li></ul>",
+    "description_program": "De micro-credential Contentcreatie omvat een bundeling van vier modules, elk gericht op een aspect van digitale content. Je leert stap voor stap sterke webteksten schrijven, visuele content creëren, doeltreffende marketingvideo’s produceren en boeiende podcasts maken. Deze modules vormen samen een volledig programma waarmee je alle content-creatieskills ontwikkelt.",
+    "description_extrainfo": "<p><strong>Doelgroep:</strong> Deze opleiding richt zich tot professionals uit het bedrijfsleven die hun eigen online content willen leren maken. Ook iedereen met interesse in digitale contentcreatie is welkom; er is geen diploma vereist voor inschrijving.</p><p><strong>Opmerking:</strong> Je kan de modules afzonderlijk of gebundeld volgen. Na het succesvol afronden van alle vier micro-credentials heb je een volledig pakket contentcreatie-skills in huis.</p>",
     "location_and_date": [
       {
         "date_start": "2026-02-03",
@@ -134,24 +222,115 @@
         "hours": "online avondopleiding (19:00-21:00)",
         "location_name": "Online",
         "location_address": "",
-        "location_zip": ""
+        "location_zip": "",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "03/02/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "contentcreatie-start-2026-02-03",
+        "locationName": "Online",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "19",
+        "endTime": "21"
+      },
+      {
+        "date": "26/05/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "contentcreatie-end-2026-05-26",
+        "locationName": "Online",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "19",
+        "endTime": "21"
+      }
+    ]
+  },
+  {
+    "internal_id": "databeheer",
+    "title": "Databeheer",
+    "language": "NL",
+    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/databeheer?utm_source=smartlions&utm_medium=affiliate",
+    "provider": "Karel de Grote Hogeschool",
+    "domain_category": "IT",
+    "domain_subcategory": "Databeheer",
+    "duration_length": 1,
+    "duration_type": "years",
+    "course_type": 1,
+    "degree_type": 5,
+    "job_title": "Data-analist, data steward, Excel-specialist",
+    "job_function_category": 820,
+    "esco_category_code": "2512",
+    "nacebel_sector": "62.01",
+    "price": 1605.0,
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "skills": "Data-analyse, automatisering, dashboarding, procesoptimalisatie, beslissingsondersteuning",
+    "audience": "Bedrijfsleven, Event professionals, Hoger onderwijs, Ondersteuningsnetwerk onderwijs, Sociale sector, Wetenschappers",
+    "required_knowledge": "Geen specifieke voorkennis vereist",
+    "certificate_name": "Getuigschrift postgraduaat Databeheer",
+    "email": "koen.heylen@kdg.be",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "description": "<p>Wil je data slimmer benutten, ongeacht je technische achtergrond? Het postgraduaat Databeheer leert je data analyseren, automatiseren en visualiseren. Neem betere beslissingen en werk efficiënter.</p>",
+    "description_program": "<ul><li>Praktijkgerichte opleiding in data-analyse en datatools voor niet-IT’ers én IT’ers.</li><li>Thema’s: data verzamelen en structureren, spreadsheet automatisatie (bv. met VBA of Python), dashboards bouwen (bv. met Power BI), procesautomatisering (RPA).</li><li>Je leert zonder diepe programmeerkennis toch slimme tools inzetten om repetitieve taken te automatiseren en inzichten te visualiseren.</li><li>Hands-on opdrachten: eigen data uit de werkomgeving gebruiken om relevante cases op te lossen.</li><li>Na afloop kan je als data steward of data analist in je organisatie optreden en verbeterprojecten trekken.</li></ul>",
+    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Geen specifieke vooropleiding vereist. Enige affiniteit met cijfers of ervaring met kantoorsoftware is nuttig maar niet verplicht.</p><p><strong>Extra info:</strong> Deze opleiding kan modulair gevolgd worden. De basismodules vereisen geen voorkennis; gevorderde modules raden relevante IT-ervaring aan. Recht op Vlaams opleidingsverlof (VOV).</p>",
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "Avondonderwijs (dagen variabel) – modulair per onderwerp",
+        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": ""
+      }
+    ],
+    "sessions": [
+      {
+        "date": "15/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "databeheer-start-2025-09-15",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "30/06/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "databeheer-end-2026-06-30",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "digital-business",
     "title": "Digital Business en Online Marketing",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/digital-business?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/digital-business?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Marketing en communicatie",
+    "domain_subcategory": "Digital Business en Online Marketing",
+    "duration_length": 0.5,
+    "duration_type": "years",
     "course_type": 4,
     "degree_type": 5,
     "job_title": "Digital marketeer, online marketing strateeg, digitaal business consultant",
     "job_function_category": 701,
-    "esco_category_code": 2421,
+    "esco_category_code": "2421",
     "nacebel_sector": "70.22",
-    "price": "2595",
+    "price": 2595.0,
     "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "skills": "Digitale strategie, online marketing, data-analyse, innovatie, ondernemerschap",
     "audience": "Bedrijfsleven",
@@ -159,9 +338,9 @@
     "certificate_name": "Getuigschrift postgraduaat Digital Business & Online Marketing",
     "email": "digitalbusiness@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Ga volledig digitaal met een duidelijke strategie. Maak digitale marketing eigen tijdens de opleiding Digital Business en schrijf een marketingplan of businessplan als eindwerk.</p>]]>",
-    "description_program": "<![CDATA[<ul><li>12 donderdagen (namiddag en avond) met praktijkgerichte sessies door top-experts.</li><li>Online les volgen is mogelijk.</li><li>Ondersteuning via KMO-portefeuille voor zelfstandigen.</li><li>8 uur persoonlijke coaching door topexperts tijdens het traject.</li><li>Na inschrijving krijg je toegang tot tools en templates (Buyer Persona Canvas, Customer Journey, Business Model Canvas) om je voor te bereiden.</li></ul>]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor- of masterdiploma. Heb je geen diploma maar wel aantoonbare relevante werkervaring? Dan kan je toelating krijgen via de toelatingscommissie (CV en motivatie indienen).</p><p><strong>Extra info:</strong> Dit postgraduaat komt in aanmerking voor Vlaams opleidingsverlof (VOV) en de KMO-portefeuille.</p>]]>",
+    "description": "<p>Ga volledig digitaal met een duidelijke strategie. Maak digitale marketing eigen tijdens de opleiding Digital Business en schrijf een marketingplan of businessplan als eindwerk.</p>",
+    "description_program": "<ul><li>12 donderdagen (namiddag en avond) met praktijkgerichte sessies door top-experts.</li><li>Online les volgen is mogelijk.</li><li>Ondersteuning via KMO-portefeuille voor zelfstandigen.</li><li>8 uur persoonlijke coaching door topexperts tijdens het traject.</li><li>Na inschrijving krijg je toegang tot tools en templates (Buyer Persona Canvas, Customer Journey, Business Model Canvas) om je voor te bereiden.</li></ul>",
+    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor- of masterdiploma. Heb je geen diploma maar wel aantoonbare relevante werkervaring? Dan kan je toelating krijgen via de toelatingscommissie (CV en motivatie indienen).</p><p><strong>Extra info:</strong> Dit postgraduaat komt in aanmerking voor Vlaams opleidingsverlof (VOV) en de KMO-portefeuille.</p>",
     "location_and_date": [
       {
         "date_start": "2025-09-01",
@@ -169,24 +348,52 @@
         "hours": "Op donderdag (wekelijks) van 14 u. tot 21 u. met 2 pauzes en warme maaltijd tussendoor",
         "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "01/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "digital-business-start-2025-09-01",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "31/01/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "digital-business-end-2026-01-31",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "e-mobility-laadpaalinfrastructuur-de-praktijk",
     "title": "E-Mobility: Laadpaalinfrastructuur in de praktijk",
-    "language": "nl",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/e-mobility-laadpaalinfrastructuur-de-praktijk?utm_source=jobat&utm_medium=affiliate",
+    "language": "NL",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/e-mobility-laadpaalinfrastructuur-de-praktijk?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Techniek & technologie",
+    "domain_subcategory": "E-Mobility en laadinfrastructuur",
+    "duration_length": 9,
+    "duration_type": "hours",
     "course_type": 1,
     "degree_type": 5,
     "job_title": "Technisch adviseur e-mobility, installateur laadpalen, laadinfra-technicus, EV-consultant",
     "job_function_category": 565,
-    "esco_category_code": 7411,
+    "esco_category_code": "7411",
     "nacebel_sector": "43210",
-    "price": "375",
+    "price": 375.0,
     "government_subsidy": "",
     "skills": "AC/DC-laadsystemen, analyse klantbehoefte, installatievereisten, datasheetinterpretatie, AREI-veiligheid, toegangscontrole, commerciële advisering",
     "audience": "Installateurs van laadpalen, technisch adviseurs, managers met verantwoordelijkheid over laadinfrastructuur, professionals in e-mobility",
@@ -194,9 +401,9 @@
     "certificate_name": "",
     "email": "gazi.akdag@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Deze navorming geeft een praktisch en technisch inzicht in AC- en DC-laadoplossingen voor elektrische voertuigen, inclusief interpretatie van datasheets, installatievereisten en commerciële aspecten om klanten professioneel te adviseren over laadoplossingen.</p>]]>",
-    "description_program": "<![CDATA[<p>Het traject omvat sessies over laadstandaarden, klantanalyse, AC- en DC-laders, installatievereisten conform AREI, types lastmanagement, datasheetinterpretatie, beveiliging en basiswerking van elektrische voertuigen.</p>]]>",
-    "description_extrainfo": "<![CDATA[<p>De navorming wordt gegeven over meerdere avonden; er wordt diepgaand technisch en commercieel ingegaan op laadinfrastructuur voor EV’s. Contactpersonen staan vermeld voor inhoudelijke of praktische vragen.</p>]]>",
+    "description": "<p>Deze navorming geeft een praktisch en technisch inzicht in AC- en DC-laadoplossingen voor elektrische voertuigen, inclusief interpretatie van datasheets, installatievereisten en commerciële aspecten om klanten professioneel te adviseren over laadoplossingen.</p>",
+    "description_program": "<p>Het traject omvat sessies over laadstandaarden, klantanalyse, AC- en DC-laders, installatievereisten conform AREI, types lastmanagement, datasheetinterpretatie, beveiliging en basiswerking van elektrische voertuigen.</p>",
+    "description_extrainfo": "<p>De navorming wordt gegeven over meerdere avonden; er wordt diepgaand technisch en commercieel ingegaan op laadinfrastructuur voor EV’s. Contactpersonen staan vermeld voor inhoudelijke of praktische vragen.</p>",
     "location_and_date": [
       {
         "date_start": "2026-03-05",
@@ -204,7 +411,8 @@
         "hours": "18:30 - 21:30",
         "location_name": "Campus Zuid",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": ""
       },
       {
         "date_start": "2026-03-12",
@@ -212,7 +420,8 @@
         "hours": "18:30 - 21:30",
         "location_name": "Campus Zuid",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": ""
       },
       {
         "date_start": "2026-03-19",
@@ -220,24 +429,96 @@
         "hours": "18:30 - 21:30",
         "location_name": "Campus Zuid",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "05/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-end-2026-03-05",
+        "locationName": "Campus Zuid",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "18",
+        "endTime": "21"
+      },
+      {
+        "date": "05/03/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-start-2026-03-05",
+        "locationName": "Campus Zuid",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "18",
+        "endTime": "21"
+      },
+      {
+        "date": "12/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-end-2026-03-12",
+        "locationName": "Campus Zuid",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "18",
+        "endTime": "21"
+      },
+      {
+        "date": "12/03/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-start-2026-03-12",
+        "locationName": "Campus Zuid",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "18",
+        "endTime": "21"
+      },
+      {
+        "date": "19/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-end-2026-03-19",
+        "locationName": "Campus Zuid",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "18",
+        "endTime": "21"
+      },
+      {
+        "date": "19/03/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-start-2026-03-19",
+        "locationName": "Campus Zuid",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "18",
+        "endTime": "21"
+      }
+    ]
   },
   {
     "internal_id": "elisa-en-qpcr",
     "title": "ELISA en qPCR",
-    "language": "en",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/elisa-en-qpcr?utm_source=jobat&utm_medium=affiliate",
+    "language": "EN",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/elisa-en-qpcr?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Wetenschap & Technologie",
+    "domain_subcategory": "Biotechnologie",
+    "duration_length": 6,
+    "duration_type": "days",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Biomedisch laborant (ATMP QA/QC)",
     "job_function_category": 504,
-    "esco_category_code": 3111,
+    "esco_category_code": "3111",
     "nacebel_sector": "21.20",
-    "price": "2300",
+    "price": 2300.0,
     "government_subsidy": "Kmo-portefeuille",
     "skills": "ELISA uitvoering & analyse, qPCR uitvoering & analyse, lab-kwaliteitszorg, data-interpretatie",
     "audience": "Werkenden of pas afgestudeerden in biomedische, farmaceutische, biotechnologische of chemische richtingen (geen ervaring met ELISA/qPCR vereist)",
@@ -245,9 +526,9 @@
     "certificate_name": "Certificate ELISA & qPCR",
     "email": "info.wet@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Learn the theoretical fundamentals of ELISA and qPCR. Develop practical skills in both techniques. Delve into DNA/RNA detection and quantification. Explore protein and antibody detection methods in this intensive lab-based micro-credential.</p>]]>",
-    "description_program": "<![CDATA[This module (part of the Advanced Therapies Training Program) is approximately 30 hours of intensive training over 6 days. It covers: principles of immunoassays (ELISA) and real-time PCR; hands-on practice designing and performing ELISA assays; executing qPCR experiments for gene expression and diagnostics; data analysis and troubleshooting for both methods. Practical lab experience is emphasized, with expert guidance and state-of-the-art equipment.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Target group:</strong> Professionals working in or graduates of biomedical, pharmaceutical, biotechnological or (bio)chemical fields who want to broaden their expertise towards cell- and gene-therapy analytics. No prior ELISA/qPCR experience required.</p><p><strong>Certificate:</strong> Upon completion, you receive a certificate of participation. This training is co-developed in an EU context (DARE-NL).</p>]]>",
+    "description": "<p>Learn the theoretical fundamentals of ELISA and qPCR. Develop practical skills in both techniques. Delve into DNA/RNA detection and quantification. Explore protein and antibody detection methods in this intensive lab-based micro-credential.</p>",
+    "description_program": "This module (part of the Advanced Therapies Training Program) is approximately 30 hours of intensive training over 6 days. It covers: principles of immunoassays (ELISA) and real-time PCR; hands-on practice designing and performing ELISA assays; executing qPCR experiments for gene expression and diagnostics; data analysis and troubleshooting for both methods. Practical lab experience is emphasized, with expert guidance and state-of-the-art equipment.",
+    "description_extrainfo": "<p><strong>Target group:</strong> Professionals working in or graduates of biomedical, pharmaceutical, biotechnological or (bio)chemical fields who want to broaden their expertise towards cell- and gene-therapy analytics. No prior ELISA/qPCR experience required.</p><p><strong>Certificate:</strong> Upon completion, you receive a certificate of participation. This training is co-developed in an EU context (DARE-NL).</p>",
     "location_and_date": [
       {
         "date_start": "2025-06-02",
@@ -255,24 +536,52 @@
         "hours": "Van 9 tot 17 u.",
         "location_name": "Campus Hoboken",
         "location_address": "Salesianenlaan 90",
-        "location_zip": "2660"
+        "location_zip": "2660",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "02/06/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "elisa-en-qpcr-start-2025-06-02",
+        "locationName": "Campus Hoboken",
+        "address": "Salesianenlaan 90",
+        "zipCode": "2660",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "09/06/2025",
+        "sessionDescription": "Einddatum",
+        "sessionId": "elisa-en-qpcr-end-2025-06-09",
+        "locationName": "Campus Hoboken",
+        "address": "Salesianenlaan 90",
+        "zipCode": "2660",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "finance-essentials-voor-ondernemers-en-professionals",
     "title": "Finance essentials voor ondernemers en professionals",
-    "language": "nl",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/finance-essentials-voor-ondernemers-en-professionals?utm_source=jobat&utm_medium=affiliate",
+    "language": "NL",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/finance-essentials-voor-ondernemers-en-professionals?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Business & Management",
+    "domain_subcategory": "Financiën & bedrijfsvoering",
+    "duration_length": 2,
+    "duration_type": "day",
     "course_type": 1,
     "degree_type": 5,
     "job_title": "Ondernemer, Financieel medewerker, Accountant, Boekhouder, Business analist, Teamlead, Operationeel manager",
     "job_function_category": 882,
-    "esco_category_code": 2411,
+    "esco_category_code": "2411",
     "nacebel_sector": "70.22",
-    "price": "300",
+    "price": 300.0,
     "government_subsidy": "KMO-portefeuille",
     "skills": "Balansanalyse, Resultatenrekening interpreteren, Cashflowanalyse, Financiële ratio’s begrijpen, Financieel evenwicht beoordelen, Jaarrekening lezen, Praktische financiële analyse, Beslissingsondersteuning",
     "audience": "Ondernemers, managers en professionals die werken met financiële rapporten, budgetten of financiële beslissingen, maar geen formele financiële opleiding hebben gevolgd. De vorming is geschikt voor profit-, non-profit- en publieke sector.",
@@ -280,9 +589,9 @@
     "certificate_name": "Attest van deelname",
     "email": "petra.depesseroey@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>In dit praktijkgericht bijscholingstraject krijg je een heldere en toepasbare introductie in financiële kernbegrippen zoals balansanalyse, cashflow, ratio’s en financiering. Je leert financiële informatie beter interpreteren en vertalen naar jouw werkcontext, zodat je sterker staat bij beslissingen en rapportages.</p>]]>",
-    "description_program": "<![CDATA[<p>In twee interactieve sessies werk je met echte cases en praktijkvoorbeelden. Je leert financiële termen niet alleen begrijpen, maar vooral gebruiken in jouw professionele realiteit.</p><p><strong>Inzicht in de jaarrekening (sessie 1)</strong></p><ul><li>Opbouw van de balans en resultatenrekening</li><li>Nettobedrijfskapitaal en kasstromen</li><li>Oefeningen en gevalstudies</li></ul><p><strong>Inzicht in het financieel evenwicht (sessie 2)</strong></p><ul><li>Financiële ratio’s</li><li>Cashflow en financiële gezondheid</li><li>Oefeningen en praktijkcases</li></ul>]]>",
-    "description_extrainfo": "<![CDATA[<p>Dit traject is volledig praktijkgericht en biedt ruimte voor jouw eigen cases. Je leert financiële inzichten meteen toepassen op situaties uit je organisatie.</p><p>Deelnemers komen uit uiteenlopende sectoren (profit, non-profit en overheid), maar delen dezelfde nood: financiële informatie juist interpreteren en gebruiken voor betere beslissingen.</p><p><strong>KMO-portefeuille mogelijk.</strong><br>KdG Academy is vergund door FSMA als erkend opleidingsorganisator.</p><p>Voor maatwerk kan dit traject afgestemd worden op jouw organisatie. Contact: <a href=\"mailto:peter.mistiaen@kdg.be\">peter.mistiaen@kdg.be</a>.</p>]]>",
+    "description": "<p>In dit praktijkgericht bijscholingstraject krijg je een heldere en toepasbare introductie in financiële kernbegrippen zoals balansanalyse, cashflow, ratio’s en financiering. Je leert financiële informatie beter interpreteren en vertalen naar jouw werkcontext, zodat je sterker staat bij beslissingen en rapportages.</p>",
+    "description_program": "<p>In twee interactieve sessies werk je met echte cases en praktijkvoorbeelden. Je leert financiële termen niet alleen begrijpen, maar vooral gebruiken in jouw professionele realiteit.</p><p><strong>Inzicht in de jaarrekening (sessie 1)</strong></p><ul><li>Opbouw van de balans en resultatenrekening</li><li>Nettobedrijfskapitaal en kasstromen</li><li>Oefeningen en gevalstudies</li></ul><p><strong>Inzicht in het financieel evenwicht (sessie 2)</strong></p><ul><li>Financiële ratio’s</li><li>Cashflow en financiële gezondheid</li><li>Oefeningen en praktijkcases</li></ul>",
+    "description_extrainfo": "<p>Dit traject is volledig praktijkgericht en biedt ruimte voor jouw eigen cases. Je leert financiële inzichten meteen toepassen op situaties uit je organisatie.</p><p>Deelnemers komen uit uiteenlopende sectoren (profit, non-profit en overheid), maar delen dezelfde nood: financiële informatie juist interpreteren en gebruiken voor betere beslissingen.</p><p><strong>KMO-portefeuille mogelijk.</strong><br>KdG Academy is vergund door FSMA als erkend opleidingsorganisator.</p><p>Voor maatwerk kan dit traject afgestemd worden op jouw organisatie. Contact: <a href=\"mailto:peter.mistiaen@kdg.be\">peter.mistiaen@kdg.be</a>.</p>",
     "location_and_date": [
       {
         "date_start": "2026-03-10",
@@ -290,24 +599,52 @@
         "hours": "13.30 - 16.30 u.",
         "location_name": "KdG Campus Zuid",
         "location_address": "Brusselstraat 45, 2018 Antwerpen",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "10/03/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "finance-essentials-voor-ondernemers-en-professionals-start-2026-03-10",
+        "locationName": "KdG Campus Zuid",
+        "address": "Brusselstraat 45, 2018 Antwerpen",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "17/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "finance-essentials-voor-ondernemers-en-professionals-end-2026-03-17",
+        "locationName": "KdG Campus Zuid",
+        "address": "Brusselstraat 45, 2018 Antwerpen",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "flowcytometrie",
     "title": "Flowcytometrie",
-    "language": "en",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/flowcytometrie?utm_source=jobat&utm_medium=affiliate",
+    "language": "EN",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/flowcytometrie?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Wetenschap & Technologie",
+    "domain_subcategory": "Biotechnologie",
+    "duration_length": 3,
+    "duration_type": "days",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "ATMP-flowcytometrie operator",
     "job_function_category": 504,
-    "esco_category_code": 3111,
+    "esco_category_code": "3111",
     "nacebel_sector": "21.20",
-    "price": "1400",
+    "price": 1400.0,
     "government_subsidy": "Kmo-portefeuille",
     "skills": "flowcytometrie uitvoering, multicolor panel design, data-analyse, kwaliteitscontrole",
     "audience": "Professionals in biomedische, farmaceutische of biotechnologische sector of nieuwe bachelor grads in labtechnologie die flowcytometrie willen leren",
@@ -315,9 +652,9 @@
     "certificate_name": "Certificate Flowcytometrie",
     "email": "info.wet@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Learn the theoretical principles of flow cytometry, work with panel design and take your first steps in flow cytometry data analysis. Immediately apply theory to practice in the lab.</p>]]>",
-    "description_program": "<![CDATA[This 3-day intensive course covers multicolor flow cytometry from theory to practice. Day 1: theory sessions on best practices, sample preparation and data analysis; practical lab on panel design. Day 2: practical lab on executing a multicolor panel and troubleshooting. Day 3: wrap-up and evaluation with data analysis and interpretation. The course is hands-on and broadens your knowledge beyond on-the-job training, combining theory with full lab workflow experience.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Target group:</strong> Future operators in production and quality control of Advanced Therapy Medicinal Products (ATMP). You are either working in the biomedical/pharma/biotech/(bio)chemical sector and want to expand your expertise to cell & gene therapies, or you are a recent grad (professional or academic bachelor) in biomedical lab tech, pharma tech or (bio)chemistry. No prior flow cytometry knowledge is required.</p><p><strong>Subsidies:</strong> Kmo-portefeuille (not subject to VAT).</p>]]>",
+    "description": "<p>Learn the theoretical principles of flow cytometry, work with panel design and take your first steps in flow cytometry data analysis. Immediately apply theory to practice in the lab.</p>",
+    "description_program": "This 3-day intensive course covers multicolor flow cytometry from theory to practice. Day 1: theory sessions on best practices, sample preparation and data analysis; practical lab on panel design. Day 2: practical lab on executing a multicolor panel and troubleshooting. Day 3: wrap-up and evaluation with data analysis and interpretation. The course is hands-on and broadens your knowledge beyond on-the-job training, combining theory with full lab workflow experience.",
+    "description_extrainfo": "<p><strong>Target group:</strong> Future operators in production and quality control of Advanced Therapy Medicinal Products (ATMP). You are either working in the biomedical/pharma/biotech/(bio)chemical sector and want to expand your expertise to cell & gene therapies, or you are a recent grad (professional or academic bachelor) in biomedical lab tech, pharma tech or (bio)chemistry. No prior flow cytometry knowledge is required.</p><p><strong>Subsidies:</strong> Kmo-portefeuille (not subject to VAT).</p>",
     "location_and_date": [
       {
         "date_start": "2025-09-16",
@@ -325,24 +662,52 @@
         "hours": "Van 9 tot 17 u.",
         "location_name": "Campus Hoboken",
         "location_address": "Salesianenlaan 90",
-        "location_zip": "2660"
+        "location_zip": "2660",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "16/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "flowcytometrie-start-2025-09-16",
+        "locationName": "Campus Hoboken",
+        "address": "Salesianenlaan 90",
+        "zipCode": "2660",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "18/09/2025",
+        "sessionDescription": "Einddatum",
+        "sessionId": "flowcytometrie-end-2025-09-18",
+        "locationName": "Campus Hoboken",
+        "address": "Salesianenlaan 90",
+        "zipCode": "2660",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "gecertificeerd-tax-accountant",
     "title": "Gecertificeerd Tax Accountant",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/gecertificeerd-tax-accountant?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/gecertificeerd-tax-accountant?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Bedrijf & Economie",
+    "domain_subcategory": "Gecertificeerd Tax Accountant",
+    "duration_length": 3,
+    "duration_type": "years",
     "course_type": 1,
     "degree_type": 5,
     "job_title": "Gecertificeerd accountant (ITAA), senior dossierbeheerder, vennoot-accountant",
     "job_function_category": 882,
-    "esco_category_code": 3313,
+    "esco_category_code": "3313",
     "nacebel_sector": "69.20",
-    "price": "2590",
+    "price": 2590.0,
     "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "skills": "Fiscaliteit, accountancy op expertniveau, leidinggeven, strategisch financieel inzicht, wettelijke conformiteit",
     "audience": "Bedrijfsleven",
@@ -350,9 +715,9 @@
     "certificate_name": "Getuigschrift postgraduaat Gecertificeerd Tax Accountant",
     "email": "nausikaa.vandenbulcke@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Je kennis van tax en/of accountancy upgraden? De beroepstitel van gecertificeerd accountant behalen? Topexperts in fiscaliteit, financiën en accountancy komen je inspireren zodat jij kan specialiseren.</p>]]>",
-    "description_program": "<![CDATA[<ul><li>Voorbereidingstraject om de ITAA-beroepstitel van gecertificeerd Tax Accountant te behalen.</li><li>Docenten uit de fiscale en financiële wereld bieden top-level expertise en casuïstiek.</li><li>Vrijstellingen voor tussentijdse proeven en het schriftelijk bekwaamheidsexamen van het ITAA via credits uit dit postgraduaat.</li><li>Ook geschikt als permanente vorming: aanwezigheid bij de lessen (op campus of via livestream) telt mee als permanente educatie (ITAA).</li><li>Focus op leidinggeven: je leert een team dossierbeheerders aansturen en een accountantskantoor runnen als senior partner.</li></ul>]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor Bedrijfsmanagement met afstudeerrichting Accountancy-Fiscaliteit (waardoor je gedeeltelijke vrijstellingen hebt voor de ITAA-toelatingsexamens), of een master in een economische of juridische richting (eveneens met vrijstellingen). Kandidaten met een ander bachelor- of masterdiploma én minstens 7 jaar ervaring als tax accountant kunnen ook toegelaten worden.</p><p><strong>Extra info:</strong> Deze opleiding loopt over drie academiejaren. Vrijstellingen voor delen van het ITAA-traject zijn mogelijk op basis van je vooropleiding. Recht op Vlaams opleidingsverlof (VOV) en inzetbaar via de KMO-portefeuille.</p>]]>",
+    "description": "<p>Je kennis van tax en/of accountancy upgraden? De beroepstitel van gecertificeerd accountant behalen? Topexperts in fiscaliteit, financiën en accountancy komen je inspireren zodat jij kan specialiseren.</p>",
+    "description_program": "<ul><li>Voorbereidingstraject om de ITAA-beroepstitel van gecertificeerd Tax Accountant te behalen.</li><li>Docenten uit de fiscale en financiële wereld bieden top-level expertise en casuïstiek.</li><li>Vrijstellingen voor tussentijdse proeven en het schriftelijk bekwaamheidsexamen van het ITAA via credits uit dit postgraduaat.</li><li>Ook geschikt als permanente vorming: aanwezigheid bij de lessen (op campus of via livestream) telt mee als permanente educatie (ITAA).</li><li>Focus op leidinggeven: je leert een team dossierbeheerders aansturen en een accountantskantoor runnen als senior partner.</li></ul>",
+    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor Bedrijfsmanagement met afstudeerrichting Accountancy-Fiscaliteit (waardoor je gedeeltelijke vrijstellingen hebt voor de ITAA-toelatingsexamens), of een master in een economische of juridische richting (eveneens met vrijstellingen). Kandidaten met een ander bachelor- of masterdiploma én minstens 7 jaar ervaring als tax accountant kunnen ook toegelaten worden.</p><p><strong>Extra info:</strong> Deze opleiding loopt over drie academiejaren. Vrijstellingen voor delen van het ITAA-traject zijn mogelijk op basis van je vooropleiding. Recht op Vlaams opleidingsverlof (VOV) en inzetbaar via de KMO-portefeuille.</p>",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -360,24 +725,52 @@
         "hours": "Dinsdagavond (lesjaar 1 en 2), gecombineerd met vrijstellingsproeven (lesjaar 3)",
         "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "15/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "gecertificeerd-tax-accountant-start-2025-09-15",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "30/06/2027",
+        "sessionDescription": "Einddatum",
+        "sessionId": "gecertificeerd-tax-accountant-end-2027-06-30",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "hr-people-business",
     "title": "HR – People & Business",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/hr-people-business?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/hr-people-business?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "HR en personeelswerk",
+    "domain_subcategory": "HR – People & Business",
+    "duration_length": 0.5,
+    "duration_type": "years",
     "course_type": 1,
     "degree_type": 5,
     "job_title": "HR-manager, HR-business partner, HR-consultant",
     "job_function_category": 780,
-    "esco_category_code": 2421,
+    "esco_category_code": "2421",
     "nacebel_sector": "70.22",
-    "price": "3495",
+    "price": 3495.0,
     "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
     "skills": "HR-strategie, change management, coaching, communicatie, analytics",
     "audience": "Bedrijfsleven",
@@ -385,9 +778,9 @@
     "certificate_name": "Getuigschrift postgraduaat Human Resources – People & Business",
     "email": "bieke.janssens@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>In deze opleiding worden alle HR-componenten voor een strategisch HR-beleid aangereikt. Naast sessies door expert-docenten is er ruimte voor inspirerende interactie met je medestudenten.</p>]]>",
-    "description_program": "<![CDATA[<ul><li>24 sessies gespreid over 4 maanden (februari tot juni).</li><li>Les op donderdagnamiddag en -avond, combineerbaar met werk.</li><li>Docenten zijn HR-experts uit de praktijk.</li><li>Interactieve uitwisseling van ervaringen met medecursisten.</li><li>Inclusief 8 uur persoonlijke coaching voor je HR business case.</li><li>Getuigschrift postgraduaat HR – People & Business (20 studiepunten) bij afronding.</li></ul>]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor- of masterdiploma. Heb je geen diploma, maar wel aantoonbare werkervaring in HR (minstens één HR-component)? Dan kan de toelatingscommissie je toelaten op basis van CV en motivatie.</p><p><strong>Extra info:</strong> Deze opleiding is erkend voor Vlaams opleidingsverlof (VOV), opleidingscheques en de KMO-portefeuille.</p>]]>",
+    "description": "<p>In deze opleiding worden alle HR-componenten voor een strategisch HR-beleid aangereikt. Naast sessies door expert-docenten is er ruimte voor inspirerende interactie met je medestudenten.</p>",
+    "description_program": "<ul><li>24 sessies gespreid over 4 maanden (februari tot juni).</li><li>Les op donderdagnamiddag en -avond, combineerbaar met werk.</li><li>Docenten zijn HR-experts uit de praktijk.</li><li>Interactieve uitwisseling van ervaringen met medecursisten.</li><li>Inclusief 8 uur persoonlijke coaching voor je HR business case.</li><li>Getuigschrift postgraduaat HR – People & Business (20 studiepunten) bij afronding.</li></ul>",
+    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor- of masterdiploma. Heb je geen diploma, maar wel aantoonbare werkervaring in HR (minstens één HR-component)? Dan kan de toelatingscommissie je toelaten op basis van CV en motivatie.</p><p><strong>Extra info:</strong> Deze opleiding is erkend voor Vlaams opleidingsverlof (VOV), opleidingscheques en de KMO-portefeuille.</p>",
     "location_and_date": [
       {
         "date_start": "2026-02-05",
@@ -395,24 +788,52 @@
         "hours": "Telkens op donderdag van 14 - 21 u. met 1 uur pauze tussendoor",
         "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "05/02/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "hr-people-business-start-2026-02-05",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "25/06/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "hr-people-business-end-2026-06-25",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "logistiek-en-voorraadbeheer",
     "title": "Logistiek en Voorraadbeheer",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/logistiek-en-voorraadbeheer?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/logistiek-en-voorraadbeheer?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Logistiek",
+    "domain_subcategory": "Voorraadbeheer",
+    "duration_length": 6,
+    "duration_type": "maanden",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Magazijnbeheerder",
     "job_function_category": 643,
-    "esco_category_code": 4321,
+    "esco_category_code": "4321",
     "nacebel_sector": "52",
-    "price": "495.6",
+    "price": 495.6,
     "government_subsidy": "Vlaams opleidingsverlof",
     "skills": "voorraadbeheer, magazijnorganisatie, logistieke planning, supply chain inzicht",
     "audience": "Professionals of instromers met interesse in logistiek en stockmanagement",
@@ -420,9 +841,9 @@
     "certificate_name": "Getuigschrift Micro-credential Logistiek & Voorraadbeheer",
     "email": "jesse.mortelmans@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Interesse in logistiek en voorraadbeheer? Goesting om een praktijkgerichte opleiding te volgen die je in 1 jaar klaarstoomt om te werken in deze essentiële sector? Dan past deze micro-credential bij jou. Het is een hapklare module (ca. 20 studiepunten) binnen Supply Chain Management, specifiek gericht op voorraadbeheer en logistieke processen.</p>]]>",
-    "description_program": "<![CDATA[Je volgt les samen met de bachelorstudenten Supply Chain Management, met nadruk op magazijnbeheer, voorraadoptimalisatie en aankooplogistiek. Thema’s zijn o.a. stockmanagement, warehousing & distributie, en supply chain optimalisatie. Via praktijkoefeningen leer je voorraadsystemen en -indicatoren gebruiken om de efficiëntie te verhogen. Na deze module beheers je de kernprincipes van logistiek en voorraadbeheer.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Doelgroep:</strong> Iedereen die zich wil specialiseren in voorraadbeheer en logistiek, bijvoorbeeld medewerkers uit de bedrijfswereld of schoolverlaters met interesse in supply chain.</p><p><strong>Subsidies:</strong> Deze opleiding geeft recht op Vlaams opleidingsverlof.</p><p><strong>Na de opleiding:</strong> Je bent voorbereid op functies zoals magazijnbeheerder of inventory controller in diverse sectoren.</p>]]>",
+    "description": "<p>Interesse in logistiek en voorraadbeheer? Goesting om een praktijkgerichte opleiding te volgen die je in 1 jaar klaarstoomt om te werken in deze essentiële sector? Dan past deze micro-credential bij jou. Het is een hapklare module (ca. 20 studiepunten) binnen Supply Chain Management, specifiek gericht op voorraadbeheer en logistieke processen.</p>",
+    "description_program": "Je volgt les samen met de bachelorstudenten Supply Chain Management, met nadruk op magazijnbeheer, voorraadoptimalisatie en aankooplogistiek. Thema’s zijn o.a. stockmanagement, warehousing & distributie, en supply chain optimalisatie. Via praktijkoefeningen leer je voorraadsystemen en -indicatoren gebruiken om de efficiëntie te verhogen. Na deze module beheers je de kernprincipes van logistiek en voorraadbeheer.",
+    "description_extrainfo": "<p><strong>Doelgroep:</strong> Iedereen die zich wil specialiseren in voorraadbeheer en logistiek, bijvoorbeeld medewerkers uit de bedrijfswereld of schoolverlaters met interesse in supply chain.</p><p><strong>Subsidies:</strong> Deze opleiding geeft recht op Vlaams opleidingsverlof.</p><p><strong>Na de opleiding:</strong> Je bent voorbereid op functies zoals magazijnbeheerder of inventory controller in diverse sectoren.</p>",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -430,24 +851,52 @@
         "hours": "dagopleiding (lesuren overdag)",
         "location_name": "Campus Groenplaats",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "15/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "logistiek-en-voorraadbeheer-start-2025-09-15",
+        "locationName": "Campus Groenplaats",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "31/01/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "logistiek-en-voorraadbeheer-end-2026-01-31",
+        "locationName": "Campus Groenplaats",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "marketingvideos-zelf-maken",
     "title": "Marketingvideo’s zelf maken",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/marketingvideos-zelf-maken?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/marketingvideos-zelf-maken?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Marketing & Communicatie",
+    "domain_subcategory": "Digitale media",
+    "duration_length": 6,
+    "duration_type": "days",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Video content creator",
     "job_function_category": 701,
-    "esco_category_code": 3521,
+    "esco_category_code": "3521",
     "nacebel_sector": "73.11",
-    "price": "595",
+    "price": 595.0,
     "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
     "skills": "videoproductie, video-editing, storytelling in video, livestreaming",
     "audience": "Marketing- en communicatiemedewerkers of ondernemers die zelf professionele video’s willen leren maken (open voor iedereen)",
@@ -455,9 +904,9 @@
     "certificate_name": "",
     "email": "digitalbusiness@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<ul><li>Leer marketingvideo's maken die impact hebben! Ontdek de beste tools, hoe je video's opneemt en monteert, korte clips creëert, en livestreams en podcasts produceert.</li><li>De opleiding is volledig online (Microsoft Teams), zodat je kunt leren waar en wanneer het je uitkomt.</li><li>Dankzij deze flexibele online omgeving kun je de opleiding eenvoudig combineren met werk, gezin of andere verplichtingen.</li><li>Na afloop beschik je over een uitgebreide toolbox om resultaatgerichte marketingvideo's te bouwen.</li><li>Er zijn geen specifieke toelatingsvoorwaarden; iedereen kan deelnemen.</li></ul>]]>",
-    "description_program": "<![CDATA[Dit traject van 6 avonden behandelt stap voor stap het proces van videomarketing:<ul><li><strong>Inleiding & overzicht</strong> (1/4/2025) – situering en planning.</li><li><strong>Hardware & software</strong> (22/4/2025) – tools voor opname en montage.</li><li><strong>Video opnames maken</strong> (29/4/2025) – cameratechnieken en belichting.</li><li><strong>Video's monteren (korte verticale video's)</strong> (6/5/2025) – editing gericht op social media.</li><li><strong>Livestreaming & podcasting</strong> (13/5/2025) – live video en audio integreren.</li><li><strong>Recap & feedback</strong> (20/5/2025) – nabespreking en verbeterpunten.</li></ul>Je hebt wekelijks les van 19u tot 21u. De opleiding is interactief met praktijkoefeningen en directe feedback.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Geen specifieke voorkennis vereist; iedereen met interesse in videomarketing kan starten.</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor opleidingscheques en de kmo-portefeuille.</p>]]>",
+    "description": "<ul><li>Leer marketingvideo's maken die impact hebben! Ontdek de beste tools, hoe je video's opneemt en monteert, korte clips creëert, en livestreams en podcasts produceert.</li><li>De opleiding is volledig online (Microsoft Teams), zodat je kunt leren waar en wanneer het je uitkomt.</li><li>Dankzij deze flexibele online omgeving kun je de opleiding eenvoudig combineren met werk, gezin of andere verplichtingen.</li><li>Na afloop beschik je over een uitgebreide toolbox om resultaatgerichte marketingvideo's te bouwen.</li><li>Er zijn geen specifieke toelatingsvoorwaarden; iedereen kan deelnemen.</li></ul>",
+    "description_program": "Dit traject van 6 avonden behandelt stap voor stap het proces van videomarketing:<ul><li><strong>Inleiding & overzicht</strong> (1/4/2025) – situering en planning.</li><li><strong>Hardware & software</strong> (22/4/2025) – tools voor opname en montage.</li><li><strong>Video opnames maken</strong> (29/4/2025) – cameratechnieken en belichting.</li><li><strong>Video's monteren (korte verticale video's)</strong> (6/5/2025) – editing gericht op social media.</li><li><strong>Livestreaming & podcasting</strong> (13/5/2025) – live video en audio integreren.</li><li><strong>Recap & feedback</strong> (20/5/2025) – nabespreking en verbeterpunten.</li></ul>Je hebt wekelijks les van 19u tot 21u. De opleiding is interactief met praktijkoefeningen en directe feedback.",
+    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Geen specifieke voorkennis vereist; iedereen met interesse in videomarketing kan starten.</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor opleidingscheques en de kmo-portefeuille.</p>",
     "location_and_date": [
       {
         "date_start": "2026-04-21",
@@ -465,24 +914,52 @@
         "hours": "dinsdag 19:00-21:00 (online)",
         "location_name": "Online",
         "location_address": "",
-        "location_zip": ""
+        "location_zip": "",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "21/04/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "marketingvideos-zelf-maken-start-2026-04-21",
+        "locationName": "Online",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "19",
+        "endTime": "21"
+      },
+      {
+        "date": "26/05/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "marketingvideos-zelf-maken-end-2026-05-26",
+        "locationName": "Online",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "19",
+        "endTime": "21"
+      }
+    ]
   },
   {
     "internal_id": "masterclass-duurzaam-ondernemen",
     "title": "Masterclass Duurzaam Ondernemen",
-    "language": "nl",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/masterclass-duurzaam-ondernemen?utm_source=jobat&utm_medium=affiliate",
+    "language": "NL",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/masterclass-duurzaam-ondernemen?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Duurzaam Ondernemen",
+    "domain_subcategory": "Bedrijfsstrategie",
+    "duration_length": 9,
+    "duration_type": "days",
     "course_type": 1,
     "degree_type": 5,
     "job_title": "Duurzaamheidsmanager, CSR Manager, Sustainability Consultant",
     "job_function_category": 901,
-    "esco_category_code": 2421,
+    "esco_category_code": "2421",
     "nacebel_sector": "74.90",
-    "price": "3150",
+    "price": 3150.0,
     "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
     "skills": "Duurzaamheidsstrategie, Stakeholdermanagement, Duurzaamheidsrapportering, Materialiteitsanalyse, Systeemdenken, Verandermanagement",
     "audience": "Bedrijven en teams die willen werken aan een duurzaam beleid",
@@ -490,9 +967,9 @@
     "certificate_name": "Certificaat Duurzaam Ondernemen",
     "email": "info@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[De Masterclass Duurzaam Ondernemen biedt bedrijven en teams de tools om een duurzaam beleid te ontwikkelen. Het programma, in samenwerking met Etion, richt zich op het vinden van een evenwicht tussen economische, ecologische en sociale belangen. Deelnemers leren hoe ze duurzaamheid kunnen integreren in hun organisatie en strategie.]]>",
-    "description_program": "<![CDATA[Het volledige traject duurt 9 maanden en is modulair opgebouwd. De masterclass bestaat uit drie fasen: Explore (basis), Advanced (verdieping) en Expert (vervolmaking). Elke fase omvat drie masterclasses van drie maanden, waarbij theorie wordt gecombineerd met praktijkgerichte werksessies en coaching. Onderwerpen zijn onder andere materialiteitsanalyse, duurzaamheidsrapportering, stakeholdermanagement en het opstellen van een duurzaamheidsroadmap.]]>",
-    "description_extrainfo": "<![CDATA[De masterclass wordt gefaciliteerd door Incubator De Kwekerij in Lier en is toegankelijk voor bedrijven van verschillende groottes. De opleiding biedt ruimte voor individuele coaching en groepsinteractie met andere bedrijven.]]>",
+    "description": "De Masterclass Duurzaam Ondernemen biedt bedrijven en teams de tools om een duurzaam beleid te ontwikkelen. Het programma, in samenwerking met Etion, richt zich op het vinden van een evenwicht tussen economische, ecologische en sociale belangen. Deelnemers leren hoe ze duurzaamheid kunnen integreren in hun organisatie en strategie.",
+    "description_program": "Het volledige traject duurt 9 maanden en is modulair opgebouwd. De masterclass bestaat uit drie fasen: Explore (basis), Advanced (verdieping) en Expert (vervolmaking). Elke fase omvat drie masterclasses van drie maanden, waarbij theorie wordt gecombineerd met praktijkgerichte werksessies en coaching. Onderwerpen zijn onder andere materialiteitsanalyse, duurzaamheidsrapportering, stakeholdermanagement en het opstellen van een duurzaamheidsroadmap.",
+    "description_extrainfo": "De masterclass wordt gefaciliteerd door Incubator De Kwekerij in Lier en is toegankelijk voor bedrijven van verschillende groottes. De opleiding biedt ruimte voor individuele coaching en groepsinteractie met andere bedrijven.",
     "location_and_date": [
       {
         "date_start": "2025-09-23",
@@ -500,24 +977,52 @@
         "hours": "Van 16 tot 21 u.",
         "location_name": "Campus Groenplaats, De Kwekerij Lier",
         "location_address": "Brusselstraat 45, 2018 Antwerpen",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "12/05/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "masterclass-duurzaam-ondernemen-end-2026-05-12",
+        "locationName": "Campus Groenplaats, De Kwekerij Lier",
+        "address": "Brusselstraat 45, 2018 Antwerpen",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "23/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "masterclass-duurzaam-ondernemen-start-2025-09-23",
+        "locationName": "Campus Groenplaats, De Kwekerij Lier",
+        "address": "Brusselstraat 45, 2018 Antwerpen",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "microdegrees-toegepaste-informatica",
     "title": "Toegepaste Informatica",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/microdegrees-toegepaste-informatica?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/microdegrees-toegepaste-informatica?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "ICT",
+    "domain_subcategory": "Toegepaste informatica",
+    "duration_length": 6,
+    "duration_type": "maanden",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "IT-supportmedewerker / junior softwareontwikkelaar",
     "job_function_category": 824,
-    "esco_category_code": 2512,
+    "esco_category_code": "2512",
     "nacebel_sector": "62.01",
-    "price": "289.9",
+    "price": 289.9,
     "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet, Opleidingscheques",
     "skills": "IT-basisvaardigheden, programmeertechnieken, probleemoplossend denken, teamwerk",
     "audience": "Volwassenen (25+) die naast werk/gezin een flexibele IT-opleiding willen volgen",
@@ -525,9 +1030,9 @@
     "certificate_name": "",
     "email": "info.toegepasteinformatica@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<ul><li>Je bent een inventieve technologiefan met communicatie- en organisatietalent.</li><li>Je bent minstens 25 jaar en wil je studie combineren met een job of gezin.</li><li>Dankzij blended learning (mix van zelfstudie, avondlessen en coaching) studeer je in alle vrijheid op hoog niveau.</li><li>Micro-credentials – samenhangende gehelen van leerstof – laten je toe in te zoomen op één thema. Je kan ook enkele micro-credentials combineren binnen een cluster of zelfs voor het hele diploma gaan.</li><li>Ben je nieuw in het vak? Kies een micro-credential zonder voorkennis. Heb je al IT-ervaring? Breid uit met gevorderde micro-credentials (daarvoor is wel voorkennis nodig).</li></ul>]]>",
-    "description_program": "<![CDATA[Een micro-credential is een afgebakend geheel van opleidingsonderdelen binnen het flexibele traject Toegepaste Informatica. Eén micro-credential komt overeen met ongeveer 1 à 2 uur les per week (online of on-campus) en ca. 8 uur zelfstudie per week. Sommige micro-credentials spreiden zich over een volledig academiejaar, andere rond je af in één semester. Elk thema geeft je up-to-date IT-kennis – van basisvaardigheden tot gevorderde topics – die je meteen kunt inzetten in de praktijk.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Voor wie?</strong> Dit traject richt zich tot werkenden (25+) die een IT-opleiding willen volgen naast hun job of andere verplichtingen. Beginnende IT’ers kunnen instappen zonder voorkennis, ervaren IT’ers kiezen gevorderde modules (waarvoor voorkennis is vereist).</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor Vlaams opleidingsverlof, Vlaams opleidingskrediet en opleidingscheques.</p><p><strong>Contact & info:</strong> Voor vragen kan je terecht bij de studieloopbaancoördinator via info.toegepasteinformatica@kdg.be of een infomoment. Er is een brochure beschikbaar en mogelijkheid tot een online afspraak.</p>]]>",
+    "description": "<ul><li>Je bent een inventieve technologiefan met communicatie- en organisatietalent.</li><li>Je bent minstens 25 jaar en wil je studie combineren met een job of gezin.</li><li>Dankzij blended learning (mix van zelfstudie, avondlessen en coaching) studeer je in alle vrijheid op hoog niveau.</li><li>Micro-credentials – samenhangende gehelen van leerstof – laten je toe in te zoomen op één thema. Je kan ook enkele micro-credentials combineren binnen een cluster of zelfs voor het hele diploma gaan.</li><li>Ben je nieuw in het vak? Kies een micro-credential zonder voorkennis. Heb je al IT-ervaring? Breid uit met gevorderde micro-credentials (daarvoor is wel voorkennis nodig).</li></ul>",
+    "description_program": "Een micro-credential is een afgebakend geheel van opleidingsonderdelen binnen het flexibele traject Toegepaste Informatica. Eén micro-credential komt overeen met ongeveer 1 à 2 uur les per week (online of on-campus) en ca. 8 uur zelfstudie per week. Sommige micro-credentials spreiden zich over een volledig academiejaar, andere rond je af in één semester. Elk thema geeft je up-to-date IT-kennis – van basisvaardigheden tot gevorderde topics – die je meteen kunt inzetten in de praktijk.",
+    "description_extrainfo": "<p><strong>Voor wie?</strong> Dit traject richt zich tot werkenden (25+) die een IT-opleiding willen volgen naast hun job of andere verplichtingen. Beginnende IT’ers kunnen instappen zonder voorkennis, ervaren IT’ers kiezen gevorderde modules (waarvoor voorkennis is vereist).</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor Vlaams opleidingsverlof, Vlaams opleidingskrediet en opleidingscheques.</p><p><strong>Contact & info:</strong> Voor vragen kan je terecht bij de studieloopbaancoördinator via info.toegepasteinformatica@kdg.be of een infomoment. Er is een brochure beschikbaar en mogelijkheid tot een online afspraak.</p>",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -535,24 +1040,52 @@
         "hours": "blended: 1-2u les + 8u zelfstudie per week",
         "location_name": "Campus Groenplaats",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "15/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "microdegrees-toegepaste-informatica-start-2025-09-15",
+        "locationName": "Campus Groenplaats",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "30/06/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "microdegrees-toegepaste-informatica-end-2026-06-30",
+        "locationName": "Campus Groenplaats",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "pipetteren-celtelling-en-celkweek",
     "title": "Pipetteren, celtelling en celkweek",
-    "language": "en",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/pipetteren-celtelling-en-celkweek?utm_source=jobat&utm_medium=affiliate",
+    "language": "EN",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/pipetteren-celtelling-en-celkweek?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Wetenschap & Technologie",
+    "domain_subcategory": "Biotechnologie",
+    "duration_length": 3,
+    "duration_type": "days",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Laborant cel- en gentherapie (ATMP)",
     "job_function_category": 504,
-    "esco_category_code": 3111,
+    "esco_category_code": "3111",
     "nacebel_sector": "21.20",
-    "price": "1300",
+    "price": 1300.0,
     "government_subsidy": "Kmo-portefeuille",
     "skills": "pipetteertechnieken, celtellingen, steriel werken, basis celkweek",
     "audience": "Biomedische, farmaceutische of chemische professionals of pas afgestudeerden die basis labvaardigheden voor ATMP willen leren (geen voorkennis vereist)",
@@ -560,9 +1093,9 @@
     "certificate_name": "Certificate Pipetteren & Celkweek",
     "email": "info.wet@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Learn the fundamentals of Advanced Therapy Medicinal Products in this hands-on module. Refresh your pipetting techniques and perform manual and automated cell counts. Get an introduction to mammalian cell culture and learn sterile techniques.</p>]]>",
-    "description_program": "<![CDATA[This course (~20-24 hours) provides essential lab skills for working with cells. Through intensive practical sessions, you will: master precise pipetting (manual and using pipetting aids); perform cell counts (manual hemocytometer and automated counters); learn to initiate and maintain mammalian cell cultures under sterile conditions; and understand basics of cell culture media, incubation, and contamination prevention. The training is fully lab-based with expert supervision and immediate feedback.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Target group:</strong> (Future) operators in ATMP production or QC and recent graduates in biomedical or chemical fields who want fundamental lab skills. No prior cell culture experience required.</p>]]>",
+    "description": "<p>Learn the fundamentals of Advanced Therapy Medicinal Products in this hands-on module. Refresh your pipetting techniques and perform manual and automated cell counts. Get an introduction to mammalian cell culture and learn sterile techniques.</p>",
+    "description_program": "This course (~20-24 hours) provides essential lab skills for working with cells. Through intensive practical sessions, you will: master precise pipetting (manual and using pipetting aids); perform cell counts (manual hemocytometer and automated counters); learn to initiate and maintain mammalian cell cultures under sterile conditions; and understand basics of cell culture media, incubation, and contamination prevention. The training is fully lab-based with expert supervision and immediate feedback.",
+    "description_extrainfo": "<p><strong>Target group:</strong> (Future) operators in ATMP production or QC and recent graduates in biomedical or chemical fields who want fundamental lab skills. No prior cell culture experience required.</p>",
     "location_and_date": [
       {
         "date_start": "2025-03-03",
@@ -570,24 +1103,52 @@
         "hours": "Van 9 tot 17 u.",
         "location_name": "Campus Hoboken",
         "location_address": "Salesianenlaan 90",
-        "location_zip": "2660"
+        "location_zip": "2660",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "03/03/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "pipetteren-celtelling-en-celkweek-start-2025-03-03",
+        "locationName": "Campus Hoboken",
+        "address": "Salesianenlaan 90",
+        "zipCode": "2660",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "05/03/2025",
+        "sessionDescription": "Einddatum",
+        "sessionId": "pipetteren-celtelling-en-celkweek-end-2025-03-05",
+        "locationName": "Campus Hoboken",
+        "address": "Salesianenlaan 90",
+        "zipCode": "2660",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "podcasting",
     "title": "Podcasting",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/podcasting?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/podcasting?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Marketing & Communicatie",
+    "domain_subcategory": "Digitale media",
+    "duration_length": 6,
+    "duration_type": "days",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Podcast-producer",
     "job_function_category": 701,
-    "esco_category_code": 2656,
+    "esco_category_code": "2656",
     "nacebel_sector": "59.20",
-    "price": "595",
+    "price": 595.0,
     "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
     "skills": "podcastconcept & storytelling, audiotechniek, stemgebruik, podcastmarketing",
     "audience": "Iedereen die een podcast wil leren maken (geen diploma vereist)",
@@ -595,9 +1156,9 @@
     "certificate_name": "",
     "email": "digitalbusiness@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Wil je leren hoe je een boeiende en professionele podcast maakt? Deze micro-credential helpt je om je podcastideeën tot leven te brengen en luisteraars te inspireren.</p><ul><li>Thema’s: storytellingtechnieken voor een sterke podcast; techniek & tools (apparatuur en software) voor professionele kwaliteit; spreektechnieken en stemgebruik voor een meeslepende luisterervaring; podcastpromotie en publieksopbouw.</li><li>De opleiding is volledig online, zodat je kunt leren waar en wanneer het je uitkomt.</li><li>Flexibel te combineren met werk, gezin of andere verplichtingen.</li><li>Geen bachelor- of masterdiploma nodig: iedereen kan deelnemen.</li></ul>]]>",
-    "description_program": "<![CDATA[Deze micro-credential duurt 6 weken en biedt een intensief leertraject. Reken per week op 2 uur online live-sessies en 2 uur zelfstudie. Je leert stap voor stap: <ul><li>je podcastconcept uitwerken en een sterk verhaal opbouwen;</li><li>de juiste opnameapparatuur en software gebruiken voor geluidskwaliteit;</li><li>spreek- en presentatietechnieken toepassen;</li><li>je podcast publiceren en promoten via sociale media.</li></ul> Je sluit af met een eindproject: een eigen opgenomen en gemonteerde proefaflevering.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Geen specifieke voorkennis nodig. Iedereen kan deelnemen (geen diploma vereist).</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor opleidingscheques en de kmo-portefeuille.</p>]]>",
+    "description": "<p>Wil je leren hoe je een boeiende en professionele podcast maakt? Deze micro-credential helpt je om je podcastideeën tot leven te brengen en luisteraars te inspireren.</p><ul><li>Thema’s: storytellingtechnieken voor een sterke podcast; techniek & tools (apparatuur en software) voor professionele kwaliteit; spreektechnieken en stemgebruik voor een meeslepende luisterervaring; podcastpromotie en publieksopbouw.</li><li>De opleiding is volledig online, zodat je kunt leren waar en wanneer het je uitkomt.</li><li>Flexibel te combineren met werk, gezin of andere verplichtingen.</li><li>Geen bachelor- of masterdiploma nodig: iedereen kan deelnemen.</li></ul>",
+    "description_program": "Deze micro-credential duurt 6 weken en biedt een intensief leertraject. Reken per week op 2 uur online live-sessies en 2 uur zelfstudie. Je leert stap voor stap: <ul><li>je podcastconcept uitwerken en een sterk verhaal opbouwen;</li><li>de juiste opnameapparatuur en software gebruiken voor geluidskwaliteit;</li><li>spreek- en presentatietechnieken toepassen;</li><li>je podcast publiceren en promoten via sociale media.</li></ul> Je sluit af met een eindproject: een eigen opgenomen en gemonteerde proefaflevering.",
+    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Geen specifieke voorkennis nodig. Iedereen kan deelnemen (geen diploma vereist).</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor opleidingscheques en de kmo-portefeuille.</p>",
     "location_and_date": [
       {
         "date_start": "2026-04-15",
@@ -605,24 +1166,52 @@
         "hours": "woensdag 19:00-21:00 (online)",
         "location_name": "Online",
         "location_address": "",
-        "location_zip": ""
+        "location_zip": "",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "15/04/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "podcasting-start-2026-04-15",
+        "locationName": "Online",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "19",
+        "endTime": "21"
+      },
+      {
+        "date": "20/05/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "podcasting-end-2026-05-20",
+        "locationName": "Online",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "19",
+        "endTime": "21"
+      }
+    ]
   },
   {
     "internal_id": "public-finance-management",
     "title": "Public Finance Management",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/public-finance-management?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/public-finance-management?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Bedrijf & Economie",
+    "domain_subcategory": "Public Finance Management",
+    "duration_length": 0.5,
+    "duration_type": "years",
     "course_type": 4,
     "degree_type": 5,
     "job_title": "Financieel deskundige overheid, financieel beheerder gemeente, overheidsaccountant",
     "job_function_category": 882,
-    "esco_category_code": 2421,
+    "esco_category_code": "2421",
     "nacebel_sector": "84",
-    "price": "1865",
+    "price": 1865.0,
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "skills": "Overheidsfinanciën, publiek recht, analytisch denken, boekhoudnormen overheid, advisering",
     "audience": "Bedrijfsleven, Overheidsprofessionals",
@@ -630,9 +1219,9 @@
     "certificate_name": "Getuigschrift postgraduaat Public Finance Management",
     "email": "lien.vandermarliere@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Leer in het postgraduaat Public Finance Management hoe jij als overheidsprofessional aan de slag gaat op de financiële dienst. De unieke combinatie van het juridische en publiekrechtelijke staat centraal.</p>]]>",
-    "description_program": "<![CDATA[<ul><li>Enige postgraduaat in Vlaanderen dat financiële vaardigheden koppelt aan juridische kennis voor de publieke sector.</li><li>Je verwerft uitgebreide kennis van financieel beheer bij overheid (budgettering, overheidsopdrachten, fiscaliteit van overheden).</li><li>Unieke mix van publiekrecht en financiële technieken: leert je zowel de regelgeving als de praktische uitvoering kennen.</li><li>Avondonderwijs (en streamingoptie) om combinatie met job te vergemakkelijken.</li><li>Specialisten van Stad Antwerpen en andere overheden delen hun praktijkervaring rechtstreeks met jou (samenwerking KdG – Stad Antwerpen).</li></ul>]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor- of masterdiploma in de financiële of juridische sector (bv. Verzekeringen, Bedrijfsmanagement, Overheidsmanagement, Handelswetenschappen, ...). Óf je hebt relevante beroepservaring in de financiële/publieke sector (bv. als financial advisor bij een overheid).</p><p><strong>Extra info:</strong> Start jaarlijks in januari. Flexibele lesorganisatie met streaming. Inschrijvingsgeld academiejaar 2025-2026: 1865 euro. Recht op Vlaams opleidingsverlof (VOV).</p>]]>",
+    "description": "<p>Leer in het postgraduaat Public Finance Management hoe jij als overheidsprofessional aan de slag gaat op de financiële dienst. De unieke combinatie van het juridische en publiekrechtelijke staat centraal.</p>",
+    "description_program": "<ul><li>Enige postgraduaat in Vlaanderen dat financiële vaardigheden koppelt aan juridische kennis voor de publieke sector.</li><li>Je verwerft uitgebreide kennis van financieel beheer bij overheid (budgettering, overheidsopdrachten, fiscaliteit van overheden).</li><li>Unieke mix van publiekrecht en financiële technieken: leert je zowel de regelgeving als de praktische uitvoering kennen.</li><li>Avondonderwijs (en streamingoptie) om combinatie met job te vergemakkelijken.</li><li>Specialisten van Stad Antwerpen en andere overheden delen hun praktijkervaring rechtstreeks met jou (samenwerking KdG – Stad Antwerpen).</li></ul>",
+    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor- of masterdiploma in de financiële of juridische sector (bv. Verzekeringen, Bedrijfsmanagement, Overheidsmanagement, Handelswetenschappen, ...). Óf je hebt relevante beroepservaring in de financiële/publieke sector (bv. als financial advisor bij een overheid).</p><p><strong>Extra info:</strong> Start jaarlijks in januari. Flexibele lesorganisatie met streaming. Inschrijvingsgeld academiejaar 2025-2026: 1865 euro. Recht op Vlaams opleidingsverlof (VOV).</p>",
     "location_and_date": [
       {
         "date_start": "2026-01-08",
@@ -640,24 +1229,52 @@
         "hours": "Dinsdag- en donderdagavond (18:00-21:30)",
         "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "08/01/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "public-finance-management-start-2026-01-08",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "18",
+        "endTime": "21"
+      },
+      {
+        "date": "30/06/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "public-finance-management-end-2026-06-30",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "18",
+        "endTime": "21"
+      }
+    ]
   },
   {
     "internal_id": "quality-life-science-production",
     "title": "Quality in Life Science Production",
-    "language": "nl",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/quality-life-science-production?utm_source=jobat&utm_medium=affiliate",
+    "language": "NL",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/quality-life-science-production?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Life Sciences",
+    "domain_subcategory": "Quality Control & Production",
+    "duration_length": 5,
+    "duration_type": "days",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Quality Control Technician, Laborant, QA Officer, Procesoperator",
     "job_function_category": 504,
-    "esco_category_code": 3111,
+    "esco_category_code": "3111",
     "nacebel_sector": "21.20",
-    "price": "1850",
+    "price": 1850.0,
     "government_subsidy": "KMO-portefeuille",
     "skills": "Kwaliteitscontrole, GMP, Validatie, Monstername, Compliance, Dataintegriteit",
     "audience": "Professionals of afgestudeerden die actief zijn of willen instromen in de farmaceutische of biotechnologische productieomgeving",
@@ -665,9 +1282,9 @@
     "certificate_name": "Micro-credential Quality in Life Science Production (5 ECTS)",
     "email": "farrah.daponte@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[In de life sciences is kwaliteit van levensbelang. Met de kennis uit deze micro-credential draag je bij aan veilige, doeltreffende en conforme productieomgevingen. Je leert hoe kwaliteitscontroles worden opgezet, uitgevoerd en geanalyseerd in farmaceutische en biotechnologische contexten.]]>",
-    "description_program": "<![CDATA[Het programma omvat vijf opleidingsdagen waarin je kennismaakt met de principes en technieken van kwaliteitscontrole in de life sciences:<ul><li>Inleiding tot kwaliteitscontrole en GMP</li><li>Validatie, kalibratie en monstername</li><li>Analytische en microbiologische testmethoden</li><li>Dataintegriteit, traceerbaarheid en compliance</li><li>Bezoek aan een ViTalent-trainingsfaciliteit</li></ul>De opleiding maakt deel uit van het Advanced Therapies Training Program (ATTP) en wordt georganiseerd in samenwerking met ViTalent.]]>",
-    "description_extrainfo": "<![CDATA[De opleiding wordt gegeven door ervaren professionals uit de farma- en biotechnologiesector. De sessies vinden plaats bij ViTalent, het gespecialiseerde opleidingscentrum voor farma en biotech in Vlaanderen.]]>",
+    "description": "In de life sciences is kwaliteit van levensbelang. Met de kennis uit deze micro-credential draag je bij aan veilige, doeltreffende en conforme productieomgevingen. Je leert hoe kwaliteitscontroles worden opgezet, uitgevoerd en geanalyseerd in farmaceutische en biotechnologische contexten.",
+    "description_program": "Het programma omvat vijf opleidingsdagen waarin je kennismaakt met de principes en technieken van kwaliteitscontrole in de life sciences:<ul><li>Inleiding tot kwaliteitscontrole en GMP</li><li>Validatie, kalibratie en monstername</li><li>Analytische en microbiologische testmethoden</li><li>Dataintegriteit, traceerbaarheid en compliance</li><li>Bezoek aan een ViTalent-trainingsfaciliteit</li></ul>De opleiding maakt deel uit van het Advanced Therapies Training Program (ATTP) en wordt georganiseerd in samenwerking met ViTalent.",
+    "description_extrainfo": "De opleiding wordt gegeven door ervaren professionals uit de farma- en biotechnologiesector. De sessies vinden plaats bij ViTalent, het gespecialiseerde opleidingscentrum voor farma en biotech in Vlaanderen.",
     "location_and_date": [
       {
         "date_start": "2026-03-23",
@@ -679,21 +1296,48 @@
         "location_city": "Niel"
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "23/03/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "quality-life-science-production-start-2026-03-23",
+        "locationName": "ViTalent",
+        "address": "Wetenschapspark van de Universiteit Antwerpen, Galileilaan 15, 2845 Niel",
+        "zipCode": "2845",
+        "city": "Niel",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "27/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "quality-life-science-production-end-2026-03-27",
+        "locationName": "ViTalent",
+        "address": "Wetenschapspark van de Universiteit Antwerpen, Galileilaan 15, 2845 Niel",
+        "zipCode": "2845",
+        "city": "Niel",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "schrijven-voor-web-en-social-media",
     "title": "Schrijven voor web en social media",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/schrijven-voor-web-en-social-media?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/schrijven-voor-web-en-social-media?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Marketing & Communicatie",
+    "domain_subcategory": "Digitale media",
+    "duration_length": 6,
+    "duration_type": "weeks",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Digital copywriter",
     "job_function_category": 701,
-    "esco_category_code": 2641,
+    "esco_category_code": "2641",
     "nacebel_sector": "73.11",
-    "price": "595",
+    "price": 595.0,
     "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
     "skills": "SEO-copywriting, creatieve contentcreatie, webcopy, social media writing",
     "audience": "Iedereen die professionele online teksten wil leren schrijven (geen diploma vereist)",
@@ -701,9 +1345,9 @@
     "certificate_name": "",
     "email": "digitalbusiness@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Ontdek de geheimen van copywriting en boost je online zichtbaarheid! Leer overtuigende webteksten en creatieve socialemediaposts schrijven.</p><ul><li>Volledig online, flexibel en voor iedereen toegankelijk.</li><li>Geen voorkennis nodig: je hebt geen bachelor of master nodig om in te schrijven.</li></ul>]]>",
-    "description_program": "<![CDATA[Deze micro-credential duurt 6 weken en biedt een intensief leertraject in online copywriting. Je hebt wekelijks op dinsdagavond les (19-21u) en ongeveer 2 uur zelfstudie. Het programma 2025 omvatte o.a.: <ul><li>Bloggen & SEO-schrijven (18/2/2025) – hoe optimaliseer je webteksten voor zoekmachines;</li><li>Schrijven voor social media (25/2/2025) – creatieve posts en hashtag-gebruik;</li><li>Vertalingen & aanpassen aan formats (11/3/2025) – je tekst afstemmen op verschillende kanalen;</li><li>Recap & feedback (18/3/2025) – evaluatie en vervolgstappen.</li></ul>Volgende start in februari 2026 is voorzien.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Voor deze micro-credential zijn er geen specifieke toelatingsvoorwaarden; iedereen kan deelnemen.</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor opleidingscheques en de kmo-portefeuille.</p>]]>",
+    "description": "<p>Ontdek de geheimen van copywriting en boost je online zichtbaarheid! Leer overtuigende webteksten en creatieve socialemediaposts schrijven.</p><ul><li>Volledig online, flexibel en voor iedereen toegankelijk.</li><li>Geen voorkennis nodig: je hebt geen bachelor of master nodig om in te schrijven.</li></ul>",
+    "description_program": "Deze micro-credential duurt 6 weken en biedt een intensief leertraject in online copywriting. Je hebt wekelijks op dinsdagavond les (19-21u) en ongeveer 2 uur zelfstudie. Het programma 2025 omvatte o.a.: <ul><li>Bloggen & SEO-schrijven (18/2/2025) – hoe optimaliseer je webteksten voor zoekmachines;</li><li>Schrijven voor social media (25/2/2025) – creatieve posts en hashtag-gebruik;</li><li>Vertalingen & aanpassen aan formats (11/3/2025) – je tekst afstemmen op verschillende kanalen;</li><li>Recap & feedback (18/3/2025) – evaluatie en vervolgstappen.</li></ul>Volgende start in februari 2026 is voorzien.",
+    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Voor deze micro-credential zijn er geen specifieke toelatingsvoorwaarden; iedereen kan deelnemen.</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor opleidingscheques en de kmo-portefeuille.</p>",
     "location_and_date": [
       {
         "date_start": "2026-02-03",
@@ -711,24 +1355,115 @@
         "hours": "Telkens op dinsdagavond van 19 tot 21 u.",
         "location_name": "Online",
         "location_address": "",
-        "location_zip": ""
+        "location_zip": "",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "03/02/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "schrijven-voor-web-en-social-media-start-2026-02-03",
+        "locationName": "Online",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "17/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "schrijven-voor-web-en-social-media-end-2026-03-17",
+        "locationName": "Online",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
+  },
+  {
+    "internal_id": "supply-chain-management-introductie",
+    "title": "Supply Chain Management - Introductie",
+    "language": "NL",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/supply-chain-management-introductie?utm_source=smartlions&utm_medium=affiliate",
+    "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Logistiek",
+    "domain_subcategory": "Supply Chain",
+    "duration_length": 6,
+    "duration_type": "maanden",
+    "course_type": 5,
+    "degree_type": 5,
+    "job_title": "Logistiek medewerker (supply chain)",
+    "job_function_category": 643,
+    "esco_category_code": "4323",
+    "nacebel_sector": "52",
+    "price": 495.6,
+    "government_subsidy": "Vlaams opleidingsverlof",
+    "skills": "supply chain basisprincipes, planning & voorraad, logistieke coördinatie",
+    "audience": "Werkenden of pasafgestudeerden die een brede basis in Supply Chain willen verwerven zonder voltijdse studie",
+    "required_knowledge": "Diploma secundair onderwijs of relevante werkervaring aanbevolen",
+    "certificate_name": "Getuigschrift Micro-credential SCM Introductie",
+    "email": "jesse.mortelmans@kdg.be",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "description": "<p>Zin om Supply Chain Management te studeren, maar nog niet klaar voor een volledige bachelor? Kies dan voor deze micro-credential: een logische, afgebakende mini-cursus binnen het vakgebied. In deze introductiemodule (ca. 20 SP) maak je kennis met alle facetten van supply chain &ndash; van inkoop over productie tot distributie.</p>",
+    "description_program": "Je volgt samen met bachelorstudenten een samengesteld pakket vakken dat een breed overzicht geeft van Supply Chain Management. Je leert de basisprincipes van ketenbeheer, zoals demand planning, voorraadbeheer, productieplanning en distributielogistiek. Ook duurzaamheid in de keten en digitalisering (bv. ERP-systemen) komen aan bod. Case-studies en simulaties leren je hoe de schakels in de supply chain op elkaar inspelen. Na deze module heb je een stevige introductie in SCM.",
+    "description_extrainfo": "<p><strong>Doelgroep:</strong> Iedereen die inzicht wil krijgen in supply chain management zonder meteen een volledige bachelor te volgen. Ideaal voor werkenden die hun kennis willen uitbreiden of twijfelaars die SCM willen verkennen.</p><p><strong>Subsidies:</strong> Deze opleiding geeft recht op Vlaams opleidingsverlof.</p><p><strong>Na de opleiding:</strong> Je kan instromen in junior supply chain-functies of verder studeren in de bachelor. Je bezit een erkend attest van deze micro-credential.</p>",
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-01-31",
+        "hours": "dagopleiding (lesuren overdag)",
+        "location_name": "Campus Groenplaats",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000",
+        "location_city": ""
+      }
+    ],
+    "sessions": [
+      {
+        "date": "15/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "supply-chain-management-introductie-start-2025-09-15",
+        "locationName": "Campus Groenplaats",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "31/01/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "supply-chain-management-introductie-end-2026-01-31",
+        "locationName": "Campus Groenplaats",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "sustainable-business-innovation",
     "title": "Sustainable Business & Innovation",
-    "language": "en",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/sustainable-business-innovation?utm_source=jobat&utm_medium=affiliate",
+    "language": "EN",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/sustainable-business-innovation?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Business & Management",
+    "domain_subcategory": "Sustainability",
+    "duration_length": 6,
+    "duration_type": "maanden",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Duurzaamheidscoördinator (Sustainability Coordinator)",
     "job_function_category": 901,
-    "esco_category_code": 2421,
+    "esco_category_code": "2421",
     "nacebel_sector": "70.22",
-    "price": "616.6",
+    "price": 616.6,
     "government_subsidy": "Vlaams opleidingsverlof",
     "skills": "change management, critical data analysis, intercultural collaboration, sustainable innovation",
     "audience": "Professionals with a bachelor’s or master’s who want to lead sustainability initiatives",
@@ -736,9 +1471,9 @@
     "certificate_name": "",
     "email": "kristien.govers@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<ul><li>This is a practice-driven programme that brings together climate, well-being and economy.</li><li>You replace greenwashing with concrete goals and change processes.</li><li>Business cases from many sectors provide a broad perspective on sustainability and innovation.</li><li>In the Personal Impact Lab you learn as much about yourself as about group dynamics.</li><li>You also strengthen your skills in critically analysing trends and data.</li><li>You study full-time for half a year (start in September or February), or take a part-time route to combine with work.</li><li>Classes are in English with students from around the world.</li><li>Coordinator, change manager or data analyst – contribute in your own way to a future-proof corporate culture.</li></ul>]]>",
-    "description_program": "<![CDATA[Deze micro-credential omvat 30 studiepunten in een vast pakket. Het programma duurt zes maanden voltijds (full-time) of één jaar deeltijds. Je volgt modules rond verandermanagement met focus op duurzaamheid: <ul><li>Psychologie van verandering, project- en timemanagement, groepsdynamica.</li><li>Doelen formuleren op basis van analyse van bedrijfscultuur en processen.</li><li>Interdepartementale samenwerking en stakeholdermanagement.</li><li>Persoonlijke groei in het Personal Impact Lab (3 SP): zelfreflectie, veerkracht, empathie, authentic leadership.</li><li>Business cases (9 SP) over diverse duurzaamheidsuitdagingen in verschillende sectoren – je sluit af met een complexe case als eindproject.</li></ul>]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Admission:</strong> You already hold a bachelor’s or master’s degree (or equivalent through experience). This programme is designed for professionals ready to drive future change, who work systematically and collaboratively.</p><p><strong>Note:</strong> This micro-credential is co-funded by VLAIO (Flemish government agency) and is delivered in English to an international cohort.</p><p><strong>After graduation:</strong> You can pursue roles such as sustainability coordinator or consultant to help organisations innovate sustainably.</p>]]>",
+    "description": "<ul><li>This is a practice-driven programme that brings together climate, well-being and economy.</li><li>You replace greenwashing with concrete goals and change processes.</li><li>Business cases from many sectors provide a broad perspective on sustainability and innovation.</li><li>In the Personal Impact Lab you learn as much about yourself as about group dynamics.</li><li>You also strengthen your skills in critically analysing trends and data.</li><li>You study full-time for half a year (start in September or February), or take a part-time route to combine with work.</li><li>Classes are in English with students from around the world.</li><li>Coordinator, change manager or data analyst – contribute in your own way to a future-proof corporate culture.</li></ul>",
+    "description_program": "Deze micro-credential omvat 30 studiepunten in een vast pakket. Het programma duurt zes maanden voltijds (full-time) of één jaar deeltijds. Je volgt modules rond verandermanagement met focus op duurzaamheid: <ul><li>Psychologie van verandering, project- en timemanagement, groepsdynamica.</li><li>Doelen formuleren op basis van analyse van bedrijfscultuur en processen.</li><li>Interdepartementale samenwerking en stakeholdermanagement.</li><li>Persoonlijke groei in het Personal Impact Lab (3 SP): zelfreflectie, veerkracht, empathie, authentic leadership.</li><li>Business cases (9 SP) over diverse duurzaamheidsuitdagingen in verschillende sectoren – je sluit af met een complexe case als eindproject.</li></ul>",
+    "description_extrainfo": "<p><strong>Admission:</strong> You already hold a bachelor’s or master’s degree (or equivalent through experience). This programme is designed for professionals ready to drive future change, who work systematically and collaboratively.</p><p><strong>Note:</strong> This micro-credential is co-funded by VLAIO (Flemish government agency) and is delivered in English to an international cohort.</p><p><strong>After graduation:</strong> You can pursue roles such as sustainability coordinator or consultant to help organisations innovate sustainably.</p>",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -746,24 +1481,52 @@
         "hours": "Voltijds gedurende een half jaar",
         "location_name": "Campus Groenplaats",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "14/01/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "sustainable-business-innovation-end-2026-01-14",
+        "locationName": "Campus Groenplaats",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "15/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "sustainable-business-innovation-start-2025-09-15",
+        "locationName": "Campus Groenplaats",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "tax-accountancy-management",
     "title": "Tax & Accountancy Management",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/tax-accountancy-management?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/tax-accountancy-management?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Bedrijf & Economie",
+    "domain_subcategory": "Tax & Accountancy Management",
+    "duration_length": 2,
+    "duration_type": "years",
     "course_type": 1,
     "degree_type": 5,
     "job_title": "Fiscalist, accountant (senior), financieel adviseur",
     "job_function_category": 882,
-    "esco_category_code": 3313,
+    "esco_category_code": "3313",
     "nacebel_sector": "69.20",
-    "price": "1655",
+    "price": 1655.0,
     "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "skills": "Fiscaliteit op expertniveau, accountancy, analytisch denken, regelgeving, financieel management",
     "audience": "Bedrijfsmanagement, Financiële sector",
@@ -771,9 +1534,9 @@
     "certificate_name": "Getuigschrift postgraduaat Tax & Accountancy Management",
     "email": "nausikaa.vandenbulcke@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Het postgraduaat Tax & Accountancy Management is een voortgezette opleiding voor wie zich wil verdiepen in accountancy én fiscaliteit op topniveau. Die combinatie maakt het tot een unicum in de Antwerpse regio.</p>]]>",
-    "description_program": "<![CDATA[<ul><li>Unieke duale specialisatie in fiscaliteit én accountancy.</li><li>Bereidt voor op functies als fiscaal adviseur of financieel directeur.</li><li>Geschikt voor wie al een economische of juridische vooropleiding heeft en de accountantssector wil induiken.</li><li>Vrijstellingen voor bepaalde toelatingsexamens van het ITAA (Institute for Tax Advisors and Accountants) dankzij deze opleiding.</li><li>Avondonderwijs om studeren naast een job haalbaar te maken.</li><li>Erkend voor Vlaams opleidingsverlof en KMO-portefeuille; aanwezigheid kan meetellen als permanente vorming (ITAA, categorie A).</li></ul>]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelordiploma in Bedrijfsmanagement (afstudeerrichting Accountancy-Fiscaliteit) of een graduaatsdiploma Accountancy met minstens 2 jaar relevante ervaring. Ook masters in een economische of juridische richting kunnen instromen. Voldoe je niet aan de voorwaarden? Bezorg je diploma’s, CV en motivatie, een toelatingscommissie beoordeelt je aanvraag.</p><p><strong>Extra info:</strong> Deze opleiding geeft recht op Vlaams opleidingsverlof (VOV) en de KMO-portefeuille. De opleiding kan gespreid worden over minimum 2 academiejaren.</p>]]>",
+    "description": "<p>Het postgraduaat Tax & Accountancy Management is een voortgezette opleiding voor wie zich wil verdiepen in accountancy én fiscaliteit op topniveau. Die combinatie maakt het tot een unicum in de Antwerpse regio.</p>",
+    "description_program": "<ul><li>Unieke duale specialisatie in fiscaliteit én accountancy.</li><li>Bereidt voor op functies als fiscaal adviseur of financieel directeur.</li><li>Geschikt voor wie al een economische of juridische vooropleiding heeft en de accountantssector wil induiken.</li><li>Vrijstellingen voor bepaalde toelatingsexamens van het ITAA (Institute for Tax Advisors and Accountants) dankzij deze opleiding.</li><li>Avondonderwijs om studeren naast een job haalbaar te maken.</li><li>Erkend voor Vlaams opleidingsverlof en KMO-portefeuille; aanwezigheid kan meetellen als permanente vorming (ITAA, categorie A).</li></ul>",
+    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelordiploma in Bedrijfsmanagement (afstudeerrichting Accountancy-Fiscaliteit) of een graduaatsdiploma Accountancy met minstens 2 jaar relevante ervaring. Ook masters in een economische of juridische richting kunnen instromen. Voldoe je niet aan de voorwaarden? Bezorg je diploma’s, CV en motivatie, een toelatingscommissie beoordeelt je aanvraag.</p><p><strong>Extra info:</strong> Deze opleiding geeft recht op Vlaams opleidingsverlof (VOV) en de KMO-portefeuille. De opleiding kan gespreid worden over minimum 2 academiejaren.</p>",
     "location_and_date": [
       {
         "date_start": "2025-09-16",
@@ -781,24 +1544,52 @@
         "hours": "Dinsdag- en/of donderdagavond (gespreid over 2 jaar)",
         "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "16/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "tax-accountancy-management-start-2025-09-16",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "30/06/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "tax-accountancy-management-end-2026-06-30",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   },
   {
     "internal_id": "transport-en-haven",
     "title": "Transport en Haven",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/microdegree-transport-haven?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/microdegree-transport-haven?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Logistiek",
+    "domain_subcategory": "Transport en haven",
+    "duration_length": 6,
+    "duration_type": "maanden",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Assistent-dispatcher (wegvervoer)",
     "job_function_category": 643,
-    "esco_category_code": 4323,
+    "esco_category_code": "4323",
     "nacebel_sector": "52",
-    "price": "495.6",
+    "price": 495.6,
     "government_subsidy": "Vlaams opleidingsverlof",
     "skills": "transportplanning, havenoperaties, logistieke coördinatie, douaneprocessen",
     "audience": "Professionals en instromers die in transport, zee- of luchthavenlogistiek willen werken",
@@ -806,9 +1597,9 @@
     "certificate_name": "Getuigschrift Micro-credential Transport en Haven",
     "email": "jesse.mortelmans@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<![CDATA[<p>Goesting om een praktijkgerichte opleiding te volgen die je in 1 jaar klaarstoomt om te werken in de transportsector, in zeehavens en luchthavens? Dan is deze micro-credential iets voor jou. Het is een combinatie van opleidingsonderdelen (ongeveer 20 studiepunten) binnen Supply Chain Management.</p>]]>",
-    "description_program": "<![CDATA[Je volgt les samen met de bachelorstudenten Supply Chain Management, specifiek gericht op transport en havenlogistiek. De modules behandelen o.a. transportplanning, maritieme en luchtvaartoperaties, douaneprocessen en logistieke regelgeving. Praktijkcases en bedrijfsbezoeken geven je inzicht in de werking van zee- en luchthavens. Na afloop beheers je de basis van transport- en havenmanagement.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Doelgroep:</strong> Iedereen met interesse in logistiek en havenactiviteiten, zowel mensen uit het bedrijfsleven als nieuwkomers in de sector.</p><p><strong>Subsidies:</strong> Deze opleiding geeft recht op Vlaams opleidingsverlof (VOV).</p><p><strong>Na de opleiding:</strong> Je kan meteen aan de slag in de transport- en havenwereld, bijvoorbeeld als assistent-dispatcher wegvervoer of terminalplanner.</p>]]>",
+    "description": "<p>Goesting om een praktijkgerichte opleiding te volgen die je in 1 jaar klaarstoomt om te werken in de transportsector, in zeehavens en luchthavens? Dan is deze micro-credential iets voor jou. Het is een combinatie van opleidingsonderdelen (ongeveer 20 studiepunten) binnen Supply Chain Management.</p>",
+    "description_program": "Je volgt les samen met de bachelorstudenten Supply Chain Management, specifiek gericht op transport en havenlogistiek. De modules behandelen o.a. transportplanning, maritieme en luchtvaartoperaties, douaneprocessen en logistieke regelgeving. Praktijkcases en bedrijfsbezoeken geven je inzicht in de werking van zee- en luchthavens. Na afloop beheers je de basis van transport- en havenmanagement.",
+    "description_extrainfo": "<p><strong>Doelgroep:</strong> Iedereen met interesse in logistiek en havenactiviteiten, zowel mensen uit het bedrijfsleven als nieuwkomers in de sector.</p><p><strong>Subsidies:</strong> Deze opleiding geeft recht op Vlaams opleidingsverlof (VOV).</p><p><strong>Na de opleiding:</strong> Je kan meteen aan de slag in de transport- en havenwereld, bijvoorbeeld als assistent-dispatcher wegvervoer of terminalplanner.</p>",
     "location_and_date": [
       {
         "date_start": "2025-10-16",
@@ -816,9 +1607,33 @@
         "hours": "5 donderdagen (ca. 9 tot 16 u.)",
         "location_name": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
         "location_address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": ""
       }
     ],
-    "sessions": []
+    "sessions": [
+      {
+        "date": "16/10/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "transport-en-haven-start-2025-10-16",
+        "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
+        "address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "19/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "transport-en-haven-end-2026-03-19",
+        "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
+        "address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
+        "zipCode": "2018",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
   }
 ]
