@@ -1,24 +1,9 @@
-# scripts/export_smartlions.py
-# Airtable (Courses + Sessions) -> data/smartlions.json
-#
-# Uses:
-# - Courses table: AIRTABLE_TABLE_NAME (same as Jobat)
-# - Courses view:  AIRTABLE_VIEW_NAME_SMARTLIONS (e.g. Published_Smartlions)
-# - Sessions table: AIRTABLE_SESSIONS_TABLE_NAME
-# - Sessions link field to Courses: AIRTABLE_SESSIONS_COURSE_LINK_FIELD (e.g. "Course")
-#
-# Notes:
-# - location_and_date is built from Sessions fields (date_start/date_end/hours/location_*)
-# - sessions array is OPTIONAL: this script will populate it ONLY if the expected
-#   Smartlions session fields exist in Sessions (date/sessionDescription/sessionId/...)
-#   Otherwise, sessions will be [] for all courses (safe default).
-#
-# Make sure requirements.txt includes: requests
-
 import os
 import json
 import requests
+import re
 from urllib.parse import urlparse, urlunparse
+from datetime import datetime
 
 # --- ENV ---
 AIRTABLE_PAT = os.environ["AIRTABLE_PAT"]
@@ -26,12 +11,11 @@ BASE_ID = os.environ["AIRTABLE_BASE_ID"]
 
 COURSES_TABLE_NAME = os.environ["AIRTABLE_TABLE_NAME"]
 SESSIONS_TABLE_NAME = os.environ["AIRTABLE_SESSIONS_TABLE_NAME"]
-SESSIONS_COURSE_LINK_FIELD = os.environ["AIRTABLE_SESSIONS_COURSE_LINK_FIELD"]
+SESSIONS_COURSE_LINK_FIELD = os.environ["AIRTABLE_SESSIONS_COURSE_LINK_FIELD"]  # e.g. "Course"
 
-# Smartlions-specific view
+# Smartlions-specific view for Courses
 COURSES_VIEW = os.environ.get("AIRTABLE_VIEW_NAME_SMARTLIONS", "")  # e.g. Published_Smartlions
-
-# Optional: separate Sessions view (leave empty if you want all sessions)
+# Optional Sessions view
 SESSIONS_VIEW = os.environ.get("AIRTABLE_SESSIONS_VIEW_NAME_SMARTLIONS", "")
 
 COURSES_API_URL = f"https://api.airtable.com/v0/{BASE_ID}/{COURSES_TABLE_NAME}"
@@ -39,7 +23,7 @@ SESSIONS_API_URL = f"https://api.airtable.com/v0/{BASE_ID}/{SESSIONS_TABLE_NAME}
 
 HEADERS = {"Authorization": f"Bearer {AIRTABLE_PAT}"}
 
-# If you want NO UTM for Smartlions, set this to "".
+# Smartlions UTM
 UTM_QUERY = "utm_source=smartlions&utm_medium=affiliate"
 
 
@@ -57,19 +41,27 @@ def to_int(value, default=0) -> int:
         return default
 
 
+def to_float_or_none(value):
+    """Return float if value is numeric-like, else None."""
+    if value is None:
+        return None
+    if isinstance(value, str) and not value.strip():
+        return None
+    try:
+        return float(value)
+    except Exception:
+        return None
+
+
 def add_utm(url: str) -> str:
     """Add UTM only if URL has no existing query string."""
+    url = norm_str(url)
     if not url or not UTM_QUERY:
-        return url or ""
+        return url
     parts = urlparse(url)
     if parts.query:
         return url
     return urlunparse((parts.scheme, parts.netloc, parts.path, parts.params, UTM_QUERY, parts.fragment))
-
-
-def cdata(html) -> str:
-    html = "" if html is None else str(html)
-    return f"<![CDATA[{html}]]>"
 
 
 def skills_to_comma_string(fields: dict) -> str:
@@ -127,14 +119,37 @@ def airtable_fetch_all(api_url: str, view_name: str = "") -> list[dict]:
     return records
 
 
-# --- SESSION BUILDERS ---
+def ymd_to_dmy(date_str: str) -> str:
+    """Convert YYYY-MM-DD to DD/MM/YYYY. If not parseable, return original."""
+    s = norm_str(date_str)
+    if not s:
+        return ""
+    try:
+        # Airtable date fields are typically YYYY-MM-DD
+        dt = datetime.strptime(s[:10], "%Y-%m-%d")
+        return dt.strftime("%d/%m/%Y")
+    except Exception:
+        return s
+
+
+def extract_times(hours_str: str) -> tuple[str, str]:
+    """
+    Extract first two HH:MM occurrences from a string.
+    Returns (startTime, endTime) or ("","") if not found.
+    """
+    s = norm_str(hours_str)
+    times = re.findall(r"\b([01]\d|2[0-3]):[0-5]\d\b", s)
+    if len(times) >= 2:
+        return times[0], times[1]
+    return "", ""
+
+
 def build_location_and_date_block(sf: dict) -> dict:
     """
-    Matches your Jobat 'location_and_date' structure.
+    location_and_date block
     Expected Sessions fields:
       - date_start, date_end, hours
-      - location_name, location_address, location_zip
-      - (optional) location_city, maximum_participants, registration_deadline
+      - location_name, location_address, location_zip, location_city
     """
     block = {
         "date_start": norm_str(sf.get("date_start")),
@@ -143,45 +158,67 @@ def build_location_and_date_block(sf: dict) -> dict:
         "location_name": norm_str(sf.get("location_name")),
         "location_address": norm_str(sf.get("location_address")),
         "location_zip": norm_str(sf.get("location_zip")),
+        "location_city": norm_str(sf.get("location_city")),
     }
+    return block
 
+
+def make_session_id(internal_id: str, kind: str, date_str: str) -> str:
+    """
+    Deterministic sessionId similar to DEF patterns.
+    kind: "start" or "end"
+    date_str: YYYY-MM-DD
+    """
+    iid = norm_str(internal_id)
+    ds = norm_str(date_str)[:10]
+    return f"{iid}-{kind}-{ds}".replace(" ", "-")
+
+
+def build_smartlions_sessions_from_session_record(internal_id: str, sf: dict) -> list[dict]:
+    """
+    Build Smartlions 'sessions' entries from ONE Sessions record that contains date_start/date_end/hours/location_*
+    Output: 0-2 session objects (start+end) depending on dates filled.
+    """
+    start_date = norm_str(sf.get("date_start"))
+    end_date = norm_str(sf.get("date_end"))
+    hours = norm_str(sf.get("hours"))
+
+    locationName = norm_str(sf.get("location_name"))
+    address = norm_str(sf.get("location_address"))
+    zipCode = norm_str(sf.get("location_zip"))
     city = norm_str(sf.get("location_city"))
-    if city:
-        block["location_city"] = city
 
-    maxp = norm_str(sf.get("maximum_participants"))
-    if maxp:
-        block["maximum_participants"] = maxp
+    startTime, endTime = extract_times(hours)
 
-    reg = norm_str(sf.get("registration_deadline"))
-    if reg:
-        block["registration_deadline"] = reg
+    out = []
 
-    return block
+    if start_date:
+        out.append({
+            "date": ymd_to_dmy(start_date),
+            "sessionDescription": "Startdatum",
+            "sessionId": make_session_id(internal_id, "start", start_date),
+            "locationName": locationName,
+            "address": address,
+            "zipCode": zipCode,
+            "city": city,
+            "startTime": startTime,
+            "endTime": endTime,
+        })
 
+    if end_date:
+        out.append({
+            "date": ymd_to_dmy(end_date),
+            "sessionDescription": "Einddatum",
+            "sessionId": make_session_id(internal_id, "end", end_date),
+            "locationName": locationName,
+            "address": address,
+            "zipCode": zipCode,
+            "city": city,
+            "startTime": startTime,
+            "endTime": endTime,
+        })
 
-def build_smartlions_session_block(sf: dict) -> dict:
-    """
-    Smartlions 'sessions' block (as seen in DEF-Smartlions.json).
-    This is OPTIONAL and will only be meaningful if your Sessions table contains these exact fields.
-    If your Sessions table doesn't contain them, the returned block will be empty and ignored.
-    """
-    block = {
-        "date": norm_str(sf.get("date")),
-        "sessionDescription": norm_str(sf.get("sessionDescription")),
-        "sessionId": norm_str(sf.get("sessionId")),
-        "locationName": norm_str(sf.get("locationName")),
-        "address": norm_str(sf.get("address")),
-        "zipCode": norm_str(sf.get("zipCode")),
-        "city": norm_str(sf.get("city")),
-        "startTime": norm_str(sf.get("startTime")),
-        "endTime": norm_str(sf.get("endTime")),
-    }
-    return block
-
-
-def any_nonempty(d: dict) -> bool:
-    return any(v for v in d.values())
+    return out
 
 
 def main():
@@ -211,34 +248,40 @@ def main():
             linked = [linked] if linked else []
 
         lad_block = build_location_and_date_block(sf)
-        sess_block = build_smartlions_session_block(sf)
 
         for course_rec_id in linked:
             iid = course_id_to_internal.get(course_rec_id)
             if not iid:
                 continue
 
-            if any_nonempty(lad_block):
+            # location_and_date
+            if any(v for v in lad_block.values()):
                 lad_by_internal.setdefault(iid, []).append(lad_block)
 
-            # Only add if your Sessions has these Smartlions-specific fields filled
-            if any_nonempty(sess_block):
-                sessions_by_internal.setdefault(iid, []).append(sess_block)
+            # sessions (2 entries: start+end) derived from Sessions record
+            for sess in build_smartlions_sessions_from_session_record(iid, sf):
+                sessions_by_internal.setdefault(iid, []).append(sess)
 
-    # Sort deterministically
+    # Sort + dedupe sessions by sessionId
     def lad_sort(b):
         return (b.get("date_start", ""), b.get("location_name", ""), b.get("hours", ""))
-
-    def sess_sort(b):
-        return (b.get("date", ""), b.get("sessionDescription", ""), b.get("startTime", ""))
 
     for iid in lad_by_internal:
         lad_by_internal[iid] = sorted(lad_by_internal[iid], key=lad_sort)
 
     for iid in sessions_by_internal:
-        sessions_by_internal[iid] = sorted(sessions_by_internal[iid], key=sess_sort)
+        seen = set()
+        unique = []
+        for s in sorted(sessions_by_internal[iid], key=lambda x: (x.get("date", ""), x.get("sessionDescription", ""))):
+            sid = s.get("sessionId", "")
+            if sid and sid in seen:
+                continue
+            if sid:
+                seen.add(sid)
+            unique.append(s)
+        sessions_by_internal[iid] = unique
 
-    # 3) Build Smartlions JSON
+    # 3) Build Smartlions JSON (match DEF-Smartlions structure)
     output = []
     for cr in course_records:
         f = cr.get("fields", {})
@@ -247,22 +290,30 @@ def main():
         obj = {
             "internal_id": internal_id,
             "title": norm_str(f.get("title")),
-            "language": norm_str(f.get("language")),
+            "language": norm_str(f.get("language")).upper(),
             "webaddress": add_utm(norm_str(f.get("webaddress"))),
             "provider": "Karel de Grote Hogeschool",
+
+            # Added fields (per your step 2)
+            "domain_category": norm_str(f.get("domain_category")),
+            "domain_subcategory": norm_str(f.get("domain_subcategory")),
+            "duration_length": f.get("duration_length", None),
+            "duration_type": norm_str(f.get("duration_type")),
 
             "course_type": to_int(f.get("course_type"), 0),
             "degree_type": to_int(f.get("degree_type"), 0),
 
             "job_title": norm_str(f.get("job_title")),
             "job_function_category": to_int(f.get("job_function_category"), 0),
-            "esco_category_code": to_int(f.get("esco_category_code"), 0),
+
+            # Codeveld: als string exporteren (matches DEF better)
+            "esco_category_code": norm_str(f.get("esco_category_code")),
+
             "nacebel_sector": norm_str(f.get("nacebel_sector")),
 
-            # Keep your current policy for Smartlions:
-            # - if Airtable stores price already formatted, we keep as string
-            # - if empty -> empty string
-            "price": norm_str(f.get("price")),
+            # price: numeric like DEF (or null if empty)
+            "price": to_float_or_none(f.get("price")),
+
             "government_subsidy": government_subsidy_to_comma(f),
 
             "skills": skills_to_comma_string(f),
@@ -273,9 +324,10 @@ def main():
             "email": norm_str(f.get("email")),
             "course_image": norm_str(f.get("course_image")),
 
-            "description": cdata(f.get("description_html")),
-            "description_program": cdata(f.get("description_program_html")),
-            "description_extrainfo": cdata(f.get("description_extrainfo_html")),
+            # NO CDATA for Smartlions (match DEF)
+            "description": norm_str(f.get("description_html")),
+            "description_program": norm_str(f.get("description_program_html")),
+            "description_extrainfo": norm_str(f.get("description_extrainfo_html")),
 
             "location_and_date": lad_by_internal.get(internal_id, []),
             "sessions": sessions_by_internal.get(internal_id, []),
