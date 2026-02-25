@@ -1,5 +1,43 @@
 [
   {
+    "internal_id": "aan-de-slag-met-duurzaamheid-binnen-de-kinderopvang",
+    "title": "Aan de slag met duurzaamheid binnen de kinderopvang",
+    "language": "nl",
+    "price": "",
+    "certificate_name": "Attest van deelname",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "margaux.berkvens@kdg.be",
+    "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
+    "skills": "Duurzaamheidsintegratie, Pedagogisch beleid, Teamontwikkeling, Groepsreflectie",
+    "audience": "Begeleiders, pedagogisch coaches en organisatoren in de kinderopvang.",
+    "domain_category": "Onderwijs",
+    "domain_subcategory": "Duurzaamheid in de kinderopvang",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/aan-de-slag-met-duurzaamheid-binnen-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": "2.5",
+    "duration_type": "hours",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 1,
+    "description": "<![CDATA[Deze bijscholing richt zich op het integreren van de 17 Duurzame Ontwikkelingsdoelen (SDG's) in de werking van kinderopvangorganisaties. De sessie biedt praktische handvatten en tools om duurzaamheid op een haalbare en toekomstgerichte manier te implementeren binnen het pedagogisch raamwerk.]]>",
+    "description_program": "<![CDATA[Het programma bestaat uit een sessie van 2,5 uur waarin de volgende onderwerpen aan bod komen:<ul><li>Introductie tot de 17 SDG's en hun relevantie voor de kinderopvang.</li><li>Verkenning van de huidige praktijken binnen de opvangorganisatie.</li><li>Identificatie van haalbare acties en integratie van duurzaamheid in het pedagogisch beleid.</li><li>Groepsreflectie en planning van concrete stappen voor implementatie.</li></ul>]]>",
+    "description_extrainfo": "<![CDATA[De bijscholing is op maat van de organisatie en wordt gegeven in overleg. De groepsgrootte is maximaal 25 deelnemers. De prijs is op aanvraag. Voor inhoudelijke vragen kan contact worden opgenomen met Margaux Berkvens via margaux.berkvens@kdg.be.]]>",
+    "job_function_category": 743,
+    "esco_category_code": 2635,
+    "nacebel_sector": "88.91",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "2.5",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
+  },
+  {
     "internal_id": "acupunctuur",
     "title": "Acupunctuur",
     "language": "nl",
@@ -31,9 +69,10 @@
         "date_start": "2025-09-27",
         "date_end": "2028-06-12",
         "hours": "Vrijdag van 13:30 tot 20 u. en zaterdag van 9  ot 17 u. (tweewekelijks)",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 23",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -42,7 +81,7 @@
     "title": "Afbeeldingen maken en bewerken",
     "language": "nl",
     "price": "595.00",
-    "certificate_name": "",
+    "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "digitalbusiness@kdg.be",
     "job_title": "Graphic content creator",
@@ -63,7 +102,7 @@
     "esco_category_code": 2166,
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen; basis computergebruik volstaat",
-    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-02-04",
@@ -101,15 +140,16 @@
     "esco_category_code": 3313,
     "nacebel_sector": "69.20",
     "required_knowledge": "Diploma secundair onderwijs (of gelijkgesteld) en voldoen aan taalvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet, Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques, KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2025-11-18",
         "date_end": "2026-04-02",
         "hours": "dinsdag & donderdag 16:00-19:30",
-        "location_name": "Campus Groenplaats",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -145,9 +185,10 @@
         "date_start": "2025-09-23",
         "date_end": "2026-06-30",
         "hours": "Woensdagnamiddag/avond (wekelijks)",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -177,7 +218,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -190,7 +231,7 @@
     ]
   },
   {
-    "internal_id": "basistraject-voor-begeleiders-de-buitenschoolse-kinderopvang",
+    "internal_id": "basistraject-voor-begeleiders-in-de-buitenschoolse-kinderopvang",
     "title": "Basistraject voor begeleiders in de buitenschoolse kinderopvang",
     "language": "nl",
     "price": "",
@@ -215,7 +256,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -252,21 +293,22 @@
     "job_function_category": 740,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-23",
         "date_end": "2026-02-05",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "begrijpen-en-verbinden-communicatieskills-voor-een",
+    "internal_id": "begrijpen-en-verbinden-communicatieskills-voor-een-professionele-schoolcultuur",
     "title": "Begrijpen en verbinden. Communicatieskills voor een professionele schoolcultuur",
     "language": "nl",
     "price": "135.00",
@@ -290,14 +332,14 @@
     "job_function_category": 743,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-02-24",
         "date_end": "2026-02-24",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -330,7 +372,7 @@
     "esco_category_code": 2412,
     "nacebel_sector": "66.19",
     "required_knowledge": "Geen specifieke voorkennis vereist (basisinzicht economie en wiskunde is nuttig)",
-    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -338,7 +380,8 @@
         "hours": "dinsdagavond 16:00-19:00 (deels online, deels campus)",
         "location_name": "Campus Groenplaats / online",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -368,7 +411,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -385,7 +428,7 @@
     "title": "Bijscholing Zorgkundigen",
     "language": "nl",
     "price": "",
-    "certificate_name": "Getuigschrift van deelname",
+    "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
     "job_title": "Zorgkundige",
@@ -406,7 +449,7 @@
     "esco_category_code": 3221,
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2024-11-13",
@@ -419,7 +462,7 @@
     ]
   },
   {
-    "internal_id": "bind-krachtvorming-er-is-meer-dan-je-denkt",
+    "internal_id": "bindkrachtvorming-er-is-meer-dan-je-denkt",
     "title": "Bind-Krachtvorming 'Er is meer dan je denkt'",
     "language": "nl",
     "price": "",
@@ -444,7 +487,7 @@
     "esco_category_code": 2633,
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -457,14 +500,14 @@
     ]
   },
   {
-    "internal_id": "bind-krachtvorming-isolement-beperkt-budget",
+    "internal_id": "bindkrachtvorming-in-isolement-door-een-beperkt-budget",
     "title": "Bind-Krachtvorming 'In isolement door een beperkt budget'",
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
-    "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider",
+    "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Krachtgericht werken, Reflectief handelen, Dialoog, Empowerment",
     "audience": "Hulpverleners die individueel en in groep werken met mensen in armoede en kwetsbare mensen met een multi-problematiek.",
     "domain_category": "Sociaal werk",
@@ -482,7 +525,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -495,7 +538,7 @@
     ]
   },
   {
-    "internal_id": "bind-krachtvorming-krachtgericht-onthaal",
+    "internal_id": "bindkrachtvorming-krachtgericht-onthaal",
     "title": "Bind-Krachtvorming 'Krachtgericht onthaal'",
     "language": "nl",
     "price": "150.00",
@@ -520,7 +563,7 @@
     "esco_category_code": 2633,
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -533,14 +576,14 @@
     ]
   },
   {
-    "internal_id": "bind-krachtvorming-onmacht-in-de-relatie",
+    "internal_id": "bindkrachtvorming-onmacht-in-de-relatie",
     "title": "Bind-Krachtvorming 'Onmacht in de relatie'",
     "language": "nl",
     "price": "",
     "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
-    "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider",
+    "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Krachtgericht werken, Reflectief handelen, Dialoog, Empowerment",
     "audience": "Hulpverleners en begeleiders in het algemeen welzijnswerk, OCMW's, integrale jeugdhulp, geestelijke gezondheidszorg, justitieel welzijnswerk, opbouwwerkers en sociaal-cultureel werkers.",
     "domain_category": "Gezondheidszorg",
@@ -558,7 +601,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -571,7 +614,45 @@
     ]
   },
   {
-    "internal_id": "boost-voor-startende-leerkrachten-basis-secundair-onderwijs",
+    "internal_id": "bindkrachtvorming-verwijzen-is-niet-afwijzen-naar-een-warme-overdracht",
+    "title": "Bind-Krachtvorming 'Verwijzen is niet afwijzen. Naar een warme overdracht.'",
+    "language": "nl",
+    "price": "",
+    "certificate_name": "Attest van deelname",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "bindkracht@kdg.be",
+    "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
+    "skills": "Doorverwijzen, Afscheid nemen, Informatieoverdracht, Krachtgericht werken, Reflectief handelen",
+    "audience": "Hulpverleners die individueel en in groep werken met mensen in armoede en kwetsbare mensen met een multi-problematiek",
+    "domain_category": "Sociale sector",
+    "domain_subcategory": "Hulpverlening",
+    "webaddress": "https://www.kdg.be/warme-overdracht?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": "",
+    "duration_type": "days",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 1,
+    "description": "<![CDATA[Als hulpverlener moet je op een gegeven moment de hulpvrager loslaten. Hoe doe je dit zonder verlies voor beide partijen? Zodat je je cliënt kan loslaten versus laten vallen? Deze vorming focust op doorverwijzen en afscheid nemen van een, meestal, moeizaam opgebouwde hulpverleningsrelatie.]]>",
+    "description_program": "<![CDATA[De vorming behandelt thema's zoals samen de overstap maken, goede informatieoverdracht, behouden van wat gerealiseerd werd, vermijden van herhaling van eerdere trajecten, en zoeken naar een handleiding om dit met respect voor alle partijen te realiseren. Theoretische kaders en creatieve werkvormen wisselen elkaar af, met ruimte voor concrete verhalen vanop de werkvloer.]]>",
+    "description_extrainfo": "<![CDATA[De vorming is op maat van je organisatie en wordt gegeven door Aafje De Wacker, maatschappelijk werker met ruim 35 jaar ervaring binnen het algemeen welzijnswerk, en Bind-Kracht coaches, ervaringsexperten in armoede en sociale uitsluiting.]]>",
+    "job_function_category": 724,
+    "esco_category_code": 2633,
+    "nacebel_sector": "88.99",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "location_and_date": [
+      {
+        "date_start": "",
+        "date_end": "",
+        "hours": "",
+        "location_name": "Op locatie in jouw organisatie",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
+  },
+  {
+    "internal_id": "boost-voor-startende-leerkrachten-basis-of-secundair-onderwijs",
     "title": "Boost voor startende leerkrachten (basis of secundair onderwijs)",
     "language": "nl",
     "price": "225.00",
@@ -595,14 +676,14 @@
     "job_function_category": 740,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-11-28",
         "date_end": "2026-05-22",
         "hours": "Van 13 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -634,21 +715,22 @@
     "job_function_category": 743,
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-06-24",
         "date_end": "2025-06-24",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "buiten-gewoon-bewegen-en-leren-trek-met-je-klas-naar-buiten",
+    "internal_id": "buiten-gewoon-bewegen-en-leren-trek-met-je-klas-naar-buiten-om-meer-te-leren",
     "title": "Buiten gewoon bewegen en leren. Trek met je klas naar buiten om meer te leren.",
     "language": "nl",
     "price": "135.00",
@@ -672,14 +754,14 @@
     "job_function_category": 743,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-04-28",
         "date_end": "2026-04-28",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -718,9 +800,10 @@
         "date_start": "2025-09-15",
         "date_end": "2026-06-30",
         "hours": "Maandag en woensdag overdag (voltijds) of woensdag namiddag/avond (deeltijds)",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -750,7 +833,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -794,9 +877,10 @@
         "date_start": "2025-10-02",
         "date_end": "2026-06-18",
         "hours": "Donderdag (van 8.30 tot 17.45 u.) – bijna wekelijks",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -826,7 +910,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -839,7 +923,7 @@
     ]
   },
   {
-    "internal_id": "componenten-levensbeschouwelijke-religieuze-groei-kleuterklas",
+    "internal_id": "componenten-van-levensbeschouwelijke-religieuze-groei-in-de-kleuterklas",
     "title": "Componenten van levensbeschouwelijke religieuze groei in de kleuterklas",
     "language": "nl",
     "price": "",
@@ -864,7 +948,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -901,14 +985,14 @@
     "job_function_category": 743,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-04-22",
         "date_end": "2026-04-22",
         "hours": "Van 9 tot 12 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -920,7 +1004,7 @@
     "title": "Contentcreatie",
     "language": "nl",
     "price": "2380.00",
-    "certificate_name": "",
+    "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "digitalbusiness@kdg.be",
     "job_title": "Content marketeer",
@@ -940,8 +1024,8 @@
     "job_function_category": 701,
     "esco_category_code": 2431,
     "nacebel_sector": "73.11",
-    "required_knowledge": "Geen specifieke vooropleiding vereist",
-    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
+    "required_knowledge": "Geen specifieke voorkennis vereist",
+    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-02-03",
@@ -979,7 +1063,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -1023,9 +1107,10 @@
         "date_start": "2025-09-15",
         "date_end": "2026-06-30",
         "hours": "Avondonderwijs (dagen variabel) – modulair per onderwerp",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -1055,7 +1140,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -1092,14 +1177,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-04-28",
         "date_end": "2026-04-28",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -1131,14 +1216,14 @@
     "job_function_category": 743,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-01-13",
         "date_end": "2026-03-20",
         "hours": "Van 9 tot 12 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -1146,7 +1231,7 @@
     ]
   },
   {
-    "internal_id": "differentiatie-integreren-de-kleuterklas",
+    "internal_id": "differentiatie-integreren-in-de-kleuterklas",
     "title": "Differentiatie integreren in de kleuterklas",
     "language": "nl",
     "price": "",
@@ -1171,7 +1256,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -1184,7 +1269,7 @@
     ]
   },
   {
-    "internal_id": "digiplay-spelen-met-digitale-media-de-kinderopvang",
+    "internal_id": "digiplay-spelen-met-digitale-media-in-de-kinderopvang",
     "title": "Digiplay: spelen met digitale media in de kinderopvang",
     "language": "nl",
     "price": "70.00",
@@ -1208,8 +1293,8 @@
     "job_function_category": 743,
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -1223,14 +1308,15 @@
         "date_start": "2025-11-20",
         "date_end": "2025-11-20",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "digital-business",
+    "internal_id": "digital-business-en-online-marketing",
     "title": "Digital Business en Online Marketing",
     "language": "nl",
     "price": "2595.00",
@@ -1261,9 +1347,10 @@
         "date_start": "2025-09-01",
         "date_end": "2026-01-31",
         "hours": "Op donderdag (wekelijks) van 14 u. tot 21 u. met 2 pauzes en warme maaltijd tussendoor",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -1293,7 +1380,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -1302,60 +1389,6 @@
         "location_name": "Op locatie in jouw organisatie",
         "location_address": "",
         "location_zip": ""
-      }
-    ]
-  },
-  {
-    "internal_id": "e-mobility-laadpaalinfrastructuur-de-praktijk",
-    "title": "E-Mobility: Laadpaalinfrastructuur in de praktijk",
-    "language": "nl",
-    "price": "375.00",
-    "certificate_name": "",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "gazi.akdag@kdg.be",
-    "job_title": "Technisch adviseur e-mobility, installateur laadpalen, laadinfra-technicus, EV-consultant",
-    "skills": "AC/DC-laadsystemen, analyse klantbehoefte, installatievereisten, datasheetinterpretatie, AREI-veiligheid, toegangscontrole, commerciële advisering",
-    "audience": "Installateurs van laadpalen, technisch adviseurs, managers met verantwoordelijkheid over laadinfrastructuur, professionals in e-mobility",
-    "domain_category": "Techniek & technologie",
-    "domain_subcategory": "E-Mobility en laadinfrastructuur",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/e-mobility-laadpaalinfrastructuur-de-praktijk?utm_source=jobat&utm_medium=affiliate",
-    "degree_type": 5,
-    "duration_length": "9",
-    "duration_type": "hours",
-    "provider": "Karel de Grote Hogeschool",
-    "course_type": 1,
-    "description": "<![CDATA[<p>Deze navorming geeft een praktisch en technisch inzicht in AC- en DC-laadoplossingen voor elektrische voertuigen, inclusief interpretatie van datasheets, installatievereisten en commerciële aspecten om klanten professioneel te adviseren over laadoplossingen.</p>]]>",
-    "description_program": "<![CDATA[<p>Het traject omvat sessies over laadstandaarden, klantanalyse, AC- en DC-laders, installatievereisten conform AREI, types lastmanagement, datasheetinterpretatie, beveiliging en basiswerking van elektrische voertuigen.</p>]]>",
-    "description_extrainfo": "<![CDATA[<p>De navorming wordt gegeven over meerdere avonden; er wordt diepgaand technisch en commercieel ingegaan op laadinfrastructuur voor EV’s. Contactpersonen staan vermeld voor inhoudelijke of praktische vragen.</p>]]>",
-    "job_function_category": 565,
-    "esco_category_code": 7411,
-    "nacebel_sector": "43210",
-    "required_knowledge": "",
-    "government_subsidy": "",
-    "location_and_date": [
-      {
-        "date_start": "2026-03-05",
-        "date_end": "2026-03-05",
-        "hours": "18:30 - 21:30",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
-      },
-      {
-        "date_start": "2026-03-12",
-        "date_end": "2026-03-12",
-        "hours": "18:30 - 21:30",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
-      },
-      {
-        "date_start": "2026-03-19",
-        "date_end": "2026-03-19",
-        "hours": "18:30 - 21:30",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
       }
     ]
   },
@@ -1384,14 +1417,14 @@
     "job_function_category": 743,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-01-28",
         "date_end": "2026-01-28",
         "hours": "Van 9 tot 12 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -1399,7 +1432,7 @@
     ]
   },
   {
-    "internal_id": "een-geintegreerde-visie-op-evaluatie-binnen-moderne-vreemde",
+    "internal_id": "een-gentegreerde-visie-op-evaluatie-binnen-moderne-vreemde-talen-mvt",
     "title": "Een geïntegreerde visie op evaluatie binnen moderne vreemde talen (MVT)",
     "language": "nl",
     "price": "135.00",
@@ -1423,14 +1456,14 @@
     "job_function_category": 744,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-11-18",
         "date_end": "2025-11-18",
         "hours": "Van 9 tot 15.15 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -1463,15 +1496,73 @@
     "esco_category_code": 3111,
     "nacebel_sector": "21.20",
     "required_knowledge": "Bachelor of master in biomedische laboratoriumtechnologie, (bio)chemie of gelijkaardig, of relevante werkervaring",
-    "government_subsidy": "Kmo-portefeuille",
+    "government_subsidy": "KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2025-06-02",
         "date_end": "2025-06-09",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Hoboken",
+        "location_name": "Campus Hoboken (KdG)",
         "location_address": "Salesianenlaan 90",
-        "location_zip": "2660"
+        "location_zip": "2660",
+        "location_city": "Antwerpen"
+      }
+    ]
+  },
+  {
+    "internal_id": "emobility-laadpaalinfrastructuur-in-de-praktijk",
+    "title": "E-Mobility: Laadpaalinfrastructuur in de praktijk",
+    "language": "nl",
+    "price": "375.00",
+    "certificate_name": "Attest van deelname",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "gazi.akdag@kdg.be",
+    "job_title": "Technisch adviseur e-mobility, installateur laadpalen, laadinfra-technicus, EV-consultant",
+    "skills": "AC/DC-laadsystemen, analyse klantbehoefte, installatievereisten, datasheetinterpretatie, AREI-veiligheid, toegangscontrole, commerciële advisering",
+    "audience": "Installateurs van laadpalen, technisch adviseurs, managers met verantwoordelijkheid over laadinfrastructuur, professionals in e-mobility",
+    "domain_category": "Techniek & technologie",
+    "domain_subcategory": "E-Mobility en laadinfrastructuur",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/e-mobility-laadpaalinfrastructuur-de-praktijk?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": "9",
+    "duration_type": "hours",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 1,
+    "description": "<![CDATA[<p>Deze navorming geeft een praktisch en technisch inzicht in AC- en DC-laadoplossingen voor elektrische voertuigen, inclusief interpretatie van datasheets, installatievereisten en commerciële aspecten om klanten professioneel te adviseren over laadoplossingen.</p>]]>",
+    "description_program": "<![CDATA[<p>Het traject omvat sessies over laadstandaarden, klantanalyse, AC- en DC-laders, installatievereisten conform AREI, types lastmanagement, datasheetinterpretatie, beveiliging en basiswerking van elektrische voertuigen.</p>]]>",
+    "description_extrainfo": "<![CDATA[<p>De navorming wordt gegeven over meerdere avonden; er wordt diepgaand technisch en commercieel ingegaan op laadinfrastructuur voor EV’s. Contactpersonen staan vermeld voor inhoudelijke of praktische vragen.</p>]]>",
+    "job_function_category": 565,
+    "esco_category_code": 7411,
+    "nacebel_sector": "43210",
+    "required_knowledge": "",
+    "government_subsidy": "",
+    "location_and_date": [
+      {
+        "date_start": "2026-03-05",
+        "date_end": "2026-03-05",
+        "hours": "18:30 - 21:30",
+        "location_name": "Campus Zuid (KdG)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      },
+      {
+        "date_start": "2026-03-12",
+        "date_end": "2026-03-12",
+        "hours": "18:30 - 21:30",
+        "location_name": "Campus Zuid (KdG)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      },
+      {
+        "date_start": "2026-03-19",
+        "date_end": "2026-03-19",
+        "hours": "18:30 - 21:30",
+        "location_name": "Campus Zuid (KdG)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -1500,14 +1591,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-14",
         "date_end": "2026-01-13",
         "hours": "Van 8.30 tot 12 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -1539,14 +1630,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-14",
         "date_end": "2026-01-13",
         "hours": "Van 8.30 tot 12 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -1578,14 +1669,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-05-13",
         "date_end": "2026-05-13",
         "hours": "Van 8.45 u. tot 17.15 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -1593,7 +1684,7 @@
     ]
   },
   {
-    "internal_id": "ervaringsgerichte-psychosociale-hulpverlening-jeugdzorg",
+    "internal_id": "ervaringsgerichte-psychosociale-hulpverlening-in-de-jeugdzorg",
     "title": "Ervaringsgerichte psychosociale hulpverlening in de jeugdzorg",
     "language": "nl",
     "price": "",
@@ -1618,7 +1709,7 @@
     "esco_category_code": 2633,
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -1655,16 +1746,17 @@
     "job_function_category": 743,
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-01-08",
         "date_end": "2026-02-05",
         "hours": "Van 9 tot 16 u. en van 13 tot 16.15 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -1694,7 +1786,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -1732,7 +1824,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -1769,14 +1861,14 @@
     "job_function_category": 743,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-11-04",
         "date_end": "2025-11-04",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -1799,7 +1891,7 @@
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/finance-essentials-voor-ondernemers-en-professionals?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": "2",
-    "duration_type": "day",
+    "duration_type": "days",
     "provider": "Karel de Grote Hogeschool",
     "course_type": 1,
     "description": "<![CDATA[<p>In dit praktijkgericht bijscholingstraject krijg je een heldere en toepasbare introductie in financiële kernbegrippen zoals balansanalyse, cashflow, ratio’s en financiering. Je leert financiële informatie beter interpreteren en vertalen naar jouw werkcontext, zodat je sterker staat bij beslissingen en rapportages.</p>]]>",
@@ -1815,14 +1907,15 @@
         "date_start": "2026-03-10",
         "date_end": "2026-03-17",
         "hours": "13.30 - 16.30 u.",
-        "location_name": "KdG Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45, 2018 Antwerpen",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "fixatiearm-beleid-in-een-residentiele-setting",
+    "internal_id": "fixatiearm-beleid-in-een-residentile-setting",
     "title": "Fixatiearm beleid in een residentiële setting",
     "language": "nl",
     "price": "70.00",
@@ -1846,14 +1939,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-02-09",
         "date_end": "2026-04-29",
         "hours": "Van 13 tot 17.15 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -1886,20 +1979,21 @@
     "esco_category_code": 3111,
     "nacebel_sector": "21.20",
     "required_knowledge": "Bachelor (professioneel of academisch) in biomedische laboratoriumtechnologie, farmalabo of (bio)chemie, of relevante werkervaring in lab; geen flowcytometrie-voorkennis nodig",
-    "government_subsidy": "Kmo-portefeuille",
+    "government_subsidy": "KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2025-09-16",
         "date_end": "2025-09-18",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Hoboken",
+        "location_name": "Campus Hoboken (KdG)",
         "location_address": "Salesianenlaan 90",
-        "location_zip": "2660"
+        "location_zip": "2660",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "frans-voor-heterogene-klasgroepen-en-ex-okan-leerlingen",
+    "internal_id": "frans-voor-heterogene-klasgroepen-en-exokanleerlingen",
     "title": "Frans voor heterogene klasgroepen en ex-OKAN-leerlingen",
     "language": "nl",
     "price": "135.00",
@@ -1923,14 +2017,14 @@
     "job_function_category": 744,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-11-04",
         "date_end": "2025-11-04",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -1962,14 +2056,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-05-18",
         "date_end": "2026-05-18",
         "hours": "Van 8.45 u. tot 16.15 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2008,9 +2102,10 @@
         "date_start": "2025-09-15",
         "date_end": "2027-06-30",
         "hours": "Dinsdagavond (lesjaar 1 en 2), gecombineerd met vrijstellingsproeven (lesjaar 3)",
-        "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -2039,14 +2134,14 @@
     "job_function_category": 740,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-11-20",
         "date_end": "2026-03-17",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2079,7 +2174,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -2123,9 +2218,10 @@
         "date_start": "2025-10-02",
         "date_end": "2026-06-18",
         "hours": "Donderdag (telkens van 8.30 tot 17.45 u.) – wekelijks",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -2155,13 +2251,13 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma verpleegkunde vereist; ervaring in de zorgsector is aanbevolen",
-    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof",
+    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
         "date_end": "2026-06-30",
         "hours": "Iedere lesdag start om 8.30 u. en eindigt ten laatste om 18 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2193,16 +2289,17 @@
     "job_function_category": 740,
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-06-24",
         "date_end": "2025-06-24",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -2232,7 +2329,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -2315,7 +2412,7 @@
         "date_start": "2026-04-24",
         "date_end": "2026-05-08",
         "hours": "10.00 - 12.00 u.",
-        "location_name": "Online via Teams",
+        "location_name": "Online",
         "location_address": "",
         "location_zip": ""
       }
@@ -2346,14 +2443,14 @@
     "job_function_category": 743,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-11-04",
         "date_end": "2025-12-02",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2361,7 +2458,7 @@
     ]
   },
   {
-    "internal_id": "hoop-palliatieve-zorg",
+    "internal_id": "hoop-in-palliatieve-zorg",
     "title": "Hoop in palliatieve zorg",
     "language": "nl",
     "price": "130.00",
@@ -2385,14 +2482,14 @@
     "job_function_category": 503,
     "esco_category_code": 2221,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-03-16",
         "date_end": "2026-03-16",
         "hours": "Van 12.30 u. tot 17.00 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2431,14 +2528,15 @@
         "date_start": "2026-02-05",
         "date_end": "2026-06-25",
         "hours": "Telkens op donderdag van 14 - 21 u. met 1 uur pauze tussendoor",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "inzicht-emoties-babys-peuters-online-training",
+    "internal_id": "inzicht-in-emoties-van-babys-en-peuters-online-training",
     "title": "Inzicht in emoties van baby's en peuters: online training",
     "language": "nl",
     "price": "110.00",
@@ -2462,8 +2560,8 @@
     "job_function_category": 743,
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-01",
@@ -2507,7 +2605,7 @@
         "date_start": "2025-11-15",
         "date_end": "2025-11-15",
         "hours": "Van 9 u. tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2539,14 +2637,14 @@
     "job_function_category": 740,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-12-11",
         "date_end": "2026-05-07",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2554,7 +2652,7 @@
     ]
   },
   {
-    "internal_id": "kwaliteitsvol-werken-de-opvang-samen-bouwen-aan-missie-en",
+    "internal_id": "kwaliteitsvol-werken-in-de-opvang-samen-bouwen-aan-missie-en-visie",
     "title": "Kwaliteitsvol werken in de opvang: samen bouwen aan missie en visie",
     "language": "nl",
     "price": "",
@@ -2579,7 +2677,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -2616,14 +2714,14 @@
     "job_function_category": 740,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-20",
         "date_end": "2026-01-15",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2656,13 +2754,13 @@
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
     "required_knowledge": "Basiskennis van wondzorg en hygiëneprotocollen.",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-12-04",
         "date_end": "2026-05-26",
         "hours": "Van 13 tot 16.30 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2670,7 +2768,7 @@
     ]
   },
   {
-    "internal_id": "lerend-netwerk-avontuurlijk-vergroenen-de-kinderopvang",
+    "internal_id": "lerend-netwerk-avontuurlijk-vergroenen-in-de-kinderopvang",
     "title": "Lerend netwerk: avontuurlijk vergroenen in de kinderopvang",
     "language": "nl",
     "price": "350.00",
@@ -2695,13 +2793,13 @@
     "esco_category_code": 5311,
     "nacebel_sector": "88.91",
     "required_knowledge": "Ervaring in de kinderopvang of pedagogische begeleiding",
-    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof",
+    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-15",
         "date_end": "2026-05-20",
         "hours": "Van 9.30 tot 12.30 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2733,14 +2831,14 @@
     "job_function_category": 724,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-08",
         "date_end": "2025-10-08",
         "hours": "Van 18.30 tot 21.45 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2748,7 +2846,7 @@
     ]
   },
   {
-    "internal_id": "lio-lab-kleuter-en-lager-onderwijs",
+    "internal_id": "liolab-kleuter-en-lager-onderwijs",
     "title": "LIO-lab Kleuter- en Lager Onderwijs",
     "language": "nl",
     "price": "",
@@ -2772,16 +2870,17 @@
     "job_function_category": 743,
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-08-25",
         "date_end": "2026-02-23",
         "hours": "Van 9 tot 16 u. Intervisiemomenten van 18.30 tot ten laatste 20.30 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -2801,7 +2900,7 @@
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/logistiek-en-voorraadbeheer?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": "6",
-    "duration_type": "maanden",
+    "duration_type": "months",
     "provider": "Karel de Grote Hogeschool",
     "course_type": 5,
     "description": "<![CDATA[<p>Interesse in logistiek en voorraadbeheer? Goesting om een praktijkgerichte opleiding te volgen die je in 1 jaar klaarstoomt om te werken in deze essentiële sector? Dan past deze micro-credential bij jou. Het is een hapklare module (ca. 20 studiepunten) binnen Supply Chain Management, specifiek gericht op voorraadbeheer en logistieke processen.</p>]]>",
@@ -2811,15 +2910,16 @@
     "esco_category_code": 4321,
     "nacebel_sector": "52",
     "required_knowledge": "Diploma secundair onderwijs of gelijkwaardige ervaring in logistiek is aanbevolen",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
         "date_end": "2026-01-31",
         "hours": "dagopleiding (lesuren overdag)",
-        "location_name": "Campus Groenplaats",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -2828,7 +2928,7 @@
     "title": "Marketingvideo’s zelf maken",
     "language": "nl",
     "price": "595.00",
-    "certificate_name": "",
+    "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "digitalbusiness@kdg.be",
     "job_title": "Video content creator",
@@ -2849,7 +2949,7 @@
     "esco_category_code": 3521,
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen; basis computervaardigheden volstaan",
-    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-04-21",
@@ -2886,8 +2986,8 @@
     "job_function_category": 901,
     "esco_category_code": 2421,
     "nacebel_sector": "74.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2025-09-23",
@@ -2895,7 +2995,8 @@
         "hours": "Van 16 tot 21 u.",
         "location_name": "Campus Groenplaats, De Kwekerij Lier",
         "location_address": "Brusselstraat 45, 2018 Antwerpen",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -2924,14 +3025,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-03-19",
         "date_end": "2026-05-21",
         "hours": "Van 8.30 tot 16.30 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -2939,7 +3040,7 @@
     ]
   },
   {
-    "internal_id": "meertalige-gezinnen-de-kinderopvang-zo-ondersteun-je-hun",
+    "internal_id": "meertalige-gezinnen-in-de-kinderopvang-zo-ondersteun-je-hun-taalontwikkeling",
     "title": "Meertalige gezinnen in de kinderopvang: zo ondersteun je hun taalontwikkeling",
     "language": "nl",
     "price": "",
@@ -2964,7 +3065,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -3008,9 +3109,10 @@
         "date_start": "2025-09-30",
         "date_end": "2026-06-30",
         "hours": "Dinsdag (hele dag) – wekelijks",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -3046,9 +3148,10 @@
         "date_start": "2025-10-01",
         "date_end": "2026-06-30",
         "hours": "Woensdagavond (tweewekelijks)",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -3068,7 +3171,7 @@
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/mentor-klinisch-onderwijs?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": "32",
-    "duration_type": "uur",
+    "duration_type": "hours",
     "provider": "Karel de Grote Hogeschool",
     "course_type": 5,
     "description": "<![CDATA[<ul><li>Je bent trots op je ervaring als verpleegkundige of vroedvrouw.</li><li>Je wilt je kennis en vaardigheden delen met aanstormend talent.</li><li>Interactie ligt je goed – je coacht graag studenten in de praktijk.</li><li>Deze opleiding is een samenwerking tussen AP Hogeschool en KdG en werd uitgewerkt door de Vlaamse Hogescholenraad.</li></ul>]]>",
@@ -3078,7 +3181,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Ervaring als verpleegkundige of vroedvrouw (afgestudeerd in verpleegkunde/vroedkunde) is vereist",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-16",
@@ -3086,7 +3189,8 @@
         "hours": "5 donderdagen (ca. 09:00-16:00)",
         "location_name": "Campus (locatie via AP Hogeschool)",
         "location_address": "tbd",
-        "location_zip": ""
+        "location_zip": "",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -3130,45 +3234,7 @@
     ]
   },
   {
-    "internal_id": "microdegrees-toegepaste-informatica",
-    "title": "Toegepaste Informatica",
-    "language": "nl",
-    "price": "289.90",
-    "certificate_name": "",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "info.toegepasteinformatica@kdg.be",
-    "job_title": "IT-supportmedewerker / junior softwareontwikkelaar",
-    "skills": "IT-basisvaardigheden, programmeertechnieken, probleemoplossend denken, teamwerk",
-    "audience": "Volwassenen (25+) die naast werk/gezin een flexibele IT-opleiding willen volgen",
-    "domain_category": "ICT",
-    "domain_subcategory": "Toegepaste informatica",
-    "webaddress": "https://www.kdg.be/microdegrees-toegepaste-informatica?utm_source=jobat&utm_medium=affiliate",
-    "degree_type": 5,
-    "duration_length": "6",
-    "duration_type": "maanden",
-    "provider": "Karel de Grote Hogeschool",
-    "course_type": 5,
-    "description": "<![CDATA[<ul><li>Je bent een inventieve technologiefan met communicatie- en organisatietalent.</li><li>Je bent minstens 25 jaar en wil je studie combineren met een job of gezin.</li><li>Dankzij blended learning (mix van zelfstudie, avondlessen en coaching) studeer je in alle vrijheid op hoog niveau.</li><li>Micro-credentials – samenhangende gehelen van leerstof – laten je toe in te zoomen op één thema. Je kan ook enkele micro-credentials combineren binnen een cluster of zelfs voor het hele diploma gaan.</li><li>Ben je nieuw in het vak? Kies een micro-credential zonder voorkennis. Heb je al IT-ervaring? Breid uit met gevorderde micro-credentials (daarvoor is wel voorkennis nodig).</li></ul>]]>",
-    "description_program": "<![CDATA[Een micro-credential is een afgebakend geheel van opleidingsonderdelen binnen het flexibele traject Toegepaste Informatica. Eén micro-credential komt overeen met ongeveer 1 à 2 uur les per week (online of on-campus) en ca. 8 uur zelfstudie per week. Sommige micro-credentials spreiden zich over een volledig academiejaar, andere rond je af in één semester. Elk thema geeft je up-to-date IT-kennis – van basisvaardigheden tot gevorderde topics – die je meteen kunt inzetten in de praktijk.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Voor wie?</strong> Dit traject richt zich tot werkenden (25+) die een IT-opleiding willen volgen naast hun job of andere verplichtingen. Beginnende IT’ers kunnen instappen zonder voorkennis, ervaren IT’ers kiezen gevorderde modules (waarvoor voorkennis is vereist).</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor Vlaams opleidingsverlof, Vlaams opleidingskrediet en opleidingscheques.</p><p><strong>Contact & info:</strong> Voor vragen kan je terecht bij de studieloopbaancoördinator via info.toegepasteinformatica@kdg.be of een infomoment. Er is een brochure beschikbaar en mogelijkheid tot een online afspraak.</p>]]>",
-    "job_function_category": 824,
-    "esco_category_code": 2512,
-    "nacebel_sector": "62.01",
-    "required_knowledge": "Geen specifieke voorkennis vereist voor basis-micro-credentials; voor gevorderde modules is relevante IT-ervaring aanbevolen",
-    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet, Opleidingscheques",
-    "location_and_date": [
-      {
-        "date_start": "2025-09-15",
-        "date_end": "2026-06-30",
-        "hours": "blended: 1-2u les + 8u zelfstudie per week",
-        "location_name": "Campus Groenplaats",
-        "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
-      }
-    ]
-  },
-  {
-    "internal_id": "migratie-erfgoed-en-dementie-naar-cultuursensitieve",
+    "internal_id": "migratie-erfgoed-en-dementie-naar-cultuursensitieve-zorgpraktijken",
     "title": "Migratie, erfgoed en dementie: naar cultuursensitieve zorgpraktijken",
     "language": "nl",
     "price": "",
@@ -3192,8 +3258,8 @@
     "job_function_category": 724,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-09-22",
@@ -3207,7 +3273,7 @@
     ]
   },
   {
-    "internal_id": "minder-zitten-en-meer-bewegen-de-klas",
+    "internal_id": "minder-zitten-en-meer-bewegen-in-de-klas",
     "title": "Minder zitten en meer bewegen in de klas",
     "language": "nl",
     "price": "135.00",
@@ -3231,14 +3297,14 @@
     "job_function_category": 740,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-03-17",
         "date_end": "2026-03-17",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -3246,7 +3312,7 @@
     ]
   },
   {
-    "internal_id": "morele-oordeelsvorming-de-praktijk",
+    "internal_id": "morele-oordeelsvorming-in-de-praktijk",
     "title": "Morele oordeelsvorming in de praktijk",
     "language": "nl",
     "price": "",
@@ -3271,7 +3337,7 @@
     "esco_category_code": 2633,
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -3284,7 +3350,7 @@
     ]
   },
   {
-    "internal_id": "omgaan-met-culturele-diversiteit-pedagogie-basis",
+    "internal_id": "omgaan-met-culturele-diversiteit-in-pedagogie-basis",
     "title": "Omgaan met culturele diversiteit in pedagogie: basis",
     "language": "nl",
     "price": "",
@@ -3309,7 +3375,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -3346,14 +3412,14 @@
     "job_function_category": 724,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-11-26",
         "date_end": "2026-05-04",
         "hours": "Van 8.30 tot 16.30 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -3385,14 +3451,14 @@
     "job_function_category": 724,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-11-28",
         "date_end": "2026-05-08",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -3431,20 +3497,21 @@
         "date_start": "2025-09-15",
         "date_end": "2026-06-30",
         "hours": "Een vaste weekdag (nog te bepalen) – modules per semester",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "onderwijsbevoegdheid-rooms-katholieke-godsdienst",
+    "internal_id": "onderwijsbevoegdheid-roomskatholieke-godsdienst",
     "title": "Onderwijsbevoegdheid Rooms-Katholieke Godsdienst",
     "language": "nl",
     "price": "423.00",
     "certificate_name": "Attest Rooms-Katholieke Godsdienst (onderwijsbevoegdheid)",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "elise.linsen@kdg.be / jonas.slaats@kdg.be",
+    "email": "elise.linsen@kdg.be",
     "job_title": "Leerkracht Rooms-Katholieke godsdienst (kleuter of lager onderwijs)",
     "skills": "didactiek godsdienst, levensbeschouwelijke gespreksvoering, klasmanagement godsdienstles",
     "audience": "Afgestudeerde leraren kleuter- of lager onderwijs zonder bevoegdheid godsdienst, werkzaam in het onderwijs",
@@ -3463,15 +3530,16 @@
     "esco_category_code": 2341,
     "nacebel_sector": "85.20",
     "required_knowledge": "Lerarendiploma (kleuter of lager) en rooms-katholiek doopsel vereist voor mandaat",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-01",
         "date_end": "2026-04-01",
         "hours": "7 avondlessen op woensdag (na 18u30, met zelfstudie)",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -3500,14 +3568,14 @@
     "job_function_category": 724,
     "esco_category_code": 2422,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-03-11",
         "date_end": "2026-04-01",
         "hours": "Van 9 tot 13 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -3546,9 +3614,10 @@
         "date_start": "2025-09-30",
         "date_end": "2026-06-02",
         "hours": "Dinsdag (van 8.30 tot 17.45 u.) – modules verspreid over academiejaar",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -3578,15 +3647,16 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma in de Vroedkunde. Andere zorgprofessionals kunnen zich inschrijven na contact met Astrid Claerbout via info.vroedkunde@kdg.be, mits werkzaam in de gezondheidszorg en intensief in contact met (toekomstige) ouders.",
-    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2025-12-05",
         "date_end": "2026-01-23",
         "hours": "Telkens tussen 9.30 en 18 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -3616,7 +3686,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -3660,9 +3730,10 @@
         "date_start": "2025-09-23",
         "date_end": "2026-06-09",
         "hours": "Telkens op dinsdag (hele dag)",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -3698,9 +3769,10 @@
         "date_start": "2025-10-03",
         "date_end": "2026-06-30",
         "hours": "Vrijdag (hele dag) – wekelijks",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -3730,13 +3802,13 @@
     "esco_category_code": 3422,
     "nacebel_sector": "93.13",
     "required_knowledge": "Bachelordiploma in een menswetenschappelijke, sport- of zorgopleiding of aantoonbare ervaring in coaching of sportbegeleiding",
-    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof",
+    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-09-22",
         "date_end": "2026-06-30",
         "hours": "Je hebt meestal les op donderdagnamiddag (4 uur), met af en toe een lesmoment in de voormiddag. Op vrijdag verwachten we je in de voormiddag (2 uur). Je loopt daarnaast ook 100 uren stage.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -3768,14 +3840,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-14",
         "date_end": "2026-01-13",
         "hours": "Van 13 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -3808,15 +3880,16 @@
     "esco_category_code": 3111,
     "nacebel_sector": "21.20",
     "required_knowledge": "Bachelor of graduaat in (bio)medische of chemische richting of werkervaring in laboratoriumomgeving",
-    "government_subsidy": "Kmo-portefeuille",
+    "government_subsidy": "KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2025-03-03",
         "date_end": "2025-03-05",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Hoboken",
+        "location_name": "Campus Hoboken (KdG)",
         "location_address": "Salesianenlaan 90",
-        "location_zip": "2660"
+        "location_zip": "2660",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -3825,7 +3898,7 @@
     "title": "Podcasting",
     "language": "nl",
     "price": "595.00",
-    "certificate_name": "",
+    "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "digitalbusiness@kdg.be",
     "job_title": "Podcast-producer",
@@ -3845,8 +3918,8 @@
     "job_function_category": 701,
     "esco_category_code": 2656,
     "nacebel_sector": "59.20",
-    "required_knowledge": "Geen voorkennis vereist",
-    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
+    "required_knowledge": "Geen specifieke voorkennis vereist",
+    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-04-15",
@@ -3859,7 +3932,7 @@
     ]
   },
   {
-    "internal_id": "praktijkassistent-de-zorg",
+    "internal_id": "praktijkassistent-in-de-zorg",
     "title": "Praktijkassistent in de zorg",
     "language": "nl",
     "price": "435.00",
@@ -3874,7 +3947,7 @@
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/praktijkassistent-de-zorg?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": "6",
-    "duration_type": "maanden",
+    "duration_type": "months",
     "provider": "Karel de Grote Hogeschool",
     "course_type": 5,
     "description": "<![CDATA[<ul><li>Wil je artsen en zorgverleners ondersteunen zodat zij hun taken efficiënter kunnen uitvoeren?</li><li>Werk je al in de zorg of heb je net je diploma secundair op zak?</li><li>Ontdek onze 2 micro-credentials binnen Praktijkassistent in de zorg: Organisatie van het Gezondheidszorglandschap & Inleiding in de Praktijkorganisatie.</li><li>Elke opleiding is volledig online, zodat je kunt leren waar en wanneer het je uitkomt.</li><li>Flexibel te combineren met werk, gezin of andere verplichtingen.</li></ul>]]>",
@@ -3884,7 +3957,7 @@
     "esco_category_code": 5321,
     "nacebel_sector": "86.90",
     "required_knowledge": "Secundair diploma (ASO/TSO/KSO of zorgopleiding) of werkervaring in de zorg",
-    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2025-09-01",
@@ -3928,14 +4001,15 @@
         "date_start": "2026-01-08",
         "date_end": "2026-06-30",
         "hours": "Dinsdag- en donderdagavond (18:00-21:30)",
-        "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "quality-life-science-production",
+    "internal_id": "quality-in-life-science-production",
     "title": "Quality in Life Science Production",
     "language": "nl",
     "price": "1850.00",
@@ -4005,14 +4079,15 @@
         "date_start": "2026-09-01",
         "date_end": "2027-06-30",
         "hours": "Afwisselend een hele dag les op dinsdag + donderdag en donderdag + zaterdag",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "reflecteren-op-je-contacten-met-ouders-de-kinderopvang-met",
+    "internal_id": "reflecteren-op-je-contacten-met-ouders-in-de-kinderopvang-met-de-droommtool",
     "title": "Reflecteren op je contacten met ouders in de kinderopvang met de DROOMM-tool",
     "language": "nl",
     "price": "",
@@ -4037,7 +4112,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -4075,7 +4150,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -4088,7 +4163,7 @@
     ]
   },
   {
-    "internal_id": "rouw-en-verlies-perinatale-periode",
+    "internal_id": "rouw-en-verlies-in-de-perinatale-periode",
     "title": "Rouw en verlies in de perinatale periode",
     "language": "nl",
     "price": "500.00",
@@ -4113,15 +4188,16 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma in de Vroedkunde. Andere zorgprofessionals kunnen zich inschrijven na contact met Astrid Claerbout via info.vroedkunde@kdg.be, mits werkzaam in de gezondheidszorg en intensief in contact met (toekomstige) ouders.",
-    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-02-06",
         "date_end": "2026-03-20",
         "hours": "Tussen 8.30 - 18 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -4150,14 +4226,14 @@
     "job_function_category": 743,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-11-04",
         "date_end": "2025-11-18",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -4196,9 +4272,10 @@
         "date_start": "2025-09-15",
         "date_end": "2026-06-30",
         "hours": "Maandagavond (tweewekelijks) + enkele zaterdagen (workshops)",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -4207,7 +4284,7 @@
     "title": "Schrijven voor web en social media",
     "language": "nl",
     "price": "595.00",
-    "certificate_name": "",
+    "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "digitalbusiness@kdg.be",
     "job_title": "Digital copywriter",
@@ -4227,8 +4304,8 @@
     "job_function_category": 701,
     "esco_category_code": 2641,
     "nacebel_sector": "73.11",
-    "required_knowledge": "Geen specifieke voorkennis nodig",
-    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
+    "required_knowledge": "Geen specifieke voorkennis vereist",
+    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-02-03",
@@ -4241,7 +4318,7 @@
     ]
   },
   {
-    "internal_id": "seksualiteit-het-peripartum",
+    "internal_id": "seksualiteit-zwangerschap",
     "title": "Seksualiteit & Zwangerschap",
     "language": "nl",
     "price": "90.00",
@@ -4265,14 +4342,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-04-04",
         "date_end": "2025-04-04",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -4304,17 +4381,16 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-03-12",
         "date_end": "2026-03-12",
         "hours": "Van 13 u. tot 16.30 u.",
-        "location_name": "Online via Microsoft Teams",
-        "location_address": "N/A",
-        "location_zip": "N/A",
-        "location_city": "Online"
+        "location_name": "Online",
+        "location_address": "",
+        "location_zip": ""
       }
     ]
   },
@@ -4343,14 +4419,14 @@
     "job_function_category": 740,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-03-04",
         "date_end": "2026-04-29",
         "hours": "Van 13.30 tot 16.30 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -4382,14 +4458,14 @@
     "job_function_category": 743,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-03-13",
         "date_end": "2025-03-13",
         "hours": "Van 9 tot 16 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -4422,7 +4498,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -4466,14 +4542,15 @@
         "date_start": "2025-09-15",
         "date_end": "2026-06-30",
         "hours": "Maandag en dinsdagavond + enkele zaterdagen (praktijk)",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "stem-onderwijs-tot-leven-brengen-met-lego-education",
+    "internal_id": "stemonderwijs-tot-leven-brengen-met-lego-education",
     "title": "STEM-onderwijs tot leven brengen met LEGO Education",
     "language": "nl",
     "price": "135.00",
@@ -4497,14 +4574,14 @@
     "job_function_category": 740,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-11-19",
         "date_end": "2025-12-03",
         "hours": "Van 9 tot 12 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -4536,14 +4613,14 @@
     "job_function_category": 503,
     "esco_category_code": 2221,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-05-12",
         "date_end": "2026-05-12",
         "hours": "Van 9 tot 16.45 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -4551,7 +4628,7 @@
     ]
   },
   {
-    "internal_id": "supervisie-discriminatiegerelateerde-vraagstukken-pedagogie",
+    "internal_id": "supervisie-discriminatiegerelateerde-vraagstukken-in-de-pedagogie",
     "title": "Supervisie: Discriminatiegerelateerde vraagstukken in de pedagogie",
     "language": "nl",
     "price": "",
@@ -4576,7 +4653,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.99",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -4604,7 +4681,7 @@
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/supply-chain-management-introductie?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": "6",
-    "duration_type": "maanden",
+    "duration_type": "months",
     "provider": "Karel de Grote Hogeschool",
     "course_type": 5,
     "description": "<![CDATA[<p>Zin om Supply Chain Management te studeren, maar nog niet klaar voor een volledige bachelor? Kies dan voor deze micro-credential: een logische, afgebakende mini-cursus binnen het vakgebied. In deze introductiemodule (ca. 20 SP) maak je kennis met alle facetten van supply chain &ndash; van inkoop over productie tot distributie.</p>]]>",
@@ -4614,15 +4691,16 @@
     "esco_category_code": 4323,
     "nacebel_sector": "52",
     "required_knowledge": "Diploma secundair onderwijs of relevante werkervaring aanbevolen",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
         "date_end": "2026-01-31",
         "hours": "dagopleiding (lesuren overdag)",
-        "location_name": "Campus Groenplaats",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -4631,7 +4709,7 @@
     "title": "Sustainable Business & Innovation",
     "language": "en",
     "price": "616.60",
-    "certificate_name": "",
+    "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "kristien.govers@kdg.be",
     "job_title": "Duurzaamheidscoördinator (Sustainability Coordinator)",
@@ -4642,7 +4720,7 @@
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/sustainable-business-innovation?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": "6",
-    "duration_type": "maanden",
+    "duration_type": "months",
     "provider": "Karel de Grote Hogeschool",
     "course_type": 5,
     "description": "<![CDATA[<ul><li>This is a practice-driven programme that brings together climate, well-being and economy.</li><li>You replace greenwashing with concrete goals and change processes.</li><li>Business cases from many sectors provide a broad perspective on sustainability and innovation.</li><li>In the Personal Impact Lab you learn as much about yourself as about group dynamics.</li><li>You also strengthen your skills in critically analysing trends and data.</li><li>You study full-time for half a year (start in September or February), or take a part-time route to combine with work.</li><li>Classes are in English with students from around the world.</li><li>Coordinator, change manager or data analyst – contribute in your own way to a future-proof corporate culture.</li></ul>]]>",
@@ -4652,15 +4730,16 @@
     "esco_category_code": 2421,
     "nacebel_sector": "70.22",
     "required_knowledge": "Bachelor’s or master’s degree (or equivalent professional experience)",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
         "date_end": "2026-01-14",
         "hours": "Voltijds gedurende een half jaar",
-        "location_name": "Campus Groenplaats",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -4696,9 +4775,10 @@
         "date_start": "2025-09-16",
         "date_end": "2026-06-30",
         "hours": "Dinsdag- en/of donderdagavond (gespreid over 2 jaar)",
-        "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -4741,6 +4821,45 @@
     ]
   },
   {
+    "internal_id": "toegepaste-informatica",
+    "title": "Toegepaste Informatica",
+    "language": "nl",
+    "price": "289.90",
+    "certificate_name": "Attest van deelname",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "info.toegepasteinformatica@kdg.be",
+    "job_title": "IT-supportmedewerker / junior softwareontwikkelaar",
+    "skills": "IT-basisvaardigheden, programmeertechnieken, probleemoplossend denken, teamwerk",
+    "audience": "Volwassenen (25+) die naast werk/gezin een flexibele IT-opleiding willen volgen",
+    "domain_category": "ICT",
+    "domain_subcategory": "Toegepaste informatica",
+    "webaddress": "https://www.kdg.be/microdegrees-toegepaste-informatica?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": "6",
+    "duration_type": "months",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 5,
+    "description": "<![CDATA[<ul><li>Je bent een inventieve technologiefan met communicatie- en organisatietalent.</li><li>Je bent minstens 25 jaar en wil je studie combineren met een job of gezin.</li><li>Dankzij blended learning (mix van zelfstudie, avondlessen en coaching) studeer je in alle vrijheid op hoog niveau.</li><li>Micro-credentials – samenhangende gehelen van leerstof – laten je toe in te zoomen op één thema. Je kan ook enkele micro-credentials combineren binnen een cluster of zelfs voor het hele diploma gaan.</li><li>Ben je nieuw in het vak? Kies een micro-credential zonder voorkennis. Heb je al IT-ervaring? Breid uit met gevorderde micro-credentials (daarvoor is wel voorkennis nodig).</li></ul>]]>",
+    "description_program": "<![CDATA[Een micro-credential is een afgebakend geheel van opleidingsonderdelen binnen het flexibele traject Toegepaste Informatica. Eén micro-credential komt overeen met ongeveer 1 à 2 uur les per week (online of on-campus) en ca. 8 uur zelfstudie per week. Sommige micro-credentials spreiden zich over een volledig academiejaar, andere rond je af in één semester. Elk thema geeft je up-to-date IT-kennis – van basisvaardigheden tot gevorderde topics – die je meteen kunt inzetten in de praktijk.]]>",
+    "description_extrainfo": "<![CDATA[<p><strong>Voor wie?</strong> Dit traject richt zich tot werkenden (25+) die een IT-opleiding willen volgen naast hun job of andere verplichtingen. Beginnende IT’ers kunnen instappen zonder voorkennis, ervaren IT’ers kiezen gevorderde modules (waarvoor voorkennis is vereist).</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor Vlaams opleidingsverlof, Vlaams opleidingskrediet en opleidingscheques.</p><p><strong>Contact & info:</strong> Voor vragen kan je terecht bij de studieloopbaancoördinator via info.toegepasteinformatica@kdg.be of een infomoment. Er is een brochure beschikbaar en mogelijkheid tot een online afspraak.</p>]]>",
+    "job_function_category": 824,
+    "esco_category_code": 2512,
+    "nacebel_sector": "62.01",
+    "required_knowledge": "Geen specifieke voorkennis vereist voor basis-micro-credentials; voor gevorderde modules is relevante IT-ervaring aanbevolen",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques",
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "blended: 1-2u les + 8u zelfstudie per week",
+        "location_name": "Campus Groenplaats (KdG)",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
+      }
+    ]
+  },
+  {
     "internal_id": "transport-en-haven",
     "title": "Transport en Haven",
     "language": "nl",
@@ -4756,7 +4875,7 @@
     "webaddress": "https://www.kdg.be/microdegree-transport-haven?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": "6",
-    "duration_type": "maanden",
+    "duration_type": "months",
     "provider": "Karel de Grote Hogeschool",
     "course_type": 5,
     "description": "<![CDATA[<p>Goesting om een praktijkgerichte opleiding te volgen die je in 1 jaar klaarstoomt om te werken in de transportsector, in zeehavens en luchthavens? Dan is deze micro-credential iets voor jou. Het is een combinatie van opleidingsonderdelen (ongeveer 20 studiepunten) binnen Supply Chain Management.</p>]]>",
@@ -4766,7 +4885,7 @@
     "esco_category_code": 4323,
     "nacebel_sector": "52",
     "required_knowledge": "Diploma secundair onderwijs of relevante ervaring in logistiek aanbevolen",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-16",
@@ -4804,13 +4923,13 @@
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
     "required_knowledge": "Geen muzikale voorkennis vereist",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-02-11",
         "date_end": "2026-03-11",
         "hours": "Van 9 tot 12 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -4842,14 +4961,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-02-24",
         "date_end": "2026-02-24",
         "hours": "Van 8.45 u. tot 12.30 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -4881,14 +5000,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-03-03",
         "date_end": "2026-03-03",
         "hours": "Van 8.45 tot 12.30 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -4921,15 +5040,16 @@
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
         "date_end": "",
         "hours": "",
-        "location_name": "Campus Zuid, Antwerpen",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -4965,9 +5085,10 @@
         "date_start": "2025-09-01",
         "date_end": "2027-01-30",
         "hours": "1 dinsdag per maand les van 9 tot 16 u.",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -4997,15 +5118,16 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma in de Vroedkunde. Andere zorgprofessionals kunnen zich inschrijven na contact met Astrid Claerbout via info.vroedkunde@kdg.be, mits werkzaam in de gezondheidszorg en intensief in contact met (toekomstige) ouders.",
-    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2025-10-17",
         "date_end": "2025-11-28",
         "hours": "Telkens tussen 8.30 en 18 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -5034,8 +5156,8 @@
     "job_function_category": 740,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -5063,7 +5185,7 @@
     "webaddress": "https://www.kdg.be/verpleegkunde-microdegrees?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": "6",
-    "duration_type": "maanden",
+    "duration_type": "months",
     "provider": "Karel de Grote Hogeschool",
     "course_type": 5,
     "description": "<![CDATA[<ul><li>Als verpleegkundige moet je blijven bijleren; het beroep en onze maatschappij evolueren constant.</li><li>Volg één van de keuzevakken uit het afstudeerjaar Verpleegkunde als bijscholing en houd je kennis up-to-date.</li><li>Micro-credentials (samenhangende leerstofgehelen) laten je toe op een thema in te zoomen; je kan er enkele combineren.</li></ul>]]>",
@@ -5073,15 +5195,16 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (of zorgkundige met kwalificatie) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
         "date_end": "2025-12-31",
         "hours": "wekelijks 2u (avond of overdag afhankelijk van keuzevak)",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -5110,14 +5233,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-07",
         "date_end": "2025-12-16",
         "hours": "Van 8.30 tot 13 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -5156,9 +5279,10 @@
         "date_start": "2023-09-21",
         "date_end": "2024-06-30",
         "hours": "Donderdagavond + flexibele stage-uren",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -5187,14 +5311,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-27",
         "date_end": "2025-10-28",
         "hours": "Van 8.30 u. tot 18 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -5397,7 +5521,7 @@
     ]
   },
   {
-    "internal_id": "visie-laten-leven-kleuter-lager-onderwijs",
+    "internal_id": "visie-laten-leven-in-het-kleuter-en-lager-onderwijs",
     "title": "Visie laten leven in het kleuter- en lager onderwijs",
     "language": "nl",
     "price": "",
@@ -5422,7 +5546,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -5435,7 +5559,7 @@
     ]
   },
   {
-    "internal_id": "voorbereiden-op-de-zorginspectie-jouw-opvang",
+    "internal_id": "voorbereiden-op-de-zorginspectie-in-jouw-opvang",
     "title": "Voorbereiden op de zorginspectie in jouw opvang",
     "language": "nl",
     "price": "",
@@ -5460,7 +5584,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -5473,7 +5597,7 @@
     ]
   },
   {
-    "internal_id": "vroedvrouw-eerste-lijn",
+    "internal_id": "vroedvrouw-in-eerste-lijn",
     "title": "Vroedvrouw in eerste lijn",
     "language": "nl",
     "price": "115.00",
@@ -5497,14 +5621,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-02-12",
         "date_end": "2026-02-12",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -5536,14 +5660,14 @@
     "job_function_category": 743,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-12-01",
         "date_end": "2026-02-12",
         "hours": "Van 9 tot 16.30 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -5551,45 +5675,7 @@
     ]
   },
   {
-    "internal_id": "warme-overdracht",
-    "title": "Bind-Krachtvorming 'Verwijzen is niet afwijzen. Naar een warme overdracht.'",
-    "language": "nl",
-    "price": "",
-    "certificate_name": "Attest van deelname",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "bindkracht@kdg.be",
-    "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
-    "skills": "Doorverwijzen, Afscheid nemen, Informatieoverdracht, Krachtgericht werken, Reflectief handelen",
-    "audience": "Hulpverleners die individueel en in groep werken met mensen in armoede en kwetsbare mensen met een multi-problematiek",
-    "domain_category": "Sociale sector",
-    "domain_subcategory": "Hulpverlening",
-    "webaddress": "https://www.kdg.be/warme-overdracht?utm_source=jobat&utm_medium=affiliate",
-    "degree_type": 5,
-    "duration_length": "",
-    "duration_type": "days",
-    "provider": "Karel de Grote Hogeschool",
-    "course_type": 1,
-    "description": "<![CDATA[Als hulpverlener moet je op een gegeven moment de hulpvrager loslaten. Hoe doe je dit zonder verlies voor beide partijen? Zodat je je cliënt kan loslaten versus laten vallen? Deze vorming focust op doorverwijzen en afscheid nemen van een, meestal, moeizaam opgebouwde hulpverleningsrelatie.]]>",
-    "description_program": "<![CDATA[De vorming behandelt thema's zoals samen de overstap maken, goede informatieoverdracht, behouden van wat gerealiseerd werd, vermijden van herhaling van eerdere trajecten, en zoeken naar een handleiding om dit met respect voor alle partijen te realiseren. Theoretische kaders en creatieve werkvormen wisselen elkaar af, met ruimte voor concrete verhalen vanop de werkvloer.]]>",
-    "description_extrainfo": "<![CDATA[De vorming is op maat van je organisatie en wordt gegeven door Aafje De Wacker, maatschappelijk werker met ruim 35 jaar ervaring binnen het algemeen welzijnswerk, en Bind-Kracht coaches, ervaringsexperten in armoede en sociale uitsluiting.]]>",
-    "job_function_category": 724,
-    "esco_category_code": 2633,
-    "nacebel_sector": "88.99",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
-    "location_and_date": [
-      {
-        "date_start": "",
-        "date_end": "",
-        "hours": "",
-        "location_name": "Op locatie in jouw organisatie",
-        "location_address": "",
-        "location_zip": ""
-      }
-    ]
-  },
-  {
-    "internal_id": "werken-aan-toegankelijkheid-de-kinderopvang",
+    "internal_id": "werken-aan-toegankelijkheid-in-de-kinderopvang",
     "title": "Werken aan toegankelijkheid in de kinderopvang",
     "language": "nl",
     "price": "350.00",
@@ -5613,16 +5699,17 @@
     "job_function_category": 740,
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-10-22",
         "date_end": "2025-12-17",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
@@ -5651,14 +5738,14 @@
     "job_function_category": 743,
     "esco_category_code": 2635,
     "nacebel_sector": "85.59",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2025-12-15",
         "date_end": "2026-03-19",
         "hours": "Van 9 tot 16.30 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -5691,20 +5778,21 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Afgerond diploma Verpleegkunde (bachelor, graduaat/HBO5 of gelijkwaardig)",
-    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
         "date_end": "2026-06-30",
         "hours": "les verspreid over het academiejaar",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "workshop-rouwpraat-hoe-communiceer-ik-met-ouders-die-hun",
+    "internal_id": "workshop-rouwpraat-hoe-communiceer-ik-met-ouders-die-hun-kindje-verliezen",
     "title": "Workshop Rouwpraat: Hoe communiceer ik met ouders die hun kindje verliezen?",
     "language": "nl",
     "price": "70.00",
@@ -5729,13 +5817,13 @@
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
     "required_knowledge": "Deelnemers dienen de studiedag Rouwpraat: 'Hoe communiceer ik met ouders die hun kindje verliezen?' op 27 februari 2025 te hebben bijgewoond.",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-06-09",
         "date_end": "2026-06-09",
         "hours": "Van 13 u. tot 16.15 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -5743,7 +5831,7 @@
     ]
   },
   {
-    "internal_id": "zelfcontrole-basisprincipe-nieuwe-autoriteit",
+    "internal_id": "zelfcontrole-als-basisprincipe-van-nieuwe-autoriteit",
     "title": "Zelfcontrole als basisprincipe van Nieuwe Autoriteit",
     "language": "nl",
     "price": "",
@@ -5768,7 +5856,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -5806,7 +5894,7 @@
     "esco_category_code": 2351,
     "nacebel_sector": "85.31",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
@@ -5843,14 +5931,14 @@
     "job_function_category": 503,
     "esco_category_code": 2635,
     "nacebel_sector": "86.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-02-25",
         "date_end": "2026-05-06",
         "hours": "Van 9 tot 13.15 u.",
-        "location_name": "Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
@@ -5858,7 +5946,7 @@
     ]
   },
   {
-    "internal_id": "zorgverbreding-en-remediërend-leren",
+    "internal_id": "zorgverbreding-en-remedirend-leren",
     "title": "Zorgverbreding en Remediërend Leren",
     "language": "nl",
     "price": "1157.00",
@@ -5889,14 +5977,15 @@
         "date_start": "2025-09-15",
         "date_end": "2026-06-30",
         "hours": "Maandag en woensdag overdag (voltijds) of woensdag namiddag/avond (deeltijds)",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   },
   {
-    "internal_id": "zorgzaam-omgaan-met-uitdagend-gedrag-en-overprikkeling-de",
+    "internal_id": "zorgzaam-omgaan-met-uitdagend-gedrag-en-overprikkeling-in-de-kinderopvang",
     "title": "Zorgzaam omgaan met uitdagend gedrag en overprikkeling in de kinderopvang",
     "language": "nl",
     "price": "",
@@ -5921,7 +6010,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.91",
     "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "",
