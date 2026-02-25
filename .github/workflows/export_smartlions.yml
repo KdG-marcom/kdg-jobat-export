@@ -3,7 +3,7 @@ name: Export Smartlions JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 5 * * *"  # dagelijks 05:23 (pas gerust aan)
+    - cron: "15 * * * *"
 
 jobs:
   export:
