@@ -16,11 +16,11 @@
     "esco_category_code": "2166",
     "nacebel_sector": "73.11",
     "price": 595.0,
-    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
     "skills": "fotografie, beeldbewerking, grafisch ontwerp, visuele storytelling",
     "audience": "Iedereen die visuele content wil leren creëren en bewerken (geen voorkennis nodig)",
     "required_knowledge": "Geen; basis computergebruik volstaat",
-    "certificate_name": "",
+    "certificate_name": "Attest van deelname",
     "email": "digitalbusiness@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "description": "<p>Leer visuele content maken van A tot Z! Ontdek hoe je sterke foto’s maakt, bewerkt, en omzet in opvallende infographics en memes.</p><ul><li>Geen voorkennis nodig, volledig online en flexibel in te passen naast werk of andere verplichtingen.</li></ul>",
@@ -79,7 +79,7 @@
     "esco_category_code": "3313",
     "nacebel_sector": "69.20",
     "price": 585.0,
-    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet, Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques, KMO-portefeuille",
     "skills": "boekhouden, BTW-aangifte, fiscale basiskennis, boekhoudsoftware gebruiken",
     "audience": "Starters of werknemers in finance die snel inzetbaar willen zijn in een accountantskantoor of financiële afdeling",
     "required_knowledge": "Diploma secundair onderwijs (of gelijkgesteld) en voldoen aan taalvoorwaarden",
@@ -94,10 +94,10 @@
         "date_start": "2025-11-18",
         "date_end": "2026-04-02",
         "hours": "dinsdag & donderdag 16:00-19:30",
-        "location_name": "Campus Groenplaats",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
         "location_zip": "2000",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -105,10 +105,10 @@
         "date": "02/04/2026",
         "sessionDescription": "Einddatum",
         "sessionId": "assistent-accountant-end-2026-04-02",
-        "locationName": "Campus Groenplaats",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "16",
         "endTime": "19"
       },
@@ -116,10 +116,10 @@
         "date": "18/11/2025",
         "sessionDescription": "Startdatum",
         "sessionId": "assistent-accountant-start-2025-11-18",
-        "locationName": "Campus Groenplaats",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "16",
         "endTime": "19"
       }
@@ -142,7 +142,7 @@
     "esco_category_code": "2412",
     "nacebel_sector": "66.19",
     "price": 513.5,
-    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
     "skills": "inzicht in financiële markten, risico-rendement analyse, portefeuillebeheer, adviesverlening",
     "audience": "Iedereen met interesse in beleggingen en financiën (kennis van basis wiskunde volstaat)",
     "required_knowledge": "Geen specifieke voorkennis vereist (basisinzicht economie en wiskunde is nuttig)",
@@ -160,7 +160,7 @@
         "location_name": "Campus Groenplaats / online",
         "location_address": "Nationalestraat 5",
         "location_zip": "2000",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -171,7 +171,7 @@
         "locationName": "Campus Groenplaats / online",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "16",
         "endTime": "19"
       },
@@ -182,7 +182,7 @@
         "locationName": "Campus Groenplaats / online",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "16",
         "endTime": "19"
       }
@@ -205,11 +205,11 @@
     "esco_category_code": "2431",
     "nacebel_sector": "73.11",
     "price": 2380.0,
-    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
     "skills": "copywriting, visuele contentcreatie, videoproductie, podcasting",
     "audience": "Professionals die zelf content willen creëren (geen diploma vereist)",
-    "required_knowledge": "Geen specifieke vooropleiding vereist",
-    "certificate_name": "",
+    "required_knowledge": "Geen specifieke voorkennis vereist",
+    "certificate_name": "Attest van deelname",
     "email": "digitalbusiness@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "description": "<ul><li>Ben je een creatieve denker met een passie voor online communicatie, copywriting, visuele content of podcasts? Deze opleiding is dan iets voor jou.</li><li>Ontdek onze 4 micro-credentials in contentcreatie en ontwikkel professionele vaardigheden:</li><ul><li>Schrijven voor web en social media</li><li>Afbeeldingen maken en bewerken</li><li>Marketingvideo’s zelf maken</li><li>Podcasting</li></ul><li>Elke opleiding is volledig online, zodat je kunt leren waar en wanneer het je uitkomt.</li><li>Flexibel te combineren met werk, gezin of andere verplichtingen.</li><li>Je hebt geen bachelor- of masterdiploma nodig om in te schrijven: iedereen kan deelnemen.</li></ul>",
@@ -283,10 +283,10 @@
         "date_start": "2025-09-15",
         "date_end": "2026-06-30",
         "hours": "Avondonderwijs (dagen variabel) – modulair per onderwerp",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -294,10 +294,10 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "sessionId": "databeheer-start-2025-09-15",
-        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "locationName": "Campus Zuid (KdG)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -305,17 +305,17 @@
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "sessionId": "databeheer-end-2026-06-30",
-        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "locationName": "Campus Zuid (KdG)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       }
     ]
   },
   {
-    "internal_id": "digital-business",
+    "internal_id": "digital-business-en-online-marketing",
     "title": "Digital Business en Online Marketing",
     "language": "NL",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/digital-business?utm_source=smartlions&utm_medium=affiliate",
@@ -346,159 +346,34 @@
         "date_start": "2025-09-01",
         "date_end": "2026-01-31",
         "hours": "Op donderdag (wekelijks) van 14 u. tot 21 u. met 2 pauzes en warme maaltijd tussendoor",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
       {
         "date": "01/09/2025",
         "sessionDescription": "Startdatum",
-        "sessionId": "digital-business-start-2025-09-01",
-        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "sessionId": "digital-business-en-online-marketing-start-2025-09-01",
+        "locationName": "Campus Zuid (KdG)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
       {
         "date": "31/01/2026",
         "sessionDescription": "Einddatum",
-        "sessionId": "digital-business-end-2026-01-31",
-        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "sessionId": "digital-business-en-online-marketing-end-2026-01-31",
+        "locationName": "Campus Zuid (KdG)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
-      }
-    ]
-  },
-  {
-    "internal_id": "e-mobility-laadpaalinfrastructuur-de-praktijk",
-    "title": "E-Mobility: Laadpaalinfrastructuur in de praktijk",
-    "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/e-mobility-laadpaalinfrastructuur-de-praktijk?utm_source=smartlions&utm_medium=affiliate",
-    "provider": "Karel de Grote Hogeschool",
-    "domain_category": "Techniek & technologie",
-    "domain_subcategory": "E-Mobility en laadinfrastructuur",
-    "duration_length": 9,
-    "duration_type": "hours",
-    "course_type": 1,
-    "degree_type": 5,
-    "job_title": "Technisch adviseur e-mobility, installateur laadpalen, laadinfra-technicus, EV-consultant",
-    "job_function_category": 565,
-    "esco_category_code": "7411",
-    "nacebel_sector": "43210",
-    "price": 375.0,
-    "government_subsidy": "",
-    "skills": "AC/DC-laadsystemen, analyse klantbehoefte, installatievereisten, datasheetinterpretatie, AREI-veiligheid, toegangscontrole, commerciële advisering",
-    "audience": "Installateurs van laadpalen, technisch adviseurs, managers met verantwoordelijkheid over laadinfrastructuur, professionals in e-mobility",
-    "required_knowledge": "",
-    "certificate_name": "",
-    "email": "gazi.akdag@kdg.be",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<p>Deze navorming geeft een praktisch en technisch inzicht in AC- en DC-laadoplossingen voor elektrische voertuigen, inclusief interpretatie van datasheets, installatievereisten en commerciële aspecten om klanten professioneel te adviseren over laadoplossingen.</p>",
-    "description_program": "<p>Het traject omvat sessies over laadstandaarden, klantanalyse, AC- en DC-laders, installatievereisten conform AREI, types lastmanagement, datasheetinterpretatie, beveiliging en basiswerking van elektrische voertuigen.</p>",
-    "description_extrainfo": "<p>De navorming wordt gegeven over meerdere avonden; er wordt diepgaand technisch en commercieel ingegaan op laadinfrastructuur voor EV’s. Contactpersonen staan vermeld voor inhoudelijke of praktische vragen.</p>",
-    "location_and_date": [
-      {
-        "date_start": "2026-03-05",
-        "date_end": "2026-03-05",
-        "hours": "18:30 - 21:30",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": ""
-      },
-      {
-        "date_start": "2026-03-12",
-        "date_end": "2026-03-12",
-        "hours": "18:30 - 21:30",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": ""
-      },
-      {
-        "date_start": "2026-03-19",
-        "date_end": "2026-03-19",
-        "hours": "18:30 - 21:30",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": ""
-      }
-    ],
-    "sessions": [
-      {
-        "date": "05/03/2026",
-        "sessionDescription": "Einddatum",
-        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-end-2026-03-05",
-        "locationName": "Campus Zuid",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "",
-        "startTime": "18",
-        "endTime": "21"
-      },
-      {
-        "date": "05/03/2026",
-        "sessionDescription": "Startdatum",
-        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-start-2026-03-05",
-        "locationName": "Campus Zuid",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "",
-        "startTime": "18",
-        "endTime": "21"
-      },
-      {
-        "date": "12/03/2026",
-        "sessionDescription": "Einddatum",
-        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-end-2026-03-12",
-        "locationName": "Campus Zuid",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "",
-        "startTime": "18",
-        "endTime": "21"
-      },
-      {
-        "date": "12/03/2026",
-        "sessionDescription": "Startdatum",
-        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-start-2026-03-12",
-        "locationName": "Campus Zuid",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "",
-        "startTime": "18",
-        "endTime": "21"
-      },
-      {
-        "date": "19/03/2026",
-        "sessionDescription": "Einddatum",
-        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-end-2026-03-19",
-        "locationName": "Campus Zuid",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "",
-        "startTime": "18",
-        "endTime": "21"
-      },
-      {
-        "date": "19/03/2026",
-        "sessionDescription": "Startdatum",
-        "sessionId": "e-mobility-laadpaalinfrastructuur-de-praktijk-start-2026-03-19",
-        "locationName": "Campus Zuid",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "",
-        "startTime": "18",
-        "endTime": "21"
       }
     ]
   },
@@ -519,7 +394,7 @@
     "esco_category_code": "3111",
     "nacebel_sector": "21.20",
     "price": 2300.0,
-    "government_subsidy": "Kmo-portefeuille",
+    "government_subsidy": "KMO-portefeuille",
     "skills": "ELISA uitvoering & analyse, qPCR uitvoering & analyse, lab-kwaliteitszorg, data-interpretatie",
     "audience": "Werkenden of pas afgestudeerden in biomedische, farmaceutische, biotechnologische of chemische richtingen (geen ervaring met ELISA/qPCR vereist)",
     "required_knowledge": "Bachelor of master in biomedische laboratoriumtechnologie, (bio)chemie of gelijkaardig, of relevante werkervaring",
@@ -534,10 +409,10 @@
         "date_start": "2025-06-02",
         "date_end": "2025-06-09",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Hoboken",
+        "location_name": "Campus Hoboken (KdG)",
         "location_address": "Salesianenlaan 90",
         "location_zip": "2660",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -545,10 +420,10 @@
         "date": "02/06/2025",
         "sessionDescription": "Startdatum",
         "sessionId": "elisa-en-qpcr-start-2025-06-02",
-        "locationName": "Campus Hoboken",
+        "locationName": "Campus Hoboken (KdG)",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -556,12 +431,137 @@
         "date": "09/06/2025",
         "sessionDescription": "Einddatum",
         "sessionId": "elisa-en-qpcr-end-2025-06-09",
-        "locationName": "Campus Hoboken",
+        "locationName": "Campus Hoboken (KdG)",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
+      }
+    ]
+  },
+  {
+    "internal_id": "emobility-laadpaalinfrastructuur-in-de-praktijk",
+    "title": "E-Mobility: Laadpaalinfrastructuur in de praktijk",
+    "language": "NL",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/e-mobility-laadpaalinfrastructuur-de-praktijk?utm_source=smartlions&utm_medium=affiliate",
+    "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Techniek & technologie",
+    "domain_subcategory": "E-Mobility en laadinfrastructuur",
+    "duration_length": 9,
+    "duration_type": "hours",
+    "course_type": 1,
+    "degree_type": 5,
+    "job_title": "Technisch adviseur e-mobility, installateur laadpalen, laadinfra-technicus, EV-consultant",
+    "job_function_category": 565,
+    "esco_category_code": "7411",
+    "nacebel_sector": "43210",
+    "price": 375.0,
+    "government_subsidy": "",
+    "skills": "AC/DC-laadsystemen, analyse klantbehoefte, installatievereisten, datasheetinterpretatie, AREI-veiligheid, toegangscontrole, commerciële advisering",
+    "audience": "Installateurs van laadpalen, technisch adviseurs, managers met verantwoordelijkheid over laadinfrastructuur, professionals in e-mobility",
+    "required_knowledge": "",
+    "certificate_name": "Attest van deelname",
+    "email": "gazi.akdag@kdg.be",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "description": "<p>Deze navorming geeft een praktisch en technisch inzicht in AC- en DC-laadoplossingen voor elektrische voertuigen, inclusief interpretatie van datasheets, installatievereisten en commerciële aspecten om klanten professioneel te adviseren over laadoplossingen.</p>",
+    "description_program": "<p>Het traject omvat sessies over laadstandaarden, klantanalyse, AC- en DC-laders, installatievereisten conform AREI, types lastmanagement, datasheetinterpretatie, beveiliging en basiswerking van elektrische voertuigen.</p>",
+    "description_extrainfo": "<p>De navorming wordt gegeven over meerdere avonden; er wordt diepgaand technisch en commercieel ingegaan op laadinfrastructuur voor EV’s. Contactpersonen staan vermeld voor inhoudelijke of praktische vragen.</p>",
+    "location_and_date": [
+      {
+        "date_start": "2026-03-05",
+        "date_end": "2026-03-05",
+        "hours": "18:30 - 21:30",
+        "location_name": "Campus Zuid (KdG)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      },
+      {
+        "date_start": "2026-03-12",
+        "date_end": "2026-03-12",
+        "hours": "18:30 - 21:30",
+        "location_name": "Campus Zuid (KdG)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      },
+      {
+        "date_start": "2026-03-19",
+        "date_end": "2026-03-19",
+        "hours": "18:30 - 21:30",
+        "location_name": "Campus Zuid (KdG)",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ],
+    "sessions": [
+      {
+        "date": "05/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "emobility-laadpaalinfrastructuur-in-de-praktijk-end-2026-03-05",
+        "locationName": "Campus Zuid (KdG)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "18",
+        "endTime": "21"
+      },
+      {
+        "date": "05/03/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "emobility-laadpaalinfrastructuur-in-de-praktijk-start-2026-03-05",
+        "locationName": "Campus Zuid (KdG)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "18",
+        "endTime": "21"
+      },
+      {
+        "date": "12/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "emobility-laadpaalinfrastructuur-in-de-praktijk-end-2026-03-12",
+        "locationName": "Campus Zuid (KdG)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "18",
+        "endTime": "21"
+      },
+      {
+        "date": "12/03/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "emobility-laadpaalinfrastructuur-in-de-praktijk-start-2026-03-12",
+        "locationName": "Campus Zuid (KdG)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "18",
+        "endTime": "21"
+      },
+      {
+        "date": "19/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "emobility-laadpaalinfrastructuur-in-de-praktijk-end-2026-03-19",
+        "locationName": "Campus Zuid (KdG)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "18",
+        "endTime": "21"
+      },
+      {
+        "date": "19/03/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "emobility-laadpaalinfrastructuur-in-de-praktijk-start-2026-03-19",
+        "locationName": "Campus Zuid (KdG)",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "18",
+        "endTime": "21"
       }
     ]
   },
@@ -574,7 +574,7 @@
     "domain_category": "Business & Management",
     "domain_subcategory": "Financiën & bedrijfsvoering",
     "duration_length": 2,
-    "duration_type": "day",
+    "duration_type": "days",
     "course_type": 1,
     "degree_type": 5,
     "job_title": "Ondernemer, Financieel medewerker, Accountant, Boekhouder, Business analist, Teamlead, Operationeel manager",
@@ -597,10 +597,10 @@
         "date_start": "2026-03-10",
         "date_end": "2026-03-17",
         "hours": "13.30 - 16.30 u.",
-        "location_name": "KdG Campus Zuid",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45, 2018 Antwerpen",
         "location_zip": "2018",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -608,10 +608,10 @@
         "date": "10/03/2026",
         "sessionDescription": "Startdatum",
         "sessionId": "finance-essentials-voor-ondernemers-en-professionals-start-2026-03-10",
-        "locationName": "KdG Campus Zuid",
+        "locationName": "Campus Zuid (KdG)",
         "address": "Brusselstraat 45, 2018 Antwerpen",
         "zipCode": "2018",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -619,10 +619,10 @@
         "date": "17/03/2026",
         "sessionDescription": "Einddatum",
         "sessionId": "finance-essentials-voor-ondernemers-en-professionals-end-2026-03-17",
-        "locationName": "KdG Campus Zuid",
+        "locationName": "Campus Zuid (KdG)",
         "address": "Brusselstraat 45, 2018 Antwerpen",
         "zipCode": "2018",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       }
@@ -645,7 +645,7 @@
     "esco_category_code": "3111",
     "nacebel_sector": "21.20",
     "price": 1400.0,
-    "government_subsidy": "Kmo-portefeuille",
+    "government_subsidy": "KMO-portefeuille",
     "skills": "flowcytometrie uitvoering, multicolor panel design, data-analyse, kwaliteitscontrole",
     "audience": "Professionals in biomedische, farmaceutische of biotechnologische sector of nieuwe bachelor grads in labtechnologie die flowcytometrie willen leren",
     "required_knowledge": "Bachelor (professioneel of academisch) in biomedische laboratoriumtechnologie, farmalabo of (bio)chemie, of relevante werkervaring in lab; geen flowcytometrie-voorkennis nodig",
@@ -660,10 +660,10 @@
         "date_start": "2025-09-16",
         "date_end": "2025-09-18",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Hoboken",
+        "location_name": "Campus Hoboken (KdG)",
         "location_address": "Salesianenlaan 90",
         "location_zip": "2660",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -671,10 +671,10 @@
         "date": "16/09/2025",
         "sessionDescription": "Startdatum",
         "sessionId": "flowcytometrie-start-2025-09-16",
-        "locationName": "Campus Hoboken",
+        "locationName": "Campus Hoboken (KdG)",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -682,10 +682,10 @@
         "date": "18/09/2025",
         "sessionDescription": "Einddatum",
         "sessionId": "flowcytometrie-end-2025-09-18",
-        "locationName": "Campus Hoboken",
+        "locationName": "Campus Hoboken (KdG)",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       }
@@ -723,10 +723,10 @@
         "date_start": "2025-09-15",
         "date_end": "2027-06-30",
         "hours": "Dinsdagavond (lesjaar 1 en 2), gecombineerd met vrijstellingsproeven (lesjaar 3)",
-        "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
         "location_zip": "2000",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -734,10 +734,10 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "sessionId": "gecertificeerd-tax-accountant-start-2025-09-15",
-        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -745,10 +745,10 @@
         "date": "30/06/2027",
         "sessionDescription": "Einddatum",
         "sessionId": "gecertificeerd-tax-accountant-end-2027-06-30",
-        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       }
@@ -786,10 +786,10 @@
         "date_start": "2026-02-05",
         "date_end": "2026-06-25",
         "hours": "Telkens op donderdag van 14 - 21 u. met 1 uur pauze tussendoor",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+        "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -797,10 +797,10 @@
         "date": "05/02/2026",
         "sessionDescription": "Startdatum",
         "sessionId": "hr-people-business-start-2026-02-05",
-        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "locationName": "Campus Zuid (KdG)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -808,10 +808,10 @@
         "date": "25/06/2026",
         "sessionDescription": "Einddatum",
         "sessionId": "hr-people-business-end-2026-06-25",
-        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "locationName": "Campus Zuid (KdG)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       }
@@ -826,7 +826,7 @@
     "domain_category": "Logistiek",
     "domain_subcategory": "Voorraadbeheer",
     "duration_length": 6,
-    "duration_type": "maanden",
+    "duration_type": "months",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Magazijnbeheerder",
@@ -834,7 +834,7 @@
     "esco_category_code": "4321",
     "nacebel_sector": "52",
     "price": 495.6,
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "skills": "voorraadbeheer, magazijnorganisatie, logistieke planning, supply chain inzicht",
     "audience": "Professionals of instromers met interesse in logistiek en stockmanagement",
     "required_knowledge": "Diploma secundair onderwijs of gelijkwaardige ervaring in logistiek is aanbevolen",
@@ -849,10 +849,10 @@
         "date_start": "2025-09-15",
         "date_end": "2026-01-31",
         "hours": "dagopleiding (lesuren overdag)",
-        "location_name": "Campus Groenplaats",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
         "location_zip": "2000",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -860,10 +860,10 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "sessionId": "logistiek-en-voorraadbeheer-start-2025-09-15",
-        "locationName": "Campus Groenplaats",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -871,10 +871,10 @@
         "date": "31/01/2026",
         "sessionDescription": "Einddatum",
         "sessionId": "logistiek-en-voorraadbeheer-end-2026-01-31",
-        "locationName": "Campus Groenplaats",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       }
@@ -897,11 +897,11 @@
     "esco_category_code": "3521",
     "nacebel_sector": "73.11",
     "price": 595.0,
-    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
     "skills": "videoproductie, video-editing, storytelling in video, livestreaming",
     "audience": "Marketing- en communicatiemedewerkers of ondernemers die zelf professionele video’s willen leren maken (open voor iedereen)",
     "required_knowledge": "Geen; basis computervaardigheden volstaan",
-    "certificate_name": "",
+    "certificate_name": "Attest van deelname",
     "email": "digitalbusiness@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "description": "<ul><li>Leer marketingvideo's maken die impact hebben! Ontdek de beste tools, hoe je video's opneemt en monteert, korte clips creëert, en livestreams en podcasts produceert.</li><li>De opleiding is volledig online (Microsoft Teams), zodat je kunt leren waar en wanneer het je uitkomt.</li><li>Dankzij deze flexibele online omgeving kun je de opleiding eenvoudig combineren met werk, gezin of andere verplichtingen.</li><li>Na afloop beschik je over een uitgebreide toolbox om resultaatgerichte marketingvideo's te bouwen.</li><li>Er zijn geen specifieke toelatingsvoorwaarden; iedereen kan deelnemen.</li></ul>",
@@ -960,10 +960,10 @@
     "esco_category_code": "2421",
     "nacebel_sector": "74.90",
     "price": 3150.0,
-    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
     "skills": "Duurzaamheidsstrategie, Stakeholdermanagement, Duurzaamheidsrapportering, Materialiteitsanalyse, Systeemdenken, Verandermanagement",
     "audience": "Bedrijven en teams die willen werken aan een duurzaam beleid",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
     "certificate_name": "Certificaat Duurzaam Ondernemen",
     "email": "info@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
@@ -978,7 +978,7 @@
         "location_name": "Campus Groenplaats, De Kwekerij Lier",
         "location_address": "Brusselstraat 45, 2018 Antwerpen",
         "location_zip": "2018",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -989,7 +989,7 @@
         "locationName": "Campus Groenplaats, De Kwekerij Lier",
         "address": "Brusselstraat 45, 2018 Antwerpen",
         "zipCode": "2018",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -1000,70 +1000,7 @@
         "locationName": "Campus Groenplaats, De Kwekerij Lier",
         "address": "Brusselstraat 45, 2018 Antwerpen",
         "zipCode": "2018",
-        "city": "",
-        "startTime": "",
-        "endTime": ""
-      }
-    ]
-  },
-  {
-    "internal_id": "microdegrees-toegepaste-informatica",
-    "title": "Toegepaste Informatica",
-    "language": "NL",
-    "webaddress": "https://www.kdg.be/microdegrees-toegepaste-informatica?utm_source=smartlions&utm_medium=affiliate",
-    "provider": "Karel de Grote Hogeschool",
-    "domain_category": "ICT",
-    "domain_subcategory": "Toegepaste informatica",
-    "duration_length": 6,
-    "duration_type": "maanden",
-    "course_type": 5,
-    "degree_type": 5,
-    "job_title": "IT-supportmedewerker / junior softwareontwikkelaar",
-    "job_function_category": 824,
-    "esco_category_code": "2512",
-    "nacebel_sector": "62.01",
-    "price": 289.9,
-    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet, Opleidingscheques",
-    "skills": "IT-basisvaardigheden, programmeertechnieken, probleemoplossend denken, teamwerk",
-    "audience": "Volwassenen (25+) die naast werk/gezin een flexibele IT-opleiding willen volgen",
-    "required_knowledge": "Geen specifieke voorkennis vereist voor basis-micro-credentials; voor gevorderde modules is relevante IT-ervaring aanbevolen",
-    "certificate_name": "",
-    "email": "info.toegepasteinformatica@kdg.be",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<ul><li>Je bent een inventieve technologiefan met communicatie- en organisatietalent.</li><li>Je bent minstens 25 jaar en wil je studie combineren met een job of gezin.</li><li>Dankzij blended learning (mix van zelfstudie, avondlessen en coaching) studeer je in alle vrijheid op hoog niveau.</li><li>Micro-credentials – samenhangende gehelen van leerstof – laten je toe in te zoomen op één thema. Je kan ook enkele micro-credentials combineren binnen een cluster of zelfs voor het hele diploma gaan.</li><li>Ben je nieuw in het vak? Kies een micro-credential zonder voorkennis. Heb je al IT-ervaring? Breid uit met gevorderde micro-credentials (daarvoor is wel voorkennis nodig).</li></ul>",
-    "description_program": "Een micro-credential is een afgebakend geheel van opleidingsonderdelen binnen het flexibele traject Toegepaste Informatica. Eén micro-credential komt overeen met ongeveer 1 à 2 uur les per week (online of on-campus) en ca. 8 uur zelfstudie per week. Sommige micro-credentials spreiden zich over een volledig academiejaar, andere rond je af in één semester. Elk thema geeft je up-to-date IT-kennis – van basisvaardigheden tot gevorderde topics – die je meteen kunt inzetten in de praktijk.",
-    "description_extrainfo": "<p><strong>Voor wie?</strong> Dit traject richt zich tot werkenden (25+) die een IT-opleiding willen volgen naast hun job of andere verplichtingen. Beginnende IT’ers kunnen instappen zonder voorkennis, ervaren IT’ers kiezen gevorderde modules (waarvoor voorkennis is vereist).</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor Vlaams opleidingsverlof, Vlaams opleidingskrediet en opleidingscheques.</p><p><strong>Contact & info:</strong> Voor vragen kan je terecht bij de studieloopbaancoördinator via info.toegepasteinformatica@kdg.be of een infomoment. Er is een brochure beschikbaar en mogelijkheid tot een online afspraak.</p>",
-    "location_and_date": [
-      {
-        "date_start": "2025-09-15",
-        "date_end": "2026-06-30",
-        "hours": "blended: 1-2u les + 8u zelfstudie per week",
-        "location_name": "Campus Groenplaats",
-        "location_address": "Nationalestraat 5",
-        "location_zip": "2000",
-        "location_city": ""
-      }
-    ],
-    "sessions": [
-      {
-        "date": "15/09/2025",
-        "sessionDescription": "Startdatum",
-        "sessionId": "microdegrees-toegepaste-informatica-start-2025-09-15",
-        "locationName": "Campus Groenplaats",
-        "address": "Nationalestraat 5",
-        "zipCode": "2000",
-        "city": "",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "30/06/2026",
-        "sessionDescription": "Einddatum",
-        "sessionId": "microdegrees-toegepaste-informatica-end-2026-06-30",
-        "locationName": "Campus Groenplaats",
-        "address": "Nationalestraat 5",
-        "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       }
@@ -1086,7 +1023,7 @@
     "esco_category_code": "3111",
     "nacebel_sector": "21.20",
     "price": 1300.0,
-    "government_subsidy": "Kmo-portefeuille",
+    "government_subsidy": "KMO-portefeuille",
     "skills": "pipetteertechnieken, celtellingen, steriel werken, basis celkweek",
     "audience": "Biomedische, farmaceutische of chemische professionals of pas afgestudeerden die basis labvaardigheden voor ATMP willen leren (geen voorkennis vereist)",
     "required_knowledge": "Bachelor of graduaat in (bio)medische of chemische richting of werkervaring in laboratoriumomgeving",
@@ -1101,10 +1038,10 @@
         "date_start": "2025-03-03",
         "date_end": "2025-03-05",
         "hours": "Van 9 tot 17 u.",
-        "location_name": "Campus Hoboken",
+        "location_name": "Campus Hoboken (KdG)",
         "location_address": "Salesianenlaan 90",
         "location_zip": "2660",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -1112,10 +1049,10 @@
         "date": "03/03/2025",
         "sessionDescription": "Startdatum",
         "sessionId": "pipetteren-celtelling-en-celkweek-start-2025-03-03",
-        "locationName": "Campus Hoboken",
+        "locationName": "Campus Hoboken (KdG)",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -1123,10 +1060,10 @@
         "date": "05/03/2025",
         "sessionDescription": "Einddatum",
         "sessionId": "pipetteren-celtelling-en-celkweek-end-2025-03-05",
-        "locationName": "Campus Hoboken",
+        "locationName": "Campus Hoboken (KdG)",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       }
@@ -1149,11 +1086,11 @@
     "esco_category_code": "2656",
     "nacebel_sector": "59.20",
     "price": 595.0,
-    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
     "skills": "podcastconcept & storytelling, audiotechniek, stemgebruik, podcastmarketing",
     "audience": "Iedereen die een podcast wil leren maken (geen diploma vereist)",
-    "required_knowledge": "Geen voorkennis vereist",
-    "certificate_name": "",
+    "required_knowledge": "Geen specifieke voorkennis vereist",
+    "certificate_name": "Attest van deelname",
     "email": "digitalbusiness@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "description": "<p>Wil je leren hoe je een boeiende en professionele podcast maakt? Deze micro-credential helpt je om je podcastideeën tot leven te brengen en luisteraars te inspireren.</p><ul><li>Thema’s: storytellingtechnieken voor een sterke podcast; techniek & tools (apparatuur en software) voor professionele kwaliteit; spreektechnieken en stemgebruik voor een meeslepende luisterervaring; podcastpromotie en publieksopbouw.</li><li>De opleiding is volledig online, zodat je kunt leren waar en wanneer het je uitkomt.</li><li>Flexibel te combineren met werk, gezin of andere verplichtingen.</li><li>Geen bachelor- of masterdiploma nodig: iedereen kan deelnemen.</li></ul>",
@@ -1227,10 +1164,10 @@
         "date_start": "2026-01-08",
         "date_end": "2026-06-30",
         "hours": "Dinsdag- en donderdagavond (18:00-21:30)",
-        "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
         "location_zip": "2000",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -1238,10 +1175,10 @@
         "date": "08/01/2026",
         "sessionDescription": "Startdatum",
         "sessionId": "public-finance-management-start-2026-01-08",
-        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "18",
         "endTime": "21"
       },
@@ -1249,17 +1186,17 @@
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "sessionId": "public-finance-management-end-2026-06-30",
-        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "18",
         "endTime": "21"
       }
     ]
   },
   {
-    "internal_id": "quality-life-science-production",
+    "internal_id": "quality-in-life-science-production",
     "title": "Quality in Life Science Production",
     "language": "NL",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/quality-life-science-production?utm_source=smartlions&utm_medium=affiliate",
@@ -1300,7 +1237,7 @@
       {
         "date": "23/03/2026",
         "sessionDescription": "Startdatum",
-        "sessionId": "quality-life-science-production-start-2026-03-23",
+        "sessionId": "quality-in-life-science-production-start-2026-03-23",
         "locationName": "ViTalent",
         "address": "Wetenschapspark van de Universiteit Antwerpen, Galileilaan 15, 2845 Niel",
         "zipCode": "2845",
@@ -1311,7 +1248,7 @@
       {
         "date": "27/03/2026",
         "sessionDescription": "Einddatum",
-        "sessionId": "quality-life-science-production-end-2026-03-27",
+        "sessionId": "quality-in-life-science-production-end-2026-03-27",
         "locationName": "ViTalent",
         "address": "Wetenschapspark van de Universiteit Antwerpen, Galileilaan 15, 2845 Niel",
         "zipCode": "2845",
@@ -1338,11 +1275,11 @@
     "esco_category_code": "2641",
     "nacebel_sector": "73.11",
     "price": 595.0,
-    "government_subsidy": "Opleidingscheques, Kmo-portefeuille",
+    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
     "skills": "SEO-copywriting, creatieve contentcreatie, webcopy, social media writing",
     "audience": "Iedereen die professionele online teksten wil leren schrijven (geen diploma vereist)",
-    "required_knowledge": "Geen specifieke voorkennis nodig",
-    "certificate_name": "",
+    "required_knowledge": "Geen specifieke voorkennis vereist",
+    "certificate_name": "Attest van deelname",
     "email": "digitalbusiness@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "description": "<p>Ontdek de geheimen van copywriting en boost je online zichtbaarheid! Leer overtuigende webteksten en creatieve socialemediaposts schrijven.</p><ul><li>Volledig online, flexibel en voor iedereen toegankelijk.</li><li>Geen voorkennis nodig: je hebt geen bachelor of master nodig om in te schrijven.</li></ul>",
@@ -1393,7 +1330,7 @@
     "domain_category": "Logistiek",
     "domain_subcategory": "Supply Chain",
     "duration_length": 6,
-    "duration_type": "maanden",
+    "duration_type": "months",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Logistiek medewerker (supply chain)",
@@ -1401,7 +1338,7 @@
     "esco_category_code": "4323",
     "nacebel_sector": "52",
     "price": 495.6,
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "skills": "supply chain basisprincipes, planning & voorraad, logistieke coördinatie",
     "audience": "Werkenden of pasafgestudeerden die een brede basis in Supply Chain willen verwerven zonder voltijdse studie",
     "required_knowledge": "Diploma secundair onderwijs of relevante werkervaring aanbevolen",
@@ -1416,10 +1353,10 @@
         "date_start": "2025-09-15",
         "date_end": "2026-01-31",
         "hours": "dagopleiding (lesuren overdag)",
-        "location_name": "Campus Groenplaats",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
         "location_zip": "2000",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -1427,10 +1364,10 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "sessionId": "supply-chain-management-introductie-start-2025-09-15",
-        "locationName": "Campus Groenplaats",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -1438,10 +1375,10 @@
         "date": "31/01/2026",
         "sessionDescription": "Einddatum",
         "sessionId": "supply-chain-management-introductie-end-2026-01-31",
-        "locationName": "Campus Groenplaats",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       }
@@ -1456,7 +1393,7 @@
     "domain_category": "Business & Management",
     "domain_subcategory": "Sustainability",
     "duration_length": 6,
-    "duration_type": "maanden",
+    "duration_type": "months",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Duurzaamheidscoördinator (Sustainability Coordinator)",
@@ -1464,11 +1401,11 @@
     "esco_category_code": "2421",
     "nacebel_sector": "70.22",
     "price": 616.6,
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "skills": "change management, critical data analysis, intercultural collaboration, sustainable innovation",
     "audience": "Professionals with a bachelor’s or master’s who want to lead sustainability initiatives",
     "required_knowledge": "Bachelor’s or master’s degree (or equivalent professional experience)",
-    "certificate_name": "",
+    "certificate_name": "Attest van deelname",
     "email": "kristien.govers@kdg.be",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "description": "<ul><li>This is a practice-driven programme that brings together climate, well-being and economy.</li><li>You replace greenwashing with concrete goals and change processes.</li><li>Business cases from many sectors provide a broad perspective on sustainability and innovation.</li><li>In the Personal Impact Lab you learn as much about yourself as about group dynamics.</li><li>You also strengthen your skills in critically analysing trends and data.</li><li>You study full-time for half a year (start in September or February), or take a part-time route to combine with work.</li><li>Classes are in English with students from around the world.</li><li>Coordinator, change manager or data analyst – contribute in your own way to a future-proof corporate culture.</li></ul>",
@@ -1479,10 +1416,10 @@
         "date_start": "2025-09-15",
         "date_end": "2026-01-14",
         "hours": "Voltijds gedurende een half jaar",
-        "location_name": "Campus Groenplaats",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
         "location_zip": "2000",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -1490,10 +1427,10 @@
         "date": "14/01/2026",
         "sessionDescription": "Einddatum",
         "sessionId": "sustainable-business-innovation-end-2026-01-14",
-        "locationName": "Campus Groenplaats",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -1501,10 +1438,10 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "sessionId": "sustainable-business-innovation-start-2025-09-15",
-        "locationName": "Campus Groenplaats",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       }
@@ -1542,10 +1479,10 @@
         "date_start": "2025-09-16",
         "date_end": "2026-06-30",
         "hours": "Dinsdag- en/of donderdagavond (gespreid over 2 jaar)",
-        "location_name": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
         "location_zip": "2000",
-        "location_city": ""
+        "location_city": "Antwerpen"
       }
     ],
     "sessions": [
@@ -1553,10 +1490,10 @@
         "date": "16/09/2025",
         "sessionDescription": "Startdatum",
         "sessionId": "tax-accountancy-management-start-2025-09-16",
-        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       },
@@ -1564,10 +1501,73 @@
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "sessionId": "tax-accountancy-management-end-2026-06-30",
-        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "",
+        "city": "Antwerpen",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
+  },
+  {
+    "internal_id": "toegepaste-informatica",
+    "title": "Toegepaste Informatica",
+    "language": "NL",
+    "webaddress": "https://www.kdg.be/microdegrees-toegepaste-informatica?utm_source=smartlions&utm_medium=affiliate",
+    "provider": "Karel de Grote Hogeschool",
+    "domain_category": "ICT",
+    "domain_subcategory": "Toegepaste informatica",
+    "duration_length": 6,
+    "duration_type": "months",
+    "course_type": 5,
+    "degree_type": 5,
+    "job_title": "IT-supportmedewerker / junior softwareontwikkelaar",
+    "job_function_category": 824,
+    "esco_category_code": "2512",
+    "nacebel_sector": "62.01",
+    "price": 289.9,
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques",
+    "skills": "IT-basisvaardigheden, programmeertechnieken, probleemoplossend denken, teamwerk",
+    "audience": "Volwassenen (25+) die naast werk/gezin een flexibele IT-opleiding willen volgen",
+    "required_knowledge": "Geen specifieke voorkennis vereist voor basis-micro-credentials; voor gevorderde modules is relevante IT-ervaring aanbevolen",
+    "certificate_name": "Attest van deelname",
+    "email": "info.toegepasteinformatica@kdg.be",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "description": "<ul><li>Je bent een inventieve technologiefan met communicatie- en organisatietalent.</li><li>Je bent minstens 25 jaar en wil je studie combineren met een job of gezin.</li><li>Dankzij blended learning (mix van zelfstudie, avondlessen en coaching) studeer je in alle vrijheid op hoog niveau.</li><li>Micro-credentials – samenhangende gehelen van leerstof – laten je toe in te zoomen op één thema. Je kan ook enkele micro-credentials combineren binnen een cluster of zelfs voor het hele diploma gaan.</li><li>Ben je nieuw in het vak? Kies een micro-credential zonder voorkennis. Heb je al IT-ervaring? Breid uit met gevorderde micro-credentials (daarvoor is wel voorkennis nodig).</li></ul>",
+    "description_program": "Een micro-credential is een afgebakend geheel van opleidingsonderdelen binnen het flexibele traject Toegepaste Informatica. Eén micro-credential komt overeen met ongeveer 1 à 2 uur les per week (online of on-campus) en ca. 8 uur zelfstudie per week. Sommige micro-credentials spreiden zich over een volledig academiejaar, andere rond je af in één semester. Elk thema geeft je up-to-date IT-kennis – van basisvaardigheden tot gevorderde topics – die je meteen kunt inzetten in de praktijk.",
+    "description_extrainfo": "<p><strong>Voor wie?</strong> Dit traject richt zich tot werkenden (25+) die een IT-opleiding willen volgen naast hun job of andere verplichtingen. Beginnende IT’ers kunnen instappen zonder voorkennis, ervaren IT’ers kiezen gevorderde modules (waarvoor voorkennis is vereist).</p><p><strong>Subsidies:</strong> Deze opleiding komt in aanmerking voor Vlaams opleidingsverlof, Vlaams opleidingskrediet en opleidingscheques.</p><p><strong>Contact & info:</strong> Voor vragen kan je terecht bij de studieloopbaancoördinator via info.toegepasteinformatica@kdg.be of een infomoment. Er is een brochure beschikbaar en mogelijkheid tot een online afspraak.</p>",
+    "location_and_date": [
+      {
+        "date_start": "2025-09-15",
+        "date_end": "2026-06-30",
+        "hours": "blended: 1-2u les + 8u zelfstudie per week",
+        "location_name": "Campus Groenplaats (KdG)",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
+      }
+    ],
+    "sessions": [
+      {
+        "date": "15/09/2025",
+        "sessionDescription": "Startdatum",
+        "sessionId": "toegepaste-informatica-start-2025-09-15",
+        "locationName": "Campus Groenplaats (KdG)",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "Antwerpen",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "30/06/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "toegepaste-informatica-end-2026-06-30",
+        "locationName": "Campus Groenplaats (KdG)",
+        "address": "Nationalestraat 5",
+        "zipCode": "2000",
+        "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
       }
@@ -1582,7 +1582,7 @@
     "domain_category": "Logistiek",
     "domain_subcategory": "Transport en haven",
     "duration_length": 6,
-    "duration_type": "maanden",
+    "duration_type": "months",
     "course_type": 5,
     "degree_type": 5,
     "job_title": "Assistent-dispatcher (wegvervoer)",
@@ -1590,7 +1590,7 @@
     "esco_category_code": "4323",
     "nacebel_sector": "52",
     "price": 495.6,
-    "government_subsidy": "Vlaams opleidingsverlof",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "skills": "transportplanning, havenoperaties, logistieke coördinatie, douaneprocessen",
     "audience": "Professionals en instromers die in transport, zee- of luchthavenlogistiek willen werken",
     "required_knowledge": "Diploma secundair onderwijs of relevante ervaring in logistiek aanbevolen",
