@@ -1,7 +1,7 @@
 [
   {
-    "internal_id": "afbeeldingen-maken-en-bewerken",
-    "title": "Afbeeldingen maken en bewerken",
+    "internal_id": "afbeeldingen-maken-en-bewerken-test2",
+    "title": "Afbeeldingen maken en bewerken TEST2",
     "language": "NL",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/afbeeldingen-maken-en-bewerken?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
@@ -41,7 +41,7 @@
       {
         "date": "04/02/2026",
         "sessionDescription": "Startdatum",
-        "sessionId": "afbeeldingen-maken-en-bewerken-start-2026-02-04",
+        "sessionId": "afbeeldingen-maken-en-bewerken-test2-start-2026-02-04",
         "locationName": "Online",
         "address": "",
         "zipCode": "",
@@ -52,7 +52,7 @@
       {
         "date": "18/03/2026",
         "sessionDescription": "Einddatum",
-        "sessionId": "afbeeldingen-maken-en-bewerken-end-2026-03-18",
+        "sessionId": "afbeeldingen-maken-en-bewerken-test2-end-2026-03-18",
         "locationName": "Online",
         "address": "",
         "zipCode": "",
