@@ -9,7 +9,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Duurzaamheidsintegratie, Pedagogisch beleid, Teamontwikkeling, Groepsreflectie",
-    "audience": "Begeleiders, pedagogisch coaches en organisatoren in de kinderopvang.",
+    "audience": [
+      "Begeleiders, pedagogisch coaches en organisatoren in de kinderopvang."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Duurzaamheid in de kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/aan-de-slag-met-duurzaamheid-binnen-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
@@ -47,7 +49,9 @@
     "email": "info@otcg.be",
     "job_title": "Acupuncturist (gezondheidsprofessional), traditioneel Chinese geneeskunde-therapeut",
     "skills": "Acupunctuurtechnieken, holistische diagnose, traditionele Chinese geneeswijzen, naaldtechnieken, patiëntenzorg",
-    "audience": "Kinesitherapeuten en artsen, Verpleegkundigen, Vroedvrouwen",
+    "audience": [
+      "Kinesitherapeuten en artsen, Verpleegkundigen, Vroedvrouwen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Traditionele Chinese geneeswijzen",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/acupunctuur?utm_source=jobat&utm_medium=affiliate",
@@ -86,7 +90,9 @@
     "email": "digitalbusiness@kdg.be",
     "job_title": "Graphic content creator",
     "skills": "fotografie, beeldbewerking, grafisch ontwerp, visuele storytelling",
-    "audience": "Iedereen die visuele content wil leren creëren en bewerken (geen voorkennis nodig)",
+    "audience": [
+      "Iedereen die visuele content wil leren creëren en bewerken (geen voorkennis nodig)"
+    ],
     "domain_category": "Marketing & Communicatie",
     "domain_subcategory": "Digitale media",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/afbeeldingen-maken-en-bewerken?utm_source=jobat&utm_medium=affiliate",
@@ -124,7 +130,9 @@
     "email": "nausikaa.vandenbulcke@kdg.be",
     "job_title": "Assistent accountant",
     "skills": "boekhouden, BTW-aangifte, fiscale basiskennis, boekhoudsoftware gebruiken",
-    "audience": "Starters of werknemers in finance die snel inzetbaar willen zijn in een accountantskantoor of financiële afdeling",
+    "audience": [
+      "Starters of werknemers in finance die snel inzetbaar willen zijn in een accountantskantoor of financiële afdeling"
+    ],
     "domain_category": "Bedrijf & Economie",
     "domain_subcategory": "Accountancy",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/assistent-accountant?utm_source=jobat&utm_medium=affiliate",
@@ -163,7 +171,9 @@
     "email": "leen.stoffels@kdg.be",
     "job_title": "Leerzorgbegeleider autisme, autismespecialist in onderwijs of zorg",
     "skills": "Autismevriendelijke communicatie, coachen, geduld, observatie, inclusie",
-    "audience": "Buitengewoon onderwijs, Kleuteronderwijs, Lager onderwijs, Secundair onderwijs, Sociale sector",
+    "audience": [
+      "Buitengewoon onderwijs, Kleuteronderwijs, Lager onderwijs, Secundair onderwijs, Sociale sector"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Autismespectrum",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/autismespectrum?utm_source=jobat&utm_medium=affiliate",
@@ -202,7 +212,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Emotionele ondersteuning, Huilgedrag, Pedagogisch beleid, Teamontwikkeling",
-    "audience": "Kinderbegeleiders, pedagogisch coaches en organisatoren in de kinderopvang.",
+    "audience": [
+      "Kinderbegeleiders, pedagogisch coaches en organisatoren in de kinderopvang."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/babykunde-emoties-bij-babys-en-peuters?utm_source=jobat&utm_medium=affiliate",
@@ -240,7 +252,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider in de buitenschoolse kinderopvang",
     "skills": "Zorg en welzijn, Spelbegeleiding, Gedragsmanagement, Samenwerking met ouders",
-    "audience": "Professionele en niet-professionele begeleiders in de buitenschoolse opvang.",
+    "audience": [
+      "Professionele en niet-professionele begeleiders in de buitenschoolse opvang."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Buitenschoolse opvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/basistraject-voor-begeleiders-de-buitenschoolse-kinderopvang?utm_source=jobat&utm_medium=affiliate",
@@ -278,7 +292,9 @@
     "email": "eve.baert@kdg.be",
     "job_title": "Mentor, Begeleider, Pedagogisch coach in het onderwijs",
     "skills": "Coaching, Gespreksvaardigheden, Feedback geven, Reflectie",
-    "audience": "Mentoren in het onderwijs, zowel voor stagiairs als startende collega's.",
+    "audience": [
+      "Mentoren in het onderwijs, zowel voor stagiairs als startende collega's."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Mentorschap en Coaching",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/basisvorming-coaching-voor-mentoren-binnen-onderwijs?utm_source=jobat&utm_medium=affiliate",
@@ -317,7 +333,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Directie, Beleidsmedewerker in het onderwijs",
     "skills": "Communicatiestrategieën, Feedback geven, Effectief overleg, Inspireren",
-    "audience": "Directieleden en beleidsmedewerkers in het onderwijs",
+    "audience": [
+      "Directieleden en beleidsmedewerkers in het onderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Schoolcultuur",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/begrijpen-en-verbinden-communicatieskills-voor-een?utm_source=jobat&utm_medium=affiliate",
@@ -356,7 +374,9 @@
     "email": "mc.beleggen@kdg.be",
     "job_title": "Beleggingsadviseur",
     "skills": "inzicht in financiële markten, risico-rendement analyse, portefeuillebeheer, adviesverlening",
-    "audience": "Iedereen met interesse in beleggingen en financiën (kennis van basis wiskunde volstaat)",
+    "audience": [
+      "Iedereen met interesse in beleggingen en financiën (kennis van basis wiskunde volstaat)"
+    ],
     "domain_category": "Financiën",
     "domain_subcategory": "Beleggingen",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/beleggen?utm_source=jobat&utm_medium=affiliate",
@@ -395,7 +415,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Beleidsmedewerker, Coördinator, Pedagogisch coach",
     "skills": "Beleidsontwikkeling, Teamcoaching, Organisatieontwikkeling, Kwaliteitszorg",
-    "audience": "Kinderopvangvoorzieningen uit Groot-Antwerpen die geen recht hebben op gratis ondersteuning via Mentes.",
+    "audience": [
+      "Kinderopvangvoorzieningen uit Groot-Antwerpen die geen recht hebben op gratis ondersteuning via Mentes."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/beleidsvoerend-vermogen-versterken-bij-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
@@ -433,7 +455,9 @@
     "email": "sven.desmet@kdg.be",
     "job_title": "Zorgkundige",
     "skills": "Infectiepreventie, Glycemiecontrole, Geneesmiddelen toediening, Zwachtelen, Professionele communicatie",
-    "audience": "Zorgkundigen die afstudeerden voor 1 september 2019",
+    "audience": [
+      "Zorgkundigen die afstudeerden voor 1 september 2019"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Zorgkunde",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/bijscholing-zorgkundigen?utm_source=jobat&utm_medium=affiliate",
@@ -471,7 +495,9 @@
     "email": "bindkracht@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Netwerkversterking, Krachtgericht werken, Casusbespreking, Dialogische methodieken",
-    "audience": "Hulpverleners en begeleiders in het algemeen welzijnswerk, OCMW’s, Integrale jeugdhulp, Geestelijke gezondheidszorg, Justitieel welzijnswerk, Opbouwwerkers en sociaal-cultureel werkers",
+    "audience": [
+      "Hulpverleners en begeleiders in het algemeen welzijnswerk, OCMW’s, Integrale jeugdhulp, Geestelijke gezondheidszorg, Justitieel welzijnswerk, Opbouwwerkers en sociaal-cultureel werkers"
+    ],
     "domain_category": "Sociale sector",
     "domain_subcategory": "Hulpverlening",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/bind-krachtvorming-er-meer-dan-je-denkt?utm_source=jobat&utm_medium=affiliate",
@@ -509,7 +535,9 @@
     "email": "bindkracht@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Krachtgericht werken, Reflectief handelen, Dialoog, Empowerment",
-    "audience": "Hulpverleners die individueel en in groep werken met mensen in armoede en kwetsbare mensen met een multi-problematiek.",
+    "audience": [
+      "Hulpverleners die individueel en in groep werken met mensen in armoede en kwetsbare mensen met een multi-problematiek."
+    ],
     "domain_category": "Sociaal werk",
     "domain_subcategory": "Armoedebestrijding",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/bind-krachtvorming-isolement-door-een-beperkt-budget?utm_source=jobat&utm_medium=affiliate",
@@ -547,7 +575,9 @@
     "email": "bindkracht@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Krachtgericht werken, Verbindende communicatie, Reflectief handelen, Omgaan met kwetsbare doelgroepen",
-    "audience": "Hulpverleners die individueel en in groep werken met mensen in armoede en kwetsbare mensen met een multi-problematiek",
+    "audience": [
+      "Hulpverleners die individueel en in groep werken met mensen in armoede en kwetsbare mensen met een multi-problematiek"
+    ],
     "domain_category": "Sociale sector",
     "domain_subcategory": "Hulpverlening",
     "webaddress": "https://www.kdg.be/vormingsaanbod/krachtgericht-onthaal?utm_source=jobat&utm_medium=affiliate",
@@ -585,7 +615,9 @@
     "email": "bindkracht@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Krachtgericht werken, Reflectief handelen, Dialoog, Empowerment",
-    "audience": "Hulpverleners en begeleiders in het algemeen welzijnswerk, OCMW's, integrale jeugdhulp, geestelijke gezondheidszorg, justitieel welzijnswerk, opbouwwerkers en sociaal-cultureel werkers.",
+    "audience": [
+      "Hulpverleners en begeleiders in het algemeen welzijnswerk, OCMW's, integrale jeugdhulp, geestelijke gezondheidszorg, justitieel welzijnswerk, opbouwwerkers en sociaal-cultureel werkers."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Hulpverlening",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/bind-krachtvorming-onmacht-de-relatie?utm_source=jobat&utm_medium=affiliate",
@@ -623,7 +655,9 @@
     "email": "bindkracht@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Doorverwijzen, Afscheid nemen, Informatieoverdracht, Krachtgericht werken, Reflectief handelen",
-    "audience": "Hulpverleners die individueel en in groep werken met mensen in armoede en kwetsbare mensen met een multi-problematiek",
+    "audience": [
+      "Hulpverleners die individueel en in groep werken met mensen in armoede en kwetsbare mensen met een multi-problematiek"
+    ],
     "domain_category": "Sociale sector",
     "domain_subcategory": "Hulpverlening",
     "webaddress": "https://www.kdg.be/warme-overdracht?utm_source=jobat&utm_medium=affiliate",
@@ -661,7 +695,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Startende leerkracht in het kleuter-, lager- of secundair onderwijs",
     "skills": "Klasmanagement, Differentiatie, Communicatie met ouders, Reflectie",
-    "audience": "Startende leerkrachten in het kleuter-, lager- of secundair onderwijs, met maximaal 5 jaar ervaring.",
+    "audience": [
+      "Startende leerkrachten in het kleuter-, lager- of secundair onderwijs, met maximaal 5 jaar ervaring."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Startende leerkrachten",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/boost-voor-startende-leerkrachten-basis-secundair-onderwijs?utm_source=jobat&utm_medium=affiliate",
@@ -700,7 +736,9 @@
     "email": "nina.verbanck@kdg.be",
     "job_title": "Opvangcoördinator, Pedagogisch coach, Beleidsmedewerker jeugd, Onderwijsprofessional",
     "skills": "Opvangorganisatie, Pedagogisch beleid, Netwerken, Beleidsanalyse, Kinderparticipatie",
-    "audience": "Professionals werkzaam in de opvang en vrije tijd van schoolkinderen, beleidsmedewerkers, pedagogisch coaches",
+    "audience": [
+      "Professionals werkzaam in de opvang en vrije tijd van schoolkinderen, beleidsmedewerkers, pedagogisch coaches"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Buitenschoolse opvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/bouwen-aan-boa-30-2026-in-zicht?utm_source=jobat&utm_medium=affiliate",
@@ -739,7 +777,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Zorgcoördinator, Begeleider in het onderwijs",
     "skills": "Buitenleren, Didactiek, Leerplandoelen, Veiligheid, Reflectie",
-    "audience": "Leerkrachten uit het (buitengewoon) lager onderwijs die geïnteresseerd zijn in het integreren van buitenlessen in hun onderwijspraktijk.",
+    "audience": [
+      "Leerkrachten uit het (buitengewoon) lager onderwijs die geïnteresseerd zijn in het integreren van buitenlessen in hun onderwijspraktijk."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Buitenonderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/buiten-gewoon-bewegen-en-leren-trek-met-je-klas-naar-buiten?utm_source=jobat&utm_medium=affiliate",
@@ -778,7 +818,9 @@
     "email": "leen.stoffels@kdg.be",
     "job_title": "Leerkracht buitengewoon onderwijs, leerondersteuner",
     "skills": "Coachen, communicatie, empathie, inclusie, differentiatie",
-    "audience": "Kleuteronderwijs, Lager onderwijs, Secundair onderwijs",
+    "audience": [
+      "Kleuteronderwijs, Lager onderwijs, Secundair onderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Buitengewoon onderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/bachelor-na-bachelor/buitengewoon-onderwijs?utm_source=jobat&utm_medium=affiliate",
@@ -817,7 +859,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Buitenspelen, Natuurbeleving, Pedagogisch beleid, Teamontwikkeling",
-    "audience": "Organisatoren, verantwoordelijken, leidinggevenden, pedagogisch coaches en begeleiders in de kinderopvang.",
+    "audience": [
+      "Organisatoren, verantwoordelijken, leidinggevenden, pedagogisch coaches en begeleiders in de kinderopvang."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Buitenspelen en natuurbeleving",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/buitenspelen-en-natuur-beleven-met-jonge-kinderen?utm_source=jobat&utm_medium=affiliate",
@@ -855,7 +899,9 @@
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
     "job_title": "Cardiologieverpleegkundige, CCU-verpleegkundige",
     "skills": "Cardiale zorg, EKG-analyse, acute zorgverlening, patiënteneducatie, technische vaardigheid",
-    "audience": "Verpleegkundigen",
+    "audience": [
+      "Verpleegkundigen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Cardiologie",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/cardiologie?utm_source=jobat&utm_medium=affiliate",
@@ -894,7 +940,9 @@
     "email": "eve.baert@kdg.be",
     "job_title": "Coach, Ondersteuner, Begeleider",
     "skills": "Weerstand, Teamdynamiek, Coaching, Communicatie",
-    "audience": "Coaches, ondersteuners en begeleiders die werken met teams in het kleuter- en lager onderwijs.",
+    "audience": [
+      "Coaches, ondersteuners en begeleiders die werken met teams in het kleuter- en lager onderwijs."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Teamontwikkeling",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/coachen-bij-weerstand-je-team?utm_source=jobat&utm_medium=affiliate",
@@ -932,7 +980,9 @@
     "email": "liesbeth.kustermans@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs",
     "skills": "Levensbeschouwelijke vorming, Religieuze educatie, Zill-methode, Creatief lesgeven",
-    "audience": "Leerkrachten kleuteronderwijs",
+    "audience": [
+      "Leerkrachten kleuteronderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Levensbeschouwelijke en religieuze vorming",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/componenten-van-levensbeschouwelijke-religieuze-groei-de?utm_source=jobat&utm_medium=affiliate",
@@ -970,7 +1020,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs, Leerkracht lager onderwijs",
     "skills": "Computationeel denken, Probleemoplossend denken, Digitale geletterdheid, Creatief denken",
-    "audience": "Leerkrachten uit de 2de en 3de kleuterklas (4 jaar+) en de eerste graad lager onderwijs (8 jaar)",
+    "audience": [
+      "Leerkrachten uit de 2de en 3de kleuterklas (4 jaar+) en de eerste graad lager onderwijs (8 jaar)"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Digitale geletterdheid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/computationeel-denken-programmeren-met-jonge-kinderen?utm_source=jobat&utm_medium=affiliate",
@@ -1009,7 +1061,9 @@
     "email": "digitalbusiness@kdg.be",
     "job_title": "Content marketeer",
     "skills": "copywriting, visuele contentcreatie, videoproductie, podcasting",
-    "audience": "Professionals die zelf content willen creëren (geen diploma vereist)",
+    "audience": [
+      "Professionals die zelf content willen creëren (geen diploma vereist)"
+    ],
     "domain_category": "Marketing & Communicatie",
     "domain_subcategory": "Digitale contentcreatie",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/contentcreatie?utm_source=jobat&utm_medium=affiliate",
@@ -1047,7 +1101,9 @@
     "email": "margo.wouters@kdg.be",
     "job_title": "Verpleegkundige, Hulpverlener, Teamleider",
     "skills": "Teamwerk, Communicatie, Besluitvorming, Stressbestendigheid",
-    "audience": "Multidisciplinaire teams uit de gezondheidszorg en andere sectoren",
+    "audience": [
+      "Multidisciplinaire teams uit de gezondheidszorg en andere sectoren"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Patiëntveiligheid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/crm-crew-crisis-resource-management?utm_source=jobat&utm_medium=affiliate",
@@ -1085,7 +1141,9 @@
     "email": "koen.heylen@kdg.be",
     "job_title": "Data-analist, data steward, Excel-specialist",
     "skills": "Data-analyse, automatisering, dashboarding, procesoptimalisatie, beslissingsondersteuning",
-    "audience": "Bedrijfsleven, Event professionals, Hoger onderwijs, Ondersteuningsnetwerk onderwijs, Sociale sector, Wetenschappers",
+    "audience": [
+      "Bedrijfsleven, Event professionals, Hoger onderwijs, Ondersteuningsnetwerk onderwijs, Sociale sector, Wetenschappers"
+    ],
     "domain_category": "IT",
     "domain_subcategory": "Databeheer",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/databeheer?utm_source=jobat&utm_medium=affiliate",
@@ -1124,7 +1182,9 @@
     "email": "eve.baert@kdg.be",
     "job_title": "Leerkracht, Onderwijsbegeleider, Pedagoog",
     "skills": "Sensitiviteit, Relatieopbouw, Reflectie, Teamontwikkeling",
-    "audience": "Leerkrachten in het kleuter- en lager onderwijs.",
+    "audience": [
+      "Leerkrachten in het kleuter- en lager onderwijs."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Pedagogisch beleid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/de-sensitieve-leerkracht-die-het-verschil-maakt?utm_source=jobat&utm_medium=affiliate",
@@ -1162,7 +1222,9 @@
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Verloskundige, Zorgverlener in de perinatale zorg",
     "skills": "Juridische kennis, Evidence-based handelen, Casusbespreking, Richtlijnen interpretatie",
-    "audience": "Vroedvrouwen, Verloskundigen en andere zorgverleners in de perinatale zorg",
+    "audience": [
+      "Vroedvrouwen, Verloskundigen en andere zorgverleners in de perinatale zorg"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/de-vroedvrouw-en-haar-aansprakelijkheid-van-theorie-naar?utm_source=jobat&utm_medium=affiliate",
@@ -1201,7 +1263,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs, Leerkracht lager onderwijs, Leerkracht secundair onderwijs",
     "skills": "Cricut Design Space, Lasercutten, Personaliseren van didactisch materiaal, Creatief lesmateriaal, STEM-toepassingen",
-    "audience": "Leerkrachten uit het kleuter-, lager- en eerste graad secundair onderwijs die creatief aan de slag willen gaan met het personaliseren van didactisch materiaal of klasactiviteiten.",
+    "audience": [
+      "Leerkrachten uit het kleuter-, lager- en eerste graad secundair onderwijs die creatief aan de slag willen gaan met het personaliseren van didactisch materiaal of klasactiviteiten."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Technologie in het onderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/didactisch-materiaal-personaliseren-het-maaklab?utm_source=jobat&utm_medium=affiliate",
@@ -1240,7 +1304,9 @@
     "email": "eve.baert@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs",
     "skills": "Differentiatie, Kleuteronderwijs, Pedagogisch beleid",
-    "audience": "Leerkrachten kleuteronderwijs",
+    "audience": [
+      "Leerkrachten kleuteronderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kleuteronderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/differentiatie-integreren-de-kleuterklas?utm_source=jobat&utm_medium=affiliate",
@@ -1278,7 +1344,9 @@
     "email": "nina.verbanck@kdg.be",
     "job_title": "Begeleider in de kinderopvang, Leidinggevende in de kinderopvang, Pedagogisch ondersteuner",
     "skills": "Digitaal spelen, Creatief gebruik van technologie, Pedagogisch kader digitaal spelen, Reflectief handelen",
-    "audience": "Teams van begeleiders uit de voorschoolse en buitenschoolse kinderopvang, Leidinggevenden en pedagogisch ondersteuners in de opvang",
+    "audience": [
+      "Teams van begeleiders uit de voorschoolse en buitenschoolse kinderopvang, Leidinggevenden en pedagogisch ondersteuners in de opvang"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/digiplay-spelen-met-digitale-media-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
@@ -1325,7 +1393,9 @@
     "email": "digitalbusiness@kdg.be",
     "job_title": "Digital marketeer, online marketing strateeg, digitaal business consultant",
     "skills": "Digitale strategie, online marketing, data-analyse, innovatie, ondernemerschap",
-    "audience": "Bedrijfsleven",
+    "audience": [
+      "Bedrijfsleven"
+    ],
     "domain_category": "Marketing en communicatie",
     "domain_subcategory": "Digital Business en Online Marketing",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/digital-business?utm_source=jobat&utm_medium=affiliate",
@@ -1364,7 +1434,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Organisator, Verantwoordelijke, Leidinggevende, Pedagogisch coach, Begeleider in de kinderopvang",
     "skills": "Interculturele communicatie, Reflectie, Teamontwikkeling, Diversiteitsbeleid",
-    "audience": "Organisatoren, verantwoordelijken, leidinggevenden, pedagogisch coaches en begeleiders in de kinderopvang.",
+    "audience": [
+      "Organisatoren, verantwoordelijken, leidinggevenden, pedagogisch coaches en begeleiders in de kinderopvang."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/diversiteit-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
@@ -1402,7 +1474,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Kleuterleerkracht",
     "skills": "Digibordgebruik, Digitale didactiek, Creatieve lesontwikkeling",
-    "audience": "Kleuterleerkrachten die hun digitale vaardigheden willen versterken.",
+    "audience": [
+      "Kleuterleerkrachten die hun digitale vaardigheden willen versterken."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kleuteronderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/een-digibord-de-kleuterklas?utm_source=jobat&utm_medium=affiliate",
@@ -1441,7 +1515,9 @@
     "email": "nina.verbanck@kdg.be",
     "job_title": "Leerkracht moderne vreemde talen in het secundair onderwijs",
     "skills": "Evaluatie, Rapportering, Didactiek, Formatieve en summatieve evaluatie, Feedbackstrategieën",
-    "audience": "Leerkrachten Frans van de 1e, 2e en 3e graad (alle finaliteiten) secundair onderwijs; leerkrachten Spaans in het secundair onderwijs; transfer naar andere MVT (bv. Engels en Duits) is mogelijk.",
+    "audience": [
+      "Leerkrachten Frans van de 1e, 2e en 3e graad (alle finaliteiten) secundair onderwijs; leerkrachten Spaans in het secundair onderwijs; transfer naar andere MVT (bv. Engels en Duits) is mogelijk."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Taalonderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/een-geintegreerde-visie-op-evaluatie-binnen-moderne-vreemde?utm_source=jobat&utm_medium=affiliate",
@@ -1480,7 +1556,9 @@
     "email": "info.wet@kdg.be",
     "job_title": "Biomedisch laborant (ATMP QA/QC)",
     "skills": "ELISA uitvoering & analyse, qPCR uitvoering & analyse, lab-kwaliteitszorg, data-interpretatie",
-    "audience": "Werkenden of pas afgestudeerden in biomedische, farmaceutische, biotechnologische of chemische richtingen (geen ervaring met ELISA/qPCR vereist)",
+    "audience": [
+      "Werkenden of pas afgestudeerden in biomedische, farmaceutische, biotechnologische of chemische richtingen (geen ervaring met ELISA/qPCR vereist)"
+    ],
     "domain_category": "Wetenschap & Technologie",
     "domain_subcategory": "Biotechnologie",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/elisa-en-qpcr?utm_source=jobat&utm_medium=affiliate",
@@ -1519,7 +1597,9 @@
     "email": "gazi.akdag@kdg.be",
     "job_title": "Technisch adviseur e-mobility, installateur laadpalen, laadinfra-technicus, EV-consultant",
     "skills": "AC/DC-laadsystemen, analyse klantbehoefte, installatievereisten, datasheetinterpretatie, AREI-veiligheid, toegangscontrole, commerciële advisering",
-    "audience": "Installateurs van laadpalen, technisch adviseurs, managers met verantwoordelijkheid over laadinfrastructuur, professionals in e-mobility",
+    "audience": [
+      "Installateurs van laadpalen, technisch adviseurs, managers met verantwoordelijkheid over laadinfrastructuur, professionals in e-mobility"
+    ],
     "domain_category": "Techniek & technologie",
     "domain_subcategory": "E-Mobility en laadinfrastructuur",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/e-mobility-laadpaalinfrastructuur-de-praktijk?utm_source=jobat&utm_medium=affiliate",
@@ -1576,7 +1656,9 @@
     "email": "sven.desmet@kdg.be",
     "job_title": "Verpleegkundige",
     "skills": "Emotieregulering, Pijnmanagement, Communicatie, Zelfregulatie",
-    "audience": "Verpleegkundigen die in het werkveld in aanraking komen met kinderen, zoals op pediatrie, spoedafdelingen of in leefgroepwerking.",
+    "audience": [
+      "Verpleegkundigen die in het werkveld in aanraking komen met kinderen, zoals op pediatrie, spoedafdelingen of in leefgroepwerking."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Pediatrie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/emotiecoaching-en-pijnmanagement-bij-kinderen?utm_source=jobat&utm_medium=affiliate",
@@ -1615,7 +1697,9 @@
     "email": "sven.desmet@kdg.be",
     "job_title": "Verpleegkundige",
     "skills": "Emotionele coaching, Gedragsherkenning, Grenzen stellen, Zelfregulatie",
-    "audience": "Verpleegkundigen die in het werkveld in aanraking komen met kinderen, zoals op pediatrie, spoedafdelingen of in leefgroepwerking.",
+    "audience": [
+      "Verpleegkundigen die in het werkveld in aanraking komen met kinderen, zoals op pediatrie, spoedafdelingen of in leefgroepwerking."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Pediatrie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/emotiecoaching-bij-jonge-kinderen?utm_source=jobat&utm_medium=affiliate",
@@ -1654,7 +1738,9 @@
     "email": "natalie.vanranst@kdg.be",
     "job_title": "Vroedvrouw",
     "skills": "Autonomie, Respectvolle zorg, Patiëntenrechten, Richtlijnen, Aansprakelijkheid",
-    "audience": "Vroedvrouwen en laatstejaarsstudenten vroedkunde",
+    "audience": [
+      "Vroedvrouwen en laatstejaarsstudenten vroedkunde"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/empowerment-tijdens-de-geboortezorg?utm_source=jobat&utm_medium=affiliate",
@@ -1693,7 +1779,9 @@
     "email": "info@kdg.be",
     "job_title": "Jeugdzorgwerker, Hulpverlener in de jeugdzorg",
     "skills": "Ervaringsgericht werken, Systeemgericht werken, Casusbespreking, Videomateriaal analyse",
-    "audience": "Hulpverleners in de jeugdzorg",
+    "audience": [
+      "Hulpverleners in de jeugdzorg"
+    ],
     "domain_category": "Sociale sector",
     "domain_subcategory": "Jeugdzorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/ervaringsgerichte-psychosociale-hulpverlening-de-jeugdzorg?utm_source=jobat&utm_medium=affiliate",
@@ -1731,7 +1819,9 @@
     "email": "info@kdg.be",
     "job_title": "Pedagogisch medewerker, Begeleider in de kinderopvang, Teamleider in de kinderopvang",
     "skills": "Feedback geven, Feedback ontvangen, Teamcommunicatie, Pedagogisch leiderschap, Reflectief handelen",
-    "audience": "Pedagogisch ondersteuners, Werkers in de brede kinderopvang die werken met en voor een team",
+    "audience": [
+      "Pedagogisch ondersteuners, Werkers in de brede kinderopvang die werken met en voor een team"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Pedagogisch beleid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/feedback-geven-als-pedagogisch-medewerker?utm_source=jobat&utm_medium=affiliate",
@@ -1770,7 +1860,9 @@
     "email": "vinciane.costa@kdg.be",
     "job_title": "Leerkracht, Onderwijsontwikkelaar, Pedagoog",
     "skills": "Feedback geven, Feedback ontvangen, Reflectief handelen, Didactisch ontwerp, Leerprocesbegeleiding",
-    "audience": "Leerkrachten in het lager en secundair onderwijs die hun feedbackpraktijk willen versterken en een feedbackcultuur willen ontwikkelen in hun klas.",
+    "audience": [
+      "Leerkrachten in het lager en secundair onderwijs die hun feedbackpraktijk willen versterken en een feedbackcultuur willen ontwikkelen in hun klas."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Didactiek en pedagogisch beleid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/feedback-de-klas-verborgen-leerkansen?utm_source=jobat&utm_medium=affiliate",
@@ -1808,7 +1900,9 @@
     "email": "liesbeth.kustermans@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Onderwijsbegeleider",
     "skills": "Feedback geven, Reflectie, Kwaliteitsverwachtingen, Didactische werkvormen",
-    "audience": "Leerkrachten lager onderwijs die met feedback aan de slag willen gaan in hun klas.",
+    "audience": [
+      "Leerkrachten lager onderwijs die met feedback aan de slag willen gaan in hun klas."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Feedback en Evaluatie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/feedback-de-klas-verborgen-leerkansen-lager-onderwijs?utm_source=jobat&utm_medium=affiliate",
@@ -1846,7 +1940,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Zorgcoördinator, Begeleider in het onderwijs",
     "skills": "Buitenleren, Didactiek, Leerplandoelen, Veiligheid, Reflectie",
-    "audience": "Leerkrachten uit het (buitengewoon) lager onderwijs die geïnteresseerd zijn in het integreren van buitenlessen in hun onderwijspraktijk.",
+    "audience": [
+      "Leerkrachten uit het (buitengewoon) lager onderwijs die geïnteresseerd zijn in het integreren van buitenlessen in hun onderwijspraktijk."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Buitenonderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/fijne-motoriek-trainen-om-vlot-te-leren-schrijven?utm_source=jobat&utm_medium=affiliate",
@@ -1885,7 +1981,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Ondernemer, Financieel medewerker, Accountant, Boekhouder, Business analist, Teamlead, Operationeel manager",
     "skills": "Balansanalyse, Resultatenrekening interpreteren, Cashflowanalyse, Financiële ratio’s begrijpen, Financieel evenwicht beoordelen, Jaarrekening lezen, Praktische financiële analyse, Beslissingsondersteuning",
-    "audience": "Ondernemers, managers en professionals die werken met financiële rapporten, budgetten of financiële beslissingen, maar geen formele financiële opleiding hebben gevolgd. De vorming is geschikt voor profit-, non-profit- en publieke sector.",
+    "audience": [
+      "Ondernemers, managers en professionals die werken met financiële rapporten, budgetten of financiële beslissingen, maar geen formele financiële opleiding hebben gevolgd. De vorming is geschikt voor profit-, non-profit- en publieke sector."
+    ],
     "domain_category": "Business & Management",
     "domain_subcategory": "Financiën & bedrijfsvoering",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/finance-essentials-voor-ondernemers-en-professionals?utm_source=jobat&utm_medium=affiliate",
@@ -1924,7 +2022,9 @@
     "email": "sven.desmet@kdg.be",
     "job_title": "Beleidsmaker, Directie, Hoofdverpleegkundige, Zorgcoördinator",
     "skills": "Fixatiearm beleid, Ethiek, Risicobeheersing, Communicatie, Cultuuromslag",
-    "audience": "Beleidsmakers, directieleden, hoofdverpleegkundigen en zorgcoördinatoren werkzaam in woonzorgcentra, ziekenhuizen en andere residentiële zorginstellingen.",
+    "audience": [
+      "Beleidsmakers, directieleden, hoofdverpleegkundigen en zorgcoördinatoren werkzaam in woonzorgcentra, ziekenhuizen en andere residentiële zorginstellingen."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Residentiële zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/fixatiearm-beleid-een-residentiele-setting?utm_source=jobat&utm_medium=affiliate",
@@ -1963,7 +2063,9 @@
     "email": "info.wet@kdg.be",
     "job_title": "ATMP-flowcytometrie operator",
     "skills": "flowcytometrie uitvoering, multicolor panel design, data-analyse, kwaliteitscontrole",
-    "audience": "Professionals in biomedische, farmaceutische of biotechnologische sector of nieuwe bachelor grads in labtechnologie die flowcytometrie willen leren",
+    "audience": [
+      "Professionals in biomedische, farmaceutische of biotechnologische sector of nieuwe bachelor grads in labtechnologie die flowcytometrie willen leren"
+    ],
     "domain_category": "Wetenschap & Technologie",
     "domain_subcategory": "Biotechnologie",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/flowcytometrie?utm_source=jobat&utm_medium=affiliate",
@@ -2002,7 +2104,9 @@
     "email": "nina.verbanck@kdg.be",
     "job_title": "Leerkracht Frans in het secundair onderwijs",
     "skills": "Differentiatie, Remediëring, Lesvoorbereiding, Pedagogisch-didactisch plan",
-    "audience": "Leerkrachten Frans in de 1e graad A/B-stroom, 2e graad D, D/A en A-finaliteit, schakelklassen of OKAN.",
+    "audience": [
+      "Leerkrachten Frans in de 1e graad A/B-stroom, 2e graad D, D/A en A-finaliteit, schakelklassen of OKAN."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Taalonderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/frans-voor-heterogene-klasgroepen-en-ex-okan-leerlingen?utm_source=jobat&utm_medium=affiliate",
@@ -2041,7 +2145,9 @@
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Gynaecoloog, Zorgverlener in de perinatale zorg",
     "skills": "CTG-interpretatie, STAN-monitoring, Fysiologische benadering, FIGO-richtlijnen",
-    "audience": "Vroedvrouwen, Gynaecologen en andere zorgverleners in de perinatale zorg",
+    "audience": [
+      "Vroedvrouwen, Gynaecologen en andere zorgverleners in de perinatale zorg"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/fysiologische-richtlijnen-rond-stan-ctg?utm_source=jobat&utm_medium=affiliate",
@@ -2080,7 +2186,9 @@
     "email": "nausikaa.vandenbulcke@kdg.be",
     "job_title": "Gecertificeerd accountant (ITAA), senior dossierbeheerder, vennoot-accountant",
     "skills": "Fiscaliteit, accountancy op expertniveau, leidinggeven, strategisch financieel inzicht, wettelijke conformiteit",
-    "audience": "Bedrijfsleven",
+    "audience": [
+      "Bedrijfsleven"
+    ],
     "domain_category": "Bedrijf & Economie",
     "domain_subcategory": "Gecertificeerd Tax Accountant",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/gecertificeerd-tax-accountant?utm_source=jobat&utm_medium=affiliate",
@@ -2119,7 +2227,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht, Begeleider, Zorgcoördinator, Jeugdwerker",
     "skills": "Gedragsanalyse, Emotioneel welzijn, Traumasensitief werken, Sociaal-emotioneel leren, Grenzen stellen",
-    "audience": "Leerkrachten, directieleden, zorgcoördinatoren, leerlingbegeleiders, opvoedingsondersteuners, sociaal werkers, jeugdwerkers en begeleiders in diverse zorginstellingen.",
+    "audience": [
+      "Leerkrachten, directieleden, zorgcoördinatoren, leerlingbegeleiders, opvoedingsondersteuners, sociaal werkers, jeugdwerkers en begeleiders in diverse zorginstellingen."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Gedragsproblemen",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/gedragsproblemen?utm_source=jobat&utm_medium=affiliate",
@@ -2158,7 +2268,9 @@
     "email": "sophie.bollen@kdg.be",
     "job_title": "Leerkracht, Onderwijsbegeleider, Pedagoog",
     "skills": "Genderbewustzijn, Inclusief onderwijs, Kritisch denken, Lesontwerp",
-    "audience": "Leerkrachten en onderwijsprofessionals in het kleuter-, lager en secundair onderwijs.",
+    "audience": [
+      "Leerkrachten en onderwijsprofessionals in het kleuter-, lager en secundair onderwijs."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Pedagogisch beleid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/gendereducatie-de-klas?utm_source=jobat&utm_medium=affiliate",
@@ -2196,7 +2308,9 @@
     "email": "mark.willekens@kdg.be",
     "job_title": "Geriatrisch verpleegkundige, referentieverpleegkundige ouderenzorg",
     "skills": "Geriatrische zorg, multidisciplinair werken, klinisch redeneren, empathie, innovatie in ouderenzorg",
-    "audience": "Verpleegkundigen",
+    "audience": [
+      "Verpleegkundigen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Geriatrie",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/geriatrie?utm_source=jobat&utm_medium=affiliate",
@@ -2235,7 +2349,9 @@
     "email": "mark.willekens@kdg.be",
     "job_title": "Gespecialiseerde pijnverpleegkundige, Verpleegkundige pijnkliniek, Coördinator pijnzorg",
     "skills": "Pijnbehandeling, Multidisciplinaire zorg, Communicatie, Evidence-based practice, Begeleiding",
-    "audience": "Verpleegkundigen met een bachelordiploma die zich willen specialiseren in pijnzorg of werkzaam zijn in acute, chronische of palliatieve settings",
+    "audience": [
+      "Verpleegkundigen met een bachelordiploma die zich willen specialiseren in pijnzorg of werkzaam zijn in acute, chronische of palliatieve settings"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Pijnzorg & Verpleegkunde",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/gespecialiseerde-pijnverpleegkundige?utm_source=jobat&utm_medium=affiliate",
@@ -2274,7 +2390,9 @@
     "email": "nina.verbanck@kdg.be",
     "job_title": "Leerkracht, Coördinator leerlingenraad, Beleidsmedewerker onderwijs",
     "skills": "Leerlingenparticipatie, Inclusie, Diversiteit, Beleidsimpact, Creatieve werkvormen",
-    "audience": "Leerkrachten, schoolcoördinatoren, beleidsmedewerkers in het onderwijs",
+    "audience": [
+      "Leerkrachten, schoolcoördinatoren, beleidsmedewerkers in het onderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Leerlingenparticipatie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/gotalk-leerlingenparticipatie-afsluitende-studiedag?utm_source=jobat&utm_medium=affiliate",
@@ -2313,7 +2431,9 @@
     "email": "bert.murawski@kdg.be",
     "job_title": "Leerkracht, Zorgcoördinator, Ondersteuner",
     "skills": "Hechtingstheorie, Gedragsondersteuning, Klassikale structuur, Pedagogisch handelen",
-    "audience": "Leerkrachten kleuter- en lager onderwijs die werken met kinderen met hechtingsstoornissen.",
+    "audience": [
+      "Leerkrachten kleuter- en lager onderwijs die werken met kinderen met hechtingsstoornissen."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Pedagogisch beleid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/hechten-en-vechten?utm_source=jobat&utm_medium=affiliate",
@@ -2351,7 +2471,9 @@
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Schoolcoach, Teamleider",
     "skills": "Stressmanagement, Teamontspanning, Schoolwelzijn, Teamcoaching, Reflectievaardigheden",
-    "audience": "Leerkrachten, schoolteams, teamcoaches en schoolleiders",
+    "audience": [
+      "Leerkrachten, schoolteams, teamcoaches en schoolleiders"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Schoolwelzijn & Teamontwikkeling",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/hoe-echt-samen-ontspannen-op-school?utm_source=jobat&utm_medium=affiliate",
@@ -2390,7 +2512,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Trainer, Online docent, Workshopbegeleider, Ondernemer, Freelancer, Learning & Development specialist",
     "skills": "Storytelling, Online presenteren, Visuele slides ontwerpen, Interactie creëren tijdens online lessen, Gebruik van tools zoals Teams, breakoutrooms en Wooclap, Stem- en lichaamstechnieken voor online lesgeven, Online studio inrichten, Constructieve feedback geven en ontvangen",
-    "audience": "Professionals zonder pedagogische achtergrond die online lesgeven of workshops organiseren en merken dat hun publiek niet echt mee is (zwarte schermen, weinig interactie). Ook particulieren met interesse in online presenteren zijn welkom.",
+    "audience": [
+      "Professionals zonder pedagogische achtergrond die online lesgeven of workshops organiseren en merken dat hun publiek niet echt mee is (zwarte schermen, weinig interactie). Ook particulieren met interesse in online presenteren zijn welkom."
+    ],
     "domain_category": "Onderwijs & vorming",
     "domain_subcategory": "Didactiek & presenteren",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/hoe-geef-je-zelfverzekerd-en-inspirerend-online-les?utm_source=jobat&utm_medium=affiliate",
@@ -2428,7 +2552,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs, Leerkracht lager onderwijs, Ergotherapeut, Kinesist",
     "skills": "Lateralisatie, Fijne motoriek, Schrijfmotoriek, Didactiek, Differentiatie",
-    "audience": "Leerkrachten uit het (buitengewoon) kleuter- en lager onderwijs, ergotherapeuten en kinesisten die hun pedagogische en didactische basis rond de ontwikkeling van de fijne motoriek met het oog op leren schrijven willen verbreden.",
+    "audience": [
+      "Leerkrachten uit het (buitengewoon) kleuter- en lager onderwijs, ergotherapeuten en kinesisten die hun pedagogische en didactische basis rond de ontwikkeling van de fijne motoriek met het oog op leren schrijven willen verbreden."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Motoriek en schrijven",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/hoe-wordt-leren-schrijven-een-plezier-zo?utm_source=jobat&utm_medium=affiliate",
@@ -2467,7 +2593,9 @@
     "email": "info.navormingen@kdg.be",
     "job_title": "Verpleegkundige, Zorgkundige, Palliatief medewerker",
     "skills": "Communicatie, Begeleiding, Hoop en veerkracht, Casusbespreking, Reflectie",
-    "audience": "Zorgprofessionals werkzaam in de palliatieve zorg, verpleegkundigen, zorgkundigen en begeleiders",
+    "audience": [
+      "Zorgprofessionals werkzaam in de palliatieve zorg, verpleegkundigen, zorgkundigen en begeleiders"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Palliatieve zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/hoop-palliatieve-zorg?utm_source=jobat&utm_medium=affiliate",
@@ -2506,7 +2634,9 @@
     "email": "bieke.janssens@kdg.be",
     "job_title": "HR-manager, HR-business partner, HR-consultant",
     "skills": "HR-strategie, change management, coaching, communicatie, analytics",
-    "audience": "Bedrijfsleven",
+    "audience": [
+      "Bedrijfsleven"
+    ],
     "domain_category": "HR en personeelswerk",
     "domain_subcategory": "HR – People & Business",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/hr-people-business?utm_source=jobat&utm_medium=affiliate",
@@ -2545,7 +2675,9 @@
     "email": "nina.verbanck@kdg.be",
     "job_title": "Kinderbegeleider, Pedagogisch ondersteuner",
     "skills": "Emotionele ondersteuning, Observatie, Communicatie, Pedagogisch beleid",
-    "audience": "Kinderbegeleiders, Pedagogisch ondersteuners",
+    "audience": [
+      "Kinderbegeleiders, Pedagogisch ondersteuners"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/inzicht-emoties-van-babys-en-peuters-online-training?utm_source=jobat&utm_medium=affiliate",
@@ -2583,7 +2715,9 @@
     "email": "info.navormingen@kdg.be",
     "job_title": "Leidinggevende, Teamcoach, Schoolbegeleider",
     "skills": "Teamcoaching, Leiderschapsvaardigheden, Teamdynamiek, Binding en afstemming",
-    "audience": "Leidinggevenden, teamcoaches en schoolbegeleiders die hun vaardigheden in het coachen van teams willen versterken",
+    "audience": [
+      "Leidinggevenden, teamcoaches en schoolbegeleiders die hun vaardigheden in het coachen van teams willen versterken"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Teamcoaching",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/je-team-coachen-tools-en-technieken-voor-succes?utm_source=jobat&utm_medium=affiliate",
@@ -2622,7 +2756,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Kinderbegeleider in het onderwijs of de kinderopvang",
     "skills": "Pedagogisch inzicht, Onderwijsdoelen, Educare, Taalontwikkeling, Klasmanagement",
-    "audience": "Kinderbegeleiders werkzaam in het onderwijs of de kinderopvang, of zij die een overstap naar het onderwijs ambiëren.",
+    "audience": [
+      "Kinderbegeleiders werkzaam in het onderwijs of de kinderopvang, of zij die een overstap naar het onderwijs ambiëren."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/kinderbegeleiders-onderwijs?utm_source=jobat&utm_medium=affiliate",
@@ -2661,7 +2797,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Leidinggevenden, coördinatoren, pedagogische coaches, kinderbegeleiders",
     "skills": "Visievorming, Beleidsontwikkeling, Teamreflectie, Kwaliteitsbeleid",
-    "audience": "Leidinggevenden, coördinatoren, pedagogische coaches en kinderbegeleiders in de kinderopvang.",
+    "audience": [
+      "Leidinggevenden, coördinatoren, pedagogische coaches en kinderbegeleiders in de kinderopvang."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/kwaliteitsvol-werken-de-opvang-samen-bouwen-aan-missie-en?utm_source=jobat&utm_medium=affiliate",
@@ -2699,7 +2837,9 @@
     "email": "eve.baert@kdg.be",
     "job_title": "Aanvangsbegeleider, Mentor, Coördinator in het onderwijs",
     "skills": "Begeleiden van startende leerkrachten, Coaching, Organisatie van aanvangsbegeleiding, Evaluatie",
-    "audience": "Onderwijsprofessionals die aanvangsbegeleiding op school organiseren of als aanvangsbegeleider startende leerkrachten en collega’s coachen.",
+    "audience": [
+      "Onderwijsprofessionals die aanvangsbegeleiding op school organiseren of als aanvangsbegeleider startende leerkrachten en collega’s coachen."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Mentorschap en Coaching",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/kwaliteitsvolle-aanvangsbegeleiding-binnen-onderwijs?utm_source=jobat&utm_medium=affiliate",
@@ -2738,7 +2878,9 @@
     "email": "info@kdg.be",
     "job_title": "Verpleegkundige",
     "skills": "Hechtingstechnieken, Wondzorg, Hygiëneprotocollen, Communicatie",
-    "audience": "Verpleegkundigen die bevoegd willen zijn om cutane hechtingen uit te voeren volgens de nieuwe wetgeving.",
+    "audience": [
+      "Verpleegkundigen die bevoegd willen zijn om cutane hechtingen uit te voeren volgens de nieuwe wetgeving."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Wondzorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/leren-hechten-voor-verpleegkundigen?utm_source=jobat&utm_medium=affiliate",
@@ -2777,7 +2919,9 @@
     "email": "Sarah.Vorsselmans@kdg.be",
     "job_title": "Kinderbegeleider, Pedagogisch coach, Coördinator kinderopvang",
     "skills": "Buitenruimte ontwerpen, Duurzaamheid, Pedagogische begeleiding, Natuurbeleving, Teamleren",
-    "audience": "Kinderbegeleiders, verantwoordelijken en pedagogisch coaches uit de kinderopvangsector",
+    "audience": [
+      "Kinderbegeleiders, verantwoordelijken en pedagogisch coaches uit de kinderopvangsector"
+    ],
     "domain_category": "Pedagogie & Onderwijs",
     "domain_subcategory": "Kinderopvang & Natuurbeleving",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/lerend-netwerk-avontuurlijk-vergroenen-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
@@ -2816,7 +2960,9 @@
     "email": "melissa.smiedts@kdg.be",
     "job_title": "Mensenrechtenactivist, Beleidsadviseur, Onderzoeker",
     "skills": "Mensrechten, LGBTQ+-rechten, Strafrecht, Sociale rechtvaardigheid, Dialoogfacilitatie",
-    "audience": "Iedereen met interesse in mensenrechten, LGBTQ+-kwesties, strafrecht en sociale rechtvaardigheid.",
+    "audience": [
+      "Iedereen met interesse in mensenrechten, LGBTQ+-kwesties, strafrecht en sociale rechtvaardigheid."
+    ],
     "domain_category": "Mensenrechten",
     "domain_subcategory": "LGBTQ+-rechten",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/lgbtq-dood-levend?utm_source=jobat&utm_medium=affiliate",
@@ -2855,7 +3001,9 @@
     "email": "eve.suykens@kdg.be",
     "job_title": "Leerkracht Kleuteronderwijs, Leerkracht Lager Onderwijs",
     "skills": "Klasmanagement, Didactiek, Pedagogisch beleid, Lesvoorbereiding, Evaluatie",
-    "audience": "Leerkrachten zonder pedagogisch diploma die starten in het kleuter- of lager onderwijs",
+    "audience": [
+      "Leerkrachten zonder pedagogisch diploma die starten in het kleuter- of lager onderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kleuter- en Lager Onderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/lio-lab-kleuter-en-lager-onderwijs?utm_source=jobat&utm_medium=affiliate",
@@ -2894,7 +3042,9 @@
     "email": "jesse.mortelmans@kdg.be",
     "job_title": "Magazijnbeheerder",
     "skills": "voorraadbeheer, magazijnorganisatie, logistieke planning, supply chain inzicht",
-    "audience": "Professionals of instromers met interesse in logistiek en stockmanagement",
+    "audience": [
+      "Professionals of instromers met interesse in logistiek en stockmanagement"
+    ],
     "domain_category": "Logistiek",
     "domain_subcategory": "Voorraadbeheer",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/logistiek-en-voorraadbeheer?utm_source=jobat&utm_medium=affiliate",
@@ -2933,7 +3083,9 @@
     "email": "digitalbusiness@kdg.be",
     "job_title": "Video content creator",
     "skills": "videoproductie, video-editing, storytelling in video, livestreaming",
-    "audience": "Marketing- en communicatiemedewerkers of ondernemers die zelf professionele video’s willen leren maken (open voor iedereen)",
+    "audience": [
+      "Marketing- en communicatiemedewerkers of ondernemers die zelf professionele video’s willen leren maken (open voor iedereen)"
+    ],
     "domain_category": "Marketing & Communicatie",
     "domain_subcategory": "Digitale media",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/marketingvideos-zelf-maken?utm_source=jobat&utm_medium=affiliate",
@@ -2971,7 +3123,9 @@
     "email": "info@kdg.be",
     "job_title": "Duurzaamheidsmanager, CSR Manager, Sustainability Consultant",
     "skills": "Duurzaamheidsstrategie, Stakeholdermanagement, Duurzaamheidsrapportering, Materialiteitsanalyse, Systeemdenken, Verandermanagement",
-    "audience": "Bedrijven en teams die willen werken aan een duurzaam beleid",
+    "audience": [
+      "Bedrijven en teams die willen werken aan een duurzaam beleid"
+    ],
     "domain_category": "Duurzaam Ondernemen",
     "domain_subcategory": "Bedrijfsstrategie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/masterclass-duurzaam-ondernemen?utm_source=jobat&utm_medium=affiliate",
@@ -3010,7 +3164,9 @@
     "email": "sven.desmet@kdg.be",
     "job_title": "Zorgprofessional, Verpleegkundige, Zorgkundige, Medewerker in de eerstelijnszorg of GGZ",
     "skills": "Vroegtijdige zorgplanning, Communicatie, Ethische besluitvorming, Cultuursensitieve zorg",
-    "audience": "Zorgprofessionals werkzaam in residentiële zorg, eerstelijnszorg, GGZ, palliatieve zorg of met patiënten met neurodegeneratieve aandoeningen.",
+    "audience": [
+      "Zorgprofessionals werkzaam in residentiële zorg, eerstelijnszorg, GGZ, palliatieve zorg of met patiënten met neurodegeneratieve aandoeningen."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Zorgplanning",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/masterclass-vroegtijdige-zorgplanning?utm_source=jobat&utm_medium=affiliate",
@@ -3049,7 +3205,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Taalstimulering, Meertaligheid, Pedagogisch beleid, Teamcoaching",
-    "audience": "Teams binnen een groepsopvang",
+    "audience": [
+      "Teams binnen een groepsopvang"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Taalontwikkeling",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/meertalige-gezinnen-de-kinderopvang-zo-ondersteun-je-hun?utm_source=jobat&utm_medium=affiliate",
@@ -3087,7 +3245,9 @@
     "email": "jessica.deprez@kdg.be",
     "job_title": "Menopauzeconsulent, gespecialiseerd verpleegkundige/vroedkundige in menopauzezorg",
     "skills": "Menopauzekennis, counseling, medische educatie, empathie, holistische zorg",
-    "audience": "Hulpverlening, Lager onderwijs, Ouderenzorg, Verpleegkundigen, Vroedvrouwen, Zorgkundigen",
+    "audience": [
+      "Hulpverlening, Lager onderwijs, Ouderenzorg, Verpleegkundigen, Vroedvrouwen, Zorgkundigen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Menopauze begeleiding",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/menopauzeconsulent?utm_source=jobat&utm_medium=affiliate",
@@ -3126,7 +3286,9 @@
     "email": "cathy.crabbe@kdg.be",
     "job_title": "Mentor, stagebegeleider, coach beginnende leerkrachten",
     "skills": "Coaching, feedback geven, communicatieve vaardigheden, observeren, begeleiden",
-    "audience": "Buitengewoon onderwijs, Kleuteronderwijs, Lager onderwijs, Secundair Onderwijs",
+    "audience": [
+      "Buitengewoon onderwijs, Kleuteronderwijs, Lager onderwijs, Secundair Onderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Mentorschap in onderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/mentor-in-stage-en-aanvangsbegeleiding?utm_source=jobat&utm_medium=affiliate",
@@ -3165,7 +3327,9 @@
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
     "job_title": "Stagementor verpleegkunde",
     "skills": "mentoring, communicatie, didactische vaardigheden, coachen van studenten",
-    "audience": "Verpleegkundigen en vroedvrouwen met praktijkervaring die studenten willen begeleiden",
+    "audience": [
+      "Verpleegkundigen en vroedvrouwen met praktijkervaring die studenten willen begeleiden"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Verpleegkunde (mentorschap)",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/mentor-klinisch-onderwijs?utm_source=jobat&utm_medium=affiliate",
@@ -3204,7 +3368,9 @@
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Mentor, Schoolcoach",
     "skills": "Coaching, Feedback, Communicatie, Begeleiding, Mentorschap",
-    "audience": "Leerkrachten, schoolmentoren en begeleiders van startende leerkrachten of studenten",
+    "audience": [
+      "Leerkrachten, schoolmentoren en begeleiders van startende leerkrachten of studenten"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Coaching & Mentorschap",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/mentorenvorming-onderwijs-coachingsvaardigheden?utm_source=jobat&utm_medium=affiliate",
@@ -3243,7 +3409,9 @@
     "email": "nina.verbanck@kdg.be",
     "job_title": "Zorgprofessionals, Mantelzorgers, Beleidsmakers, Cultuur- en erfgoedprofessionals",
     "skills": "Cultuursensitieve zorg, Dementiezorg, Migratieachtergrond, Erfgoed, Beleidsontwikkeling",
-    "audience": "Zorgverleners in ouderenzorg, eerstelijnszorg, mentale welzijn, mantelzorgers, cultuur- en erfgoedsector, minderhedenorganisaties, beleidsmakers, bredere welzijnssector, hoger onderwijs en zorgopleidingen binnen middelbaar onderwijs.",
+    "audience": [
+      "Zorgverleners in ouderenzorg, eerstelijnszorg, mentale welzijn, mantelzorgers, cultuur- en erfgoedsector, minderhedenorganisaties, beleidsmakers, bredere welzijnssector, hoger onderwijs en zorgopleidingen binnen middelbaar onderwijs."
+    ],
     "domain_category": "Zorg en Welzijn",
     "domain_subcategory": "Dementiezorg en Cultuursensitieve Zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/migratie-erfgoed-en-dementie-naar-cultuursensitieve?utm_source=jobat&utm_medium=affiliate",
@@ -3282,7 +3450,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Zorgcoördinator, Begeleider in het onderwijs",
     "skills": "Bewegend leren, Motorische ontwikkeling, Didactiek, Differentiatie",
-    "audience": "Leerkrachten uit het (buitengewoon) basisonderwijs die geïnteresseerd zijn in het integreren van bewegend leren in hun klaspraktijk.",
+    "audience": [
+      "Leerkrachten uit het (buitengewoon) basisonderwijs die geïnteresseerd zijn in het integreren van bewegend leren in hun klaspraktijk."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Bewegend leren",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/minder-zitten-en-meer-bewegen-de-klas?utm_source=jobat&utm_medium=affiliate",
@@ -3321,7 +3491,9 @@
     "email": "richard.anthone@kdg.be",
     "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider in de welzijnssector",
     "skills": "Morele oordeelsvorming, Ethische besluitvorming, Casusbespreking, Regelgeving en deontologie",
-    "audience": "Professionals in de sociale sector die geconfronteerd worden met ethische vraagstukken in hun dagelijkse praktijk",
+    "audience": [
+      "Professionals in de sociale sector die geconfronteerd worden met ethische vraagstukken in hun dagelijkse praktijk"
+    ],
     "domain_category": "Sociale sector",
     "domain_subcategory": "Hulpverlening",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/morele-oordeelsvorming-de-praktijk?utm_source=jobat&utm_medium=affiliate",
@@ -3359,7 +3531,9 @@
     "email": "sven.desmet@kdg.be",
     "job_title": "Begeleider, Pedagoog, Hulpverlener",
     "skills": "Transculturele competenties, Interculturele communicatie, Reflectief handelen, Diversiteitsbewustzijn",
-    "audience": "Professionals binnen welzijn en onderwijs, zoals jeugdzorg, onderwijs, zorg voor mensen met een beperking, ouderenzorg, algemeen welzijnswerk, Kind en Gezin, en geestelijke gezondheidszorg.",
+    "audience": [
+      "Professionals binnen welzijn en onderwijs, zoals jeugdzorg, onderwijs, zorg voor mensen met een beperking, ouderenzorg, algemeen welzijnswerk, Kind en Gezin, en geestelijke gezondheidszorg."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Pedagogisch beleid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/omgaan-met-culturele-diversiteit-pedagogie-basis?utm_source=jobat&utm_medium=affiliate",
@@ -3397,7 +3571,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Hulpverlener, Jeugdzorgwerker, Orthopedagoog, Maatschappelijk werker",
     "skills": "Crisishantering, Reflectie, Positieve psychologie, Communicatie",
-    "audience": "Hulpverleners die worden geconfronteerd met (een gevoel van) onmacht.",
+    "audience": [
+      "Hulpverleners die worden geconfronteerd met (een gevoel van) onmacht."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Hulpverlening",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/omgaan-met-onmacht-als-hulpverlener?utm_source=jobat&utm_medium=affiliate",
@@ -3436,7 +3612,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Hulpverlener, Jeugdzorgwerker, Orthopedagoog, Maatschappelijk werker",
     "skills": "Crisishantering, Reflectie, Positieve psychologie, Communicatie",
-    "audience": "Hulpverleners die worden geconfronteerd met (een gevoel van) onmacht.",
+    "audience": [
+      "Hulpverleners die worden geconfronteerd met (een gevoel van) onmacht."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Hulpverlening",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/omgaan-met-verontrusting-en-kindermishandeling?utm_source=jobat&utm_medium=affiliate",
@@ -3475,7 +3653,9 @@
     "email": "mark.willekens@kdg.be",
     "job_title": "Oncologisch verpleegkundige, verpleegkundige dagkliniek oncologie",
     "skills": "Oncologische zorg, hoogtechnologische verpleegkunde, patiëntenbegeleiding, multidisciplinair samenwerken",
-    "audience": "Verpleegkundigen",
+    "audience": [
+      "Verpleegkundigen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Oncologie",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/oncologie?utm_source=jobat&utm_medium=affiliate",
@@ -3514,7 +3694,9 @@
     "email": "elise.linsen@kdg.be",
     "job_title": "Leerkracht Rooms-Katholieke godsdienst (kleuter of lager onderwijs)",
     "skills": "didactiek godsdienst, levensbeschouwelijke gespreksvoering, klasmanagement godsdienstles",
-    "audience": "Afgestudeerde leraren kleuter- of lager onderwijs zonder bevoegdheid godsdienst, werkzaam in het onderwijs",
+    "audience": [
+      "Afgestudeerde leraren kleuter- of lager onderwijs zonder bevoegdheid godsdienst, werkzaam in het onderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Godsdienstonderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/onderwijsbevoegdheid-rooms-katholieke-godsdienst?utm_source=jobat&utm_medium=affiliate",
@@ -3553,7 +3735,9 @@
     "email": "katrien.hens@kdg.be",
     "job_title": "Leerkracht, Begeleider, Coach, Leidinggevende, HR-professional",
     "skills": "Actief luisteren, Empathie, Vraagtechnieken, Gespreksstructuur, Coaching",
-    "audience": "Leerkrachten, Begeleiders, Coaches, Leidinggevenden, HR-professionals",
+    "audience": [
+      "Leerkrachten, Begeleiders, Coaches, Leidinggevenden, HR-professionals"
+    ],
     "domain_category": "Onderwijs & Coaching",
     "domain_subcategory": "Gespreksvoering & Coaching",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/ontgrendel-de-kracht-van-gesprekstechnieken?utm_source=jobat&utm_medium=affiliate",
@@ -3592,7 +3776,9 @@
     "email": "mark.willekens@kdg.be",
     "job_title": "Palliatief verpleegkundige, zorgcoördinator palliatieve eenheid",
     "skills": "Palliatieve zorg, empathie, pijn- en symptoomcontrole, rouwbegeleiding, communicatie",
-    "audience": "Verpleegkundigen",
+    "audience": [
+      "Verpleegkundigen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Palliatieve zorg",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/palliatieve-zorg?utm_source=jobat&utm_medium=affiliate",
@@ -3631,7 +3817,9 @@
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Perinatale coach, Zorgprofessional in perinatale zorg",
     "skills": "Hechting, Ouderschap, Partnerrelatie, Draagkracht, Draaglast",
-    "audience": "Vroedvrouwen, Andere zorgprofessionals met intensief contact met het gezin",
+    "audience": [
+      "Vroedvrouwen, Andere zorgprofessionals met intensief contact met het gezin"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/parenting?utm_source=jobat&utm_medium=affiliate",
@@ -3670,7 +3858,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Pedagogisch coach, Begeleider in de kinderopvang",
     "skills": "Coaching, Pedagogisch beleid, Teamontwikkeling, Reflectie",
-    "audience": "Professionals in de kinderopvang in Groot-Antwerpen die geen recht hebben op gratis ondersteuning via Mentes.",
+    "audience": [
+      "Professionals in de kinderopvang in Groot-Antwerpen die geen recht hebben op gratis ondersteuning via Mentes."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Pedagogie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/pedagogische-coaching-binnen-je-kinderopvang?utm_source=jobat&utm_medium=affiliate",
@@ -3708,7 +3898,9 @@
     "email": "mark.willekens@kdg.be",
     "job_title": "Pediatrisch verpleegkundige, neonatologieverpleegkundige",
     "skills": "Kinderverpleegkunde, neonatale zorg, ouderschapsondersteuning, klinisch redeneren, interdisciplinair samenwerken",
-    "audience": "Hulpverlening, Sociale sector, Verpleegkundigen, Vroedvrouwen, Zorgkundigen",
+    "audience": [
+      "Hulpverlening, Sociale sector, Verpleegkundigen, Vroedvrouwen, Zorgkundigen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Pediatrie en Neonatologie",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/pediatrie-en-neonatologie?utm_source=jobat&utm_medium=affiliate",
@@ -3747,7 +3939,9 @@
     "email": "astrid.claerbout@kdg.be",
     "job_title": "Perinatale coach, zwangerschapsbegeleider, postpartum consulent",
     "skills": "Coachen, counseling, perinatale zorg, communicatie, emotionele ondersteuning",
-    "audience": "Vroedvrouwen",
+    "audience": [
+      "Vroedvrouwen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale coaching",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/perinatale-coach?utm_source=jobat&utm_medium=affiliate",
@@ -3786,7 +3980,9 @@
     "email": "steven.decroos@kdg.be",
     "job_title": "Personal trainer, Gezondheidscoach, Lifestylecoach, Beweegcoach",
     "skills": "Coaching, Trainingsleer, Voedingsadvies, Gedragsverandering, Gezondheidsbevordering",
-    "audience": "Professionals en afgestudeerden uit sport, gezondheid, welzijn en coaching die zich willen specialiseren in levensstijlbegeleiding",
+    "audience": [
+      "Professionals en afgestudeerden uit sport, gezondheid, welzijn en coaching die zich willen specialiseren in levensstijlbegeleiding"
+    ],
     "domain_category": "Gezondheid en beweging",
     "domain_subcategory": "Lifestyle & Coaching",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/personal-trainer-en-gezondheidscoach?utm_source=jobat&utm_medium=affiliate",
@@ -3825,7 +4021,9 @@
     "email": "sven.desmet@kdg.be",
     "job_title": "Verpleegkundige, Kinderverzorgster",
     "skills": "Pijnmanagement, Communicatie, Afleidingstechnieken, Co-regulatie",
-    "audience": "Verpleegkundigen op pediatrie, spoedverpleegkundigen, verpleegkundigen op consultatie, kinderverzorgsters",
+    "audience": [
+      "Verpleegkundigen op pediatrie, spoedverpleegkundigen, verpleegkundigen op consultatie, kinderverzorgsters"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Pediatrie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/pijnmanagement-op-pediatrie?utm_source=jobat&utm_medium=affiliate",
@@ -3864,7 +4062,9 @@
     "email": "info.wet@kdg.be",
     "job_title": "Laborant cel- en gentherapie (ATMP)",
     "skills": "pipetteertechnieken, celtellingen, steriel werken, basis celkweek",
-    "audience": "Biomedische, farmaceutische of chemische professionals of pas afgestudeerden die basis labvaardigheden voor ATMP willen leren (geen voorkennis vereist)",
+    "audience": [
+      "Biomedische, farmaceutische of chemische professionals of pas afgestudeerden die basis labvaardigheden voor ATMP willen leren (geen voorkennis vereist)"
+    ],
     "domain_category": "Wetenschap & Technologie",
     "domain_subcategory": "Biotechnologie",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/pipetteren-celtelling-en-celkweek?utm_source=jobat&utm_medium=affiliate",
@@ -3903,7 +4103,9 @@
     "email": "digitalbusiness@kdg.be",
     "job_title": "Podcast-producer",
     "skills": "podcastconcept & storytelling, audiotechniek, stemgebruik, podcastmarketing",
-    "audience": "Iedereen die een podcast wil leren maken (geen diploma vereist)",
+    "audience": [
+      "Iedereen die een podcast wil leren maken (geen diploma vereist)"
+    ],
     "domain_category": "Marketing & Communicatie",
     "domain_subcategory": "Digitale media",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/podcasting?utm_source=jobat&utm_medium=affiliate",
@@ -3941,7 +4143,9 @@
     "email": "sabien.vanrampelberg@odisee.be",
     "job_title": "Praktijkassistent gezondheidszorg",
     "skills": "medische ondersteunende vaardigheden, organisatie en administratie in de zorg, patiëntgerichte communicatie",
-    "audience": "Huidige of toekomstige zorgmedewerkers (vb. medisch secretariaat, verpleegkundig assistent) met secundair diploma",
+    "audience": [
+      "Huidige of toekomstige zorgmedewerkers (vb. medisch secretariaat, verpleegkundig assistent) met secundair diploma"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Medische ondersteuning",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/praktijkassistent-de-zorg?utm_source=jobat&utm_medium=affiliate",
@@ -3979,7 +4183,9 @@
     "email": "lien.vandermarliere@kdg.be",
     "job_title": "Financieel deskundige overheid, financieel beheerder gemeente, overheidsaccountant",
     "skills": "Overheidsfinanciën, publiek recht, analytisch denken, boekhoudnormen overheid, advisering",
-    "audience": "Bedrijfsleven, Overheidsprofessionals",
+    "audience": [
+      "Bedrijfsleven, Overheidsprofessionals"
+    ],
     "domain_category": "Bedrijf & Economie",
     "domain_subcategory": "Public Finance Management",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/public-finance-management?utm_source=jobat&utm_medium=affiliate",
@@ -4018,7 +4224,9 @@
     "email": "farrah.daponte@kdg.be",
     "job_title": "Quality Control Technician, Laborant, QA Officer, Procesoperator",
     "skills": "Kwaliteitscontrole, GMP, Validatie, Monstername, Compliance, Dataintegriteit",
-    "audience": "Professionals of afgestudeerden die actief zijn of willen instromen in de farmaceutische of biotechnologische productieomgeving",
+    "audience": [
+      "Professionals of afgestudeerden die actief zijn of willen instromen in de farmaceutische of biotechnologische productieomgeving"
+    ],
     "domain_category": "Life Sciences",
     "domain_subcategory": "Quality Control & Production",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/quality-life-science-production?utm_source=jobat&utm_medium=affiliate",
@@ -4057,7 +4265,9 @@
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
     "job_title": "Radiotherapie-verpleegkundige, bestralingsdeskundige verpleegkundige",
     "skills": "Radiotherapeutische technieken, beeldinterpretatie, patiëntenbegeleiding, stralingsveiligheid, empathie",
-    "audience": "Verpleegkundigen",
+    "audience": [
+      "Verpleegkundigen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Radiotherapie",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/radiotherapie?utm_source=jobat&utm_medium=affiliate",
@@ -4096,7 +4306,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Oudercontacten, Reflectie, Teamontwikkeling, Communicatie",
-    "audience": "Organisatoren, verantwoordelijken, leidinggevenden, pedagogisch coaches en begeleiders in de kinderopvang.",
+    "audience": [
+      "Organisatoren, verantwoordelijken, leidinggevenden, pedagogisch coaches en begeleiders in de kinderopvang."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/reflecteren-op-je-contacten-met-ouders-de-kinderopvang-met?utm_source=jobat&utm_medium=affiliate",
@@ -4134,7 +4346,9 @@
     "email": "heidi.lagast@kdg.be",
     "job_title": "Directeur, Beleidsondersteuner, Zorgcoördinator",
     "skills": "Strategische communicatie, Relatiemanagement, Digitale communicatie, Visieontwikkeling",
-    "audience": "Directie, beleidsondersteuners en zorgcoördinatoren uit het kleuter- en lager onderwijs.",
+    "audience": [
+      "Directie, beleidsondersteuners en zorgcoördinatoren uit het kleuter- en lager onderwijs."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Communicatie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/relatiemanagement-voor-scholen?utm_source=jobat&utm_medium=affiliate",
@@ -4172,7 +4386,9 @@
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Perinatale coach, Zorgprofessional in perinatale zorg",
     "skills": "Rouwverwerking, Verliesbegeleiding, Prenatale screening, Diagnostiek, Ongewenste zwangerschap, Kinderwensbegeleiding",
-    "audience": "Vroedvrouwen, Andere zorgprofessionals met intensief contact met het gezin",
+    "audience": [
+      "Vroedvrouwen, Andere zorgprofessionals met intensief contact met het gezin"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/rouw-en-verlies-de-perinatale-periode?utm_source=jobat&utm_medium=affiliate",
@@ -4211,7 +4427,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs, Leerkracht lager onderwijs, Ergotherapeut, Kinesist",
     "skills": "Lateralisatie, Fijne motoriek, Schrijfmotoriek, Didactiek, Differentiatie",
-    "audience": "Leerkrachten uit het (buitengewoon) kleuter- en lager onderwijs, ergotherapeuten en kinesisten die hun pedagogische en didactische basis rond de ontwikkeling van de fijne motoriek met het oog op leren schrijven willen verbreden.",
+    "audience": [
+      "Leerkrachten uit het (buitengewoon) kleuter- en lager onderwijs, ergotherapeuten en kinesisten die hun pedagogische en didactische basis rond de ontwikkeling van de fijne motoriek met het oog op leren schrijven willen verbreden."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Motoriek en schrijven",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/ruimtelijk-bewustzijn-en-lateralisatie-versterken-om-vlot-te-leren-schrijven?utm_source=jobat&utm_medium=affiliate",
@@ -4250,7 +4468,9 @@
     "email": "hannelore.degreve@kdg.be",
     "job_title": "Directeur basisonderwijs, adjunct-directeur",
     "skills": "Onderwijsmanagement, leiderschap, beleidsvoering, communicatie, personeelsbeleid",
-    "audience": "Buitengewoon onderwijs, Kleuteronderwijs, Lager onderwijs, Ondersteuningsnetwerk onderwijs",
+    "audience": [
+      "Buitengewoon onderwijs, Kleuteronderwijs, Lager onderwijs, Ondersteuningsnetwerk onderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Schoolleiderschap basisonderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/schoolleider-in-het-basisonderwijs?utm_source=jobat&utm_medium=affiliate",
@@ -4289,7 +4509,9 @@
     "email": "digitalbusiness@kdg.be",
     "job_title": "Digital copywriter",
     "skills": "SEO-copywriting, creatieve contentcreatie, webcopy, social media writing",
-    "audience": "Iedereen die professionele online teksten wil leren schrijven (geen diploma vereist)",
+    "audience": [
+      "Iedereen die professionele online teksten wil leren schrijven (geen diploma vereist)"
+    ],
     "domain_category": "Marketing & Communicatie",
     "domain_subcategory": "Digitale media",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/schrijven-voor-web-en-social-media?utm_source=jobat&utm_medium=affiliate",
@@ -4327,7 +4549,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Vroedvrouw",
     "skills": "Gespreksvoering, Seksualiteit, Perinatale zorg, Empathie",
-    "audience": "Vroedvrouwen en studenten vroedkunde",
+    "audience": [
+      "Vroedvrouwen en studenten vroedkunde"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale zorg",
     "webaddress": "https://www.kdg.be/seksualiteit-het-peripartum?utm_source=jobat&utm_medium=affiliate",
@@ -4366,7 +4590,9 @@
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Verpleegkundige",
     "skills": "Gespreksvoering, Seksualiteit, Perinatale zorg, Empathie",
-    "audience": "Vroedvrouwen, Verpleegkundigen en laatstejaarsstudenten vroedkunde",
+    "audience": [
+      "Vroedvrouwen, Verpleegkundigen en laatstejaarsstudenten vroedkunde"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/seksuele-zorgen-voor-vroedvrouwen-verpleegkundigen?utm_source=jobat&utm_medium=affiliate",
@@ -4404,7 +4630,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leraar, Pedagogisch medewerker, Therapeut",
     "skills": "Lichaamsbewustzijn, Zelfvertrouwen, Bewegingspedagogiek",
-    "audience": "Professionals in het onderwijs, de kinderopvang, jeugdzorg en paramedici.",
+    "audience": [
+      "Professionals in het onderwijs, de kinderopvang, jeugdzorg en paramedici."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Bewegingspedagogiek",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/sherborne-bewegingspedagogiek-introductie?utm_source=jobat&utm_medium=affiliate",
@@ -4443,7 +4671,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Zorgcoördinator, Begeleider in het onderwijs",
     "skills": "Buitenleren, Didactiek, Leerplandoelen, Veiligheid, Reflectie",
-    "audience": "Leerkrachten uit het (buitengewoon) lager onderwijs die geïnteresseerd zijn in het integreren van buitenlessen in hun onderwijspraktijk.",
+    "audience": [
+      "Leerkrachten uit het (buitengewoon) lager onderwijs die geïnteresseerd zijn in het integreren van buitenlessen in hun onderwijspraktijk."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Buitenonderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/buiten-gewoon-bewegen-en-leren-trek-met-je-klas-naar-buiten?utm_source=jobat&utm_medium=affiliate",
@@ -4482,7 +4712,9 @@
     "email": "eve.baert@kdg.be",
     "job_title": "Zij-instromer, Nieuwe leerkracht, Aanvangsbegeleider",
     "skills": "Lesontwerp, Evaluatie, Klasmanagement, Didactiek, Coaching",
-    "audience": "Zij-instromers en nieuwe leerkrachten zonder pedagogische bekwaamheid",
+    "audience": [
+      "Zij-instromers en nieuwe leerkrachten zonder pedagogische bekwaamheid"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Didactiek en pedagogisch beleid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/starterspakket-tour?utm_source=jobat&utm_medium=affiliate",
@@ -4520,7 +4752,9 @@
     "email": "postgraduaat@steinerscholen.be",
     "job_title": "Steinerschoolleerkracht, steinerpedagogisch begeleider",
     "skills": "Steinerpedagogiek, kunstzinnige vaardigheden, ontwikkelingspsychologie, zelfreflectie, didactische creativiteit",
-    "audience": "Buitengewoon onderwijs, Kleuteronderwijs, Lager onderwijs, Ondersteuningsnetwerk onderwijs, Secundair Onderwijs",
+    "audience": [
+      "Buitengewoon onderwijs, Kleuteronderwijs, Lager onderwijs, Ondersteuningsnetwerk onderwijs, Secundair Onderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Steinerpedagogie",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/steinerpedagogie?utm_source=jobat&utm_medium=affiliate",
@@ -4559,7 +4793,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht lager onderwijs, Leerkracht secundair onderwijs",
     "skills": "STEM-onderwijs, LEGO® Education, Samenwerkingsvaardigheden, Competentieontwikkeling, Didactiek",
-    "audience": "Leerkrachten uit het (buitengewoon) lager onderwijs (3de graad) en het secundair onderwijs (1ste – 3de graad). Geen voorkennis vereist.",
+    "audience": [
+      "Leerkrachten uit het (buitengewoon) lager onderwijs (3de graad) en het secundair onderwijs (1ste – 3de graad). Geen voorkennis vereist."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "STEM-onderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/stem-onderwijs-tot-leven-brengen-met-lego-education?utm_source=jobat&utm_medium=affiliate",
@@ -4598,7 +4834,9 @@
     "email": "info.navormingen@kdg.be",
     "job_title": "Verpleegkundige, Orthopedagoog, Sociaal werker, Zorgprofessional",
     "skills": "Gespreksvoering, Seksualiteit, Intimiteit, Cliëntbegeleiding, Reflectie",
-    "audience": "Zorgprofessionals, verpleegkundigen, orthopedagogen, sociaal werkers en andere geïnteresseerden in het onderwerp",
+    "audience": [
+      "Zorgprofessionals, verpleegkundigen, orthopedagogen, sociaal werkers en andere geïnteresseerden in het onderwerp"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Seksualiteit en Zorg",
     "webaddress": "https://www.kdg.be/studiedag-seksualiteit?utm_source=jobat&utm_medium=affiliate",
@@ -4637,7 +4875,9 @@
     "email": "info@kdg.be",
     "job_title": "Pedagoog, Begeleider, Ondersteuner",
     "skills": "Interculturele communicatie, Reflectief handelen, Conflictbeheersing, Diversiteit",
-    "audience": "Professionals binnen welzijn en onderwijs, zoals jeugdzorg, onderwijs, zorg voor mensen met een beperking, ouderenzorg, algemeen welzijnswerk, Kind en Gezin, en geestelijke gezondheidszorg.",
+    "audience": [
+      "Professionals binnen welzijn en onderwijs, zoals jeugdzorg, onderwijs, zorg voor mensen met een beperking, ouderenzorg, algemeen welzijnswerk, Kind en Gezin, en geestelijke gezondheidszorg."
+    ],
     "domain_category": "Sociaal werk",
     "domain_subcategory": "Pedagogie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/supervisie-discriminatiegerelateerde-vraagstukken-pedagogie?utm_source=jobat&utm_medium=affiliate",
@@ -4675,7 +4915,9 @@
     "email": "jesse.mortelmans@kdg.be",
     "job_title": "Logistiek medewerker (supply chain)",
     "skills": "supply chain basisprincipes, planning & voorraad, logistieke coördinatie",
-    "audience": "Werkenden of pasafgestudeerden die een brede basis in Supply Chain willen verwerven zonder voltijdse studie",
+    "audience": [
+      "Werkenden of pasafgestudeerden die een brede basis in Supply Chain willen verwerven zonder voltijdse studie"
+    ],
     "domain_category": "Logistiek",
     "domain_subcategory": "Supply Chain",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/supply-chain-management-introductie?utm_source=jobat&utm_medium=affiliate",
@@ -4714,7 +4956,9 @@
     "email": "kristien.govers@kdg.be",
     "job_title": "Duurzaamheidscoördinator (Sustainability Coordinator)",
     "skills": "change management, critical data analysis, intercultural collaboration, sustainable innovation",
-    "audience": "Professionals with a bachelor’s or master’s who want to lead sustainability initiatives",
+    "audience": [
+      "Professionals with a bachelor’s or master’s who want to lead sustainability initiatives"
+    ],
     "domain_category": "Business & Management",
     "domain_subcategory": "Sustainability",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/sustainable-business-innovation?utm_source=jobat&utm_medium=affiliate",
@@ -4753,7 +4997,9 @@
     "email": "nausikaa.vandenbulcke@kdg.be",
     "job_title": "Fiscalist, accountant (senior), financieel adviseur",
     "skills": "Fiscaliteit op expertniveau, accountancy, analytisch denken, regelgeving, financieel management",
-    "audience": "Bedrijfsmanagement, Financiële sector",
+    "audience": [
+      "Bedrijfsmanagement, Financiële sector"
+    ],
     "domain_category": "Bedrijf & Economie",
     "domain_subcategory": "Tax & Accountancy Management",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/tax-accountancy-management?utm_source=jobat&utm_medium=affiliate",
@@ -4792,7 +5038,9 @@
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
     "job_title": "Gerontologisch consulent",
     "skills": "Interprofessioneel samenwerken, adviesverlening, projectmatig werken, probleemoplossend denken, empathie",
-    "audience": "Ouderenzorg, Verpleegkundigen, Zorgkundigen",
+    "audience": [
+      "Ouderenzorg, Verpleegkundigen, Zorgkundigen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Ouderenzorg",
     "webaddress": "https://www.kdg.be/opleidingen/bachelor-na-bachelor/toegepaste-gerontologie?utm_source=jobat&utm_medium=affiliate",
@@ -4830,7 +5078,9 @@
     "email": "info.toegepasteinformatica@kdg.be",
     "job_title": "IT-supportmedewerker / junior softwareontwikkelaar",
     "skills": "IT-basisvaardigheden, programmeertechnieken, probleemoplossend denken, teamwerk",
-    "audience": "Volwassenen (25+) die naast werk/gezin een flexibele IT-opleiding willen volgen",
+    "audience": [
+      "Volwassenen (25+) die naast werk/gezin een flexibele IT-opleiding willen volgen"
+    ],
     "domain_category": "ICT",
     "domain_subcategory": "Toegepaste informatica",
     "webaddress": "https://www.kdg.be/microdegrees-toegepaste-informatica?utm_source=jobat&utm_medium=affiliate",
@@ -4869,7 +5119,9 @@
     "email": "jesse.mortelmans@kdg.be",
     "job_title": "Assistent-dispatcher (wegvervoer)",
     "skills": "transportplanning, havenoperaties, logistieke coördinatie, douaneprocessen",
-    "audience": "Professionals en instromers die in transport, zee- of luchthavenlogistiek willen werken",
+    "audience": [
+      "Professionals en instromers die in transport, zee- of luchthavenlogistiek willen werken"
+    ],
     "domain_category": "Logistiek",
     "domain_subcategory": "Transport en haven",
     "webaddress": "https://www.kdg.be/microdegree-transport-haven?utm_source=jobat&utm_medium=affiliate",
@@ -4907,7 +5159,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Leerkracht kleuteronderwijs",
     "skills": "Muzische vorming, Ukelele spelen, Didactiek, Creatief gebruik van muziek",
-    "audience": "Leerkrachten uit het (buitengewoon) kleuteronderwijs zonder ervaring met het bespelen van ukelele.",
+    "audience": [
+      "Leerkrachten uit het (buitengewoon) kleuteronderwijs zonder ervaring met het bespelen van ukelele."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Muzische vorming",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/ukelele-leren-spelen-als-kleuterleerkracht?utm_source=jobat&utm_medium=affiliate",
@@ -4946,7 +5200,9 @@
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Verloskundige, Zorgverlener in de perinatale zorg",
     "skills": "Pre-eclampsie, Eclampsie, Acute zorg, Communicatie, Teamwerk",
-    "audience": "Vroedvrouwen, Verloskundigen en andere zorgverleners in de perinatale zorg",
+    "audience": [
+      "Vroedvrouwen, Verloskundigen en andere zorgverleners in de perinatale zorg"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/urgentie-training-preeclampsie?utm_source=jobat&utm_medium=affiliate",
@@ -4985,7 +5241,9 @@
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Verloskundige, Zorgverlener in de perinatale zorg",
     "skills": "Schouderdystocie, Neonatale reanimatie, Acute zorg, Communicatie, Teamwerk",
-    "audience": "Vroedvrouwen, Verloskundigen en andere zorgverleners in de perinatale zorg",
+    "audience": [
+      "Vroedvrouwen, Verloskundigen en andere zorgverleners in de perinatale zorg"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/urgentietraining-schouderdystocie-reanimatie-van-de-neonaat?utm_source=jobat&utm_medium=affiliate",
@@ -5024,7 +5282,9 @@
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
     "job_title": "Verpleegkundige, Vroedvrouw, Zorgkundige",
     "skills": "Simulatie, CRM-principes, Verpleegtechnische vaardigheden, Teamwerk",
-    "audience": "Professionals in de gezondheidszorg, zoals verpleegkundigen, vroedvrouwen en zorgkundigen.",
+    "audience": [
+      "Professionals in de gezondheidszorg, zoals verpleegkundigen, vroedvrouwen en zorgkundigen."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Verpleegkunde",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/vaardigheidstraining-gezondheidszorg?utm_source=jobat&utm_medium=affiliate",
@@ -5063,7 +5323,9 @@
     "email": "leen.cockx@kdg.be",
     "job_title": "Leerplanbegeleider overgang, zorgcoördinator kleuter-lager, leerkracht-coach",
     "skills": "Ontwikkelingspsychologie, didactische continuïteit, actie-onderzoek, coaching, beleidsvoering",
-    "audience": "Kleuteronderwijs, Lager onderwijs",
+    "audience": [
+      "Kleuteronderwijs, Lager onderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Transitie kleuter-lager",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/van-kleuter-naar-lager?utm_source=jobat&utm_medium=affiliate",
@@ -5102,7 +5364,9 @@
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw, Perinatale coach, Zorgprofessional in perinatale zorg",
     "skills": "Hechting, Ouderschap, Partnerrelatie, Draagkracht, Draaglast",
-    "audience": "Vroedvrouwen, Andere zorgprofessionals met intensief contact met het gezin",
+    "audience": [
+      "Vroedvrouwen, Andere zorgprofessionals met intensief contact met het gezin"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/veranderingen-het-peripartum?utm_source=jobat&utm_medium=affiliate",
@@ -5141,7 +5405,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Mentor, Begeleider, Pedagogisch coach in het onderwijs",
     "skills": "Coaching, Gespreksvaardigheden, Feedback geven, Reflectie",
-    "audience": "Onderwijsprofessionals die studenten coachen en graag zelfstandig inhouden verwerken.",
+    "audience": [
+      "Onderwijsprofessionals die studenten coachen en graag zelfstandig inhouden verwerken."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Mentorschap en Coaching",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/verdiep-je-je-rol-als-mentor-binnen-het-onderwijs?utm_source=jobat&utm_medium=affiliate",
@@ -5179,7 +5445,9 @@
     "email": "mark.willekens@kdg.be",
     "job_title": "Verpleegkundige",
     "skills": "recente inzichten in verpleegkunde toepassen, gespecialiseerde kennis in gekozen thema, permanente vorming",
-    "audience": "Verpleegkundigen (bachelor, HBO5, gebrevetteerd) en zorgkundigen die willen bijscholen",
+    "audience": [
+      "Verpleegkundigen (bachelor, HBO5, gebrevetteerd) en zorgkundigen die willen bijscholen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Verpleegkunde",
     "webaddress": "https://www.kdg.be/verpleegkunde-microdegrees?utm_source=jobat&utm_medium=affiliate",
@@ -5218,7 +5486,9 @@
     "email": "sven.desmet@kdg.be",
     "job_title": "Zorgprofessional, Verpleegkundige, Teamleider in de zorg",
     "skills": "Leiderschap, Feedback geven, Teamdynamiek, Competentieontwikkeling",
-    "audience": "Zorgprofessionals die hun leiderschapsvaardigheden willen versterken.",
+    "audience": [
+      "Zorgprofessionals die hun leiderschapsvaardigheden willen versterken."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Leiderschap in de zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/verpleegkundig-leiderschap?utm_source=jobat&utm_medium=affiliate",
@@ -5257,7 +5527,9 @@
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
     "job_title": "Praktijkverpleegkundige, verpleegkundige in huisartsenpraktijk",
     "skills": "Eerstelijnszorg, triage, praktijkbeheer, communicatie, patiënteneducatie",
-    "audience": "Verpleegkundigen",
+    "audience": [
+      "Verpleegkundigen"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Huisartsenpraktijk",
     "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/verpleegkundige-in-de-huisartsenpraktijk?utm_source=jobat&utm_medium=affiliate",
@@ -5296,7 +5568,9 @@
     "email": "petra.depesseroey@kdg.be",
     "job_title": "Hulpverlener, Onderwijsprofessional, Zorgprofessional",
     "skills": "Rouwbegeleiding, Cultuursensitieve zorg, Communicatie, Ondersteuning van ouders en kinderen",
-    "audience": "Hulpverleners, Onderwijsprofessionals, Zorgprofessionals, Mantelzorgers",
+    "audience": [
+      "Hulpverleners, Onderwijsprofessionals, Zorgprofessionals, Mantelzorgers"
+    ],
     "domain_category": "Zorg en Welzijn",
     "domain_subcategory": "Rouwbegeleiding",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/verwarmende-rouwpraat-bij-verlies-van-een-kind?utm_source=jobat&utm_medium=affiliate",
@@ -5335,7 +5609,9 @@
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Pedagogisch medewerker, Schoolcoach",
     "skills": "Klasmanagement, Structuur, Differentiatie, Feedback, Reflectie, Verbinding",
-    "audience": "Leerkrachten en pedagogisch medewerkers die hun klasmanagement willen verbeteren",
+    "audience": [
+      "Leerkrachten en pedagogisch medewerkers die hun klasmanagement willen verbeteren"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Klasmanagement & Pedagogie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/vierdaagse-effectief-klasmanagement?utm_source=jobat&utm_medium=affiliate",
@@ -5374,7 +5650,9 @@
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Pedagogisch medewerker, Schoolcoach",
     "skills": "Klasmanagement, Gelijkwaardigheid, Feedback, Differentiatie, Reflectie, Teamcoaching",
-    "audience": "Leerkrachten en pedagogisch medewerkers die willen werken aan gelijkwaardigheid en respectvolle interacties in hun klas",
+    "audience": [
+      "Leerkrachten en pedagogisch medewerkers die willen werken aan gelijkwaardigheid en respectvolle interacties in hun klas"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Klasmanagement & Pedagogie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/vierdaagse-effectief-klasmanagement/gelijkwaardigheid?utm_source=jobat&utm_medium=affiliate",
@@ -5413,7 +5691,9 @@
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Pedagogisch medewerker, Schoolcoach",
     "skills": "Klasmanagement, Herstelgericht werken, Conflictbemiddeling, Communicatie, Reflectie, Teamcoaching",
-    "audience": "Leerkrachten en pedagogisch medewerkers die herstelgericht werken willen toepassen in hun klas",
+    "audience": [
+      "Leerkrachten en pedagogisch medewerkers die herstelgericht werken willen toepassen in hun klas"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Klasmanagement & Pedagogie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/vierdaagse-effectief-klasmanagement/herstelgericht-werken-en?utm_source=jobat&utm_medium=affiliate",
@@ -5452,7 +5732,9 @@
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Pedagogisch medewerker, Schoolcoach",
     "skills": "Klasmanagement, Structuur, Routines, Feedback, Teamcoaching, Reflectie",
-    "audience": "Leerkrachten en pedagogisch medewerkers die hun klasmanagement willen optimaliseren door duidelijke routines",
+    "audience": [
+      "Leerkrachten en pedagogisch medewerkers die hun klasmanagement willen optimaliseren door duidelijke routines"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Klasmanagement & Pedagogie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/vierdaagse-effectief-klasmanagement/rust-door-duidelijke?utm_source=jobat&utm_medium=affiliate",
@@ -5491,7 +5773,9 @@
     "email": "info.navormingen@kdg.be",
     "job_title": "Leerkracht, Pedagogisch medewerker, Schoolcoach",
     "skills": "Klasmanagement, Verbinding, Differentiatie, Feedback, Reflectie",
-    "audience": "Leerkrachten en pedagogisch medewerkers die hun klasmanagement en relatie met leerlingen willen verbeteren",
+    "audience": [
+      "Leerkrachten en pedagogisch medewerkers die hun klasmanagement en relatie met leerlingen willen verbeteren"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Klasmanagement & Pedagogie",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/vierdaagse-effectief-klasmanagement/verbinding-als?utm_source=jobat&utm_medium=affiliate",
@@ -5530,7 +5814,9 @@
     "email": "heidi.lagast@kdg.be",
     "job_title": "Directeur, Beleidsondersteuner, Zorgcoördinator",
     "skills": "Visieontwikkeling, Teamcoaching, Waarderend onderzoek, Beleidsplanning",
-    "audience": "Directie, beleidsondersteuners en zorgcoördinatoren uit het kleuter- en lager onderwijs.",
+    "audience": [
+      "Directie, beleidsondersteuners en zorgcoördinatoren uit het kleuter- en lager onderwijs."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Visieontwikkeling",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/visie-laten-leven-het-kleuter-en-lager-onderwijs?utm_source=jobat&utm_medium=affiliate",
@@ -5568,7 +5854,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Organisator, Verantwoordelijke, Leidinggevende, Pedagogisch coach, Begeleider in de kinderopvang",
     "skills": "Zorginspectie, Vergunningsvoorwaarden, Reflectie, Teamontwikkeling",
-    "audience": "Organisatoren, verantwoordelijken, leidinggevenden, pedagogisch coaches en begeleiders in de kinderopvang.",
+    "audience": [
+      "Organisatoren, verantwoordelijken, leidinggevenden, pedagogisch coaches en begeleiders in de kinderopvang."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/voorbereiden-op-de-zorginspectie-jouw-opvang?utm_source=jobat&utm_medium=affiliate",
@@ -5606,7 +5894,9 @@
     "email": "info.vroedkunde@kdg.be",
     "job_title": "Vroedvrouw",
     "skills": "Mentale gezondheid, Seksualiteit, Wondzorg, Voeding, Juridische kennis",
-    "audience": "Vroedvrouwen en laatstejaarsstudenten vroedkunde",
+    "audience": [
+      "Vroedvrouwen en laatstejaarsstudenten vroedkunde"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/vroedvrouw-eerste-lijn?utm_source=jobat&utm_medium=affiliate",
@@ -5645,7 +5935,9 @@
     "email": "sven.desmet@kdg.be",
     "job_title": "Leidinggevende, Pedagogisch medewerker, Begeleider in de kinderopvang",
     "skills": "Waarderend veranderen, Appreciative Inquiry, Groepsdynamiek, Gespreksvoering, Veranderprocessen",
-    "audience": "Leidinggevenden, Verantwoordelijken en Pedagogisch ondersteuners in de kinderopvang.",
+    "audience": [
+      "Leidinggevenden, Verantwoordelijken en Pedagogisch ondersteuners in de kinderopvang."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Pedagogisch beleid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/waarderend-veranderen-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
@@ -5684,7 +5976,9 @@
     "email": "nina.verbanck@kdg.be",
     "job_title": "BOA-medewerker, Organisator, Verantwoordelijke, Leidinggevende, Pedagogisch coach in de buitenschoolse opvang",
     "skills": "Toegankelijkheidsbeleid, Beleidsontwikkeling, Samenwerking, Visieontwikkeling, Leiderschap",
-    "audience": "BOA-medewerkers, Organisatoren, Verantwoordelijken, Leidinggevenden, Pedagogisch coaches in de buitenschoolse opvang",
+    "audience": [
+      "BOA-medewerkers, Organisatoren, Verantwoordelijken, Leidinggevenden, Pedagogisch coaches in de buitenschoolse opvang"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/werken-aan-toegankelijkheid-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
@@ -5723,7 +6017,9 @@
     "email": "sven.desmet@kdg.be",
     "job_title": "Leidinggevende, Pedagogisch medewerker, Begeleider in de kinderopvang",
     "skills": "Groepsdynamiek, Weerstand herkennen, Spanningen bespreekbaar maken, Meerstemmigheid inzetten, Verander- en leerprocessen begeleiden",
-    "audience": "Leidinggevenden, Verantwoordelijken en Pedagogisch ondersteuners in de kinderopvang.",
+    "audience": [
+      "Leidinggevenden, Verantwoordelijken en Pedagogisch ondersteuners in de kinderopvang."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Pedagogisch beleid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/werken-met-weerstand-groepen-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
@@ -5762,7 +6058,9 @@
     "email": "mark.willekens@kdg.be",
     "job_title": "Referentieverpleegkundige wondzorg",
     "skills": "specialistische wondzorg, productkennis wondzorg, wondopvolging, collega’s adviseren",
-    "audience": "Verpleegkundigen met een bachelor, HBO5 of master Verpleegkunde die zich willen specialiseren in wondzorg",
+    "audience": [
+      "Verpleegkundigen met een bachelor, HBO5 of master Verpleegkunde die zich willen specialiseren in wondzorg"
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Verpleegkunde",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/wondzorg?utm_source=jobat&utm_medium=affiliate",
@@ -5801,7 +6099,9 @@
     "email": "natalie.vanranst@kdg.be",
     "job_title": "Verpleegkundigen, Vroedvrouwen, Zorgkundigen",
     "skills": "Gespreksvoering, Rouwbegeleiding, Casusbespreking, Rollenspel",
-    "audience": "Hulpverleners die de studiedag Rouwpraat: 'Hoe communiceer ik met ouders die hun kindje verliezen?' op 27 februari 2025 hebben bijgewoond.",
+    "audience": [
+      "Hulpverleners die de studiedag Rouwpraat: 'Hoe communiceer ik met ouders die hun kindje verliezen?' op 27 februari 2025 hebben bijgewoond."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Perinatale Zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/workshop-rouwpraat-hoe-communiceer-ik-met-ouders-die-hun?utm_source=jobat&utm_medium=affiliate",
@@ -5840,7 +6140,9 @@
     "email": "sven.desmet@kdg.be",
     "job_title": "Begeleider, Pedagoog, Hulpverlener",
     "skills": "Zelfcontrole, Omgaan met uitdagend gedrag, Pedagogisch leiderschap, Reflectief handelen",
-    "audience": "Professionals binnen welzijn en onderwijs, zoals jeugdzorg, onderwijs, zorg voor mensen met een beperking, ouderenzorg, algemeen welzijnswerk, Kind en Gezin, en geestelijke gezondheidszorg.",
+    "audience": [
+      "Professionals binnen welzijn en onderwijs, zoals jeugdzorg, onderwijs, zorg voor mensen met een beperking, ouderenzorg, algemeen welzijnswerk, Kind en Gezin, en geestelijke gezondheidszorg."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Pedagogisch beleid",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/zelfcontrole-als-basisprincipe-van-nieuwe-autoriteit?utm_source=jobat&utm_medium=affiliate",
@@ -5878,7 +6180,9 @@
     "email": "heidi.lagast@kdg.be",
     "job_title": "Directeur, Beleidsondersteuner, Zorgcoördinator",
     "skills": "Teamontwikkeling, Communicatie, Reflectie, Leiderschap",
-    "audience": "Directie, beleidsondersteuners en zorgcoördinatoren uit het kleuter- en lager onderwijs.",
+    "audience": [
+      "Directie, beleidsondersteuners en zorgcoördinatoren uit het kleuter- en lager onderwijs."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Teamontwikkeling",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/zelfsturende-teams-en-andere-sprookjes?utm_source=jobat&utm_medium=affiliate",
@@ -5916,7 +6220,9 @@
     "email": "info@kdg.be",
     "job_title": "Zorgkundige",
     "skills": "Palliatieve zorg, Communicatie, Symptoomcontrole, Zelfzorg",
-    "audience": "Zorgkundigen die hun kennis en vaardigheden in palliatieve zorg willen verdiepen.",
+    "audience": [
+      "Zorgkundigen die hun kennis en vaardigheden in palliatieve zorg willen verdiepen."
+    ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Palliatieve zorg",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/zorgkundigen-en-palliatieve-zorgen?utm_source=jobat&utm_medium=affiliate",
@@ -5955,7 +6261,9 @@
     "email": "leen.stoffels@kdg.be",
     "job_title": "Zorgcoördinator, leerlingbegeleider",
     "skills": "Coachen, communicatie, empathie, inclusie, differentiatie",
-    "audience": "Buitengewoon onderwijs, Kleuteronderwijs, Lager onderwijs, Secundair onderwijs",
+    "audience": [
+      "Buitengewoon onderwijs, Kleuteronderwijs, Lager onderwijs, Secundair onderwijs"
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Zorgverbreding en Remediërend Leren",
     "webaddress": "https://www.kdg.be/opleidingen/bachelor-na-bachelor/zorgverbreding-en-remediërend-leren?utm_source=jobat&utm_medium=affiliate",
@@ -5994,7 +6302,9 @@
     "email": "margaux.berkvens@kdg.be",
     "job_title": "Begeleider, Pedagogisch coach, Leidinggevende in de kinderopvang",
     "skills": "Prikkelverwerking, Gedragsobservatie, Stressmanagement, Groepsdynamica",
-    "audience": "Organisatoren, verantwoordelijken, leidinggevenden, pedagogisch coaches en begeleiders in de buitenschoolse kinderopvang.",
+    "audience": [
+      "Organisatoren, verantwoordelijken, leidinggevenden, pedagogisch coaches en begeleiders in de buitenschoolse kinderopvang."
+    ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Kinderopvang",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/zorgzaam-omgaan-met-uitdagend-gedrag-en-overprikkeling-de?utm_source=jobat&utm_medium=affiliate",
