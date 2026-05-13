@@ -67,7 +67,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma in verpleegkunde, vroedkunde, kinesitherapie of geneeskunde vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
+    "government_subsidy": "Kmo-portefeuille (Extra vermelding van het thema die cursisten moeten meedelen + DV-nummer)",
     "location_and_date": [
       {
         "date_start": "2025-09-27",
@@ -83,7 +83,7 @@
   {
     "internal_id": "afbeeldingen-maken-en-bewerken",
     "title": "Afbeeldingen maken en bewerken",
-    "language": "nl",
+    "language": "",
     "price": "595.00",
     "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
@@ -108,7 +108,7 @@
     "esco_category_code": 2166,
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen; basis computergebruik volstaat",
-    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2026-02-04",
@@ -148,7 +148,7 @@
     "esco_category_code": 3313,
     "nacebel_sector": "69.20",
     "required_knowledge": "Diploma secundair onderwijs (of gelijkgesteld) en voldoen aan taalvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-11-18",
@@ -189,7 +189,7 @@
     "esco_category_code": 2352,
     "nacebel_sector": "85.60",
     "required_knowledge": "Bachelor- of masterdiploma vereist (of toelating via intake zonder diploma)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-09-23",
@@ -392,7 +392,7 @@
     "esco_category_code": 2412,
     "nacebel_sector": "66.19",
     "required_knowledge": "Geen specifieke voorkennis vereist (basisinzicht economie en wiskunde is nuttig)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -836,7 +836,7 @@
     "esco_category_code": 2352,
     "nacebel_sector": "85.60",
     "required_knowledge": "Bachelor- of masterdiploma (onderwijs) vereist, of reeds werkzaam in buitengewoon onderwijs/leersteuncentrum",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -917,7 +917,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (bachelor of HBO5) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques voor werknemers, Korting voor studenten",
     "location_and_date": [
       {
         "date_start": "2025-10-02",
@@ -1079,7 +1079,7 @@
     "esco_category_code": 2431,
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen specifieke voorkennis vereist",
-    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2026-02-03",
@@ -1159,7 +1159,7 @@
     "esco_category_code": 2512,
     "nacebel_sector": "62.01",
     "required_knowledge": "Geen specifieke voorkennis vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -1411,7 +1411,7 @@
     "esco_category_code": 2421,
     "nacebel_sector": "70.22",
     "required_knowledge": "Bachelor- of masterdiploma (of equivalente werkervaring) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques voor werknemers, Korting voor studenten",
     "location_and_date": [
       {
         "date_start": "2025-09-01",
@@ -2056,7 +2056,7 @@
   {
     "internal_id": "flowcytometrie",
     "title": "Flowcytometrie",
-    "language": "en",
+    "language": "nl",
     "price": "1400.00",
     "certificate_name": "Certificate Flowcytometrie",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
@@ -2081,7 +2081,7 @@
     "esco_category_code": 3111,
     "nacebel_sector": "21.20",
     "required_knowledge": "Bachelor (professioneel of academisch) in biomedische laboratoriumtechnologie, farmalabo of (bio)chemie, of relevante werkervaring in lab; geen flowcytometrie-voorkennis nodig",
-    "government_subsidy": "KMO-portefeuille",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2025-09-16",
@@ -2204,7 +2204,7 @@
     "esco_category_code": 3313,
     "nacebel_sector": "69.20",
     "required_knowledge": "Bachelor Accountancy-Fiscaliteit of master (economisch/juridisch) vereist (of gelijkwaardig diploma met 7 jaar ervaring als tax accountant)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -2326,7 +2326,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (bachelor of HBO5) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Kmo-portefeuille (Extra vermelding van het thema die cursisten moeten meedelen + DV-nummer), Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2025-10-02",
@@ -2367,7 +2367,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86.90",
     "required_knowledge": "Bachelordiploma verpleegkunde vereist; ervaring in de zorgsector is aanbevolen",
-    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -2652,7 +2652,7 @@
     "esco_category_code": 2421,
     "nacebel_sector": "70.22",
     "required_knowledge": "Bachelor- of masterdiploma vereist (gelijkwaardige HR-ervaring kan volstaan)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2026-02-05",
@@ -3101,7 +3101,7 @@
     "esco_category_code": 3521,
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen; basis computervaardigheden volstaan",
-    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2026-04-21",
@@ -3263,7 +3263,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma bachelor Verpleegkunde of Vroedkunde vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2025-09-30",
@@ -3345,7 +3345,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Ervaring als verpleegkundige of vroedvrouw (afgestudeerd in verpleegkunde/vroedkunde) is vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-10-16",
@@ -3671,7 +3671,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Afgerond diploma Verpleegkunde (bachelor of HBO5) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Kmo-portefeuille (Extra vermelding van het thema die cursisten moeten meedelen + DV-nummer), Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -3685,8 +3685,8 @@
     ]
   },
   {
-    "internal_id": "onderwijsbevoegdheid-roomskatholieke-godsdienst",
-    "title": "Onderwijsbevoegdheid Rooms-Katholieke Godsdienst",
+    "internal_id": "onderwijsbevoegdheid-roomskatholieke-godsdienst-kleuteronderwijs",
+    "title": "Onderwijsbevoegdheid Rooms-Katholieke Godsdienst Kleuteronderwijs",
     "language": "nl",
     "price": "423.00",
     "certificate_name": "Attest Rooms-Katholieke Godsdienst (onderwijsbevoegdheid)",
@@ -3712,7 +3712,7 @@
     "esco_category_code": 2341,
     "nacebel_sector": "85.20",
     "required_knowledge": "Lerarendiploma (kleuter of lager) en rooms-katholiek doopsel vereist voor mandaat",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-10-01",
@@ -3794,7 +3794,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (bachelor of graduaat) of gelijkaardige zorgopleiding vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Kmo-portefeuille (Extra vermelding van het thema die cursisten moeten meedelen + DV-nummer), Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2025-09-30",
@@ -3916,7 +3916,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde vereist (ervaring in pediatrie/neonatologie aanbevolen)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2025-09-23",
@@ -3957,7 +3957,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma bachelor Vroedkunde vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Kmo-portefeuille (Extra vermelding van het thema die cursisten moeten meedelen + DV-nummer), Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2025-10-03",
@@ -3972,7 +3972,7 @@
   },
   {
     "internal_id": "personal-trainer-en-gezondheidscoach",
-    "title": "Personal trainer en gezondheidscoach",
+    "title": "Personal Trainer en Gezondheidscoach",
     "language": "nl",
     "price": "1550.00",
     "certificate_name": "Micro-credential Personal trainer en gezondheidscoach",
@@ -3998,7 +3998,7 @@
     "esco_category_code": 3422,
     "nacebel_sector": "93.13",
     "required_knowledge": "Bachelordiploma in een menswetenschappelijke, sport- of zorgopleiding of aantoonbare ervaring in coaching of sportbegeleiding",
-    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2025-09-22",
@@ -4121,7 +4121,7 @@
     "esco_category_code": 2656,
     "nacebel_sector": "59.20",
     "required_knowledge": "Geen specifieke voorkennis vereist",
-    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2026-04-15",
@@ -4161,7 +4161,7 @@
     "esco_category_code": 5321,
     "nacebel_sector": "86.90",
     "required_knowledge": "Secundair diploma (ASO/TSO/KSO of zorgopleiding) of werkervaring in de zorg",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof",
     "location_and_date": [
       {
         "date_start": "2025-09-01",
@@ -4201,7 +4201,7 @@
     "esco_category_code": 2421,
     "nacebel_sector": "84",
     "required_knowledge": "Bachelor- of masterdiploma (financieel/juridisch) vereist, of relevante ervaring in financiële/publieke sector",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2026-01-08",
@@ -4283,7 +4283,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Kmo-portefeuille (Extra vermelding van het thema die cursisten moeten meedelen + DV-nummer), Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2026-09-01",
@@ -4473,7 +4473,7 @@
     ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Schoolleiderschap basisonderwijs",
-    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/schoolleider-in-het-basisonderwijs?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/schoolleider-het-basisonderwijs?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": "1",
     "duration_type": "years",
@@ -4486,7 +4486,7 @@
     "esco_category_code": 2341,
     "nacebel_sector": "85.20",
     "required_knowledge": "Lerarendiploma (kleuter of lager) vereist; bij voorkeur reeds (adjunct-)directiefunctie",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -4502,7 +4502,7 @@
   {
     "internal_id": "schrijven-voor-web-en-social-media",
     "title": "Schrijven voor web en social media",
-    "language": "nl",
+    "language": "",
     "price": "595.00",
     "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
@@ -4527,7 +4527,7 @@
     "esco_category_code": 2641,
     "nacebel_sector": "73.11",
     "required_knowledge": "Geen specifieke voorkennis vereist",
-    "government_subsidy": "Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2026-02-03",
@@ -4770,7 +4770,7 @@
     "esco_category_code": 2352,
     "nacebel_sector": "85.60",
     "required_knowledge": "Lerarendiploma of pedagogisch diploma aanbevolen",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -4933,7 +4933,7 @@
     "esco_category_code": 4323,
     "nacebel_sector": "52",
     "required_knowledge": "Diploma secundair onderwijs of relevante werkervaring aanbevolen",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -4974,7 +4974,7 @@
     "esco_category_code": 2421,
     "nacebel_sector": "70.22",
     "required_knowledge": "Bachelor’s or master’s degree (or equivalent professional experience)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -5015,7 +5015,7 @@
     "esco_category_code": 3313,
     "nacebel_sector": "69.20",
     "required_knowledge": "Bachelor Bedrijfsmanagement (Accountancy-Fiscaliteit), of graduaat Accountancy (2 jaar ervaring), of master (economisch/juridisch) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-09-16",
@@ -5056,7 +5056,7 @@
     "esco_category_code": 2635,
     "nacebel_sector": "88.10",
     "required_knowledge": "Bachelor- of masterdiploma (gezondheids- of welzijnszorg) vereist (voor andere sector is een voorbereidingsprogramma nodig)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -5069,8 +5069,8 @@
     ]
   },
   {
-    "internal_id": "toegepaste-informatica",
-    "title": "Toegepaste Informatica",
+    "internal_id": "toegepaste-informatica-microcredentials",
+    "title": "Toegepaste Informatica (Micro-credentials)",
     "language": "nl",
     "price": "289.90",
     "certificate_name": "Attest van deelname",
@@ -5096,7 +5096,7 @@
     "esco_category_code": 2512,
     "nacebel_sector": "62.01",
     "required_knowledge": "Geen specifieke voorkennis vereist voor basis-micro-credentials; voor gevorderde modules is relevante IT-ervaring aanbevolen",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques",
+    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -5137,7 +5137,7 @@
     "esco_category_code": 4323,
     "nacebel_sector": "52",
     "required_knowledge": "Diploma secundair onderwijs of relevante ervaring in logistiek aanbevolen",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-10-16",
@@ -5341,7 +5341,7 @@
     "esco_category_code": 2352,
     "nacebel_sector": "85.60",
     "required_knowledge": "Bachelor- of masterdiploma vereist; werkzaam in kleuter- of lager onderwijs (of gelijkaardige context)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-09-01",
@@ -5436,8 +5436,8 @@
     ]
   },
   {
-    "internal_id": "verpleegkunde",
-    "title": "Verpleegkunde",
+    "internal_id": "verpleegkunde-microcredentials",
+    "title": "Verpleegkunde micro-credentials",
     "language": "nl",
     "price": "289.90",
     "certificate_name": "Creditbewijs micro-credential Verpleegkunde",
@@ -5463,7 +5463,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (of zorgkundige met kwalificatie) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
+    "government_subsidy": "",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
@@ -5532,7 +5532,7 @@
     ],
     "domain_category": "Gezondheidszorg",
     "domain_subcategory": "Huisartsenpraktijk",
-    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/verpleegkundige-in-de-huisartsenpraktijk?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/verpleegkundige-de-huisartsenpraktijk?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": "1",
     "duration_type": "years",
@@ -6076,7 +6076,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Afgerond diploma Verpleegkunde (bachelor, graduaat/HBO5 of gelijkwaardig)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques voor werknemers",
     "location_and_date": [
       {
         "date_start": "2025-09-15",
