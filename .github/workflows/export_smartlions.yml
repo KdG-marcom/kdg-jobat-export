@@ -28,10 +28,14 @@ jobs:
           AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME }}
           AIRTABLE_SESSIONS_TABLE_NAME: ${{ secrets.AIRTABLE_SESSIONS_TABLE_NAME }}
           AIRTABLE_SESSIONS_COURSE_LINK_FIELD: ${{ secrets.AIRTABLE_SESSIONS_COURSE_LINK_FIELD }}
-
           AIRTABLE_VIEW_NAME_SMARTLIONS: ${{ secrets.AIRTABLE_VIEW_NAME_SMARTLIONS }}
           AIRTABLE_SESSIONS_VIEW_NAME_SMARTLIONS: ${{ secrets.AIRTABLE_SESSIONS_VIEW_NAME_SMARTLIONS }}
-        
+          # --- tweede bron: navormingen-base (laat NAV_BASE_ID leeg om uit te schakelen) ---
+          NAV_BASE_ID: ${{ secrets.NAV_BASE_ID }}
+          NAV_TABLE_NAME: ${{ secrets.NAV_TABLE_NAME }}
+          NAV_SESSIONS_TABLE_NAME: ${{ secrets.NAV_SESSIONS_TABLE_NAME }}
+          NAV_SESSIONS_COURSE_LINK_FIELD: ${{ secrets.NAV_SESSIONS_COURSE_LINK_FIELD }}
+          NAV_VIEW_NAME_SMARTLIONS: ${{ secrets.NAV_VIEW_NAME_SMARTLIONS }}
         run: python scripts/export_smartlions.py
 
       - name: Commit changes if any
