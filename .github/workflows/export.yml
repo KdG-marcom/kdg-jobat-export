@@ -25,6 +25,12 @@ jobs:
           AIRTABLE_VIEW_NAME: ${{ secrets.AIRTABLE_VIEW_NAME }}
           AIRTABLE_SESSIONS_TABLE_NAME: ${{ secrets.AIRTABLE_SESSIONS_TABLE_NAME }}
           AIRTABLE_SESSIONS_COURSE_LINK_FIELD: ${{ secrets.AIRTABLE_SESSIONS_COURSE_LINK_FIELD }}
+          # --- tweede bron: navormingen-base (laat NAV_BASE_ID leeg om uit te schakelen) ---
+          NAV_BASE_ID: ${{ secrets.NAV_BASE_ID }}
+          NAV_TABLE_NAME: ${{ secrets.NAV_TABLE_NAME }}
+          NAV_SESSIONS_TABLE_NAME: ${{ secrets.NAV_SESSIONS_TABLE_NAME }}
+          NAV_SESSIONS_COURSE_LINK_FIELD: ${{ secrets.NAV_SESSIONS_COURSE_LINK_FIELD }}
+          NAV_VIEW_NAME_JOBAT: ${{ secrets.NAV_VIEW_NAME_JOBAT }}
         run: python scripts/export_jobat.py
 
       - name: Commit changes if any
