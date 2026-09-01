@@ -20,9 +20,11 @@ jobs:
       - name: Run export
         env:
           AIRTABLE_PAT: ${{ secrets.AIRTABLE_PAT }}
-          AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
-          AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME }}
-          AIRTABLE_VIEW_NAME: ${{ secrets.AIRTABLE_VIEW_NAME }}
+          # Base-ID, tabel- en viewnaam zijn geen geheimen: als Variables blijven ze
+          # leesbaar in de repo en worden ze niet gemaskeerd in de logs.
+          AIRTABLE_BASE_ID: ${{ vars.AIRTABLE_BASE_ID }}
+          AIRTABLE_TABLE_NAME: ${{ vars.AIRTABLE_TABLE_NAME }}
+          AIRTABLE_VIEW_NAME: ${{ vars.AIRTABLE_VIEW_NAME }}
           AIRTABLE_SESSIONS_TABLE_NAME: ${{ secrets.AIRTABLE_SESSIONS_TABLE_NAME }}
           AIRTABLE_SESSIONS_COURSE_LINK_FIELD: ${{ secrets.AIRTABLE_SESSIONS_COURSE_LINK_FIELD }}
           # --- tweede bron: navormingen-base (laat NAV_BASE_ID leeg om uit te schakelen) ---
