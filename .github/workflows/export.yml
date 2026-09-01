@@ -19,20 +19,25 @@ jobs:
 
       - name: Run export
         env:
+          # Enkel de token is geheim. Base-ID's, tabel- en viewnamen staan hier
+          # bewust hardgecodeerd: ze zijn niet gevoelig, en als secret waren ze
+          # onzichtbaar én fout (de tabel heette vroeger "Courses").
           AIRTABLE_PAT: ${{ secrets.AIRTABLE_PAT }}
-          # Base-ID, tabel- en viewnaam zijn geen geheimen: als Variables blijven ze
-          # leesbaar in de repo en worden ze niet gemaskeerd in de logs.
-          AIRTABLE_BASE_ID: ${{ vars.AIRTABLE_BASE_ID }}
-          AIRTABLE_TABLE_NAME: ${{ vars.AIRTABLE_TABLE_NAME }}
-          AIRTABLE_VIEW_NAME: ${{ vars.AIRTABLE_VIEW_NAME }}
-          AIRTABLE_SESSIONS_TABLE_NAME: ${{ secrets.AIRTABLE_SESSIONS_TABLE_NAME }}
-          AIRTABLE_SESSIONS_COURSE_LINK_FIELD: ${{ secrets.AIRTABLE_SESSIONS_COURSE_LINK_FIELD }}
-          # --- tweede bron: navormingen-base (laat NAV_BASE_ID leeg om uit te schakelen) ---
-          NAV_BASE_ID: ${{ secrets.NAV_BASE_ID }}
-          NAV_TABLE_NAME: ${{ secrets.NAV_TABLE_NAME }}
-          NAV_SESSIONS_TABLE_NAME: ${{ secrets.NAV_SESSIONS_TABLE_NAME }}
-          NAV_SESSIONS_COURSE_LINK_FIELD: ${{ secrets.NAV_SESSIONS_COURSE_LINK_FIELD }}
-          NAV_VIEW_NAME_JOBAT: ${{ secrets.NAV_VIEW_NAME_JOBAT }}
+
+          # --- bron 1: Opleidingsportfolio KdG V2 ---
+          AIRTABLE_BASE_ID: "appBu1JAcv2ArUIDW"
+          AIRTABLE_TABLE_NAME: "Opleidingsaanbod website"
+          AIRTABLE_VIEW_NAME: "Published_Jobat"
+          AIRTABLE_SESSIONS_TABLE_NAME: "Sessions voor Json"
+          AIRTABLE_SESSIONS_COURSE_LINK_FIELD: "Course"
+
+          # --- bron 2: navormingen en studiedagen ---
+          # Laat NAV_BASE_ID leeg om deze bron uit te schakelen.
+          NAV_BASE_ID: "appoAYbpgMH4We38B"
+          NAV_TABLE_NAME: "Opleidingsaanbod website"
+          NAV_SESSIONS_TABLE_NAME: "Sessions voor Json"
+          NAV_SESSIONS_COURSE_LINK_FIELD: "Course"
+          NAV_VIEW_NAME_JOBAT: "Published_Jobat"
         run: python scripts/export_jobat.py
 
       - name: Commit changes if any
