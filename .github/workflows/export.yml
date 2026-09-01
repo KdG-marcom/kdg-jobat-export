@@ -50,5 +50,63 @@ jobs:
             git push
           )
 
+      # Faalmelding: opent één issue zodra de export stukloopt, en houdt het
+      # daarbij — geen nieuw issue of commentaar per mislukte uurrun.
+      - name: Meld mislukking als issue
+        if: failure()
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const marker = '<!-- auto-export-failure:jobat -->';
+            const { owner, repo } = context.repo;
+            const runUrl = `${context.serverUrl}/${owner}/${repo}/actions/runs/${context.runId}`;
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner, repo, state: 'open', labels: 'export-failure', per_page: 100
+            });
+            if (issues.some(i => (i.body || '').includes(marker))) {
+              core.info('Er staat al een issue open voor deze export.');
+              return;
+            }
+            await github.rest.issues.create({
+              owner, repo,
+              title: 'Export Jobat JSON faalt',
+              labels: ['export-failure'],
+              body: [
+                marker,
+                '',
+                `De workflow **${context.workflow}** is mislukt.`,
+                '',
+                'Zolang dit issue openstaat wordt `data/jobat.json` niet meer bijgewerkt,',
+                'en krijgt Jobat dus verouderde vacatures.',
+                '',
+                `- Mislukte run: ${runUrl}`,
+                `- Tijdstip: ${new Date().toISOString().slice(0, 16).replace('T', ' ')} UTC`,
+                '',
+                'Dit issue sluit zichzelf zodra een run opnieuw slaagt.'
+              ].join('\n')
+            });
+
+      - name: Sluit issue bij herstel
+        if: success()
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const marker = '<!-- auto-export-failure:jobat -->';
+            const { owner, repo } = context.repo;
+            const runUrl = `${context.serverUrl}/${owner}/${repo}/actions/runs/${context.runId}`;
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner, repo, state: 'open', labels: 'export-failure', per_page: 100
+            });
+            for (const issue of issues.filter(i => (i.body || '').includes(marker))) {
+              await github.rest.issues.createComment({
+                owner, repo, issue_number: issue.number,
+                body: `Hersteld — de export is weer geslaagd.\n\nRun: ${runUrl}`
+              });
+              await github.rest.issues.update({
+                owner, repo, issue_number: issue.number, state: 'closed'
+              });
+            }
+
 permissions:
   contents: write
+  issues: write
