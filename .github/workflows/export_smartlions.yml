@@ -23,21 +23,26 @@ jobs:
 
       - name: Run Smartlions export
         env:
+          # Enkel de token is geheim; de rest staat bewust hardgecodeerd.
           AIRTABLE_PAT: ${{ secrets.AIRTABLE_PAT }}
-          # Base-ID en tabelnaam zijn geen geheimen: als Variables blijven ze leesbaar
-          # in de repo en worden ze niet gemaskeerd in de logs.
-          AIRTABLE_BASE_ID: ${{ vars.AIRTABLE_BASE_ID }}
-          AIRTABLE_TABLE_NAME: ${{ vars.AIRTABLE_TABLE_NAME }}
-          AIRTABLE_SESSIONS_TABLE_NAME: ${{ secrets.AIRTABLE_SESSIONS_TABLE_NAME }}
-          AIRTABLE_SESSIONS_COURSE_LINK_FIELD: ${{ secrets.AIRTABLE_SESSIONS_COURSE_LINK_FIELD }}
-          AIRTABLE_VIEW_NAME_SMARTLIONS: ${{ secrets.AIRTABLE_VIEW_NAME_SMARTLIONS }}
-          AIRTABLE_SESSIONS_VIEW_NAME_SMARTLIONS: ${{ secrets.AIRTABLE_SESSIONS_VIEW_NAME_SMARTLIONS }}
-          # --- tweede bron: navormingen-base (laat NAV_BASE_ID leeg om uit te schakelen) ---
-          NAV_BASE_ID: ${{ secrets.NAV_BASE_ID }}
-          NAV_TABLE_NAME: ${{ secrets.NAV_TABLE_NAME }}
-          NAV_SESSIONS_TABLE_NAME: ${{ secrets.NAV_SESSIONS_TABLE_NAME }}
-          NAV_SESSIONS_COURSE_LINK_FIELD: ${{ secrets.NAV_SESSIONS_COURSE_LINK_FIELD }}
-          NAV_VIEW_NAME_SMARTLIONS: ${{ secrets.NAV_VIEW_NAME_SMARTLIONS }}
+
+          # --- bron 1: Opleidingsportfolio KdG V2 ---
+          AIRTABLE_BASE_ID: "appBu1JAcv2ArUIDW"
+          AIRTABLE_TABLE_NAME: "Opleidingsaanbod website"
+          AIRTABLE_SESSIONS_TABLE_NAME: "Sessions voor Json"
+          AIRTABLE_SESSIONS_COURSE_LINK_FIELD: "Course"
+          AIRTABLE_VIEW_NAME_SMARTLIONS: "Published_Smartlions"
+          # De sessies-tabel heeft maar één view; leeg laten = alle sessies ophalen
+          # en filteren op de koppeling. Dat is robuuster dan een viewnaam.
+          AIRTABLE_SESSIONS_VIEW_NAME_SMARTLIONS: ""
+
+          # --- bron 2: navormingen en studiedagen ---
+          # Laat NAV_BASE_ID leeg om deze bron uit te schakelen.
+          NAV_BASE_ID: "appoAYbpgMH4We38B"
+          NAV_TABLE_NAME: "Opleidingsaanbod website"
+          NAV_SESSIONS_TABLE_NAME: "Sessions voor Json"
+          NAV_SESSIONS_COURSE_LINK_FIELD: "Course"
+          NAV_VIEW_NAME_SMARTLIONS: "Published_Smartlions"
         run: python scripts/export_smartlions.py
 
       - name: Commit changes if any
