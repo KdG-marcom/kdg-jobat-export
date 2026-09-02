@@ -202,7 +202,7 @@
     "esco_category_code": "3313",
     "nacebel_sector": "69.20",
     "price": 585.0,
-    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques",
     "skills": "boekhouden, BTW-aangifte, fiscale basiskennis, boekhoudsoftware gebruiken",
     "audience": "Starters of werknemers in finance die snel inzetbaar willen zijn in een accountantskantoor of financiële afdeling",
     "required_knowledge": "Diploma secundair onderwijs (of gelijkgesteld) en voldoen aan taalvoorwaarden",
@@ -671,7 +671,7 @@
     "esco_category_code": "2431",
     "nacebel_sector": "73.11",
     "price": 2380.0,
-    "government_subsidy": "Opleidingscheques voor werknemers",
+    "government_subsidy": "Opleidingscheques",
     "skills": "copywriting, visuele contentcreatie, videoproductie, podcasting",
     "audience": "Professionals die zelf content willen creëren (geen diploma vereist)",
     "required_knowledge": "Geen specifieke voorkennis vereist",
@@ -721,7 +721,7 @@
     "internal_id": "databeheer",
     "title": "Databeheer",
     "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/databeheer?utm_source=smartlions&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/databeheer?utm_source=smartlions&utm_medium=affiliate",
     "provider": "Karel de Grote Hogeschool",
     "domain_category": "IT",
     "domain_subcategory": "Databeheer",
@@ -746,8 +746,8 @@
     "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Geen specifieke vooropleiding vereist. Enige affiniteit met cijfers of ervaring met kantoorsoftware is nuttig maar niet verplicht.</p><p><strong>Extra info:</strong> Deze opleiding kan modulair gevolgd worden. De basismodules vereisen geen voorkennis; gevorderde modules raden relevante IT-ervaring aan. Recht op Vlaams opleidingsverlof (VOV).</p>",
     "location_and_date": [
       {
-        "date_start": "2025-09-15",
-        "date_end": "2026-06-30",
+        "date_start": "2026-09-21",
+        "date_end": "2027-06-30",
         "hours": "Avondonderwijs (dagen variabel) – modulair per onderwerp",
         "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
@@ -757,9 +757,9 @@
     ],
     "sessions": [
       {
-        "date": "15/09/2025",
+        "date": "21/09/2026",
         "sessionDescription": "Startdatum",
-        "sessionId": "databeheer-start-2025-09-15",
+        "sessionId": "databeheer-start-2026-09-21",
         "locationName": "Campus Zuid (KdG)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
@@ -768,72 +768,9 @@
         "endTime": ""
       },
       {
-        "date": "30/06/2026",
+        "date": "30/06/2027",
         "sessionDescription": "Einddatum",
-        "sessionId": "databeheer-end-2026-06-30",
-        "locationName": "Campus Zuid (KdG)",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      }
-    ]
-  },
-  {
-    "internal_id": "digital-business-en-online-marketing",
-    "title": "Digital Business en Online Marketing",
-    "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/digital-business?utm_source=smartlions&utm_medium=affiliate",
-    "provider": "Karel de Grote Hogeschool",
-    "domain_category": "Marketing en communicatie",
-    "domain_subcategory": "Digital Business en Online Marketing",
-    "duration_length": 0.5,
-    "duration_type": "years",
-    "course_type": 4,
-    "degree_type": 5,
-    "job_title": "Digital marketeer, online marketing strateeg, digitaal business consultant",
-    "job_function_category": 701,
-    "esco_category_code": "2421",
-    "nacebel_sector": "70.22",
-    "price": 2595.0,
-    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques voor werknemers, Korting voor studenten",
-    "skills": "Digitale strategie, online marketing, data-analyse, innovatie, ondernemerschap",
-    "audience": "Bedrijfsleven",
-    "required_knowledge": "Bachelor- of masterdiploma (of equivalente werkervaring) vereist",
-    "certificate_name": "Getuigschrift postgraduaat Digital Business & Online Marketing",
-    "email": "digitalbusiness@kdg.be",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<p>Ga volledig digitaal met een duidelijke strategie. Maak digitale marketing eigen tijdens de opleiding Digital Business en schrijf een marketingplan of businessplan als eindwerk.</p>",
-    "description_program": "<ul><li>12 donderdagen (namiddag en avond) met praktijkgerichte sessies door top-experts.</li><li>Online les volgen is mogelijk.</li><li>Ondersteuning via KMO-portefeuille voor zelfstandigen.</li><li>8 uur persoonlijke coaching door topexperts tijdens het traject.</li><li>Na inschrijving krijg je toegang tot tools en templates (Buyer Persona Canvas, Customer Journey, Business Model Canvas) om je voor te bereiden.</li></ul>",
-    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor- of masterdiploma. Heb je geen diploma maar wel aantoonbare relevante werkervaring? Dan kan je toelating krijgen via de toelatingscommissie (CV en motivatie indienen).</p><p><strong>Extra info:</strong> Dit postgraduaat komt in aanmerking voor Vlaams opleidingsverlof (VOV) en de KMO-portefeuille.</p>",
-    "location_and_date": [
-      {
-        "date_start": "2025-09-01",
-        "date_end": "2026-01-31",
-        "hours": "Op donderdag (wekelijks) van 14 u. tot 21 u. met 2 pauzes en warme maaltijd tussendoor",
-        "location_name": "Campus Zuid (KdG)",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      }
-    ],
-    "sessions": [
-      {
-        "date": "01/09/2025",
-        "sessionDescription": "Startdatum",
-        "sessionId": "digital-business-en-online-marketing-start-2025-09-01",
-        "locationName": "Campus Zuid (KdG)",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "31/01/2026",
-        "sessionDescription": "Einddatum",
-        "sessionId": "digital-business-en-online-marketing-end-2026-01-31",
+        "sessionId": "databeheer-end-2027-06-30",
         "locationName": "Campus Zuid (KdG)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
@@ -983,7 +920,7 @@
     "esco_category_code": "3313",
     "nacebel_sector": "69.20",
     "price": 2590.0,
-    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques",
     "skills": "Fiscaliteit, accountancy op expertniveau, leidinggeven, strategisch financieel inzicht, wettelijke conformiteit",
     "audience": "Bedrijfsleven",
     "required_knowledge": "Bachelor Accountancy-Fiscaliteit of master (economisch/juridisch) vereist (of gelijkwaardig diploma met 7 jaar ervaring als tax accountant)",
@@ -995,7 +932,7 @@
     "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor Bedrijfsmanagement met afstudeerrichting Accountancy-Fiscaliteit (waardoor je gedeeltelijke vrijstellingen hebt voor de ITAA-toelatingsexamens), of een master in een economische of juridische richting (eveneens met vrijstellingen). Kandidaten met een ander bachelor- of masterdiploma én minstens 7 jaar ervaring als tax accountant kunnen ook toegelaten worden.</p><p><strong>Extra info:</strong> Deze opleiding loopt over drie academiejaren. Vrijstellingen voor delen van het ITAA-traject zijn mogelijk op basis van je vooropleiding. Recht op Vlaams opleidingsverlof (VOV) en inzetbaar via de KMO-portefeuille.</p>",
     "location_and_date": [
       {
-        "date_start": "2025-09-15",
+        "date_start": "2026-09-22",
         "date_end": "2027-06-30",
         "hours": "Dinsdagavond (lesjaar 1 en 2), gecombineerd met vrijstellingsproeven (lesjaar 3)",
         "location_name": "Campus Groenplaats (KdG)",
@@ -1006,9 +943,9 @@
     ],
     "sessions": [
       {
-        "date": "15/09/2025",
+        "date": "22/09/2026",
         "sessionDescription": "Startdatum",
-        "sessionId": "gecertificeerd-tax-accountant-start-2025-09-15",
+        "sessionId": "gecertificeerd-tax-accountant-start-2026-09-22",
         "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -1023,69 +960,6 @@
         "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      }
-    ]
-  },
-  {
-    "internal_id": "hr-people-business",
-    "title": "HR – People & Business",
-    "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/hr-people-business?utm_source=smartlions&utm_medium=affiliate",
-    "provider": "Karel de Grote Hogeschool",
-    "domain_category": "HR en personeelswerk",
-    "domain_subcategory": "HR – People & Business",
-    "duration_length": 0.5,
-    "duration_type": "years",
-    "course_type": 1,
-    "degree_type": 5,
-    "job_title": "HR-manager, HR-business partner, HR-consultant",
-    "job_function_category": 780,
-    "esco_category_code": "2421",
-    "nacebel_sector": "70.22",
-    "price": 3495.0,
-    "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques voor werknemers",
-    "skills": "HR-strategie, change management, coaching, communicatie, analytics",
-    "audience": "Bedrijfsleven",
-    "required_knowledge": "Bachelor- of masterdiploma vereist (gelijkwaardige HR-ervaring kan volstaan)",
-    "certificate_name": "Getuigschrift postgraduaat Human Resources – People & Business",
-    "email": "bieke.janssens@kdg.be",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<p>In deze opleiding worden alle HR-componenten voor een strategisch HR-beleid aangereikt. Naast sessies door expert-docenten is er ruimte voor inspirerende interactie met je medestudenten.</p>",
-    "description_program": "<ul><li>24 sessies gespreid over 4 maanden (februari tot juni).</li><li>Les op donderdagnamiddag en -avond, combineerbaar met werk.</li><li>Docenten zijn HR-experts uit de praktijk.</li><li>Interactieve uitwisseling van ervaringen met medecursisten.</li><li>Inclusief 8 uur persoonlijke coaching voor je HR business case.</li><li>Getuigschrift postgraduaat HR – People & Business (20 studiepunten) bij afronding.</li></ul>",
-    "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor- of masterdiploma. Heb je geen diploma, maar wel aantoonbare werkervaring in HR (minstens één HR-component)? Dan kan de toelatingscommissie je toelaten op basis van CV en motivatie.</p><p><strong>Extra info:</strong> Deze opleiding is erkend voor Vlaams opleidingsverlof (VOV), opleidingscheques en de KMO-portefeuille.</p>",
-    "location_and_date": [
-      {
-        "date_start": "2026-02-05",
-        "date_end": "2026-06-25",
-        "hours": "Telkens op donderdag van 14 - 21 u. met 1 uur pauze tussendoor",
-        "location_name": "Campus Zuid (KdG)",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      }
-    ],
-    "sessions": [
-      {
-        "date": "05/02/2026",
-        "sessionDescription": "Startdatum",
-        "sessionId": "hr-people-business-start-2026-02-05",
-        "locationName": "Campus Zuid (KdG)",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "25/06/2026",
-        "sessionDescription": "Einddatum",
-        "sessionId": "hr-people-business-end-2026-06-25",
-        "locationName": "Campus Zuid (KdG)",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
         "city": "Antwerpen",
         "startTime": "",
         "endTime": ""
@@ -1553,8 +1427,8 @@
     "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor- of masterdiploma in de financiële of juridische sector (bv. Verzekeringen, Bedrijfsmanagement, Overheidsmanagement, Handelswetenschappen, ...). Óf je hebt relevante beroepservaring in de financiële/publieke sector (bv. als financial advisor bij een overheid).</p><p><strong>Extra info:</strong> Start jaarlijks in januari. Flexibele lesorganisatie met streaming. Inschrijvingsgeld academiejaar 2025-2026: 1865 euro. Recht op Vlaams opleidingsverlof (VOV).</p>",
     "location_and_date": [
       {
-        "date_start": "2026-01-08",
-        "date_end": "2026-06-30",
+        "date_start": "2027-01-01",
+        "date_end": "2027-06-30",
         "hours": "Dinsdag- en donderdagavond (18:00-21:30)",
         "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
@@ -1564,9 +1438,9 @@
     ],
     "sessions": [
       {
-        "date": "08/01/2026",
+        "date": "01/01/2027",
         "sessionDescription": "Startdatum",
-        "sessionId": "public-finance-management-start-2026-01-08",
+        "sessionId": "public-finance-management-start-2027-01-01",
         "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -1575,9 +1449,9 @@
         "endTime": "21"
       },
       {
-        "date": "30/06/2026",
+        "date": "30/06/2027",
         "sessionDescription": "Einddatum",
-        "sessionId": "public-finance-management-end-2026-06-30",
+        "sessionId": "public-finance-management-end-2027-06-30",
         "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -1790,7 +1664,7 @@
     "esco_category_code": "4323",
     "nacebel_sector": "52",
     "price": 495.6,
-    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques",
     "skills": "supply chain basisprincipes, planning & voorraad, logistieke coördinatie",
     "audience": "Werkenden of pasafgestudeerden die een brede basis in Supply Chain willen verwerven zonder voltijdse studie",
     "required_knowledge": "Diploma secundair onderwijs of relevante werkervaring aanbevolen",
@@ -1916,7 +1790,7 @@
     "esco_category_code": "3313",
     "nacebel_sector": "69.20",
     "price": 1655.0,
-    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques",
     "skills": "Fiscaliteit op expertniveau, accountancy, analytisch denken, regelgeving, financieel management",
     "audience": "Bedrijfsmanagement, Financiële sector",
     "required_knowledge": "Bachelor Bedrijfsmanagement (Accountancy-Fiscaliteit), of graduaat Accountancy (2 jaar ervaring), of master (economisch/juridisch) vereist",
@@ -1928,8 +1802,8 @@
     "description_extrainfo": "<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelordiploma in Bedrijfsmanagement (afstudeerrichting Accountancy-Fiscaliteit) of een graduaatsdiploma Accountancy met minstens 2 jaar relevante ervaring. Ook masters in een economische of juridische richting kunnen instromen. Voldoe je niet aan de voorwaarden? Bezorg je diploma’s, CV en motivatie, een toelatingscommissie beoordeelt je aanvraag.</p><p><strong>Extra info:</strong> Deze opleiding geeft recht op Vlaams opleidingsverlof (VOV) en de KMO-portefeuille. De opleiding kan gespreid worden over minimum 2 academiejaren.</p>",
     "location_and_date": [
       {
-        "date_start": "2025-09-16",
-        "date_end": "2026-06-30",
+        "date_start": "2026-09-22",
+        "date_end": "2027-06-30",
         "hours": "Dinsdag- en/of donderdagavond (gespreid over 2 jaar)",
         "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
@@ -1939,9 +1813,9 @@
     ],
     "sessions": [
       {
-        "date": "16/09/2025",
+        "date": "22/09/2026",
         "sessionDescription": "Startdatum",
-        "sessionId": "tax-accountancy-management-start-2025-09-16",
+        "sessionId": "tax-accountancy-management-start-2026-09-22",
         "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -1950,9 +1824,9 @@
         "endTime": ""
       },
       {
-        "date": "30/06/2026",
+        "date": "30/06/2027",
         "sessionDescription": "Einddatum",
-        "sessionId": "tax-accountancy-management-end-2026-06-30",
+        "sessionId": "tax-accountancy-management-end-2027-06-30",
         "locationName": "Campus Groenplaats (KdG)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -1979,7 +1853,7 @@
     "esco_category_code": "2512",
     "nacebel_sector": "62.01",
     "price": 289.9,
-    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques",
     "skills": "IT-basisvaardigheden, programmeertechnieken, probleemoplossend denken, teamwerk",
     "audience": "Volwassenen (25+) die naast werk/gezin een flexibele IT-opleiding willen volgen",
     "required_knowledge": "Geen specifieke voorkennis vereist voor basis-micro-credentials; voor gevorderde modules is relevante IT-ervaring aanbevolen",
@@ -2042,7 +1916,7 @@
     "esco_category_code": "4323",
     "nacebel_sector": "52",
     "price": 495.6,
-    "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet in de privésector, Vlaams opleidingskrediet in de socialprofitsector, Opleidingscheques voor werknemers",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques",
     "skills": "transportplanning, havenoperaties, logistieke coördinatie, douaneprocessen",
     "audience": "Professionals en instromers die in transport, zee- of luchthavenlogistiek willen werken",
     "required_knowledge": "Diploma secundair onderwijs of relevante ervaring in logistiek aanbevolen",
