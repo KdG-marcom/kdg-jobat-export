@@ -115,7 +115,7 @@
     "internal_id": "assistent-accountant",
     "title": "Assistent Accountant",
     "language": "nl",
-    "price": "585.00",
+    "price": "597.40",
     "certificate_name": "Getuigschrift Assistent Accountant",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nausikaa.vandenbulcke@kdg.be",
@@ -156,7 +156,7 @@
     "internal_id": "autismespectrum",
     "title": "Autismespectrum",
     "language": "nl",
-    "price": "975.00",
+    "price": "1000.00",
     "certificate_name": "Getuigschrift Postgraduaat Autismespectrum",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "leen.stoffels@kdg.be",
@@ -183,7 +183,7 @@
     "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques",
     "location_and_date": [
       {
-        "date_start": "2026-09-21",
+        "date_start": "2026-09-22",
         "date_end": "2027-06-30",
         "hours": "Woensdagnamiddag/avond (wekelijks)",
         "location_name": "Campus Zuid (KdG)",
@@ -261,11 +261,11 @@
     "esco_category_code": 2412,
     "nacebel_sector": "66.19",
     "required_knowledge": "Geen specifieke voorkennis vereist (basisinzicht economie en wiskunde is nuttig)",
-    "government_subsidy": "",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-09-22",
-        "date_end": "2027-06-30",
+        "date_end": "2027-06-15",
         "hours": "dinsdagavond 16:00-19:00 (deels online, deels campus)",
         "location_name": "Campus Groenplaats / online",
         "location_address": "Nationalestraat 5",
@@ -440,7 +440,7 @@
     "internal_id": "databeheer",
     "title": "Databeheer",
     "language": "nl",
-    "price": "1605.00",
+    "price": "1975.00",
     "certificate_name": "Getuigschrift postgraduaat Databeheer",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "koen.heylen@kdg.be",
@@ -468,7 +468,7 @@
     "location_and_date": [
       {
         "date_start": "2026-09-21",
-        "date_end": "2027-06-30",
+        "date_end": "2027-02-24",
         "hours": "Avondonderwijs (dagen variabel) – modulair per onderwerp",
         "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
@@ -603,7 +603,7 @@
     "internal_id": "geriatrie",
     "title": "Geriatrie",
     "language": "nl",
-    "price": "1900.00",
+    "price": "1950.00",
     "certificate_name": "Getuigschrift postgraduaat Geriatrie",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "mark.willekens@kdg.be",
@@ -631,7 +631,7 @@
     "location_and_date": [
       {
         "date_start": "2026-10-01",
-        "date_end": "2027-06-18",
+        "date_end": "2027-06-17",
         "hours": "Donderdag (telkens van 8.30 tot 17.45 u.) – wekelijks",
         "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
@@ -644,7 +644,7 @@
     "internal_id": "gespecialiseerde-pijnverpleegkundige",
     "title": "Gespecialiseerde Pijnverpleegkundige",
     "language": "nl",
-    "price": "2200.00",
+    "price": "1950.00",
     "certificate_name": "Postgraduaat Gespecialiseerde Pijnverpleegkundige",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "mark.willekens@kdg.be",
@@ -672,7 +672,7 @@
     "location_and_date": [
       {
         "date_start": "2026-09-23",
-        "date_end": "2027-06-30",
+        "date_end": "2027-06-16",
         "hours": "Iedere lesdag start om 8.30 u. en eindigt ten laatste om 18 u.",
         "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
@@ -685,10 +685,10 @@
     "internal_id": "menopauzeconsulent",
     "title": "Menopauzeconsulent",
     "language": "nl",
-    "price": "1900.00",
+    "price": "1875.00",
     "certificate_name": "Getuigschrift postgraduaat Menopauzeconsulent",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "jessica.deprez@kdg.be",
+    "email": "info.vroedkunde@kdg.be",
     "job_title": "Menopauzeconsulent, gespecialiseerd verpleegkundige/vroedkundige in menopauzezorg",
     "skills": "Menopauzekennis, counseling, medische educatie, empathie, holistische zorg",
     "audience": [
@@ -713,7 +713,7 @@
     "location_and_date": [
       {
         "date_start": "2026-10-02",
-        "date_end": "2027-06-30",
+        "date_end": "2027-05-28",
         "hours": "Dinsdag (hele dag) – wekelijks",
         "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
@@ -726,7 +726,7 @@
     "internal_id": "mentor-in-stage-en-aanvangsbegeleiding",
     "title": "Mentor in stage- en aanvangsbegeleiding",
     "language": "nl",
-    "price": "975.00",
+    "price": "795.00",
     "certificate_name": "Getuigschrift postgraduaat Mentor in Stage- en Aanvangsbegeleiding",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "cathy.crabbe@kdg.be",
@@ -808,7 +808,7 @@
     "internal_id": "oncologie",
     "title": "Oncologie",
     "language": "nl",
-    "price": "1900.00",
+    "price": "1950.00",
     "certificate_name": "Getuigschrift postgraduaat Oncologie",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "mark.willekens@kdg.be",
@@ -836,7 +836,7 @@
     "location_and_date": [
       {
         "date_start": "2026-09-21",
-        "date_end": "2027-06-30",
+        "date_end": "2027-06-14",
         "hours": "Een vaste weekdag (nog te bepalen) – modules per semester",
         "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
@@ -890,7 +890,7 @@
     "internal_id": "palliatieve-zorg",
     "title": "Palliatieve Zorg",
     "language": "nl",
-    "price": "1900.00",
+    "price": "1950.00",
     "certificate_name": "Getuigschrift postgraduaat Palliatieve Zorg",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "mark.willekens@kdg.be",
@@ -918,7 +918,7 @@
     "location_and_date": [
       {
         "date_start": "2026-09-29",
-        "date_end": "2027-06-02",
+        "date_end": "2027-06-08",
         "hours": "Dinsdag (van 8.30 tot 17.45 u.) – modules verspreid over academiejaar",
         "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
@@ -931,7 +931,7 @@
     "internal_id": "pediatrie-en-neonatologie",
     "title": "Pediatrie en Neonatologie",
     "language": "nl",
-    "price": "1900.00",
+    "price": "1950.00",
     "certificate_name": "Getuigschrift postgraduaat Pediatrie en Neonatologie",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "mark.willekens@kdg.be",
@@ -959,7 +959,7 @@
     "location_and_date": [
       {
         "date_start": "2026-09-22",
-        "date_end": "2027-06-09",
+        "date_end": "2027-06-08",
         "hours": "Telkens op dinsdag (hele dag)",
         "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
@@ -972,10 +972,10 @@
     "internal_id": "perinatale-coach",
     "title": "Perinatale coach",
     "language": "nl",
-    "price": "1625.00",
+    "price": "1875.00",
     "certificate_name": "Getuigschrift postgraduaat Perinatale Coach",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "astrid.claerbout@kdg.be",
+    "email": "info.vroedkunde@kdg.be",
     "job_title": "Perinatale coach, zwangerschapsbegeleider, postpartum consulent",
     "skills": "Coachen, counseling, perinatale zorg, communicatie, emotionele ondersteuning",
     "audience": [
@@ -1013,10 +1013,10 @@
     "internal_id": "personal-trainer-en-gezondheidscoach",
     "title": "Personal Trainer en Gezondheidscoach",
     "language": "nl",
-    "price": "1550.00",
+    "price": "1525.00",
     "certificate_name": "Micro-credential Personal trainer en gezondheidscoach",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "steven.decroos@kdg.be",
+    "email": "kim.semadeni@kdg.be",
     "job_title": "Personal trainer, Gezondheidscoach, Lifestylecoach, Beweegcoach",
     "skills": "Coaching, Trainingsleer, Voedingsadvies, Gedragsverandering, Gezondheidsbevordering",
     "audience": [
@@ -1214,7 +1214,7 @@
     "internal_id": "radiotherapie",
     "title": "Radiotherapie",
     "language": "nl",
-    "price": "1900.00",
+    "price": "850.00",
     "certificate_name": "Getuigschrift postgraduaat Radiotherapie",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
@@ -1295,7 +1295,7 @@
     "internal_id": "referentieverpleegkundige-wondzorg",
     "title": "Referentieverpleegkundige wondzorg",
     "language": "nl",
-    "price": "950.00",
+    "price": "990.00",
     "certificate_name": "Getuigschrift Wondzorg",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "mark.willekens@kdg.be",
@@ -1322,7 +1322,7 @@
     "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques",
     "location_and_date": [
       {
-        "date_start": "2026-10-27",
+        "date_start": "2026-10-20",
         "date_end": "2027-03-16",
         "hours": "les verspreid over het academiejaar",
         "location_name": "Campus Zuid (KdG)",
@@ -1336,7 +1336,7 @@
     "internal_id": "schoolleider-in-het-basisonderwijs",
     "title": "Schoolleider in het Basisonderwijs",
     "language": "nl",
-    "price": "1290.00",
+    "price": "1060.00",
     "certificate_name": "Getuigschrift postgraduaat Schoolleider in het Basisonderwijs",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "hannelore.degreve@kdg.be",
@@ -1377,7 +1377,7 @@
     "internal_id": "steinerpedagogie",
     "title": "Steinerpedagogie",
     "language": "nl",
-    "price": "1290.00",
+    "price": "1300.00",
     "certificate_name": "Getuigschrift postgraduaat Steinerpedagogie",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "postgraduaat@steinerscholen.be",
@@ -1405,7 +1405,7 @@
     "location_and_date": [
       {
         "date_start": "2026-09-18",
-        "date_end": "2027-06-30",
+        "date_end": "2027-06-09",
         "hours": "Maandag en dinsdagavond + enkele zaterdagen (praktijk)",
         "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
@@ -1500,7 +1500,7 @@
     "internal_id": "tax-accountancy-management",
     "title": "Tax & Accountancy Management",
     "language": "nl",
-    "price": "1655.00",
+    "price": "1690.00",
     "certificate_name": "Getuigschrift postgraduaat Tax & Accountancy Management",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nausikaa.vandenbulcke@kdg.be",
@@ -1608,8 +1608,8 @@
     "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques",
     "location_and_date": [
       {
-        "date_start": "2025-09-15",
-        "date_end": "2026-06-30",
+        "date_start": "2026-09-14",
+        "date_end": "2027-06-30",
         "hours": "blended: 1-2u les + 8u zelfstudie per week",
         "location_name": "Campus Groenplaats (KdG)",
         "location_address": "Nationalestraat 5",
@@ -1649,8 +1649,8 @@
     "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques",
     "location_and_date": [
       {
-        "date_start": "2025-10-16",
-        "date_end": "2026-03-19",
+        "date_start": "2026-09-21",
+        "date_end": "2027-06-30",
         "hours": "5 donderdagen (ca. 9 tot 16 u.)",
         "location_name": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
         "location_address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
@@ -1662,7 +1662,7 @@
     "internal_id": "van-kleuter-naar-lager",
     "title": "Van Kleuter naar Lager",
     "language": "nl",
-    "price": "1290.00",
+    "price": "1390.00",
     "certificate_name": "Getuigschrift postgraduaat Van Kleuter naar Lager",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "leen.cockx@kdg.be",
@@ -1689,8 +1689,8 @@
     "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques",
     "location_and_date": [
       {
-        "date_start": "2026-09-14",
-        "date_end": "2027-06-30",
+        "date_start": "2026-10-06",
+        "date_end": "2027-11-23",
         "hours": "1 dinsdag per maand les van 9 tot 16 u.",
         "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
@@ -1730,8 +1730,8 @@
     "government_subsidy": "",
     "location_and_date": [
       {
-        "date_start": "2025-09-15",
-        "date_end": "2025-12-31",
+        "date_start": "2026-09-14",
+        "date_end": "2027-06-30",
         "hours": "wekelijks 2u (avond of overdag afhankelijk van keuzevak)",
         "location_name": "Campus Zuid (KdG)",
         "location_address": "Brusselstraat 45",
@@ -1744,10 +1744,10 @@
     "internal_id": "verpleegkundige-in-de-huisartsenpraktijk",
     "title": "Verpleegkundige in de Huisartsenpraktijk",
     "language": "nl",
-    "price": "1850.00",
+    "price": "2700.00",
     "certificate_name": "Getuigschrift postgraduaat Verpleegkundige in de Huisartsenpraktijk",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "info.levenslangleren.verpleegkunde@kdg.be",
+    "email": "lucky.botteldooren@uantwerpen.be",
     "job_title": "Praktijkverpleegkundige, verpleegkundige in huisartsenpraktijk",
     "skills": "Eerstelijnszorg, triage, praktijkbeheer, communicatie, patiënteneducatie",
     "audience": [
@@ -1771,7 +1771,7 @@
     "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
-        "date_start": "2026-09-18",
+        "date_start": "2026-09-17",
         "date_end": "2027-06-30",
         "hours": "Donderdagavond + flexibele stage-uren",
         "location_name": "Campus Zuid (KdG)",
