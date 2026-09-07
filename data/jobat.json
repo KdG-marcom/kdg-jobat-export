@@ -764,47 +764,6 @@
     ]
   },
   {
-    "internal_id": "mentor-klinisch-onderwijs",
-    "title": "Mentor Klinisch Onderwijs",
-    "language": "nl",
-    "price": "390.00",
-    "certificate_name": "Getuigschrift Mentor Klinisch Onderwijs",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "info.levenslangleren.verpleegkunde@kdg.be",
-    "job_title": "Stagementor verpleegkunde",
-    "skills": "mentoring, communicatie, didactische vaardigheden, coachen van studenten",
-    "audience": [
-      "Verpleegkundigen en vroedvrouwen met praktijkervaring die studenten willen begeleiden"
-    ],
-    "domain_category": "Gezondheidszorg",
-    "domain_subcategory": "Verpleegkunde (mentorschap)",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/mentor-klinisch-onderwijs?utm_source=jobat&utm_medium=affiliate",
-    "degree_type": 5,
-    "duration_length": "32",
-    "duration_type": "hours",
-    "provider": "Karel de Grote Hogeschool",
-    "course_type": 5,
-    "description": "<![CDATA[<ul><li>Je bent trots op je ervaring als verpleegkundige of vroedvrouw.</li><li>Je wilt je kennis en vaardigheden delen met aanstormend talent.</li><li>Interactie ligt je goed – je coacht graag studenten in de praktijk.</li><li>Deze opleiding is een samenwerking tussen AP Hogeschool en KdG en werd uitgewerkt door de Vlaamse Hogescholenraad.</li></ul>]]>",
-    "description_program": "<![CDATA[Als stagementor leer je hoe je studenten op de werkvloer professioneel begeleidt. De opleiding (32 uur, 5 sessies) behandelt thema’s als relationele intelligentie, verschillende leerstijlen, begeleiden en evalueren van studenten, en de regelgeving rond stage en hoger onderwijs. Via filmfragmenten, opdrachten en oefeningen pas je de theorie meteen toe. Alledaagse praktijksituaties worden besproken om je mentorvaardigheden te versterken. Je start na deze micro-credential goed voorbereid in je rol als klinisch mentor.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Je bent een ervaren verpleegkundige of vroedvrouw die als mentor wil optreden voor studenten. De opleiding staat open voor gediplomeerde zorgprofessionals; inschrijven verloopt via AP Hogeschool.</p><p><strong>Certificaat:</strong> Na het afronden ontvang je een getuigschrift Mentor Klinisch Onderwijs, waarmee je formeel bekwaam bent om studenten klinisch te begeleiden.</p><p><strong>Subsidies:</strong> Deze micro-credential komt in aanmerking voor Vlaams opleidingsverlof.</p>]]>",
-    "job_function_category": 503,
-    "esco_category_code": 2221,
-    "nacebel_sector": "86",
-    "required_knowledge": "Ervaring als verpleegkundige of vroedvrouw (afgestudeerd in verpleegkunde/vroedkunde) is vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques",
-    "location_and_date": [
-      {
-        "date_start": "2025-10-16",
-        "date_end": "2026-03-19",
-        "hours": "5 donderdagen (ca. 09:00-16:00)",
-        "location_name": "Campus (locatie via AP Hogeschool)",
-        "location_address": "tbd",
-        "location_zip": "",
-        "location_city": "Antwerpen"
-      }
-    ]
-  },
-  {
     "internal_id": "oncologie",
     "title": "Oncologie",
     "language": "nl",
@@ -1796,7 +1755,7 @@
     ],
     "domain_category": "Onderwijs",
     "domain_subcategory": "Zorgverbreding en Remediërend Leren",
-    "webaddress": "https://www.kdg.be/opleidingen/bachelor-na-bachelor/zorgverbreding-en-remediërend-leren?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/bachelor-na-bachelor/zorgverbreding-en-remedierend-leren?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 2,
     "duration_length": "1",
     "duration_type": "years",
