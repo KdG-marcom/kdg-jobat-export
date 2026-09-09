@@ -1089,69 +1089,6 @@
     "sessions": []
   },
   {
-    "internal_id": "mobiele-extractie-van-waardevolle-biopolymeren-uit-spuislib",
-    "title": "Mobiele extractie van waardevolle biopolymeren uit spuislib",
-    "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/mobiele-extractie-van-waardevolle-biopolymeren-uit-spuislib?utm_source=smartlions&utm_medium=affiliate",
-    "provider": "Karel de Grote Hogeschool",
-    "domain_category": "Chemie en labo",
-    "domain_subcategory": "Biopolymeren en slibvalorisatie",
-    "duration_length": null,
-    "duration_type": "",
-    "course_type": 1,
-    "degree_type": 0,
-    "job_title": "Procesingenieur, Onderzoeker, Milieutechnoloog, Bedrijfsleider industrie",
-    "job_function_category": 606,
-    "esco_category_code": "2113",
-    "nacebel_sector": "72.19",
-    "price": null,
-    "government_subsidy": "VLAIO",
-    "skills": "Biopolymeerextractie, Slibvalorisatie, Procesoptimalisatie, Duurzame verwerking",
-    "audience": "Bedrijfsleven, Wetenschappers",
-    "required_knowledge": "",
-    "certificate_name": "",
-    "email": "maarten.bartels@kdg.be",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<p>Tijdens dit lanceringsevent stellen we onze mobiele pilootinstallatie voor. Deze installatie is ontwikkeld voor de extractie van waardevolle componenten uit spuislib. Herken je een of meerdere van deze uitdagingen?</p><ul><li>Hoe transformeren we reststromen tot bruikbare producten?</li><li>Hoe van secundair slib een economisch waardevolle grondstof maken?</li><li>Hoe reduceren we de operationele slibverwerkingskosten?</li><li>Waar kunnen geextraheerde componenten concreet worden ingezet?</li></ul><p>We tonen hoe de mobiele extractie-installatie on-site kan worden ingezet en welke mogelijkheden dit biedt voor industriele toepassingen. Daarnaast een rondetafelgesprek met industriele partners en onderzoekers van het Onderzoekscentrum Duurzame Industrie.</p>",
-    "description_program": "",
-    "description_extrainfo": "<p>Partners: Newtec, KdG Research en Cre@Aqua. Pilootinstallatie gerealiseerd met financiele steun van VLAIO. Onderzoekscentrum Duurzame Industrie: contacteer via jeroen.geuens@kdg.be of +32 3 502 22 16.</p>",
-    "location_and_date": [
-      {
-        "date_start": "2026-09-08",
-        "date_end": "2026-09-08",
-        "hours": "16.00 - 19.00 u.",
-        "location_name": "Newtec Water Systems",
-        "location_address": "Zandvoortstraat 12C",
-        "location_zip": "2800",
-        "location_city": "Mechelen"
-      }
-    ],
-    "sessions": [
-      {
-        "date": "08/09/2026",
-        "sessionDescription": "Einddatum",
-        "sessionId": "mobiele-extractie-van-waardevolle-biopolymeren-uit-spuislib-end-2026-09-08",
-        "locationName": "Newtec Water Systems",
-        "address": "Zandvoortstraat 12C",
-        "zipCode": "2800",
-        "city": "Mechelen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "08/09/2026",
-        "sessionDescription": "Startdatum",
-        "sessionId": "mobiele-extractie-van-waardevolle-biopolymeren-uit-spuislib-start-2026-09-08",
-        "locationName": "Newtec Water Systems",
-        "address": "Zandvoortstraat 12C",
-        "zipCode": "2800",
-        "city": "Mechelen",
-        "startTime": "",
-        "endTime": ""
-      }
-    ]
-  },
-  {
     "internal_id": "open-lab-dag-2026",
     "title": "Open Lab dag 2026",
     "language": "NL",
