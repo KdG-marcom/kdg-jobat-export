@@ -125,6 +125,69 @@
     ]
   },
   {
+    "internal_id": "ai-als-tool-van-data-naar-slimme-workflows",
+    "title": "AI als tool: van data naar slimme workflows",
+    "language": "NL",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/ai-als-tool-van-data-naar-slimme-workflows?utm_source=smartlions&utm_medium=affiliate",
+    "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Artificiële intelligentie",
+    "domain_subcategory": "Data en automatisering",
+    "duration_length": 1,
+    "duration_type": "hours",
+    "course_type": 2,
+    "degree_type": 0,
+    "job_title": "Data-analist, Databeheerder, Business analist, Procesverbeteraar, Kenniswerker",
+    "job_function_category": 820,
+    "esco_category_code": "2511",
+    "nacebel_sector": "62.02",
+    "price": null,
+    "government_subsidy": "",
+    "skills": "Data-analyse, Artificiële intelligentie, Automatisering, Datagedreven werken, Procesoptimalisatie",
+    "audience": "Bedrijfsleven, Buitengewoon onderwijs, Event professionals, Hoger onderwijs, Hulpverlening, Iedereen, Jeugdzorg, Kinderopvang, Kinesitherapeuten en artsen, Kleuteronderwijs, Lager onderwijs, Ondersteuningsnetwerk onderwijs, Secundair Onderwijs, Sociale sector, Verpleegkundigen, Wetenschappers, Zorgkundigen",
+    "required_knowledge": "Geen voorkennis vereist.",
+    "certificate_name": "",
+    "email": "hanneke.vangucht@kdg.be",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "description": "<p>In elke sector speelt data een steeds grotere rol. Tegelijk kost het tijd om uit alle beschikbare gegevens de juiste inzichten te halen en er efficiënt mee aan de slag te gaan. AI biedt nieuwe mogelijkheden om dat proces te ondersteunen.</p><p>In deze webinar ontdek je hoe je AI en data combineert om sneller tot inzichten te komen en je manier van werken te vereenvoudigen. Je gaat naar huis met concrete ideeën en handvatten die je meteen vertaalt naar je eigen werk.</p>",
+    "description_program": "<p>Wat komt aan bod?</p><ul><li>AI inzetten bij het verwerken en analyseren van data</li><li>Van data naar bruikbare inzichten en concrete acties</li><li>Repetitieve datataken vereenvoudigen en automatiseren</li><li>AI gebruiken om efficiëntere workflows op te zetten</li><li>Concrete toepassingen die je kunt vertalen naar je eigen werk</li></ul><p>Na deze webinar heb je een duidelijker beeld van hoe AI en databeheer elkaar kunnen versterken. Je ontdekt welke toepassingen vandaag al mogelijk zijn en krijgt concrete ideeën en handvatten om ermee aan de slag te gaan in je eigen werk. Je hoeft daarvoor geen technische voorkennis te hebben. We vertrekken vanuit herkenbare datataken en focussen op praktische toepassingen.</p>",
+    "description_extrainfo": "<p><strong>Voor wie?</strong> Deze webinar is interessant voor professionals die in hun dagelijkse werk met data en informatie aan de slag gaan. Of je nu werkt in zorg, onderwijs, HR, marketing, finance of operations: sterke datavaardigheden helpen je om efficiënter te werken en beter onderbouwde beslissingen te nemen. De webinar is toegankelijk voor zowel professionals die hun eerste stappen zetten met data als voor wie al ervaring heeft met dataverwerking.</p><p><strong>Docent:</strong> Dirk Leemans is docent en expert in data science, databanken en data-automatisering. Hij is coördinator en docent van het postgraduaat Databeheer aan KdG Academy en verbonden aan de Duale Hochschule Baden-Württemberg Mannheim.</p><p><strong>Praktisch:</strong> dinsdag 15 september 2026 van 12.00 tot 13.00 u., online interactieve webinar. Gratis deelname.</p>",
+    "location_and_date": [
+      {
+        "date_start": "2026-09-15",
+        "date_end": "2026-09-15",
+        "hours": "12.00 - 13.00 u.",
+        "location_name": "Online, interactieve webinar",
+        "location_address": "",
+        "location_zip": "",
+        "location_city": ""
+      }
+    ],
+    "sessions": [
+      {
+        "date": "15/09/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "ai-als-tool-van-data-naar-slimme-workflows-end-2026-09-15",
+        "locationName": "Online, interactieve webinar",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "15/09/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "ai-als-tool-van-data-naar-slimme-workflows-start-2026-09-15",
+        "locationName": "Online, interactieve webinar",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
+  },
+  {
     "internal_id": "ai-het-basisonderwijs",
     "title": "AI in het basisonderwijs",
     "language": "NL",
