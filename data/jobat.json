@@ -27,7 +27,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma in verpleegkunde, vroedkunde, kinesitherapie of geneeskunde vereist",
-    "government_subsidy": "KMO-portefeuille",
+    "government_subsidy": "Kmo-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-09-12",
@@ -302,7 +302,7 @@
     "esco_category_code": 2352,
     "nacebel_sector": "85.60",
     "required_knowledge": "Bachelor- of masterdiploma (onderwijs) vereist, of reeds werkzaam in buitengewoon onderwijs/leersteuncentrum",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, Kmo-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-09-23",
@@ -627,7 +627,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (bachelor of HBO5) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2026-10-01",
@@ -791,7 +791,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Afgerond diploma Verpleegkunde (bachelor of HBO5) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2026-09-21",
@@ -873,7 +873,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (bachelor of graduaat) of gelijkaardige zorgopleiding vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2026-09-29",
@@ -955,7 +955,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma bachelor Vroedkunde vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2026-10-06",
@@ -1197,7 +1197,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
     "location_and_date": [
       {
         "date_start": "2026-09-15",
@@ -1768,7 +1768,7 @@
     "esco_category_code": 2352,
     "nacebel_sector": "85.60",
     "required_knowledge": "Bachelor- of masterdiploma vereist, of reeds werkzaam in het onderwijs",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, KMO-portefeuille",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques, Kmo-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-09-23",
@@ -7417,6 +7417,62 @@
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
         "location_city": "Antwerpen"
+      }
+    ]
+  },
+  {
+    "internal_id": "ai-als-tool-van-data-naar-slimme-workflows",
+    "title": "AI als tool: van data naar slimme workflows",
+    "language": "nl",
+    "price": "",
+    "certificate_name": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "hanneke.vangucht@kdg.be",
+    "job_title": "Data-analist, Databeheerder, Business analist, Procesverbeteraar, Kenniswerker",
+    "skills": "Data-analyse, Artificiële intelligentie, Automatisering, Datagedreven werken, Procesoptimalisatie",
+    "audience": [
+      "Bedrijfsleven",
+      "Buitengewoon onderwijs",
+      "Event professionals",
+      "Hoger onderwijs",
+      "Hulpverlening",
+      "Iedereen",
+      "Jeugdzorg",
+      "Kinderopvang",
+      "Kinesitherapeuten en artsen",
+      "Kleuteronderwijs",
+      "Lager onderwijs",
+      "Ondersteuningsnetwerk onderwijs",
+      "Secundair Onderwijs",
+      "Sociale sector",
+      "Verpleegkundigen",
+      "Wetenschappers",
+      "Zorgkundigen"
+    ],
+    "domain_category": "Artificiële intelligentie",
+    "domain_subcategory": "Data en automatisering",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/ai-als-tool-van-data-naar-slimme-workflows?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 0,
+    "duration_length": "1",
+    "duration_type": "hours",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 2,
+    "description": "<![CDATA[<p>In elke sector speelt data een steeds grotere rol. Tegelijk kost het tijd om uit alle beschikbare gegevens de juiste inzichten te halen en er efficiënt mee aan de slag te gaan. AI biedt nieuwe mogelijkheden om dat proces te ondersteunen.</p><p>In deze webinar ontdek je hoe je AI en data combineert om sneller tot inzichten te komen en je manier van werken te vereenvoudigen. Je gaat naar huis met concrete ideeën en handvatten die je meteen vertaalt naar je eigen werk.</p>]]>",
+    "description_program": "<![CDATA[<p>Wat komt aan bod?</p><ul><li>AI inzetten bij het verwerken en analyseren van data</li><li>Van data naar bruikbare inzichten en concrete acties</li><li>Repetitieve datataken vereenvoudigen en automatiseren</li><li>AI gebruiken om efficiëntere workflows op te zetten</li><li>Concrete toepassingen die je kunt vertalen naar je eigen werk</li></ul><p>Na deze webinar heb je een duidelijker beeld van hoe AI en databeheer elkaar kunnen versterken. Je ontdekt welke toepassingen vandaag al mogelijk zijn en krijgt concrete ideeën en handvatten om ermee aan de slag te gaan in je eigen werk. Je hoeft daarvoor geen technische voorkennis te hebben. We vertrekken vanuit herkenbare datataken en focussen op praktische toepassingen.</p>]]>",
+    "description_extrainfo": "<![CDATA[<p><strong>Voor wie?</strong> Deze webinar is interessant voor professionals die in hun dagelijkse werk met data en informatie aan de slag gaan. Of je nu werkt in zorg, onderwijs, HR, marketing, finance of operations: sterke datavaardigheden helpen je om efficiënter te werken en beter onderbouwde beslissingen te nemen. De webinar is toegankelijk voor zowel professionals die hun eerste stappen zetten met data als voor wie al ervaring heeft met dataverwerking.</p><p><strong>Docent:</strong> Dirk Leemans is docent en expert in data science, databanken en data-automatisering. Hij is coördinator en docent van het postgraduaat Databeheer aan KdG Academy en verbonden aan de Duale Hochschule Baden-Württemberg Mannheim.</p><p><strong>Praktisch:</strong> dinsdag 15 september 2026 van 12.00 tot 13.00 u., online interactieve webinar. Gratis deelname.</p>]]>",
+    "job_function_category": 820,
+    "esco_category_code": 2511,
+    "nacebel_sector": "62.02",
+    "required_knowledge": "Geen voorkennis vereist.",
+    "government_subsidy": "",
+    "location_and_date": [
+      {
+        "date_start": "2026-09-15",
+        "date_end": "2026-09-15",
+        "hours": "12.00 - 13.00 u.",
+        "location_name": "Online, interactieve webinar",
+        "location_address": "",
+        "location_zip": ""
       }
     ]
   }
