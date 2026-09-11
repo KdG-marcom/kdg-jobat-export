@@ -1167,7 +1167,7 @@
     "job_function_category": 763,
     "esco_category_code": "2310",
     "nacebel_sector": "72.19",
-    "price": null,
+    "price": 0.0,
     "government_subsidy": "",
     "skills": "Duurzame procestechnologie, Chemische procesoptimalisatie, R&D-samenwerking, Emissiemetingen, Voertuigdata-analyse",
     "audience": "Bedrijfsleven, Hoger onderwijs, Wetenschappers",
