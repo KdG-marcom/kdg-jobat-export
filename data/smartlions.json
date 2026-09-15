@@ -1840,6 +1840,69 @@
     ]
   },
   {
+    "internal_id": "van-evenement-naar-impact",
+    "title": "Van evenement naar impact",
+    "language": "NL",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/van-evenement-naar-impact?utm_source=smartlions&utm_medium=affiliate",
+    "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Management",
+    "domain_subcategory": "Evenementenbeleid en impactmeting",
+    "duration_length": 1,
+    "duration_type": "days",
+    "course_type": 1,
+    "degree_type": 0,
+    "job_title": "Evenementencoördinator, Beleidsmedewerker evenementen, Diensthoofd vrije tijd, Communicatiemedewerker lokaal bestuur, Onderzoeker",
+    "job_function_category": 900,
+    "esco_category_code": "1120",
+    "nacebel_sector": "70.22",
+    "price": null,
+    "government_subsidy": "",
+    "skills": "Impactmeting, Evenementenbeleid, Evaluatie en monitoring, Stakeholdermanagement, Beleidsontwikkeling",
+    "audience": "Event professionals",
+    "required_knowledge": "",
+    "certificate_name": "",
+    "email": "yana.avramova@kdg.be",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "description": "<p>Evenementen kunnen op verschillende manieren maatschappelijke meerwaarde creëren. Maar hoe krijg je zicht op die impact? En hoe kan je er als stad of gemeente bewust op sturen? Tijdens deze studiedag combineren we inzichten uit onderzoek met ervaringen en goede praktijken uit steden en gemeenten.</p>",
+    "description_program": "<p><strong>Hoe kan je de maatschappelijke impact van evenementen evalueren?</strong></p><p>In de voormiddag presenteren we de resultaten van ons onderzoek naar de maatschappelijke impact van evenementen, bekeken vanuit het perspectief van lokale besturen en bewoners. We gaan dieper in op wat impact is en waarom evalueren belangrijk is. Hoe kan je impact in kaart brengen en welke drempels en uitdagingen kom je daarbij tegen? Welke percepties hebben bewoners en bezoekers bij die impact en wat vinden zij daarbij belangrijk?</p><p>In een panelgesprek brengen we experts uit steden en gemeenten samen. We delen ervaringen en goede praktijken rond evalueren, maar ook over de manier waarop je de stap maakt van inzichten uit evaluatie naar beleid en praktijk.</p><p><strong>Hoe kan je de maatschappelijke impact van evenementen versterken?</strong></p><p>In de namiddag staat de praktijk centraal: welke keuzes en interventies kunnen ervoor zorgen dat evenementen meer maatschappelijke meerwaarde creëren?</p><p>Vanuit ons eigen onderzoek zoomen we onder meer in op interventies die de impact van evenementen kunnen vergroten en in het bijzonder de samenwerking met lokale handel en horeca kunnen stimuleren. Daarna verbreden we het perspectief naar andere thema's en kijken we naar het evenementenportfolio als geheel. Hoe maak je een impactvolle evenementenkalender? Hoe werk je samen met andere organisatoren en partners? Hoe veranker je impact in je beleid?</p><p>We sluiten af met een panelgesprek met steden en gemeenten die in de praktijk aan de slag gingen en hun ervaringen vertaalden naar beleid, concrete interventies en nieuwe samenwerkingen.</p>",
+    "description_extrainfo": "<p><strong>Voor wie</strong></p><ul><li>Medewerkers van lokale besturen die rond evenementenbeleid werken, evenementen organiseren of ze ondersteunen</li><li>Professionals bij organisaties die (ook) publieke evenementen organiseren voor lokale besturen</li><li>Onderzoekers</li></ul><p>…en iedereen die meer wil weten over de impact van evenementen.</p><p><strong>Nog vragen?</strong> Inhoudelijk: yana.avramova@kdg.be — Praktisch: nina.verbanck@kdg.be</p>",
+    "location_and_date": [
+      {
+        "date_start": "2027-03-08",
+        "date_end": "2027-03-08",
+        "hours": "9.30 - 16.30 u.",
+        "location_name": "KdG campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ],
+    "sessions": [
+      {
+        "date": "08/03/2027",
+        "sessionDescription": "Einddatum",
+        "sessionId": "van-evenement-naar-impact-end-2027-03-08",
+        "locationName": "KdG campus Zuid",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "08/03/2027",
+        "sessionDescription": "Startdatum",
+        "sessionId": "van-evenement-naar-impact-start-2027-03-08",
+        "locationName": "KdG campus Zuid",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
+  },
+  {
     "internal_id": "waarderend-veranderen-een-pedagogische-setting-context",
     "title": "Waarderend veranderen in een pedagogische setting of context",
     "language": "NL",
