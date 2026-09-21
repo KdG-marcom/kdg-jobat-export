@@ -183,7 +183,7 @@
     "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques",
     "location_and_date": [
       {
-        "date_start": "2026-09-22",
+        "date_start": "2026-09-21",
         "date_end": "2027-06-30",
         "hours": "Woensdagnamiddag/avond (wekelijks)",
         "location_name": "Campus Zuid (KdG)",
@@ -237,7 +237,7 @@
     "internal_id": "beleggen",
     "title": "Beleggen",
     "language": "nl",
-    "price": "513.50",
+    "price": "524.40",
     "certificate_name": "Attest micro-credential Beleggen",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "mc.beleggen@kdg.be",
@@ -278,7 +278,7 @@
     "internal_id": "buitengewoon-onderwijs",
     "title": "Buitengewoon Onderwijs",
     "language": "nl",
-    "price": "1157.00",
+    "price": "1181.40",
     "certificate_name": "Professionele bachelor-na-bachelor in het Onderwijs",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "leen.stoffels@kdg.be",
@@ -1500,7 +1500,7 @@
     "internal_id": "toegepaste-gerontologie",
     "title": "Toegepaste Gerontologie",
     "language": "nl",
-    "price": "1157.00",
+    "price": "1181.40",
     "certificate_name": "Professionele bachelor-na-bachelor in de Toegepaste Gerontologie",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
@@ -1648,7 +1648,7 @@
     "government_subsidy": "Vlaams opleidingsverlof (VOV), Opleidingscheques",
     "location_and_date": [
       {
-        "date_start": "2026-10-06",
+        "date_start": "2026-09-14",
         "date_end": "2027-11-23",
         "hours": "1 dinsdag per maand les van 9 tot 16 u.",
         "location_name": "Campus Zuid (KdG)",
@@ -1744,7 +1744,7 @@
     "internal_id": "zorgverbreding-en-remedirend-leren",
     "title": "Zorgverbreding en Remediërend Leren",
     "language": "nl",
-    "price": "1157.00",
+    "price": "1181.40",
     "certificate_name": "Professionele bachelor-na-bachelor in het Onderwijs",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "leen.stoffels@kdg.be",
