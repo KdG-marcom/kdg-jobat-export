@@ -805,6 +805,46 @@
     ]
   },
   {
+    "internal_id": "ondernemen",
+    "title": "Ondernemen",
+    "language": "nl",
+    "price": "2850.00",
+    "certificate_name": "Getuigschrift micro-credential Ondernemen",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "ondernemerscentrum@kdg.be",
+    "job_title": "Ondernemer, Zelfstandige, Startup-oprichter",
+    "skills": "Businessmodellering, Financieel plan, Pitchen, Persoonlijke branding, Netwerken, Groeiplan",
+    "audience": [
+      "Student-ondernemers en ondernemers met een bijberoep of startup die willen starten of groeien"
+    ],
+    "domain_category": "Business & Management",
+    "domain_subcategory": "Ondernemerschap",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/ondernemen?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": "1",
+    "duration_type": "years",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 4,
+    "description": "<![CDATA[<ul><li>Heb je een businessidee of al een eigen zaak? Deze micro-credential geeft je de kennis en begeleiding om te starten of te groeien.</li><li>Je werkt aan een onderbouwd businessmodel, met aandacht voor product-market fit, financieel plan en maatschappelijk verantwoord ondernemen.</li><li>Je ontwikkelt je persoonlijk leiderschap en je merk, en leert je idee overtuigend pitchen aan stakeholders.</li><li>Je bouwt een duurzaam netwerk uit via activiteiten op locaties in Antwerpen en in het Ondernemerscentrum op campus Groenplaats.</li><li>In module 4 word je persoonlijk gecoacht en stel je een ondernemers- of groeiplan op, dat je voor een jury presenteert.</li><li>Het traject bestaat uit 4 modules en 27 studiepunten; modules 1, 2 en 3 kan je ook afzonderlijk volgen.</li><li>Je leert voornamelijk online en op je eigen tempo, dus goed te combineren met een job of studie.</li><li>Je komt terecht in een community van experten en ondernemers en bouwt waardevolle contacten op.</li></ul>]]>",
+    "description_program": "<![CDATA[<p>De micro-credential is een afgebakend, samenhangend traject van 27 studiepunten, opgebouwd uit 4 modules. Modules 1, 2 en 3 kan je afzonderlijk volgen. Aan module 4 kan je alleen deelnemen als je ook voor de andere modules bent ingeschreven. Volg je het volledige traject, dan rond je het af in één academiejaar.</p><ul><li><strong>Module 1 – Businessmodel, strategie &amp; groei (9 studiepunten).</strong> Je maakt via EHBO (Eerste Hulp Bij Ondernemen) kennis met de basisbeginselen van de markteconomie en werkt daarna een onderbouwd, haalbaar businessmodel uit, met aandacht voor product-market fit en maatschappelijk verantwoord ondernemen. In de sessies 'De startende ondernemer' leer je geldstromen, een financieel plan en subsidiemogelijkheden beheren.</li><li><strong>Module 2 – Persoonlijk leiderschap &amp; branding (5 studiepunten).</strong> Je ontwikkelt je ondernemingszin en je persoonlijk merk, en leert je idee overtuigend pitchen aan verschillende stakeholders.</li><li><strong>Module 3 – Community building &amp; zichtbaarheid (3 studiepunten).</strong> Je bouwt en onderhoudt een duurzaam netwerk via activiteiten, en leert professioneel communiceren met al je stakeholders.</li><li><strong>Module 4 – Coaching &amp; groeiplan (10 studiepunten).</strong> Je stelt een ondernemers- of groeiplan op met timeline, doelstellingen en prioriteiten, wordt gecoacht op maat van je onderneming en presenteert je portfolio voor een jury.</li></ul><p>De opleiding is voornamelijk online en op eigen tempo, met ingesproken presentaties en zelfstandige opdrachten. In elke module bouw je aan een portfolio; bij het volledige traject vormen die onderdelen samen één portfolio.</p>]]>",
+    "description_extrainfo": "<![CDATA[<p><strong>Startdata.</strong> De opleiding start op dinsdag 29 september 2026. Module 3 start op dinsdag 17 november 2026, module 4 op dinsdag 2 februari 2027. Half juni presenteer je je portfolio aan de jury.</p><p><strong>Waar.</strong> Modules 1 en 2 volg je volledig online. Voor module 3 trek je naar locaties in Antwerpen, zoals Trix, Waagnatie, Antwerp Expo en Stormkop. Contactmomenten en coachingsessies vinden plaats op campus Groenplaats, in het Ondernemerscentrum. Coachings (module 3 en 4) zijn op dinsdagmiddag; in overleg met je docenten kan je ook vanop afstand deelnemen.</p><p><strong>Kostprijs.</strong> De volledige micro-credential (4 modules) komt neer op 2850 euro. Je kan je ook apart inschrijven voor modules 1, 2 en 3; het bedrag varieert per module. Bovenop de prijs komt een softwarekost van 0,33 euro per studiepunt (maximaal 20 euro). Bij inschrijving betaal je een voorschot van 139,40 euro, het resterende studiegeld volgt via factuur. Voor module 1 is een boek aanbevolen maar niet verplicht; de rest van het lesmateriaal is digitaal. Bij annulering of stopzetting na de start is er geen terugbetaling mogelijk.</p><p><strong>Toelating.</strong> Je hebt een graduaats-, bachelor- of masterdiploma; voorkennis van bedrijfsmanagement is niet nodig. Heb je geen diploma, dan ben je ook welkom als je je verder wil verdiepen in ondernemen. Je hebt een businessidee of bent al ondernemer. We vragen je een motivatiebrief te sturen naar ondernemerscentrum@kdg.be.</p>]]>",
+    "job_function_category": 901,
+    "esco_category_code": 2421,
+    "nacebel_sector": "70.22",
+    "required_knowledge": "Bachelor- of masterdiploma vereist (of toelating via intake zonder diploma)",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille",
+    "location_and_date": [
+      {
+        "date_start": "2026-09-29",
+        "date_end": "2027-06-30",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
+  },
+  {
     "internal_id": "onderwijsbevoegdheid-roomskatholieke-godsdienst-kleuteronderwijs-en-lager-onderwijs",
     "title": "Onderwijsbevoegdheid Rooms-Katholieke Godsdienst Kleuteronderwijs en Lager Onderwijs",
     "language": "nl",
@@ -1785,7 +1825,7 @@
     "internal_id": "losse-lesdagen-verpleeg-en-vroedkunde",
     "title": "Losse lesdagen verpleeg- en vroedkunde",
     "language": "nl",
-    "price": "",
+    "price": "130.00",
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
@@ -1812,7 +1852,552 @@
     "nacebel_sector": "86.90",
     "required_knowledge": "Verpleegkundige (bachelor, HBO5, gebrevetteerd of gediplomeerd) of bachelordiploma Vroedkunde.",
     "government_subsidy": "KMO-portefeuille",
-    "location_and_date": []
+    "location_and_date": [
+      {
+        "date_start": "2026-09-23",
+        "date_end": "2026-09-23",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-09-29",
+        "date_end": "2026-09-29",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-09-30",
+        "date_end": "2026-09-30",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-01",
+        "date_end": "2026-10-01",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-02",
+        "date_end": "2026-10-02",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-06",
+        "date_end": "2026-10-06",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-07",
+        "date_end": "2026-10-07",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-08",
+        "date_end": "2026-10-08",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-09",
+        "date_end": "2026-10-09",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-13",
+        "date_end": "2026-10-13",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-14",
+        "date_end": "2026-10-14",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-15",
+        "date_end": "2026-10-15",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-16",
+        "date_end": "2026-10-16",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-20",
+        "date_end": "2026-10-20",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-22",
+        "date_end": "2026-10-22",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-23",
+        "date_end": "2026-10-23",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-27",
+        "date_end": "2026-10-27",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-29",
+        "date_end": "2026-10-29",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-10-30",
+        "date_end": "2026-10-30",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-11-17",
+        "date_end": "2026-11-17",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-11-24",
+        "date_end": "2026-11-24",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-11-25",
+        "date_end": "2026-11-25",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-11-26",
+        "date_end": "2026-11-26",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-12-01",
+        "date_end": "2026-12-01",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-12-02",
+        "date_end": "2026-12-02",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-12-03",
+        "date_end": "2026-12-03",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-12-08",
+        "date_end": "2026-12-08",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-12-09",
+        "date_end": "2026-12-09",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-12-10",
+        "date_end": "2026-12-10",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-12-15",
+        "date_end": "2026-12-15",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-12-16",
+        "date_end": "2026-12-16",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2026-12-17",
+        "date_end": "2026-12-17",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-01-05",
+        "date_end": "2027-01-05",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-01-06",
+        "date_end": "2027-01-06",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-01-07",
+        "date_end": "2027-01-07",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-01-11",
+        "date_end": "2027-01-11",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-01-12",
+        "date_end": "2027-01-12",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-01-15",
+        "date_end": "2027-01-15",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-01-19",
+        "date_end": "2027-01-19",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-01-22",
+        "date_end": "2027-01-22",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-01-26",
+        "date_end": "2027-01-26",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-02-02",
+        "date_end": "2027-02-02",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-02-04",
+        "date_end": "2027-02-04",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-02-16",
+        "date_end": "2027-02-16",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-02-23",
+        "date_end": "2027-02-23",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-02-25",
+        "date_end": "2027-02-25",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-03-01",
+        "date_end": "2027-03-01",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-03-02",
+        "date_end": "2027-03-02",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-03-04",
+        "date_end": "2027-03-04",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-03-08",
+        "date_end": "2027-03-08",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-03-09",
+        "date_end": "2027-03-09",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-03-11",
+        "date_end": "2027-03-11",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-03-15",
+        "date_end": "2027-03-15",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-03-16",
+        "date_end": "2027-03-16",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-03-18",
+        "date_end": "2027-03-18",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-03-22",
+        "date_end": "2027-03-22",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-04-20",
+        "date_end": "2027-04-20",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-04-22",
+        "date_end": "2027-04-22",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-04-27",
+        "date_end": "2027-04-27",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-04-29",
+        "date_end": "2027-04-29",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-05-03",
+        "date_end": "2027-05-03",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-05-04",
+        "date_end": "2027-05-04",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-05-10",
+        "date_end": "2027-05-10",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-05-11",
+        "date_end": "2027-05-11",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-05-13",
+        "date_end": "2027-05-13",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-05-20",
+        "date_end": "2027-05-20",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-05-24",
+        "date_end": "2027-05-24",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      },
+      {
+        "date_start": "2027-05-27",
+        "date_end": "2027-05-27",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   },
   {
     "internal_id": "studiedag-seksualiteit",
