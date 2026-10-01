@@ -1089,6 +1089,69 @@
     "sessions": []
   },
   {
+    "internal_id": "ondernemen",
+    "title": "Ondernemen",
+    "language": "NL",
+    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/ondernemen?utm_source=smartlions&utm_medium=affiliate",
+    "provider": "Karel de Grote Hogeschool",
+    "domain_category": "Business & Management",
+    "domain_subcategory": "Ondernemerschap",
+    "duration_length": 1,
+    "duration_type": "years",
+    "course_type": 4,
+    "degree_type": 5,
+    "job_title": "Ondernemer, Zelfstandige, Startup-oprichter",
+    "job_function_category": 901,
+    "esco_category_code": "2421",
+    "nacebel_sector": "70.22",
+    "price": 2850.0,
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille",
+    "skills": "Businessmodellering, Financieel plan, Pitchen, Persoonlijke branding, Netwerken, Groeiplan",
+    "audience": "Student-ondernemers en ondernemers met een bijberoep of startup die willen starten of groeien",
+    "required_knowledge": "Bachelor- of masterdiploma vereist (of toelating via intake zonder diploma)",
+    "certificate_name": "Getuigschrift micro-credential Ondernemen",
+    "email": "ondernemerscentrum@kdg.be",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "description": "<ul><li>Heb je een businessidee of al een eigen zaak? Deze micro-credential geeft je de kennis en begeleiding om te starten of te groeien.</li><li>Je werkt aan een onderbouwd businessmodel, met aandacht voor product-market fit, financieel plan en maatschappelijk verantwoord ondernemen.</li><li>Je ontwikkelt je persoonlijk leiderschap en je merk, en leert je idee overtuigend pitchen aan stakeholders.</li><li>Je bouwt een duurzaam netwerk uit via activiteiten op locaties in Antwerpen en in het Ondernemerscentrum op campus Groenplaats.</li><li>In module 4 word je persoonlijk gecoacht en stel je een ondernemers- of groeiplan op, dat je voor een jury presenteert.</li><li>Het traject bestaat uit 4 modules en 27 studiepunten; modules 1, 2 en 3 kan je ook afzonderlijk volgen.</li><li>Je leert voornamelijk online en op je eigen tempo, dus goed te combineren met een job of studie.</li><li>Je komt terecht in een community van experten en ondernemers en bouwt waardevolle contacten op.</li></ul>",
+    "description_program": "<p>De micro-credential is een afgebakend, samenhangend traject van 27 studiepunten, opgebouwd uit 4 modules. Modules 1, 2 en 3 kan je afzonderlijk volgen. Aan module 4 kan je alleen deelnemen als je ook voor de andere modules bent ingeschreven. Volg je het volledige traject, dan rond je het af in één academiejaar.</p><ul><li><strong>Module 1 – Businessmodel, strategie &amp; groei (9 studiepunten).</strong> Je maakt via EHBO (Eerste Hulp Bij Ondernemen) kennis met de basisbeginselen van de markteconomie en werkt daarna een onderbouwd, haalbaar businessmodel uit, met aandacht voor product-market fit en maatschappelijk verantwoord ondernemen. In de sessies 'De startende ondernemer' leer je geldstromen, een financieel plan en subsidiemogelijkheden beheren.</li><li><strong>Module 2 – Persoonlijk leiderschap &amp; branding (5 studiepunten).</strong> Je ontwikkelt je ondernemingszin en je persoonlijk merk, en leert je idee overtuigend pitchen aan verschillende stakeholders.</li><li><strong>Module 3 – Community building &amp; zichtbaarheid (3 studiepunten).</strong> Je bouwt en onderhoudt een duurzaam netwerk via activiteiten, en leert professioneel communiceren met al je stakeholders.</li><li><strong>Module 4 – Coaching &amp; groeiplan (10 studiepunten).</strong> Je stelt een ondernemers- of groeiplan op met timeline, doelstellingen en prioriteiten, wordt gecoacht op maat van je onderneming en presenteert je portfolio voor een jury.</li></ul><p>De opleiding is voornamelijk online en op eigen tempo, met ingesproken presentaties en zelfstandige opdrachten. In elke module bouw je aan een portfolio; bij het volledige traject vormen die onderdelen samen één portfolio.</p>",
+    "description_extrainfo": "<p><strong>Startdata.</strong> De opleiding start op dinsdag 29 september 2026. Module 3 start op dinsdag 17 november 2026, module 4 op dinsdag 2 februari 2027. Half juni presenteer je je portfolio aan de jury.</p><p><strong>Waar.</strong> Modules 1 en 2 volg je volledig online. Voor module 3 trek je naar locaties in Antwerpen, zoals Trix, Waagnatie, Antwerp Expo en Stormkop. Contactmomenten en coachingsessies vinden plaats op campus Groenplaats, in het Ondernemerscentrum. Coachings (module 3 en 4) zijn op dinsdagmiddag; in overleg met je docenten kan je ook vanop afstand deelnemen.</p><p><strong>Kostprijs.</strong> De volledige micro-credential (4 modules) komt neer op 2850 euro. Je kan je ook apart inschrijven voor modules 1, 2 en 3; het bedrag varieert per module. Bovenop de prijs komt een softwarekost van 0,33 euro per studiepunt (maximaal 20 euro). Bij inschrijving betaal je een voorschot van 139,40 euro, het resterende studiegeld volgt via factuur. Voor module 1 is een boek aanbevolen maar niet verplicht; de rest van het lesmateriaal is digitaal. Bij annulering of stopzetting na de start is er geen terugbetaling mogelijk.</p><p><strong>Toelating.</strong> Je hebt een graduaats-, bachelor- of masterdiploma; voorkennis van bedrijfsmanagement is niet nodig. Heb je geen diploma, dan ben je ook welkom als je je verder wil verdiepen in ondernemen. Je hebt een businessidee of bent al ondernemer. We vragen je een motivatiebrief te sturen naar ondernemerscentrum@kdg.be.</p>",
+    "location_and_date": [
+      {
+        "date_start": "2026-09-29",
+        "date_end": "2027-06-30",
+        "hours": "",
+        "location_name": "",
+        "location_address": "",
+        "location_zip": "",
+        "location_city": ""
+      }
+    ],
+    "sessions": [
+      {
+        "date": "29/09/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "ondernemen-start-2026-09-29",
+        "locationName": "",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      },
+      {
+        "date": "30/06/2027",
+        "sessionDescription": "Einddatum",
+        "sessionId": "ondernemen-end-2027-06-30",
+        "locationName": "",
+        "address": "",
+        "zipCode": "",
+        "city": "",
+        "startTime": "",
+        "endTime": ""
+      }
+    ]
+  },
+  {
     "internal_id": "open-lab-dag-2026",
     "title": "Open Lab dag 2026",
     "language": "NL",
