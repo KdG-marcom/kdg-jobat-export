@@ -1854,544 +1854,8 @@
     "government_subsidy": "KMO-portefeuille",
     "location_and_date": [
       {
-        "date_start": "2026-09-23",
-        "date_end": "2026-09-23",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-09-29",
-        "date_end": "2026-09-29",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-09-30",
-        "date_end": "2026-09-30",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-01",
-        "date_end": "2026-10-01",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-02",
-        "date_end": "2026-10-02",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-06",
-        "date_end": "2026-10-06",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-07",
-        "date_end": "2026-10-07",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-08",
-        "date_end": "2026-10-08",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-09",
-        "date_end": "2026-10-09",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-13",
-        "date_end": "2026-10-13",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-14",
-        "date_end": "2026-10-14",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-15",
-        "date_end": "2026-10-15",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-16",
-        "date_end": "2026-10-16",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-20",
-        "date_end": "2026-10-20",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-22",
-        "date_end": "2026-10-22",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-23",
-        "date_end": "2026-10-23",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-27",
-        "date_end": "2026-10-27",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-29",
-        "date_end": "2026-10-29",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-10-30",
-        "date_end": "2026-10-30",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-11-17",
-        "date_end": "2026-11-17",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-11-24",
-        "date_end": "2026-11-24",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-11-25",
-        "date_end": "2026-11-25",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-11-26",
-        "date_end": "2026-11-26",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-12-01",
-        "date_end": "2026-12-01",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-12-02",
-        "date_end": "2026-12-02",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-12-03",
-        "date_end": "2026-12-03",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-12-08",
-        "date_end": "2026-12-08",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-12-09",
-        "date_end": "2026-12-09",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-12-10",
-        "date_end": "2026-12-10",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-12-15",
-        "date_end": "2026-12-15",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-12-16",
-        "date_end": "2026-12-16",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2026-12-17",
-        "date_end": "2026-12-17",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-01-05",
-        "date_end": "2027-01-05",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-01-06",
-        "date_end": "2027-01-06",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-01-07",
-        "date_end": "2027-01-07",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-01-11",
-        "date_end": "2027-01-11",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-01-12",
-        "date_end": "2027-01-12",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-01-15",
-        "date_end": "2027-01-15",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-01-19",
-        "date_end": "2027-01-19",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-01-22",
-        "date_end": "2027-01-22",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-01-26",
-        "date_end": "2027-01-26",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-02-02",
-        "date_end": "2027-02-02",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-02-04",
-        "date_end": "2027-02-04",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-02-16",
-        "date_end": "2027-02-16",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-02-23",
-        "date_end": "2027-02-23",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-02-25",
-        "date_end": "2027-02-25",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-03-01",
-        "date_end": "2027-03-01",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-03-02",
-        "date_end": "2027-03-02",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-03-04",
-        "date_end": "2027-03-04",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-03-08",
-        "date_end": "2027-03-08",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-03-09",
-        "date_end": "2027-03-09",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-03-11",
-        "date_end": "2027-03-11",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-03-15",
-        "date_end": "2027-03-15",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-03-16",
-        "date_end": "2027-03-16",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-03-18",
-        "date_end": "2027-03-18",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-03-22",
-        "date_end": "2027-03-22",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-04-20",
-        "date_end": "2027-04-20",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-04-22",
-        "date_end": "2027-04-22",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-04-27",
-        "date_end": "2027-04-27",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-04-29",
-        "date_end": "2027-04-29",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-05-03",
-        "date_end": "2027-05-03",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-05-04",
-        "date_end": "2027-05-04",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-05-10",
-        "date_end": "2027-05-10",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-05-11",
-        "date_end": "2027-05-11",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-05-13",
-        "date_end": "2027-05-13",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-05-20",
-        "date_end": "2027-05-20",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-05-24",
-        "date_end": "2027-05-24",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-05-27",
-        "date_end": "2027-05-27",
+        "date_start": "2026-09-01",
+        "date_end": "2027-08-31",
         "hours": "",
         "location_name": "",
         "location_address": "",
@@ -2517,6 +1981,37 @@
         "location_city": "Antwerpen"
       }
     ]
+  },
+  {
+    "internal_id": "vroedvrouw-eerste-lijn",
+    "title": "Vroedvrouw in eerste lijn",
+    "language": "nl",
+    "price": "65.00",
+    "certificate_name": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "info.vroedkunde@kdg.be",
+    "job_title": "Vroedvrouw, Zelfstandige vroedvrouw, Kraamverzorgende, Verpleegkundige",
+    "skills": "Postnatale zorg, Borstvoedingsbegeleiding, Wondzorg, Mentale ondersteuning, Kennis rechten en plichten",
+    "audience": [
+      "Vroedvrouwen"
+    ],
+    "domain_category": "Vroedkunde",
+    "domain_subcategory": "Postnatale zorg in de eerste lijn",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/vroedvrouw-eerste-lijn?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 0,
+    "duration_length": "1",
+    "duration_type": "days",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 2,
+    "description": "<![CDATA[<ul><li>Mentale moeilijkheden in de perinatale periode is voor velen nog steeds een taboe. Hoe kunnen wij als vroedvrouw de moeilijkheden herkennen en gericht doorverwijzen indien nodig?</li><li>Hoe maak jij als vroedvrouw seksualiteit in de perinatale periode bespreekbaar?</li></ul><p>Tijdens de namiddag: 4 sessies: Wondzorg postpartum; Overschakelen van borst naar fles; Allergenen en borstvoeding; Rechten en plichten in de postpartum periode als zorgverlener.</p>]]>",
+    "description_program": "<![CDATA[<ul><li>8.45 u.: Onthaal en registratie</li><li>09.00 u.: Seksualiteit in het peripartum</li><li>10.30 u.: Pauze</li><li>10.50 u.: Mentale moeilijkheden in de perinatale periode</li><li>12.10 u.: Lunch</li><li>13 u.: Wondzorg postpartum</li><li>13.45 u.: Overschakelen van borst naar fles</li><li>14.30 u.: Pauze</li><li>14.50 u.: Allergenen en borstvoeding</li><li>15.20 u.: Rechten en plichten in de postpartum periode als zorgverlener</li><li>16.45 u.: Slotbeschouwing en evaluatie</li></ul>]]>",
+    "description_extrainfo": "<![CDATA[<p>Op maat: deze vorming in jouw organisatie? Duurtijd, aantal deelnemers en prijs samen te bepalen. Mail sven.desmet@kdg.be of vul het formulier in.</p>]]>",
+    "job_function_category": 503,
+    "esco_category_code": 2221,
+    "nacebel_sector": "86.90",
+    "required_knowledge": "",
+    "government_subsidy": "",
+    "location_and_date": []
   },
   {
     "internal_id": "frans-voor-heterogene-klasgroepen-en-ex-okan-leerlingen",
@@ -3543,26 +3038,26 @@
     "government_subsidy": "",
     "location_and_date": [
       {
-        "date_start": "2026-10-13",
-        "date_end": "2026-10-13",
-        "hours": "9 u. tot 16 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2026-10-27",
-        "date_end": "2026-10-27",
-        "hours": "9 u. tot 16 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
         "date_start": "2026-11-24",
         "date_end": "2026-11-24",
+        "hours": "9 u. tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      },
+      {
+        "date_start": "2026-12-08",
+        "date_end": "2026-12-08",
+        "hours": "9 u. tot 16 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      },
+      {
+        "date_start": "2027-01-05",
+        "date_end": "2027-01-05",
         "hours": "9 u. tot 16 u.",
         "location_name": "Campus Zuid",
         "location_address": "Brusselstraat 45",
@@ -5775,8 +5270,8 @@
     "government_subsidy": "",
     "location_and_date": [
       {
-        "date_start": "2026-10-13",
-        "date_end": "2026-10-13",
+        "date_start": "2026-11-24",
+        "date_end": "2026-11-24",
         "hours": "9 u. tot 16 u.",
         "location_name": "Campus Zuid",
         "location_address": "Brusselstraat 45",
@@ -5851,8 +5346,8 @@
     "government_subsidy": "",
     "location_and_date": [
       {
-        "date_start": "2026-11-24",
-        "date_end": "2026-11-24",
+        "date_start": "2027-01-05",
+        "date_end": "2027-01-05",
         "hours": "9 u. tot 16 u.",
         "location_name": "Campus Zuid",
         "location_address": "Brusselstraat 45",
@@ -6012,8 +5507,8 @@
     "government_subsidy": "",
     "location_and_date": [
       {
-        "date_start": "2026-10-27",
-        "date_end": "2026-10-27",
+        "date_start": "2026-12-08",
+        "date_end": "2026-12-08",
         "hours": "9 u. tot 16 u.",
         "location_name": "Campus Zuid",
         "location_address": "Brusselstraat 45",
@@ -6292,56 +5787,12 @@
     "government_subsidy": "",
     "location_and_date": [
       {
-        "date_start": "2026-10-01",
-        "date_end": "2026-10-01",
-        "hours": "9.00 tot 16.00 u. (alle lerarenopleidingen)",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2026-10-14",
-        "date_end": "2026-10-14",
-        "hours": "9.00 tot 11.30 u. (kleuter- en lager onderwijs)",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2026-10-14",
-        "date_end": "2026-10-14",
-        "hours": "13.00 tot 15.00 u. (secundair onderwijs)",
+        "date_start": "2026-09-15",
+        "date_end": "2027-06-30",
+        "hours": "Instappen kan op elk moment",
         "location_name": "Online",
         "location_address": "",
         "location_zip": ""
-      },
-      {
-        "date_start": "2027-02-04",
-        "date_end": "2027-02-04",
-        "hours": "9.00 tot 16.00 u. (alle lerarenopleidingen)",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-17",
-        "date_end": "2027-02-17",
-        "hours": "13.00 tot 15.00 u. (secundair onderwijs)",
-        "location_name": "Online",
-        "location_address": "",
-        "location_zip": ""
-      },
-      {
-        "date_start": "2027-02-25",
-        "date_end": "2027-02-25",
-        "hours": "13.30 tot 16.00 u. (kleuter- en lager onderwijs)",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
       }
     ]
   },
@@ -6506,15 +5957,6 @@
     "required_knowledge": "",
     "government_subsidy": "",
     "location_and_date": [
-      {
-        "date_start": "2026-10-13",
-        "date_end": "2026-10-13",
-        "hours": "9.00 tot 15.30 u.",
-        "location_name": "KdG Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
       {
         "date_start": "2027-04-13",
         "date_end": "2027-04-13",
