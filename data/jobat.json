@@ -1064,7 +1064,7 @@
     ],
     "domain_category": "Wetenschap & Technologie",
     "domain_subcategory": "Biotechnologie",
-    "webaddress": "https://www.kdg.be/en/programmes/advanced-therapies-training-program?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/en/programmes/pipetting-cell-counting-and-cell-culture?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": "6",
     "duration_type": "days",
@@ -7272,48 +7272,6 @@
     "required_knowledge": "",
     "government_subsidy": "",
     "location_and_date": []
-  },
-  {
-    "internal_id": "de-waarde-van-sociaal-werk-zichtbaar-maken",
-    "title": "De waarde van sociaal werk zichtbaar maken",
-    "language": "nl",
-    "price": "",
-    "certificate_name": "",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "elise.degroot@kdg.be",
-    "job_title": "Sociaal werker, Beleidsmedewerker, Kwaliteitsmedewerker, Projectcoördinator, Onderzoeker",
-    "skills": "Impactevaluatie, Monitoring, Verantwoording, Praktijkontwikkeling",
-    "audience": [
-      "Sociale sector",
-      "Hulpverlening"
-    ],
-    "domain_category": "Sociaal werk & welzijn",
-    "domain_subcategory": "Impactmeting",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/de-waarde-van-sociaal-werk-zichtbaar-maken?utm_source=jobat&utm_medium=affiliate",
-    "degree_type": 0,
-    "duration_length": "",
-    "duration_type": "",
-    "provider": "Karel de Grote Hogeschool",
-    "course_type": 1,
-    "description": "<![CDATA[<p>Hoe toon je de impact van sociaal werk aan zonder de rijkdom van de praktijk te verliezen? Hoe maak je zichtbaar wat vaak moeilijk te meten lijkt: vertrouwen, empowerment, relationele steun of andere essentiële dimensies?</p><p>Tijdens deze studievoormiddag neemt het Onderzoekscentrum Sociale Inclusie je mee in een verhaal over hoe impactevaluatie concreet, bruikbaar en praktijkgericht kan worden ingezet. Zowel in functie van verantwoorden maar ook, en vooral, als een manier om beter te begrijpen wat sociaalwerkpraktijken bijdragen, voor wie, hoe en onder welke voorwaarden.</p><p>Verwacht inspirerende inzichten, concrete handvatten en interactieve workshops voor iedereen die de waarde van sociaal werk overtuigend zichtbaar wil maken.</p>]]>",
-    "description_program": "<![CDATA[]]>",
-    "description_extrainfo": "<![CDATA[<p>Voor professionals, beleidsmakers, leidinggevenden, onderzoekers, kwaliteitsmedewerkers, projectcoördinatoren en praktijkontwikkelaars die bezig zijn met impact, evaluatie, verantwoording of praktijkontwikkeling in sociaal werk en brede sociale inclusie.</p>]]>",
-    "job_function_category": 724,
-    "esco_category_code": 2635,
-    "nacebel_sector": "88.99",
-    "required_knowledge": "",
-    "government_subsidy": "",
-    "location_and_date": [
-      {
-        "date_start": "2026-11-24",
-        "date_end": "2026-11-24",
-        "hours": "",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      }
-    ]
   },
   {
     "internal_id": "aantrekkelijk-werkgeverschap-onderwijs-0",
