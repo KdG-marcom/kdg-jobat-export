@@ -1825,7 +1825,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
-    "job_title": "Verpleegkundige, Vroedvrouw, Zorgkundige, HBO5-verpleegkundige",
+    "job_title": [
+      "Verpleegkundige",
+      "Vroedvrouw",
+      "Zorgkundige",
+      "HBO5-verpleegkundige"
+    ],
     "skills": "Klinisch redeneren, Specialistische zorgverlening, Levenslang leren, Evidencebased werken",
     "audience": [
       "Verpleegkundigen",
@@ -1867,7 +1872,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Verpleegkundige, Zorgkundige, Begeleider gehandicaptenzorg, Ouderenzorgmedewerker, Hulpverlener",
+    "job_title": [
+      "Verpleegkundige",
+      "Zorgkundige",
+      "Begeleider gehandicaptenzorg",
+      "Ouderenzorgmedewerker",
+      "Hulpverlener"
+    ],
     "skills": "Seksualiteit bespreekbaar maken, Communicatievaardigheden, Omgaan met intimiteit in de zorg, Ethisch handelen",
     "audience": [
       "Buitengewoon onderwijs",
@@ -1914,7 +1925,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "liesbeth.kustermans@kdg.be",
-    "job_title": "Kinderbegeleider, Kinderverzorger, Zorgleerkracht, Ondersteuner onderwijs",
+    "job_title": [
+      "Kinderbegeleider",
+      "Kinderverzorger",
+      "Zorgleerkracht",
+      "Ondersteuner onderwijs"
+    ],
     "skills": "Onderwijsdoelen begrijpen, Samenwerken met leerkrachten, Klasondersteuning, Zorg voor jonge kinderen",
     "audience": [
       "Buitengewoon onderwijs",
@@ -1986,7 +2002,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
-    "job_title": "Vroedvrouw, Zelfstandige vroedvrouw, Kraamverzorgende, Verpleegkundige",
+    "job_title": [
+      "Vroedvrouw",
+      "Zelfstandige vroedvrouw",
+      "Kraamverzorgende",
+      "Verpleegkundige"
+    ],
     "skills": "Postnatale zorg, Borstvoedingsbegeleiding, Wondzorg, Mentale ondersteuning, Kennis rechten en plichten",
     "audience": [
       "Vroedvrouwen"
@@ -2017,7 +2038,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "joelle.verelst@kdg.be",
-    "job_title": "Leerkracht Frans, OKAN-leerkracht, Leerkracht secundair onderwijs, Beleidsmedewerker onderwijs",
+    "job_title": [
+      "Leerkracht Frans",
+      "OKAN-leerkracht",
+      "Leerkracht secundair onderwijs",
+      "Beleidsmedewerker onderwijs"
+    ],
     "skills": "Differentiëren in heterogene klasgroepen, Frans lesgeven aan taalzwakke leerlingen, Lesmateriaal ontwikkelen, NT2-didactiek, Omgaan met diversiteit",
     "audience": [
       "Hoger onderwijs",
@@ -2068,7 +2094,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Zorgkundige, Verpleegkundige, Leerkracht zorgopleiding, Ouderenzorgmedewerker",
+    "job_title": [
+      "Zorgkundige",
+      "Verpleegkundige",
+      "Leerkracht zorgopleiding",
+      "Ouderenzorgmedewerker"
+    ],
     "skills": "Verpleegkundige handelingen, Anatomie, Juridische kennis zorg, Communicatievaardigheden",
     "audience": [
       "Ouderenzorg",
@@ -2101,7 +2132,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Startende leerkracht, Kleuterleerkracht, Leerkracht lager onderwijs, Leerkracht secundair onderwijs",
+    "job_title": [
+      "Startende leerkracht",
+      "Kleuterleerkracht",
+      "Leerkracht lager onderwijs",
+      "Leerkracht secundair onderwijs"
+    ],
     "skills": "Klasmanagement, Zelfzorg en veerkracht, Didactiek, Omgaan met werkdruk, Reflectie",
     "audience": [
       "Buitengewoon onderwijs",
@@ -2164,7 +2200,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Aanvangsbegeleider, Starterscoach, Mentor, Leerkracht, Beleidsondersteuner onderwijs",
+    "job_title": [
+      "Aanvangsbegeleider",
+      "Starterscoach",
+      "Mentor",
+      "Leerkracht",
+      "Beleidsondersteuner onderwijs"
+    ],
     "skills": "Aanvangsbegeleiding, Coachen, Mentoring, Groeigericht begeleiden, Professionaliseringsbeleid",
     "audience": [
       "Buitengewoon onderwijs",
@@ -2254,7 +2296,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
-    "job_title": "Verpleegkundige, Vroedvrouw, Spoedverpleegkundige, Wondzorgverpleegkundige",
+    "job_title": [
+      "Verpleegkundige",
+      "Vroedvrouw",
+      "Spoedverpleegkundige",
+      "Wondzorgverpleegkundige"
+    ],
     "skills": "Cutane hechtingen, Hechttechnieken, Wondzorg, Materiaalgebruik, Patiëntveiligheid",
     "audience": [
       "Verpleegkundigen",
@@ -2377,7 +2424,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
-    "job_title": "Kinderverpleegkundige, Pediatrisch verpleegkundige, Kinderverzorgster, Opvoeder, Begeleider",
+    "job_title": [
+      "Kinderverpleegkundige",
+      "Pediatrisch verpleegkundige",
+      "Kinderverzorgster",
+      "Opvoeder",
+      "Begeleider"
+    ],
     "skills": "Emotiecoaching, Emoties benoemen, Grenzen stellen, Stresssignalen herkennen, Kindgerichte communicatie, Zelfregulatie",
     "audience": [
       "Jeugdzorg",
@@ -2429,7 +2482,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
-    "job_title": "Hulpverlener, Verpleegkundige, Zorgkundige, Sociaal werker, Vertrouwenspersoon",
+    "job_title": [
+      "Hulpverlener",
+      "Verpleegkundige",
+      "Zorgkundige",
+      "Sociaal werker",
+      "Vertrouwenspersoon"
+    ],
     "skills": "Omgaan met onmacht, Veerkracht, Zelfzorg, RESPECT-model, Positieve psychologie, Reflectie",
     "audience": [
       "Hulpverlening",
@@ -2485,7 +2544,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
-    "job_title": "Kinderverpleegkundige, Pediatrisch verpleegkundige, Spoedverpleegkundige, Kinderverzorgster, Begeleider",
+    "job_title": [
+      "Kinderverpleegkundige",
+      "Pediatrisch verpleegkundige",
+      "Spoedverpleegkundige",
+      "Kinderverzorgster",
+      "Begeleider"
+    ],
     "skills": "Emotiecoaching, Pijnmanagement, Kindgerichte communicatie, Afleidingstechnieken, Grenzen stellen",
     "audience": [
       "Jeugdzorg",
@@ -2537,7 +2602,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.verbanck@kdg.be",
-    "job_title": "Maatschappelijk werker, Hulpverlener, Sociaal werker, Begeleider",
+    "job_title": [
+      "Maatschappelijk werker",
+      "Hulpverlener",
+      "Sociaal werker",
+      "Begeleider"
+    ],
     "skills": "Krachtgericht werken, Dialoogvaardigheden, Armoedebewust handelen, Casusbespreking, Reflexief bevragen",
     "audience": [
       "Hulpverlening",
@@ -2569,7 +2639,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Leerkracht buitengewoon onderwijs, Kleuterleider, Pedagogisch medewerker kinderopvang, Paramedicus, Zorgleerkracht",
+    "job_title": [
+      "Leerkracht buitengewoon onderwijs",
+      "Kleuterleider",
+      "Pedagogisch medewerker kinderopvang",
+      "Paramedicus",
+      "Zorgleerkracht"
+    ],
     "skills": "Bewegingspedagogiek, Lichaamsbewustzijn, Relationeel werken, Ontwikkelingsstimulering, Inclusief werken",
     "audience": [
       "Buitengewoon onderwijs",
@@ -2618,7 +2694,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "caroline.heyselberghs@kdg.be",
-    "job_title": "Startende leerkracht, Zij-instromer onderwijs, LIO-student, Leerkracht kleuteronderwijs, Leerkracht lager onderwijs",
+    "job_title": [
+      "Startende leerkracht",
+      "Zij-instromer onderwijs",
+      "LIO-student",
+      "Leerkracht kleuteronderwijs",
+      "Leerkracht lager onderwijs"
+    ],
     "skills": "Klasmanagement, Algemene didactiek, Leerplannen, Lesdoelen, Intervisie, Evalueren",
     "audience": [
       "Kleuteronderwijs",
@@ -2781,7 +2863,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Sociaal werker, Orthopedagoog, Toegepast psycholoog, Hulpverlener, Jeugdzorgwerker",
+    "job_title": [
+      "Sociaal werker",
+      "Orthopedagoog",
+      "Toegepast psycholoog",
+      "Hulpverlener",
+      "Jeugdzorgwerker"
+    ],
     "skills": "Gespreksvoering, Signaaldetectie, Omgaan met verontrusting, Oudergesprekken, Kindgericht communiceren",
     "audience": [
       "Buitengewoon onderwijs",
@@ -2838,7 +2926,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "joelle.verelst@kdg.be",
-    "job_title": "Leerkracht Frans, Leerkracht Spaans, Leerkracht moderne vreemde talen, Leerkracht secundair onderwijs",
+    "job_title": [
+      "Leerkracht Frans",
+      "Leerkracht Spaans",
+      "Leerkracht moderne vreemde talen",
+      "Leerkracht secundair onderwijs"
+    ],
     "skills": "Evalueren, Vreemdetalendidactiek, Formatieve evaluatie, Feedbackstrategieën, Taalverwerving",
     "audience": [
       "Buitengewoon onderwijs",
@@ -2881,7 +2974,13 @@
     "certificate_name": "Erkend certificaat Sherborne Vereniging Belgie",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Leerkracht buitengewoon onderwijs, Kinderbegeleider, Kinesitherapeut, Ergotherapeut, Jeugdhulpverlener",
+    "job_title": [
+      "Leerkracht buitengewoon onderwijs",
+      "Kinderbegeleider",
+      "Kinesitherapeut",
+      "Ergotherapeut",
+      "Jeugdhulpverlener"
+    ],
     "skills": "Sherborne bewegingspedagogiek, Bewegingsobservatie, Empathische begeleiding, Bewegingssessies plannen, Lichaamsbewustzijn stimuleren",
     "audience": [
       "Buitengewoon onderwijs",
@@ -2930,7 +3029,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "wim.tops@kdg.be",
-    "job_title": "Zorgleerkracht, Zorgcoördinator, Leerlingenbegeleider, Leerondersteuner, CLB-medewerker",
+    "job_title": [
+      "Zorgleerkracht",
+      "Zorgcoördinator",
+      "Leerlingenbegeleider",
+      "Leerondersteuner",
+      "CLB-medewerker"
+    ],
     "skills": "Gedragsanalyse, Klasmanagement, Omgaan met probleemgedrag, Leerlingenbegeleiding, Coaching",
     "audience": [
       "Lager onderwijs",
@@ -3008,7 +3113,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "cathy.crabbe@kdg.be",
-    "job_title": "Kleuterleerkracht, Leerkracht lager onderwijs, Zorgleerkracht, Ergotherapeut",
+    "job_title": [
+      "Kleuterleerkracht",
+      "Leerkracht lager onderwijs",
+      "Zorgleerkracht",
+      "Ergotherapeut"
+    ],
     "skills": "Schrijfmotoriek stimuleren, Didactiek schrijfonderwijs, Differentiatie, Motiveren",
     "audience": [
       "Buitengewoon onderwijs",
@@ -3070,7 +3180,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
-    "job_title": "Vroedvrouw, Verpleegkundige, Student vroedkunde",
+    "job_title": [
+      "Vroedvrouw",
+      "Verpleegkundige",
+      "Student vroedkunde"
+    ],
     "skills": "Seksuele gezondheid bespreken, Communicatievaardigheden, Klinische kennis, Patiëntbegeleiding",
     "audience": [
       "Verpleegkundigen",
@@ -3112,7 +3226,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Startende leerkracht secundair onderwijs, Zij-instromer onderwijs, Leerkracht secundair onderwijs, Aanvangsbegeleider",
+    "job_title": [
+      "Startende leerkracht secundair onderwijs",
+      "Zij-instromer onderwijs",
+      "Leerkracht secundair onderwijs",
+      "Aanvangsbegeleider"
+    ],
     "skills": "Effectieve didactiek, Klasmanagement, Leerbevorderend werken, Evalueren, Formatief evalueren, Cultureel responsief lesgeven",
     "audience": [
       "Buitengewoon onderwijs",
@@ -3147,7 +3266,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Leerkracht lager onderwijs, Leerkracht buitengewoon onderwijs, Jeugdwerker, Begeleider jeugdzorg, Sociaal werker",
+    "job_title": [
+      "Leerkracht lager onderwijs",
+      "Leerkracht buitengewoon onderwijs",
+      "Jeugdwerker",
+      "Begeleider jeugdzorg",
+      "Sociaal werker"
+    ],
     "skills": "Outdoor education, Buiten leren, Bewegend leren, Leeromgeving screenen, Activiteiten begeleiden",
     "audience": [
       "Buitengewoon onderwijs",
@@ -3194,7 +3319,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Leerkracht lager onderwijs, Leerkracht buitengewoon onderwijs, Kleuterleider, Zorgleerkracht",
+    "job_title": [
+      "Leerkracht lager onderwijs",
+      "Leerkracht buitengewoon onderwijs",
+      "Kleuterleider",
+      "Zorgleerkracht"
+    ],
     "skills": "Bewegend leren, Psychomotoriek, Motoriek observeren, Bewegingsactiviteiten, Klaspraktijk",
     "audience": [
       "Buitengewoon onderwijs",
@@ -3239,7 +3369,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Directeur, Beleidsmedewerker onderwijs, Schoolleider, Middenkader onderwijs",
+    "job_title": [
+      "Directeur",
+      "Beleidsmedewerker onderwijs",
+      "Schoolleider",
+      "Middenkader onderwijs"
+    ],
     "skills": "Communicatie, Assertiviteit, Empathie, Overtuigen, Feedback, Schoolcultuur",
     "audience": [
       "Buitengewoon onderwijs",
@@ -3284,7 +3419,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Kinderverpleegkundige, Spoedverpleegkundige, Consultatieverpleegkundige, Kinderverzorger",
+    "job_title": [
+      "Kinderverpleegkundige",
+      "Spoedverpleegkundige",
+      "Consultatieverpleegkundige",
+      "Kinderverzorger"
+    ],
     "skills": "Pijnbeoordeling bij kinderen, Pijnmanagement, Klinisch redeneren, Kindvriendelijke zorg",
     "audience": [
       "Kinderopvang",
@@ -3335,7 +3475,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
-    "job_title": "Maatschappelijk werker, Hulpverlener, Begeleider welzijnswerk, Opbouwwerker",
+    "job_title": [
+      "Maatschappelijk werker",
+      "Hulpverlener",
+      "Begeleider welzijnswerk",
+      "Opbouwwerker"
+    ],
     "skills": "Krachtgericht werken, Armoedesensitief handelen, Empowerment, Relatieopbouw",
     "audience": [
       "Hulpverlening",
@@ -3367,7 +3512,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
-    "job_title": "Maatschappelijk werker, Hulpverlener, Begeleider welzijnswerk",
+    "job_title": [
+      "Maatschappelijk werker",
+      "Hulpverlener",
+      "Begeleider welzijnswerk"
+    ],
     "skills": "Warm doorverwijzen, Krachtgericht werken, Samenwerken in de keten, Communicatie",
     "audience": [
       "Hulpverlening"
@@ -3398,7 +3547,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "richard.anthone@kdg.be",
-    "job_title": "Maatschappelijk werker, Hulpverlener, Teamcoach, Zorgverlener",
+    "job_title": [
+      "Maatschappelijk werker",
+      "Hulpverlener",
+      "Teamcoach",
+      "Zorgverlener"
+    ],
     "skills": "Morele oordeelsvorming, Ethisch reflecteren, Overleg in team, Besluitvorming",
     "audience": [
       "Sociale sector"
@@ -3429,7 +3583,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "stefanie.schelkens@kdg.be",
-    "job_title": "Kleuterleerkracht, Leerkracht lager onderwijs, Zorgleerkracht",
+    "job_title": [
+      "Kleuterleerkracht",
+      "Leerkracht lager onderwijs",
+      "Zorgleerkracht"
+    ],
     "skills": "Computationeel denken, Programmeren met kinderen, Digitale didactiek, Speels leren",
     "audience": [
       "Buitengewoon onderwijs",
@@ -3463,7 +3621,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "kris.devisscher@kdg.be",
-    "job_title": "Leidinggevende kinderopvang, Pedagogisch ondersteuner, Verantwoordelijke kinderopvang, Teamcoach",
+    "job_title": [
+      "Leidinggevende kinderopvang",
+      "Pedagogisch ondersteuner",
+      "Verantwoordelijke kinderopvang",
+      "Teamcoach"
+    ],
     "skills": "Groepsdynamiek, Weerstand hanteren, Veranderingsmanagement, Dialoog faciliteren, Teambegeleiding",
     "audience": [
       "Buitengewoon onderwijs",
@@ -3525,7 +3688,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Leerkracht secundair onderwijs, Leerkracht lager onderwijs, Zorgcoördinator, Beleidsmedewerker onderwijs",
+    "job_title": [
+      "Leerkracht secundair onderwijs",
+      "Leerkracht lager onderwijs",
+      "Zorgcoördinator",
+      "Beleidsmedewerker onderwijs"
+    ],
     "skills": "Feedback geven, Feedbackcultuur, Kwaliteitsverwachtingen, Rubrics, Zelfsturend leren, Reflectie",
     "audience": [
       "Hoger onderwijs",
@@ -3558,7 +3726,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
-    "job_title": "Hulpverlener, Onthaalmedewerker, Maatschappelijk werker, Sociaal werker",
+    "job_title": [
+      "Hulpverlener",
+      "Onthaalmedewerker",
+      "Maatschappelijk werker",
+      "Sociaal werker"
+    ],
     "skills": "Krachtgericht werken, Onthaal, Verbindende communicatie, Armoedebestrijding, Dialooggericht werken",
     "audience": [
       "Hulpverlening"
@@ -3589,7 +3762,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.levenslangleren.verpleegkunde@kdg.be",
-    "job_title": "Verpleegkundige, Vroedvrouw, Simulatietrainer, Zorgprofessional",
+    "job_title": [
+      "Verpleegkundige",
+      "Vroedvrouw",
+      "Simulatietrainer",
+      "Zorgprofessional"
+    ],
     "skills": "Simulatietraining, Verpleegtechnische vaardigheden, CRM-principes, Debriefing, Multidisciplinair samenwerken",
     "audience": [
       "Verpleegkundigen",
@@ -3621,7 +3799,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Kleuterleider, Leerkracht kleuteronderwijs, ICT-coördinator, Zorgleerkracht",
+    "job_title": [
+      "Kleuterleider",
+      "Leerkracht kleuteronderwijs",
+      "ICT-coördinator",
+      "Zorgleerkracht"
+    ],
     "skills": "Digibord, Digibordsoftware, Digitale spellen, Mediawijsheid, Klaspraktijk",
     "audience": [
       "Kleuteronderwijs"
@@ -3662,7 +3845,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Leerkracht, Pedagogisch begeleider, Zorgprofessional, Leidinggevende, HR-professional",
+    "job_title": [
+      "Leerkracht",
+      "Pedagogisch begeleider",
+      "Zorgprofessional",
+      "Leidinggevende",
+      "HR-professional"
+    ],
     "skills": "Actief luisteren, Vragen stellen, Empathie, Gespreksstructuur, Coachende gespreksvoering",
     "audience": [
       "Buitengewoon onderwijs",
@@ -3725,7 +3914,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info@kdg.be",
-    "job_title": "Leerkracht, Hulpverlener, Jeugdzorgbegeleider, Ouderenzorgmedewerker, Sociaal werker",
+    "job_title": [
+      "Leerkracht",
+      "Hulpverlener",
+      "Jeugdzorgbegeleider",
+      "Ouderenzorgmedewerker",
+      "Sociaal werker"
+    ],
     "skills": "Interculturele competentie, Diverssensitief handelen, Reflectie op eigen positie, Communicatie",
     "audience": [
       "Kleuteronderwijs",
@@ -3759,7 +3954,10 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Kleuterleerkracht, Zorgleerkracht",
+    "job_title": [
+      "Kleuterleerkracht",
+      "Zorgleerkracht"
+    ],
     "skills": "Differentiatie, Hoekenwerk, Werken op maat van het kind, Klasorganisatie",
     "audience": [
       "Kleuteronderwijs"
@@ -3790,7 +3988,12 @@
     "certificate_name": "Certificering",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.peeters@kdg.be",
-    "job_title": "Young professional, HR-medewerker, Teamcoach, Leidinggevende",
+    "job_title": [
+      "Young professional",
+      "HR-medewerker",
+      "Teamcoach",
+      "Leidinggevende"
+    ],
     "skills": "Loopbaanontwikkeling, Zelfsturing, Persoonlijke groei, Job happiness, Reflectie",
     "audience": [
       "Bedrijfsleven",
@@ -3822,7 +4025,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.verbanck@kdg.be",
-    "job_title": "Installateur laadpalen, Elektrotechnicus, Autohandelaar, Facility manager, Elektro-adviseur",
+    "job_title": [
+      "Installateur laadpalen",
+      "Elektrotechnicus",
+      "Autohandelaar",
+      "Facility manager",
+      "Elektro-adviseur"
+    ],
     "skills": "Laadinfrastructuur, AC- en DC-laders, AREI-regelgeving, Load balancing, Klantgericht adviseren, Datasheets interpreteren",
     "audience": [
       "Bedrijfsleven"
@@ -3853,7 +4062,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Verpleegkundige, Arts, Zorgverlener, Teamleider zorg, Spoedverpleegkundige",
+    "job_title": [
+      "Verpleegkundige",
+      "Arts",
+      "Zorgverlener",
+      "Teamleider zorg",
+      "Spoedverpleegkundige"
+    ],
     "skills": "Crisis Resource Management, Niet-technische vaardigheden, Multidisciplinaire teamwerking, Patiëntveiligheid, Simulatietraining",
     "audience": [
       "Verpleegkundigen"
@@ -3884,7 +4099,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
-    "job_title": "Leidinggevende, Verantwoordelijke, Pedagogisch ondersteuner, Teamcoach, Veranderbegeleider",
+    "job_title": [
+      "Leidinggevende",
+      "Verantwoordelijke",
+      "Pedagogisch ondersteuner",
+      "Teamcoach",
+      "Veranderbegeleider"
+    ],
     "skills": "Appreciative Inquiry, Waarderend veranderen, Veranderprocessen begeleiden, Krachtige vraagstelling, Gespreksvoering, 5D-cyclus",
     "audience": [
       "Buitengewoon onderwijs",
@@ -3937,7 +4158,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
-    "job_title": "Pedagogisch medewerker, Pedagogisch ondersteuner, Begeleider kinderopvang, Teamcoach",
+    "job_title": [
+      "Pedagogisch medewerker",
+      "Pedagogisch ondersteuner",
+      "Begeleider kinderopvang",
+      "Teamcoach"
+    ],
     "skills": "Feedback geven, Feedback ontvangen, Feedbackcultuur, Teamontwikkeling, Coachen",
     "audience": [
       "Kinderopvang",
@@ -3988,7 +4214,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bert.murawski@kdg.be",
-    "job_title": "Kleuterleerkracht, Leerkracht lager onderwijs, Zorgleerkracht",
+    "job_title": [
+      "Kleuterleerkracht",
+      "Leerkracht lager onderwijs",
+      "Zorgleerkracht"
+    ],
     "skills": "Hechtingstheorie toepassen, Verbindend werken, Omgaan met gedrag, Reflectie op rol",
     "audience": [
       "Lager onderwijs"
@@ -4019,7 +4249,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
-    "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider welzijnswerk, Opbouwwerker",
+    "job_title": [
+      "Hulpverlener",
+      "Maatschappelijk werker",
+      "Begeleider welzijnswerk",
+      "Opbouwwerker"
+    ],
     "skills": "Omgaan met onmacht, Krachtgericht werken, Zelfreflectie, Relatieopbouw",
     "audience": [
       "Hulpverlening",
@@ -4051,7 +4286,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "kris.devisscher@kdg.be",
-    "job_title": "BOA-medewerker, Verantwoordelijke kinderopvang, Pedagogisch coach, Leidinggevende opvang",
+    "job_title": [
+      "BOA-medewerker",
+      "Verantwoordelijke kinderopvang",
+      "Pedagogisch coach",
+      "Leidinggevende opvang"
+    ],
     "skills": "Toegankelijkheid vergroten, Beleid op maat, Lerend netwerk, Praktijkgericht werken",
     "audience": [
       "Kinderopvang",
@@ -4114,7 +4354,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
-    "job_title": "Kinderopvangverantwoordelijke, Pedagogisch coach, Kinderbegeleider, Organisator kinderopvang",
+    "job_title": [
+      "Kinderopvangverantwoordelijke",
+      "Pedagogisch coach",
+      "Kinderbegeleider",
+      "Organisator kinderopvang"
+    ],
     "skills": "Pedagogische coaching, Praktijkversterking, Kwaliteitsverbetering, Begeleiding op maat",
     "audience": [
       "Jeugdzorg",
@@ -4146,7 +4391,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sophie.bollen@kdg.be",
-    "job_title": "Leerkracht, Directielid, Zorgleerkracht, Beleidsondersteuner onderwijs",
+    "job_title": [
+      "Leerkracht",
+      "Directielid",
+      "Zorgleerkracht",
+      "Beleidsondersteuner onderwijs"
+    ],
     "skills": "Gendersensitief lesgeven, Genderbewustzijn, Diverssensitief handelen, Schoolbeleid",
     "audience": [
       "Kleuteronderwijs",
@@ -4179,7 +4429,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Directielid, Beleidsondersteuner, Zorgcoördinator, Teamcoach",
+    "job_title": [
+      "Directielid",
+      "Beleidsondersteuner",
+      "Zorgcoördinator",
+      "Teamcoach"
+    ],
     "skills": "Coachen bij weerstand, Gespreksvoering, Verandermanagement, Motiveren",
     "audience": [
       "Kleuteronderwijs",
@@ -4211,7 +4466,12 @@
     "certificate_name": "Attest van deelname",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "mie.debacker@kdg.be",
-    "job_title": "Kunstenaar, Ontwerper, Vormgever, Beeldend maker",
+    "job_title": [
+      "Kunstenaar",
+      "Ontwerper",
+      "Vormgever",
+      "Beeldend maker"
+    ],
     "skills": "Glasbewerking, Flameworking, Fusing, Glasblazen, Artistiek maakproces",
     "audience": [
       "Kunstenaars"
@@ -4279,7 +4539,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
-    "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider welzijnswerk",
+    "job_title": [
+      "Hulpverlener",
+      "Maatschappelijk werker",
+      "Begeleider welzijnswerk"
+    ],
     "skills": "Vertrouwensrelatie opbouwen, Armoedesensitief handelen, Krachtgericht werken, Communicatie",
     "audience": [
       "Hulpverlening"
@@ -4310,7 +4574,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Kleuterleerkracht, Onderwijzer lager onderwijs, Zorgcoordinator, Schoolteamcoach",
+    "job_title": [
+      "Kleuterleerkracht",
+      "Onderwijzer lager onderwijs",
+      "Zorgcoordinator",
+      "Schoolteamcoach"
+    ],
     "skills": "Sensitief lesgeven, Klasmanagement, Relatieopbouw met leerlingen, Teamontwikkeling, Observatie",
     "audience": [
       "Kleuteronderwijs",
@@ -4342,7 +4611,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
-    "job_title": "Vroedvrouw, Verpleegkundige, Menopauzeconsulent, Zorgverlener gezondheidszorg",
+    "job_title": [
+      "Vroedvrouw",
+      "Verpleegkundige",
+      "Menopauzeconsulent",
+      "Zorgverlener gezondheidszorg"
+    ],
     "skills": "Menopauzezorg, Evidence-based werken, Multidisciplinaire zorg, Klachtenherkenning, Culturele diversiteit in de zorg",
     "audience": [
       "Hulpverlening",
@@ -4450,7 +4724,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "goele.heselmans@kdg.be",
-    "job_title": "Kleuterleerkracht, Leerkracht buitengewoon kleuteronderwijs, Muzische leerkracht",
+    "job_title": [
+      "Kleuterleerkracht",
+      "Leerkracht buitengewoon kleuteronderwijs",
+      "Muzische leerkracht"
+    ],
     "skills": "Ukelele bespelen, Muzikale begeleiding, Liederen aanleren, Creatief muziek inzetten",
     "audience": [
       "Buitengewoon onderwijs",
@@ -4483,7 +4761,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "kris.devisscher@kdg.be",
-    "job_title": "Leidinggevende kinderopvang, Coordinator kinderopvang, Pedagogisch coach, Pedagogisch medewerker",
+    "job_title": [
+      "Leidinggevende kinderopvang",
+      "Coordinator kinderopvang",
+      "Pedagogisch coach",
+      "Pedagogisch medewerker"
+    ],
     "skills": "Verandermanagement, Waarderend veranderen, Deep democracy, Groepsprocessen begeleiden, Efficient vergaderen",
     "audience": [
       "Buitengewoon onderwijs",
@@ -4520,7 +4803,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
-    "job_title": "Kinderbegeleider, Pedagogisch coach, Verantwoordelijke buitenschoolse opvang, Leidinggevende",
+    "job_title": [
+      "Kinderbegeleider",
+      "Pedagogisch coach",
+      "Verantwoordelijke buitenschoolse opvang",
+      "Leidinggevende"
+    ],
     "skills": "Omgaan met uitdagend gedrag, Prikkelbeheer, Zorgzaam begeleiden, Preventief handelen",
     "audience": [
       "Jeugdzorg",
@@ -4552,7 +4840,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
-    "job_title": "Begeleider buitenschoolse opvang, Kinderbegeleider, Startende opvangmedewerker",
+    "job_title": [
+      "Begeleider buitenschoolse opvang",
+      "Kinderbegeleider",
+      "Startende opvangmedewerker"
+    ],
     "skills": "Basiscompetenties kinderbegeleiding, Speelbegeleiding, Veilige opvang, Communicatie",
     "audience": [
       "Jeugdzorg",
@@ -4584,7 +4876,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Leerkracht lager onderwijs, Leerkracht secundair onderwijs, STEM-leerkracht, Techniekleerkracht",
+    "job_title": [
+      "Leerkracht lager onderwijs",
+      "Leerkracht secundair onderwijs",
+      "STEM-leerkracht",
+      "Techniekleerkracht"
+    ],
     "skills": "STEM-didactiek, LEGO Education, Samenwerkingsvaardigheden, Competentieontwikkelend leren, Coachen",
     "audience": [
       "Secundair Onderwijs"
@@ -4615,7 +4912,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info@kdg.be",
-    "job_title": "Verantwoordelijke kinderopvang, Coördinator kinderopvang, Kinderbegeleider, Pedagogisch coach",
+    "job_title": [
+      "Verantwoordelijke kinderopvang",
+      "Coördinator kinderopvang",
+      "Kinderbegeleider",
+      "Pedagogisch coach"
+    ],
     "skills": "Beleidsvoerend vermogen, Kwaliteitsontwikkeling, Teamontwikkeling, Pedagogisch beleid, Organisatieontwikkeling",
     "audience": [
       "Jeugdzorg",
@@ -4647,7 +4949,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Leerkracht lager onderwijs, Zorgleerkracht, Beleidsondersteuner basisschool",
+    "job_title": [
+      "Leerkracht lager onderwijs",
+      "Zorgleerkracht",
+      "Beleidsondersteuner basisschool"
+    ],
     "skills": "Feedback geven, Feedbackcultuur, Kwaliteitsverwachtingen, Zelfsturend leren, Reflectie",
     "audience": [
       "Lager onderwijs",
@@ -4679,7 +4985,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "gaelle.vanhout@kdg.be",
-    "job_title": "Kleuterleerkracht, Leerkracht lager onderwijs, Leerkracht secundair onderwijs",
+    "job_title": [
+      "Kleuterleerkracht",
+      "Leerkracht lager onderwijs",
+      "Leerkracht secundair onderwijs"
+    ],
     "skills": "Didactisch materiaal maken, Creatief ontwerpen, Personaliseren van leermiddelen, Maaktechnologie",
     "audience": [
       "Buitengewoon onderwijs",
@@ -4713,7 +5023,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Leerkracht, Hulpverlener, Jeugdzorgbegeleider, Sociaal werker",
+    "job_title": [
+      "Leerkracht",
+      "Hulpverlener",
+      "Jeugdzorgbegeleider",
+      "Sociaal werker"
+    ],
     "skills": "Omgaan met discriminatie, Diverssensitief handelen, Supervisie, Reflectie",
     "audience": [
       "Kleuteronderwijs",
@@ -4747,7 +5062,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "natalie.vanranst@kdg.be",
-    "job_title": "Vroedvrouw, Verpleegkundige verloskunde, Zorgverlener verloskunde",
+    "job_title": [
+      "Vroedvrouw",
+      "Verpleegkundige verloskunde",
+      "Zorgverlener verloskunde"
+    ],
     "skills": "Urgentietraining, Pre-eclampsie, Levensreddend handelen, CRM-principes, Communicatie in crisis, Simulatietraining",
     "audience": [
       "Vroedvrouwen"
@@ -4788,7 +5107,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "heidi.lagast@kdg.be",
-    "job_title": "Directielid, Beleidsondersteuner, Zorgcoördinator, Teamleider",
+    "job_title": [
+      "Directielid",
+      "Beleidsondersteuner",
+      "Zorgcoördinator",
+      "Teamleider"
+    ],
     "skills": "Teamontwikkeling, Zelfsturing begeleiden, Leiderschap, Verandermanagement",
     "audience": [
       "Kleuteronderwijs",
@@ -4820,7 +5144,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
-    "job_title": "Kinderbegeleider, Pedagogisch coach, Organisator kinderopvang, Verantwoordelijke kinderopvang",
+    "job_title": [
+      "Kinderbegeleider",
+      "Pedagogisch coach",
+      "Organisator kinderopvang",
+      "Verantwoordelijke kinderopvang"
+    ],
     "skills": "Emotionele ondersteuning, Babyontwikkeling, Omgaan met huilen, MeMoQ, Pedagogische kwaliteit",
     "audience": [
       "Jeugdzorg",
@@ -4852,7 +5181,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "joris.wynants@kdg.be",
-    "job_title": "Vroedvrouw, Verpleegkundige, Menopauzeconsulent, Zorgverlener",
+    "job_title": [
+      "Vroedvrouw",
+      "Verpleegkundige",
+      "Menopauzeconsulent",
+      "Zorgverlener"
+    ],
     "skills": "Menopauzebegeleiding, Holistische zorg, Biopsychosociaal werken, Levensstijladvies, Gezondheidsbevordering",
     "audience": [
       "Hulpverlening",
@@ -4924,7 +5258,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.peeters@kdg.be",
-    "job_title": "Communicatiemedewerker, Marketeer, Zelfstandige, Leidinggevende, Consultant",
+    "job_title": [
+      "Communicatiemedewerker",
+      "Marketeer",
+      "Zelfstandige",
+      "Leidinggevende",
+      "Consultant"
+    ],
     "skills": "Personal branding, LinkedIn, Contentstrategie, Copywriting, Netwerken",
     "audience": [
       "Professionals",
@@ -4958,7 +5298,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Directeur, Beleidsmedewerker onderwijs, Schoolleider, Teamcoach, Middenkader",
+    "job_title": [
+      "Directeur",
+      "Beleidsmedewerker onderwijs",
+      "Schoolleider",
+      "Teamcoach",
+      "Middenkader"
+    ],
     "skills": "Teamcoaching, Leiderschap, Teamdynamiek, Gedeeld leiderschap, Constructieve dialoog, Schoolcultuur",
     "audience": [
       "Buitengewoon onderwijs",
@@ -4993,7 +5339,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "birgit.vanaken@kdg.be",
-    "job_title": "Directeur, Beleidsondersteuner onderwijs, Zorgcoördinator, Schoolleider",
+    "job_title": [
+      "Directeur",
+      "Beleidsondersteuner onderwijs",
+      "Zorgcoördinator",
+      "Schoolleider"
+    ],
     "skills": "Visieontwikkeling, Appreciative Inquiry, Waarderend onderzoek, Teamontwikkeling, Zorgvisie",
     "audience": [
       "Kleuteronderwijs",
@@ -5025,7 +5376,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Startende leerkracht, Zij-instromer onderwijs, Leerkracht basisonderwijs, Aanvangsbegeleider",
+    "job_title": [
+      "Startende leerkracht",
+      "Zij-instromer onderwijs",
+      "Leerkracht basisonderwijs",
+      "Aanvangsbegeleider"
+    ],
     "skills": "Klasmanagement, Effectieve didactiek, Doelgericht werken, Taalontwikkelend lesgeven, Differentiatie",
     "audience": [
       "Buitengewoon onderwijs",
@@ -5058,7 +5414,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
-    "job_title": "Kinderbegeleider, Verantwoordelijke kinderopvang, Pedagogisch coach, Leidinggevende kinderopvang",
+    "job_title": [
+      "Kinderbegeleider",
+      "Verantwoordelijke kinderopvang",
+      "Pedagogisch coach",
+      "Leidinggevende kinderopvang"
+    ],
     "skills": "Buitenspelen, Natuurbeleving, Werkvormen, Drempels verlagen, Zintuiglijke ontwikkeling",
     "audience": [
       "Jeugdzorg",
@@ -5090,7 +5451,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "natalie.vanranst@kdg.be",
-    "job_title": "Vroedvrouw, Verpleegkundige verloskunde, Zorgverlener verloskunde",
+    "job_title": [
+      "Vroedvrouw",
+      "Verpleegkundige verloskunde",
+      "Zorgverlener verloskunde"
+    ],
     "skills": "Schouderdystocie, Neonatale reanimatie, ERC-NLS-richtlijnen, Levensreddend handelen, Simulatietraining, Communicatie in crisis",
     "audience": [
       "Vroedvrouwen"
@@ -5131,7 +5496,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "joris.wynants@kdg.be",
-    "job_title": "Vroedvrouw, Verpleegkundige, Menopauzeconsulent, Zorgverlener",
+    "job_title": [
+      "Vroedvrouw",
+      "Verpleegkundige",
+      "Menopauzeconsulent",
+      "Zorgverlener"
+    ],
     "skills": "Menopauzezorg, Behandelingsmogelijkheden, Evidence-based werken, Hormonale therapie, Persoonsgerichte zorg",
     "audience": [
       "Hulpverlening",
@@ -5176,7 +5546,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.peeters@kdg.be",
-    "job_title": "Communicatiemedewerker, Marketeer, Contentmanager, Copywriter, Communicatieverantwoordelijke",
+    "job_title": [
+      "Communicatiemedewerker",
+      "Marketeer",
+      "Contentmanager",
+      "Copywriter",
+      "Communicatieverantwoordelijke"
+    ],
     "skills": "Generatieve AI, Prompt engineering, Contentcreatie, Copywriting, Visuele contentcreatie",
     "audience": [
       "Communicatiemedewerkers",
@@ -5209,7 +5585,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "birgit.vanaken@kdg.be",
-    "job_title": "Kleuterleider, Leerkracht kleuteronderwijs, Godsdienstleerkracht",
+    "job_title": [
+      "Kleuterleider",
+      "Leerkracht kleuteronderwijs",
+      "Godsdienstleerkracht"
+    ],
     "skills": "Levensbeschouwelijke groei, Zill-leerplan, Bijbelverhalen, Prentenboeken, Klaspraktijk",
     "audience": [
       "Kleuteronderwijs"
@@ -5240,7 +5620,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "cathy.crabbe@kdg.be",
-    "job_title": "Kleuterleerkracht, Leerkracht lager onderwijs, Zorgleerkracht, Ergotherapeut, Kinesist",
+    "job_title": [
+      "Kleuterleerkracht",
+      "Leerkracht lager onderwijs",
+      "Zorgleerkracht",
+      "Ergotherapeut",
+      "Kinesist"
+    ],
     "skills": "Lateralisatie stimuleren, Schrijfmotoriek, Ruimtelijk bewustzijn, Observeren, Remediëren",
     "audience": [
       "Buitengewoon onderwijs",
@@ -5284,7 +5670,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
-    "job_title": "Kinderbegeleider, Pedagogisch coach, Organisator kinderopvang, Leidinggevende opvang",
+    "job_title": [
+      "Kinderbegeleider",
+      "Pedagogisch coach",
+      "Organisator kinderopvang",
+      "Leidinggevende opvang"
+    ],
     "skills": "Duurzaam handelen, Duurzaamheidsbeleid, Bewustwording, Praktijkvertaling",
     "audience": [
       "Jeugdzorg",
@@ -5316,7 +5707,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "cathy.crabbe@kdg.be",
-    "job_title": "Kleuterleerkracht, Leerkracht lager onderwijs, Zorgleerkracht, Ergotherapeut",
+    "job_title": [
+      "Kleuterleerkracht",
+      "Leerkracht lager onderwijs",
+      "Zorgleerkracht",
+      "Ergotherapeut"
+    ],
     "skills": "Schrijfmotoriek, Motorische ontwikkeling, Speels leren, Didactiek schrijfonderwijs",
     "audience": [
       "Buitengewoon onderwijs",
@@ -5360,7 +5756,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Stagementor, Aanvangsbegeleider, Mentor, Leerkracht, Onderwijscoach",
+    "job_title": [
+      "Stagementor",
+      "Aanvangsbegeleider",
+      "Mentor",
+      "Leerkracht",
+      "Onderwijscoach"
+    ],
     "skills": "Coachen, Actief luisteren, GROW-methodiek, Feedback geven, Reflectie stimuleren, Omgaan met weerstand",
     "audience": [
       "Buitengewoon onderwijs",
@@ -5423,7 +5825,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Directeur, Aanvangsbegeleider, Beleidsmedewerker onderwijs, Pedagogisch ondersteuner, Starterscoach",
+    "job_title": [
+      "Directeur",
+      "Aanvangsbegeleider",
+      "Beleidsmedewerker onderwijs",
+      "Pedagogisch ondersteuner",
+      "Starterscoach"
+    ],
     "skills": "Inductiebeleid, Aanvangsbegeleiding, Werkbegeleiding, Leerbegeleiding, Intervisie, Professionalisering",
     "audience": [
       "Buitengewoon onderwijs",
@@ -5477,7 +5885,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "cathy.crabbe@kdg.be",
-    "job_title": "Kleuterleerkracht, Leerkracht lager onderwijs, Zorgleerkracht, Ergotherapeut",
+    "job_title": [
+      "Kleuterleerkracht",
+      "Leerkracht lager onderwijs",
+      "Zorgleerkracht",
+      "Ergotherapeut"
+    ],
     "skills": "Fijne motoriek trainen, Schrijfvoorbereiding, Motorische ontwikkeling, Didactiek",
     "audience": [
       "Buitengewoon onderwijs",
@@ -5521,7 +5934,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
-    "job_title": "Kinderbegeleider, Pedagogisch coach, Verantwoordelijke kinderopvang, Organisator kinderopvang",
+    "job_title": [
+      "Kinderbegeleider",
+      "Pedagogisch coach",
+      "Verantwoordelijke kinderopvang",
+      "Organisator kinderopvang"
+    ],
     "skills": "Meertaligheid ondersteunen, Taalstimulering, Taalontwikkeling, Talenbeleid, Teamcoaching, Ouderbetrokkenheid",
     "audience": [
       "Jeugdzorg",
@@ -5553,7 +5971,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "joris.wynants@kdg.be",
-    "job_title": "Vroedvrouw, Verpleegkundige, Menopauzeconsulent, Zorgverlener",
+    "job_title": [
+      "Vroedvrouw",
+      "Verpleegkundige",
+      "Menopauzeconsulent",
+      "Zorgverlener"
+    ],
     "skills": "Menopauzezorg, Medische diagnostiek, Behandelingsmogelijkheden, Multidisciplinair samenwerken, Holistische zorg",
     "audience": [
       "Hulpverlening",
@@ -5616,7 +6039,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
-    "job_title": "Kinderbegeleider, Pedagogisch coach, Organisator kinderopvang, Leidinggevende opvang",
+    "job_title": [
+      "Kinderbegeleider",
+      "Pedagogisch coach",
+      "Organisator kinderopvang",
+      "Leidinggevende opvang"
+    ],
     "skills": "Diverssensitief handelen, Interculturele competentie, Inclusief werken, Reflectie",
     "audience": [
       "Jeugdzorg",
@@ -5648,7 +6076,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
-    "job_title": "Organisator kinderopvang, Verantwoordelijke opvang, Pedagogisch coach, Leidinggevende opvang",
+    "job_title": [
+      "Organisator kinderopvang",
+      "Verantwoordelijke opvang",
+      "Pedagogisch coach",
+      "Leidinggevende opvang"
+    ],
     "skills": "Voorbereiding zorginspectie, Kwaliteitsbeleid, Regelgeving kennen, Documentatie",
     "audience": [
       "Jeugdzorg",
@@ -5680,7 +6113,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.peeters@kdg.be",
-    "job_title": "Kenniswerker, Communicatiemedewerker, Manager, Consultant, Zelfstandige",
+    "job_title": [
+      "Kenniswerker",
+      "Communicatiemedewerker",
+      "Manager",
+      "Consultant",
+      "Zelfstandige"
+    ],
     "skills": "Artificiële intelligentie, AI-tools, Prompting, Digitale workflow, Kritisch denken",
     "audience": [
       "Professionals"
@@ -5711,7 +6150,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
-    "job_title": "Vroedvrouw, Verpleegkundige, Zorgprofessional",
+    "job_title": [
+      "Vroedvrouw",
+      "Verpleegkundige",
+      "Zorgprofessional"
+    ],
     "skills": "Kennis (peri)menopauze, Klinisch redeneren, Vrouwengezondheid, Patiëntbegeleiding",
     "audience": [
       "Hulpverlening",
@@ -5756,7 +6199,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Stagementor, Mentor, Leerkracht, Aanvangsbegeleider, Praktijkbegeleider",
+    "job_title": [
+      "Stagementor",
+      "Mentor",
+      "Leerkracht",
+      "Aanvangsbegeleider",
+      "Praktijkbegeleider"
+    ],
     "skills": "Mentorschap, Groeigericht begeleiden, Feedback geven, Evalueren, Coachen, Stage organiseren",
     "audience": [
       "Buitengewoon onderwijs",
@@ -5800,7 +6249,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Verpleegkundige, Zorgverlener, HR-medewerker zorg, Vroedvrouw",
+    "job_title": [
+      "Verpleegkundige",
+      "Zorgverlener",
+      "HR-medewerker zorg",
+      "Vroedvrouw"
+    ],
     "skills": "Veerkracht opbouwen, Begeleiding starters, Zelfzorg, Werkdrukbeheer",
     "audience": [
       "Hulpverlening",
@@ -5853,7 +6307,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "elise.degroot@kdg.be",
-    "job_title": "Sociaal werker, Jeugdwerker, Orthopedagoog, Zorgprofessional, Cultuurwerker",
+    "job_title": [
+      "Sociaal werker",
+      "Jeugdwerker",
+      "Orthopedagoog",
+      "Zorgprofessional",
+      "Cultuurwerker"
+    ],
     "skills": "Zingeving, Reflectie, Creatieve verbeelding, Betekenisgeving",
     "audience": [
       "Hulpverlening",
@@ -5896,7 +6356,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "Heidi.Lagast@KdG.be",
-    "job_title": "Directielid, Beleidsondersteuner, Zorgcoördinator",
+    "job_title": [
+      "Directielid",
+      "Beleidsondersteuner",
+      "Zorgcoördinator"
+    ],
     "skills": "Relatiemanagement, Communicatie met ouders, Netwerken, Verbindend leiderschap",
     "audience": [
       "Kleuteronderwijs",
@@ -5928,7 +6392,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Startende leerkracht, OKAN-leerkracht, NT2-leerkracht, Taalvakleerkracht",
+    "job_title": [
+      "Startende leerkracht",
+      "OKAN-leerkracht",
+      "NT2-leerkracht",
+      "Taalvakleerkracht"
+    ],
     "skills": "Taalkrachtig lesgeven, Taalgericht vakonderwijs, Differentiatie, NT2-didactiek",
     "audience": [
       "Buitengewoon onderwijs",
@@ -5972,7 +6441,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "info.vroedkunde@kdg.be",
-    "job_title": "Vroedvrouw, Verpleegkundige, Zorgprofessional",
+    "job_title": [
+      "Vroedvrouw",
+      "Verpleegkundige",
+      "Zorgprofessional"
+    ],
     "skills": "Kennis (peri)menopauze, Klinisch redeneren, Vrouwengezondheid, Patiëntbegeleiding",
     "audience": [
       "Hulpverlening",
@@ -6017,7 +6490,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
-    "job_title": "Kinderbegeleider, Pedagogisch coach, Verantwoordelijke opvang, Leidinggevende opvang",
+    "job_title": [
+      "Kinderbegeleider",
+      "Pedagogisch coach",
+      "Verantwoordelijke opvang",
+      "Leidinggevende opvang"
+    ],
     "skills": "Oudercontacten reflecteren, DROOMM-tool toepassen, Communicatie, Zelfreflectie",
     "audience": [
       "Jeugdzorg",
@@ -6049,7 +6527,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "margaux.berkvens@kdg.be",
-    "job_title": "Leidinggevende opvang, Coördinator kinderopvang, Pedagogisch coach, Kinderbegeleider",
+    "job_title": [
+      "Leidinggevende opvang",
+      "Coördinator kinderopvang",
+      "Pedagogisch coach",
+      "Kinderbegeleider"
+    ],
     "skills": "Missie en visie ontwikkelen, Kwaliteitsbeleid, Teamgericht werken, Beleidsvorming",
     "audience": [
       "Jeugdzorg",
@@ -6081,7 +6564,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "nina.peeters@kdg.be",
-    "job_title": "Kenniswerker, Communicatiemedewerker, Consultant, Manager, Data-analist",
+    "job_title": [
+      "Kenniswerker",
+      "Communicatiemedewerker",
+      "Consultant",
+      "Manager",
+      "Data-analist"
+    ],
     "skills": "Prompt engineering, Artificiële intelligentie, Kritisch denken, Workflowoptimalisatie, AI-tools",
     "audience": [
       "Professionals"
@@ -6112,7 +6601,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Verpleegkundige, Maatschappelijk assistent, Paramedicus, Zorgprofessional",
+    "job_title": [
+      "Verpleegkundige",
+      "Maatschappelijk assistent",
+      "Paramedicus",
+      "Zorgprofessional"
+    ],
     "skills": "BelRAI-screening, Indicatiestelling, Zorgbehoefte inschatten, Sociaal supplement toepassen",
     "audience": [
       "Hulpverlening",
@@ -6168,7 +6662,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Verpleegkundige, Zorgkundige, Woonzorgcentrummedewerker",
+    "job_title": [
+      "Verpleegkundige",
+      "Zorgkundige",
+      "Woonzorgcentrummedewerker"
+    ],
     "skills": "Klinisch redeneren, Observatie, Vroegtijdig signaleren, Ouderenzorg",
     "audience": [
       "Ouderenzorg",
@@ -6220,7 +6718,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Coach, Leidinggevende, Zorgverlener, Hulpverlener, Teamcoach",
+    "job_title": [
+      "Coach",
+      "Leidinggevende",
+      "Zorgverlener",
+      "Hulpverlener",
+      "Teamcoach"
+    ],
     "skills": "Coachingsvaardigheden, Gespreksvoering, Mensen in beweging brengen, Feedback geven",
     "audience": [
       "Hulpverlening",
@@ -6277,7 +6781,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "ama.amitai@kdg.be",
-    "job_title": "Leerkracht secundair onderwijs, Leerkracht lager onderwijs, Docent hoger onderwijs",
+    "job_title": [
+      "Leerkracht secundair onderwijs",
+      "Leerkracht lager onderwijs",
+      "Docent hoger onderwijs"
+    ],
     "skills": "Gespreksvoering, Omgaan met controverse, Klasklimaat, Kritisch denken stimuleren",
     "audience": [
       "Buitengewoon onderwijs",
@@ -6320,7 +6828,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "stefanie.schelkens@kdg.be",
-    "job_title": "Leerkracht lager onderwijs, Zorgleerkracht, ICT-coördinator onderwijs",
+    "job_title": [
+      "Leerkracht lager onderwijs",
+      "Zorgleerkracht",
+      "ICT-coördinator onderwijs"
+    ],
     "skills": "AI-geletterdheid, Digitale didactiek, Mediawijsheid, AI in de klas toepassen",
     "audience": [
       "Buitengewoon onderwijs",
@@ -6365,7 +6877,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Verpleegkundige, Zorgkundige, Paramedicus",
+    "job_title": [
+      "Verpleegkundige",
+      "Zorgkundige",
+      "Paramedicus"
+    ],
     "skills": "Differentieeldiagnostiek, Klinisch redeneren, Symptomen interpreteren, Observatie",
     "audience": [
       "Ouderenzorg",
@@ -6417,7 +6933,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Verpleegkundige, Zorgkundige, Orthopedagoog, Begeleider ouderenzorg, Hulpverlener",
+    "job_title": [
+      "Verpleegkundige",
+      "Zorgkundige",
+      "Orthopedagoog",
+      "Begeleider ouderenzorg",
+      "Hulpverlener"
+    ],
     "skills": "Agressiebeheersing, De-escalatie, Gedrag begrijpen, Zelfregulatie, Omgaan met dementie",
     "audience": [
       "Hulpverlening",
@@ -6470,7 +6992,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "petra.depesseroey@kdg.be",
-    "job_title": "Leraar lager onderwijs, Leraar kleuteronderwijs, Beleidsondersteuner basisschool",
+    "job_title": [
+      "Leraar lager onderwijs",
+      "Leraar kleuteronderwijs",
+      "Beleidsondersteuner basisschool"
+    ],
     "skills": "Onderzoekend leren, Ontwerpend leren, Wetenschap & Techniek, Differentiatie, Onderzoeksvragen formuleren",
     "audience": [
       "Kleuteronderwijs",
@@ -6531,7 +7057,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "ben.roels@kdg.be",
-    "job_title": "Automotive technicus, Ontwikkelaar, Elektronicatechnicus, Onderhoudstechnicus",
+    "job_title": [
+      "Automotive technicus",
+      "Ontwikkelaar",
+      "Elektronicatechnicus",
+      "Onderhoudstechnicus"
+    ],
     "skills": "CAN-communicatie, Voertuigdiagnose, Bus-systemen, Foutopsporing",
     "audience": [
       "Technici"
@@ -6572,7 +7103,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
-    "job_title": "Groepsbegeleider, Sociaal werker, Hulpverlener, Leerkracht, Teamcoach",
+    "job_title": [
+      "Groepsbegeleider",
+      "Sociaal werker",
+      "Hulpverlener",
+      "Leerkracht",
+      "Teamcoach"
+    ],
     "skills": "Groepsdynamica, Groepen begeleiden, Groepsprocessen lezen, Begeleidingsstijl, Reflectie, Interveniëren",
     "audience": [
       "Buitengewoon onderwijs",
@@ -6630,7 +7167,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
-    "job_title": "Coördinator, Procesbegeleider, Praktijkbegeleider, Teambegeleider, Inhoudelijk verantwoordelijke",
+    "job_title": [
+      "Coördinator",
+      "Procesbegeleider",
+      "Praktijkbegeleider",
+      "Teambegeleider",
+      "Inhoudelijk verantwoordelijke"
+    ],
     "skills": "Intervisie begeleiden, Reflectie, Kennisdeling, Methodisch werken, Groepsbegeleiding",
     "audience": [
       "Hulpverlening",
@@ -6686,7 +7229,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "ben.roels@kdg.be",
-    "job_title": "Automotive technicus, Laadinfrastructuurtechnicus, E-mobility specialist, Onderhoudstechnicus",
+    "job_title": [
+      "Automotive technicus",
+      "Laadinfrastructuurtechnicus",
+      "E-mobility specialist",
+      "Onderhoudstechnicus"
+    ],
     "skills": "Storingsdiagnose laadinfrastructuur, Elektrisch laden, Foutopsporing, EV-technologie",
     "audience": [
       "Technici"
@@ -6727,7 +7275,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
-    "job_title": "Hulpverlener, Supervisor, Orthopedagoog, Sociaal werker, Teambegeleider",
+    "job_title": [
+      "Hulpverlener",
+      "Supervisor",
+      "Orthopedagoog",
+      "Sociaal werker",
+      "Teambegeleider"
+    ],
     "skills": "Supervisie, Ervaringsgericht werken, Beeldtaal, Reflectie, Impasses doorbreken, Casusbespreking",
     "audience": [
       "Hulpverlening",
@@ -6783,7 +7337,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
-    "job_title": "Jeugdhulpverlener, Orthopedagoog, Sociaal werker, Begeleider jeugdzorg, Jeugdcriminoloog",
+    "job_title": [
+      "Jeugdhulpverlener",
+      "Orthopedagoog",
+      "Sociaal werker",
+      "Begeleider jeugdzorg",
+      "Jeugdcriminoloog"
+    ],
     "skills": "Delictgedrag begeleiden, RNR-model, Good Lives Model, Werkalliantie, Desistance, Casusgericht werken",
     "audience": [
       "Hulpverlening",
@@ -6853,7 +7413,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "elise.degroot@kdg.be",
-    "job_title": "Hulpverlener, Leerkracht, Sociaal werker, Communicatiemedewerker, Jeugdwerker",
+    "job_title": [
+      "Hulpverlener",
+      "Leerkracht",
+      "Sociaal werker",
+      "Communicatiemedewerker",
+      "Jeugdwerker"
+    ],
     "skills": "Diverssensitieve communicatie, Interculturele competentie, Inclusief taalgebruik, Reflectie",
     "audience": [
       "Hoger onderwijs",
@@ -6900,7 +7466,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "elise.degroot@kdg.be",
-    "job_title": "Sociaal werker, Jeugdwerker, Orthopedagoog, Zorgprofessional, Cultuurwerker",
+    "job_title": [
+      "Sociaal werker",
+      "Jeugdwerker",
+      "Orthopedagoog",
+      "Zorgprofessional",
+      "Cultuurwerker"
+    ],
     "skills": "Zingeving, Reflectie, Betekenisgeving, Veerkracht",
     "audience": [
       "Hulpverlening",
@@ -6945,7 +7517,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
-    "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider welzijnswerk",
+    "job_title": [
+      "Hulpverlener",
+      "Maatschappelijk werker",
+      "Begeleider welzijnswerk"
+    ],
     "skills": "Armoedebewust werken, Supervisie, Omgaan met complexe problematiek, Reflectie",
     "audience": [
       "Hulpverlening",
@@ -7005,7 +7581,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "elise.degroot@kdg.be",
-    "job_title": "Jeugdhulpbegeleider, Leerkracht, Sociaal werker, Zorgverlener",
+    "job_title": [
+      "Jeugdhulpbegeleider",
+      "Leerkracht",
+      "Sociaal werker",
+      "Zorgverlener"
+    ],
     "skills": "Cultuursensitief begeleiden, Traumasensitief werken, Begeleiding nieuwkomers, Communicatie",
     "audience": [
       "Hulpverlening",
@@ -7059,7 +7640,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "bindkracht@kdg.be",
-    "job_title": "Hulpverlener, Maatschappelijk werker, Begeleider welzijnswerk",
+    "job_title": [
+      "Hulpverlener",
+      "Maatschappelijk werker",
+      "Begeleider welzijnswerk"
+    ],
     "skills": "Armoedesensitieve gespreksvoering, Communicatie, Krachtgericht werken, Vertrouwen opbouwen",
     "audience": [
       "Hulpverlening",
@@ -7101,7 +7686,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "elise.degroot@kdg.be",
-    "job_title": "Beleidsmedewerker jeugdhulp, Praktijkprofessional, Kwaliteitsmedewerker, Projectcoördinator",
+    "job_title": [
+      "Beleidsmedewerker jeugdhulp",
+      "Praktijkprofessional",
+      "Kwaliteitsmedewerker",
+      "Projectcoördinator"
+    ],
     "skills": "Impactevaluatie, Monitoringsplan opstellen, Rapportage, Datagedreven werken",
     "audience": [
       "Jeugdzorg",
@@ -7152,7 +7742,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "jeroen.geuens@kdg.be",
-    "job_title": "Onderzoeker, R&D-ingenieur, Procesingenieur, Innovatiemanager, Milieucoördinator",
+    "job_title": [
+      "Onderzoeker",
+      "R&D-ingenieur",
+      "Procesingenieur",
+      "Innovatiemanager",
+      "Milieucoördinator"
+    ],
     "skills": "Duurzame procestechnologie, Chemische procesoptimalisatie, R&D-samenwerking, Emissiemetingen, Voertuigdata-analyse",
     "audience": [
       "Bedrijfsleven",
@@ -7195,7 +7791,12 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Leerkracht lichamelijke opvoeding, Leerkracht L.O., Sportleerkracht, Bewegingscoach",
+    "job_title": [
+      "Leerkracht lichamelijke opvoeding",
+      "Leerkracht L.O.",
+      "Sportleerkracht",
+      "Bewegingscoach"
+    ],
     "skills": "Differentiatie, Klasmanagement, Motiveren, Bewegingsonderwijs",
     "audience": [
       "Secundair Onderwijs",
@@ -7246,7 +7847,11 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "sven.desmet@kdg.be",
-    "job_title": "Verpleegkundige, Hoofdverpleegkundige, Zorgprofessional",
+    "job_title": [
+      "Verpleegkundige",
+      "Hoofdverpleegkundige",
+      "Zorgprofessional"
+    ],
     "skills": "Artificiële intelligentie, Databeheer, Kritisch denken, Patiëntveiligheid",
     "audience": [
       "Verpleegkundigen"
@@ -7277,7 +7882,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "eve.baert@kdg.be",
-    "job_title": "Schooldirecteur, Coördinerend directeur, Schoolbestuurder, Beleidsmedewerker onderwijs, HR-medewerker",
+    "job_title": [
+      "Schooldirecteur",
+      "Coördinerend directeur",
+      "Schoolbestuurder",
+      "Beleidsmedewerker onderwijs",
+      "HR-medewerker"
+    ],
     "skills": "Werkgeverschap, Personeelsbeleid, Retentie, Employer branding, Beleidsontwikkeling",
     "audience": [
       "Buitengewoon onderwijs",
@@ -7340,7 +7951,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "melissa.smiedts@kdg.be",
-    "job_title": "Verpleegkundige, Zorgkundige, Arts, Sociaal werker, Orthopedagoog",
+    "job_title": [
+      "Verpleegkundige",
+      "Zorgkundige",
+      "Arts",
+      "Sociaal werker",
+      "Orthopedagoog"
+    ],
     "skills": "Palliatieve zorg, Zingeving, Omgaan met onmacht, Communicatie in de zorg, Veerkracht",
     "audience": [
       "Hulpverlening",
@@ -7385,7 +8002,13 @@
     "certificate_name": "",
     "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
     "email": "yana.avramova@kdg.be",
-    "job_title": "Evenementencoördinator, Beleidsmedewerker evenementen, Diensthoofd vrije tijd, Communicatiemedewerker lokaal bestuur, Onderzoeker",
+    "job_title": [
+      "Evenementencoördinator",
+      "Beleidsmedewerker evenementen",
+      "Diensthoofd vrije tijd",
+      "Communicatiemedewerker lokaal bestuur",
+      "Onderzoeker"
+    ],
     "skills": "Impactmeting, Evenementenbeleid, Evaluatie en monitoring, Stakeholdermanagement, Beleidsontwikkeling",
     "audience": [
       "Event professionals"
