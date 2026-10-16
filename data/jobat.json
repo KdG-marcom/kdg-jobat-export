@@ -584,7 +584,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (bachelor of HBO5) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-10-01",
@@ -666,7 +666,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma bachelor Verpleegkunde of Vroedkunde vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-10-02",
@@ -748,7 +748,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Afgerond diploma Verpleegkunde (bachelor of HBO5) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-09-21",
@@ -911,7 +911,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde (bachelor of graduaat) of gelijkaardige zorgopleiding vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-09-29",
@@ -952,7 +952,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde vereist (ervaring in pediatrie/neonatologie aanbevolen)",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV)",
     "location_and_date": [
       {
         "date_start": "2026-09-22",
@@ -993,7 +993,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma bachelor Vroedkunde vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-10-06",
@@ -1233,7 +1233,7 @@
     "esco_category_code": 2221,
     "nacebel_sector": "86",
     "required_knowledge": "Diploma verpleegkunde vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille, Betaald educatief verlof in Brussels Hoofdstedelijk Gewest",
+    "government_subsidy": "Vlaams opleidingsverlof (VOV), Kmo-portefeuille",
     "location_and_date": [
       {
         "date_start": "2026-09-15",
