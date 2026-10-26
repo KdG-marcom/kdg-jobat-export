@@ -215,35 +215,8 @@
     "location_and_date": [
       {
         "date_start": "2027-02-15",
-        "date_end": "2027-02-15",
-        "hours": "10.00 - 16.00 u.",
-        "location_name": "Blikfabriek",
-        "location_address": "Krugerstraat 232",
-        "location_zip": "2660",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-16",
-        "date_end": "2027-02-16",
-        "hours": "10.00 - 16.00 u.",
-        "location_name": "Blikfabriek",
-        "location_address": "Krugerstraat 232",
-        "location_zip": "2660",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-17",
-        "date_end": "2027-02-17",
-        "hours": "10.00 - 16.00 u.",
-        "location_name": "Blikfabriek",
-        "location_address": "Krugerstraat 232",
-        "location_zip": "2660",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-18",
         "date_end": "2027-02-18",
-        "hours": "10.00 - 16.00 u.",
+        "hours": "10.00 tot 16.00 u.",
         "location_name": "Blikfabriek",
         "location_address": "Krugerstraat 232",
         "location_zip": "2660",
@@ -251,17 +224,6 @@
       }
     ],
     "sessions": [
-      {
-        "date": "15/02/2027",
-        "sessionDescription": "Einddatum",
-        "sessionId": "basis-glasbewerking-voor-kunstenaars-ontwerpers-end-2027-02-15",
-        "locationName": "Blikfabriek",
-        "address": "Krugerstraat 232",
-        "zipCode": "2660",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
       {
         "date": "15/02/2027",
         "sessionDescription": "Startdatum",
@@ -274,64 +236,9 @@
         "endTime": ""
       },
       {
-        "date": "16/02/2027",
-        "sessionDescription": "Einddatum",
-        "sessionId": "basis-glasbewerking-voor-kunstenaars-ontwerpers-end-2027-02-16",
-        "locationName": "Blikfabriek",
-        "address": "Krugerstraat 232",
-        "zipCode": "2660",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "16/02/2027",
-        "sessionDescription": "Startdatum",
-        "sessionId": "basis-glasbewerking-voor-kunstenaars-ontwerpers-start-2027-02-16",
-        "locationName": "Blikfabriek",
-        "address": "Krugerstraat 232",
-        "zipCode": "2660",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "17/02/2027",
-        "sessionDescription": "Einddatum",
-        "sessionId": "basis-glasbewerking-voor-kunstenaars-ontwerpers-end-2027-02-17",
-        "locationName": "Blikfabriek",
-        "address": "Krugerstraat 232",
-        "zipCode": "2660",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "17/02/2027",
-        "sessionDescription": "Startdatum",
-        "sessionId": "basis-glasbewerking-voor-kunstenaars-ontwerpers-start-2027-02-17",
-        "locationName": "Blikfabriek",
-        "address": "Krugerstraat 232",
-        "zipCode": "2660",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
         "date": "18/02/2027",
         "sessionDescription": "Einddatum",
         "sessionId": "basis-glasbewerking-voor-kunstenaars-ontwerpers-end-2027-02-18",
-        "locationName": "Blikfabriek",
-        "address": "Krugerstraat 232",
-        "zipCode": "2660",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "18/02/2027",
-        "sessionDescription": "Startdatum",
-        "sessionId": "basis-glasbewerking-voor-kunstenaars-ontwerpers-start-2027-02-18",
         "locationName": "Blikfabriek",
         "address": "Krugerstraat 232",
         "zipCode": "2660",
@@ -938,8 +845,8 @@
     "provider": "Karel de Grote Hogeschool",
     "domain_category": "HR en personeelswerk",
     "domain_subcategory": "Werkgeverschap in onderwijs",
-    "duration_length": null,
-    "duration_type": "",
+    "duration_length": 3,
+    "duration_type": "days",
     "course_type": 1,
     "degree_type": 0,
     "job_title": "['Schooldirecteur', 'Coördinerend directeur', 'Schoolbestuurder', 'Beleidsmedewerker onderwijs', 'HR-medewerker']",
@@ -960,24 +867,6 @@
     "location_and_date": [
       {
         "date_start": "2027-04-26",
-        "date_end": "2027-04-26",
-        "hours": "9.30 - 13.00 u.",
-        "location_name": "KdG Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-05-10",
-        "date_end": "2027-05-10",
-        "hours": "9.30 - 13.00 u.",
-        "location_name": "KdG Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-05-28",
         "date_end": "2027-05-28",
         "hours": "9.30 - 13.00 u.",
         "location_name": "KdG Campus Zuid",
@@ -987,39 +876,6 @@
       }
     ],
     "sessions": [
-      {
-        "date": "10/05/2027",
-        "sessionDescription": "Einddatum",
-        "sessionId": "navormingstraject-aantrekkelijk-werkgeverschap-onderwijs-end-2027-05-10",
-        "locationName": "KdG Campus Zuid",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "10/05/2027",
-        "sessionDescription": "Startdatum",
-        "sessionId": "navormingstraject-aantrekkelijk-werkgeverschap-onderwijs-start-2027-05-10",
-        "locationName": "KdG Campus Zuid",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "26/04/2027",
-        "sessionDescription": "Einddatum",
-        "sessionId": "navormingstraject-aantrekkelijk-werkgeverschap-onderwijs-end-2027-04-26",
-        "locationName": "KdG Campus Zuid",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
       {
         "date": "26/04/2027",
         "sessionDescription": "Startdatum",
@@ -1035,17 +891,6 @@
         "date": "28/05/2027",
         "sessionDescription": "Einddatum",
         "sessionId": "navormingstraject-aantrekkelijk-werkgeverschap-onderwijs-end-2027-05-28",
-        "locationName": "KdG Campus Zuid",
-        "address": "Brusselstraat 45",
-        "zipCode": "2018",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "28/05/2027",
-        "sessionDescription": "Startdatum",
-        "sessionId": "navormingstraject-aantrekkelijk-werkgeverschap-onderwijs-start-2027-05-28",
         "locationName": "KdG Campus Zuid",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
