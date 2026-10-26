@@ -1865,59 +1865,6 @@
     ]
   },
   {
-    "internal_id": "studiedag-seksualiteit",
-    "title": "Seks bespreekbaar maken in de zorg",
-    "language": "nl",
-    "price": "95.00",
-    "certificate_name": "",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "sven.desmet@kdg.be",
-    "job_title": [
-      "Verpleegkundige",
-      "Zorgkundige",
-      "Begeleider gehandicaptenzorg",
-      "Ouderenzorgmedewerker",
-      "Hulpverlener"
-    ],
-    "skills": "Seksualiteit bespreekbaar maken, Communicatievaardigheden, Omgaan met intimiteit in de zorg, Ethisch handelen",
-    "audience": [
-      "Buitengewoon onderwijs",
-      "Hulpverlening",
-      "Ouderenzorg",
-      "Sociale sector",
-      "Verpleegkundigen",
-      "Vroedvrouwen",
-      "Zorgkundigen"
-    ],
-    "domain_category": "Gezondheidszorg",
-    "domain_subcategory": "Seksualiteit en intimiteit in de zorg",
-    "webaddress": "https://www.kdg.be/studiedag-seksualiteit?utm_source=jobat&utm_medium=affiliate",
-    "degree_type": 0,
-    "duration_length": "1",
-    "duration_type": "days",
-    "provider": "Karel de Grote Hogeschool",
-    "course_type": 1,
-    "description": "<![CDATA[<p>Inspirerende studiedag voor zorg- en sociale professionals op 10 mei 2027.</p><p>Hoe wordt seksualiteit beleefd bij mensen met een beperking of bij ouderen met dementie? We belichten verschillende vragen rond seks en intimiteit binnen een zorgcontext.</p><p>Na een succesvolle studiedag in 2026 werken we volop aan een nieuwe editie in 2027. Zet 10 mei alvast in je agenda voor een dag vol boeiende lezingen en workshops. Wil je op de hoogte blijven? Registreer je dan op de wachtlijst en ontvang als eerste alle info.</p>]]>",
-    "description_program": "<![CDATA[<p>Het programma met keynotes en workshops volgt later.</p>]]>",
-    "description_extrainfo": "<![CDATA[<p>Deze studiedag is interessant voor iedereen in de zorg- en sociale sector:</p><ul><li>Verpleeg- en zorgkundigen in ziekenhuizen, woonzorgcentra, hospice ...</li><li>Begeleiders in voorzieningen voor gehandicaptenzorg, geestelijke gezondheidszorg ...</li></ul><p>Praktisch: dinsdag 10 mei 2027 van 9 tot 16.45 u., Campus Zuid, Brusselstraat 45, 2018 Antwerpen.</p>]]>",
-    "job_function_category": 503,
-    "esco_category_code": 2221,
-    "nacebel_sector": "86.90",
-    "required_knowledge": "",
-    "government_subsidy": "",
-    "location_and_date": [
-      {
-        "date_start": "2027-05-10",
-        "date_end": "2027-05-10",
-        "hours": "9 tot 16.45 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      }
-    ]
-  },
-  {
     "internal_id": "kinderbegeleiders-onderwijs",
     "title": "Kinderbegeleiders in onderwijs",
     "language": "nl",
@@ -2156,24 +2103,6 @@
     "location_and_date": [
       {
         "date_start": "2026-11-20",
-        "date_end": "2026-11-20",
-        "hours": "13.30 tot 16.30 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-26",
-        "date_end": "2027-02-26",
-        "hours": "13.30 tot 16.30 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-06-04",
         "date_end": "2027-06-04",
         "hours": "13.30 tot 16.30 u.",
         "location_name": "Campus Zuid",
@@ -2225,24 +2154,6 @@
     "location_and_date": [
       {
         "date_start": "2026-10-29",
-        "date_end": "2026-10-29",
-        "hours": "9.00 tot 16.00 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2026-11-18",
-        "date_end": "2026-11-18",
-        "hours": "9.00 tot 16.00 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-04",
         "date_end": "2027-02-04",
         "hours": "9.00 tot 16.00 u.",
         "location_name": "Campus Zuid",
@@ -2252,24 +2163,6 @@
       },
       {
         "date_start": "2027-03-09",
-        "date_end": "2027-03-09",
-        "hours": "9.00 tot 16.00 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-04-21",
-        "date_end": "2027-04-21",
-        "hours": "9.00 tot 16.00 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-06-04",
         "date_end": "2027-06-04",
         "hours": "9.00 tot 16.00 u.",
         "location_name": "Campus Zuid",
@@ -3042,7 +2935,7 @@
     "course_type": 1,
     "description": "<![CDATA[<p>Een praktijkgerichte opleiding in klasmanagement, groepsdynamiek en moeilijk hanteerbaar gedrag.</p><p>Wil je als onderwijsprofessional binnen je school de rol van (toekomstige) gedragsexpert opnemen of wil je gewoon als leerkracht sterker staan in klasmanagement en beter omgaan met complex gedrag?</p><ul><li>In deze opleiding leer je hoe je structuur, voorspelbaarheid en verbondenheid creëert in je klas.</li><li>Je leert preventief investeren in een veilig leerklimaat en gepast reageren op moeilijk hanteerbaar gedrag.</li><li>De vier modules vertrekken vanuit de preventiepiramide: van preventie tot aanpak.</li><li>Je zal ontdekken hoe warm én duidelijk handelen veiligheid brengt en zo bijdraagt aan meer ontwikkelkansen voor alle leerlingen.</li><li>Je versterkt je handelen als leerkracht door het gericht inzetten van vaardigheden en attitudes. Bovendien sta je stil bij je professionele identiteit.</li></ul><p>We verbinden recent wetenschappelijk onderzoek en effectieve praktijkvoorbeelden. Aan de hand van casussen, simulatieoefeningen en reflectie over de eigen klaspraktijk versterk je je eigen pedagogisch vakmanschap.</p><p>Je krijgt de kans om deel te nemen aan een supervisietraject gekoppeld aan een module naar keuze. Hier breng je een eigen casus mee, wissel je ervaringen uit en zoek je samen naar werkbare vervolgstappen.</p>]]>",
     "description_program": "<![CDATA[<p><strong>Module 1: Verbinding als vertrekpunt – sensitief en afgestemd lesgeven (dag 1)</strong></p><p>Een sterk leef- en leerklimaat in de klas en op school begint bij verbinding en afstemming. In deze module staan de basishouding van de leerkracht, relationeel werken en pedagogische afstemming centraal. We kijken naar de sociaal-emotionele leeftijd van leerlingen, de impact van gehechtheid en de manier waarop het zenuwstelsel veiligheid en stress verwerkt.</p><p><strong>Module 2: Klasmanagement en structuur (dag 2)</strong></p><p>In deze module staan de bouwstenen van effectief klasmanagement centraal. Je leert de preventieve kracht van duidelijke verwachtingen, routines, afspraken en een doordachte organisatie van tijd, ruimte en materiaal om de taakgerichtheid van leerlingen te verhogen.</p><p><strong>Module 3: Groepsgericht handelen bij verstoring (dag 3)</strong></p><p>We besteden aandacht aan groepsdynamiek, uitsluiting, pesten en conflicten. Je leert situaties de-escaleren, de sociale veiligheid in een groep bewaken of herstellen, en (online) pesten aanpakken.</p><p><strong>Module 4: Omgaan met complex en moeilijk hanteerbaar gedrag (dag 4 en 5)</strong></p><p>Deze tweedaagse module is gericht op de meest intensieve ondersteuningsvragen. Je leert gedrag analyseren, kijken naar onderliggende noden en oefenen met interventies rond co-regulatie, nabijheid, begrenzen, herstel en gericht doorverwijzen.</p><p><strong>Supervisie</strong></p><p>Na de 5-daagse wordt per module een online supervisiesessie georganiseerd. In het volledige traject zit 1 supervisiesessie inbegrepen; extra sessies kunnen bijgeboekt worden aan €35 per sessie.</p>]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Voor wie</strong></p><p>Leerkrachten, zorgleerkrachten/-coördinatoren, leerlingenbegeleiders, leerondersteuners, CLB-medewerkers en directies in het lager en secundair onderwijs. Of je nu een rol als (toekomstige) gedragsexpert binnen jouw school wilt opnemen of met meer expertise voor je eigen klas wilt staan.</p><p><strong>Na het volgen van deze bijscholing</strong></p><ul><li>Ken je de inzichten achter de preventiepiramide en kan je de principes ervan toepassen.</li><li>Begrijp je gedrag én beïnvloed je dit vanuit een veilig klasklimaat, positieve relaties, effectieve groepsdynamiek en sterk klasmanagement.</li><li>Analyseer je moeilijk hanteerbaar gedrag vanuit onderliggende behoeften, functies van gedrag en contextfactoren.</li><li>Ondersteun je collega's bij pedagogische en gedragsmatige uitdagingen in de klaspraktijk.</li><li>Draag je bij aan een gedeelde visie en een schoolbrede aanpak van gedrag.</li><li>Groei je in een rol als gedragsexpert, gedragscoach, pedagogisch coach of zorgprofessional binnen je schoolteam.</li></ul><p><strong>Prijs</strong></p><ul><li>835 euro per persoon voor de volledige reeks (incl. koffiepauze, voucher eetbar, één supervisiemoment en twee wetenschappelijke inspiratiegidsen).</li><li>175 euro per persoon voor een module van 1 dag.</li><li>350 euro per persoon voor een module van 2 dagen.</li><li>35 euro per extra supervisie.</li></ul><p><strong>Waar</strong></p><p>KdG Campus Zuid, Brusselstraat 45, 2018 Antwerpen.</p><p><strong>Op maat</strong></p><p>Deze vorming kan ook bij jou op school georganiseerd worden. Contacteer eve.baert@kdg.be.</p>]]>",
+    "description_extrainfo": "<![CDATA[<p><strong>Voor wie</strong></p><p>Leerkrachten, zorgleerkrachten/-coördinatoren, leerlingenbegeleiders, leerondersteuners, CLB-medewerkers en directies in het lager en secundair onderwijs. Of je nu een rol als (toekomstige) gedragsexpert binnen jouw school wilt opnemen of met meer expertise voor je eigen klas wilt staan.</p><p><strong>Na het volgen van deze bijscholing</strong></p><ul><li>Ken je de inzichten achter de preventiepiramide en kan je de principes ervan toepassen.</li><li>Begrijp je gedrag én beïnvloed je dit vanuit een veilig klasklimaat, positieve relaties, effectieve groepsdynamiek en sterk klasmanagement.</li><li>Analyseer je moeilijk hanteerbaar gedrag vanuit onderliggende behoeften, functies van gedrag en contextfactoren.</li><li>Ondersteun je collega's bij pedagogische en gedragsmatige uitdagingen in de klaspraktijk.</li><li>Draag je bij aan een gedeelde visie en een schoolbrede aanpak van gedrag.</li><li>Groei je in een rol als gedragsexpert, gedragscoach, pedagogisch coach of zorgprofessional binnen je schoolteam.</li></ul><p><strong>Prijs</strong></p><p>De vermelde prijs van 835 euro geldt voor de volledige reeks. Je kan ook losse modules volgen:</p><ul><li>835 euro per persoon voor de volledige reeks (incl. koffiepauze, voucher eetbar, één supervisiemoment en twee wetenschappelijke inspiratiegidsen).</li><li>175 euro per persoon voor een module van 1 dag.</li><li>350 euro per persoon voor een module van 2 dagen.</li><li>35 euro per extra supervisie.</li></ul><p><strong>Waar</strong></p><p>KdG Campus Zuid, Brusselstraat 45, 2018 Antwerpen.</p><p><strong>Op maat</strong></p><p>Deze vorming kan ook bij jou op school georganiseerd worden. Contacteer eve.baert@kdg.be.</p>]]>",
     "job_function_category": 743,
     "esco_category_code": 2341,
     "nacebel_sector": "85.20",
@@ -3051,42 +2944,6 @@
     "location_and_date": [
       {
         "date_start": "2026-12-03",
-        "date_end": "2026-12-03",
-        "hours": "9 - 16 u.",
-        "location_name": "KdG Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-01-14",
-        "date_end": "2027-01-14",
-        "hours": "9 - 16 u.",
-        "location_name": "KdG Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-04",
-        "date_end": "2027-02-04",
-        "hours": "9 - 16 u.",
-        "location_name": "KdG Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-18",
-        "date_end": "2027-02-18",
-        "hours": "9 - 16 u.",
-        "location_name": "KdG Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-24",
         "date_end": "2027-02-24",
         "hours": "9 - 16 u.",
         "location_name": "KdG Campus Zuid",
@@ -4377,7 +4234,7 @@
     "course_type": 1,
     "description": "<![CDATA[<ul><li>Toegankelijkheid vormt een belangrijke pijler van het decreet Buitenschoolse Opvang en Activiteiten (BOA).</li><li>Opvang op school is bereikbaar en beschikbaar, maar toch botsen kinderen nog op verschillende drempels.</li><li>We koppelen theoretische onderbouw aan praktische tips, gebaseerd op onze begeleiding van de toegankelijkheid in BOA Antwerpen.</li></ul><p>Doorheen de sessies leer je ook hoe je op een planmatige manier werkt aan toegankelijkheid: hoe stuur je dit proces aan, waar leg je je horizon, hoe breng je je verhaal en hoe krijg je anderen mee aan boord? Je kunt de volledige reeks van drie sessies volgen maar dat is geen verplichting: de sessies staan voldoende op zichzelf om los van elkaar te volgen.</p>]]>",
     "description_program": "<![CDATA[<ul><li>Sessie 1: Toegankelijkheid - de basis. Plaats van toegankelijkheid in het BOA-decreet, verhouding kwaliteit/toegankelijkheid, de 9 B's, instrumenten om toegankelijkheid in kaart te brengen, evenwichtsoefeningen</li><li>Sessie 2: Een warm en toegankelijk nest. Verschillen overbruggen zodat alle kinderen erbij horen, een organisatie die inclusie bevordert, structurele ingrepen (visie, netwerk, vorming, inrichting ruimte)</li><li>Sessie 3: De opvang als brug naar vrije tijd. Netwerk van vrijetijdspartners uitbouwen, partners betrekken, samenwerking tussen opvang en vrije tijd organiseren</li></ul>]]>",
-    "description_extrainfo": "<![CDATA[<p>Volledige reeks of losse sessies mogelijk.</p>]]>",
+    "description_extrainfo": "<![CDATA[<p>Volledige reeks of losse sessies mogelijk.</p><p><strong>Prijs</strong></p><ul><li>260 euro per persoon voor de volledige reeks van 3 sessies (de prijs hierboven op deze pagina).</li><li>95 euro per persoon voor een losse sessie.</li></ul><p>Let op: de vermelde prijs geldt voor de volledige reeks van 3 sessies, niet per sessie. Losse sessies kosten 95 euro per sessie.</p>]]>",
     "job_function_category": 722,
     "esco_category_code": 5311,
     "nacebel_sector": "88.91",
@@ -4386,26 +4243,8 @@
     "location_and_date": [
       {
         "date_start": "2026-12-09",
-        "date_end": "2026-12-09",
-        "hours": "9.30-12.30",
-        "location_name": "KdG Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-01-13",
-        "date_end": "2027-01-13",
-        "hours": "9.30-12.30",
-        "location_name": "KdG Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-03",
         "date_end": "2027-02-03",
-        "hours": "9.30-12.30",
+        "hours": "9.30 - 12.30 u.",
         "location_name": "KdG Campus Zuid",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
@@ -4562,35 +4401,8 @@
     "location_and_date": [
       {
         "date_start": "2027-02-15",
-        "date_end": "2027-02-15",
-        "hours": "10.00 - 16.00 u.",
-        "location_name": "Blikfabriek",
-        "location_address": "Krugerstraat 232",
-        "location_zip": "2660",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-16",
-        "date_end": "2027-02-16",
-        "hours": "10.00 - 16.00 u.",
-        "location_name": "Blikfabriek",
-        "location_address": "Krugerstraat 232",
-        "location_zip": "2660",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-17",
-        "date_end": "2027-02-17",
-        "hours": "10.00 - 16.00 u.",
-        "location_name": "Blikfabriek",
-        "location_address": "Krugerstraat 232",
-        "location_zip": "2660",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-18",
         "date_end": "2027-02-18",
-        "hours": "10.00 - 16.00 u.",
+        "hours": "10.00 tot 16.00 u.",
         "location_name": "Blikfabriek",
         "location_address": "Krugerstraat 232",
         "location_zip": "2660",
@@ -7173,15 +6985,6 @@
     "location_and_date": [
       {
         "date_start": "2027-02-03",
-        "date_end": "2027-02-03",
-        "hours": "9 tot 17 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-25",
         "date_end": "2027-02-25",
         "hours": "9 tot 17 u.",
         "location_name": "Campus Zuid",
@@ -7191,15 +6994,6 @@
       },
       {
         "date_start": "2027-04-28",
-        "date_end": "2027-04-28",
-        "hours": "9 tot 17 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-05-13",
         "date_end": "2027-05-13",
         "hours": "9 tot 17 u.",
         "location_name": "Campus Zuid",
@@ -7803,8 +7597,8 @@
     "domain_subcategory": "Werkgeverschap in onderwijs",
     "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/navormingstraject-aantrekkelijk-werkgeverschap-onderwijs?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 0,
-    "duration_length": "",
-    "duration_type": "",
+    "duration_length": "3",
+    "duration_type": "days",
     "provider": "Karel de Grote Hogeschool",
     "course_type": 1,
     "description": "<![CDATA[<p>Navormingstraject op 26 april, 10 en 28 mei 2027.</p><p>Staat je werking onder druk door het aanhoudende lerarentekort of door regelmatige afwezigheden? Voel je dat leerkrachten nood hebben aan meer ondersteuning, een aangepaste jobinhoud, meer loopbaanperspectief of gerichte ontwikkelkansen?</p><p>Deze training richt zich tot bestuurders, leidinggevenden en beleidsmedewerkers die werk willen maken van aantrekkelijk en duurzaam werkgeverschap. Je ontdekt hoe je evidence-informed aan de slag kan gaan met complexe vraagstukken uit je eigen praktijk.</p><ul><li>We begeleiden je bij het in kaart brengen van je sterktes en uitdagingen binnen je school of scholengroep: aantrekken en aanwerven, jobinhoud, samenwerking, professionalisering en loopbaanontwikkeling.</li><li>Van daaruit ondersteunen we je bij het formuleren van een relevant en haalbaar vraagstuk als vertrekpunt voor verdere ontwikkeling.</li><li>Je maakt kennis met de methodiek van innovatieteams: een laagdrempelige en gestructureerde manier om samen met collega's aan je vraagstuk te werken, waarbij innoveren, onderzoeken en professionaliseren samenkomen.</li><li>Ter inspiratie krijg je toegang tot een zelfscan en een toolkit met twintig praktijkgerichte tools, gericht op sterkere, aantrekkelijkere en duurzamere loopbanen in je school of scholengroep.</li></ul>]]>",
@@ -7818,24 +7612,6 @@
     "location_and_date": [
       {
         "date_start": "2027-04-26",
-        "date_end": "2027-04-26",
-        "hours": "9.30 - 13.00 u.",
-        "location_name": "KdG Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-05-10",
-        "date_end": "2027-05-10",
-        "hours": "9.30 - 13.00 u.",
-        "location_name": "KdG Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-05-28",
         "date_end": "2027-05-28",
         "hours": "9.30 - 13.00 u.",
         "location_name": "KdG Campus Zuid",
