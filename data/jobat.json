@@ -6880,52 +6880,6 @@
     ]
   },
   {
-    "internal_id": "storingen-bij-het-laden-van-elektrische-voertuigen",
-    "title": "Storingen bij het laden van elektrische voertuigen",
-    "language": "nl",
-    "price": "500.00",
-    "certificate_name": "",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "ben.roels@kdg.be",
-    "job_title": [
-      "Automotive technicus",
-      "Laadinfrastructuurtechnicus",
-      "E-mobility specialist",
-      "Onderhoudstechnicus"
-    ],
-    "skills": "Storingsdiagnose laadinfrastructuur, Elektrisch laden, Foutopsporing, EV-technologie",
-    "audience": [
-      "Technici"
-    ],
-    "domain_category": "Autotechnologie",
-    "domain_subcategory": "Laadinfrastructuur elektrische voertuigen",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/storingen-bij-het-laden-van-elektrische-voertuigen?utm_source=jobat&utm_medium=affiliate",
-    "degree_type": 0,
-    "duration_length": "1",
-    "duration_type": "days",
-    "provider": "Karel de Grote Hogeschool",
-    "course_type": 1,
-    "description": "<![CDATA[<p>Het laden van elektrische voertuigen lijkt eenvoudig: stekker inpluggen en laden. In de praktijk komt er echter heel wat communicatie, beveiliging en foutdetectie bij kijken. In deze praktijkgerichte opleiding krijg je eerst een overzicht van de belangrijkste principes achter AC-laden. Daarna ga je zelf aan de slag met interactieve opdrachten en realistische scenario's:</p><ul><li>Wat gebeurt er wanneer een laadpaal onverwacht uitschakelt?</li><li>Hoe reageren verschillende voertuigen op een onderbreking van het laadproces?</li><li>Waar ontstaan laadverliezen en hoe groot zijn die in werkelijkheid?</li></ul><p>Aan de hand van praktijktesten ontdek je hoe verschillende merken omgaan met storingen, beveiligingen en uitzonderlijke situaties. Na deze opleiding heb je een beter inzicht in het volledige laadproces en weet je hoe je laadproblemen systematisch kunt analyseren en begrijpen.</p>]]>",
-    "description_program": "<![CDATA[<ul><li>9.00 - 9.30 u.: Ontvangst met koffie</li><li>9.30 - 10.30 u.: Introductie en theorie</li><li>10.30 - 11.15 u.: Kennismaking proefstand en proeven</li><li>11.15 - 11.30 u.: Korte koffiepauze</li><li>11.30 - 12.15 u.: Opstart praktische proeven</li><li>12.15 - 13.00 u.: Lunch</li><li>13.00 - 15 u.: Praktische opdrachten met doorschuifsysteem</li><li>15.00 - 15.15 u.: Korte koffiepauze</li><li>15.15 - 16.30 u.: Vervolg praktische opdrachten</li><li>16.30 - 17 u.: De toekomst van laadinfrastructuur en afsluit</li></ul>]]>",
-    "description_extrainfo": "<![CDATA[<p>Op maat: Liever een opleiding afgestemd op de noden van je organisatie of team, of bij jou op de werkvloer? Mail joy.dombrecht@kdg.be, tel 03 613 13 29.</p>]]>",
-    "job_function_category": 563,
-    "esco_category_code": 7411,
-    "nacebel_sector": "43.21",
-    "required_knowledge": "Er zijn geen diplomavereisten. Een basiskennis van elektriciteit, elektronica of voertuigtechniek is aanbevolen.",
-    "government_subsidy": "",
-    "location_and_date": [
-      {
-        "date_start": "2026-11-05",
-        "date_end": "2026-11-05",
-        "hours": "9.00 - 17.00 u.",
-        "location_name": "KdG Campus Hoboken",
-        "location_address": "Salesianenlaan 90",
-        "location_zip": "2660",
-        "location_city": "Hoboken"
-      }
-    ]
-  },
-  {
     "internal_id": "ervaringsgerichte-supervisie-de-welzijnssector",
     "title": "Ervaringsgerichte supervisie in de welzijnssector",
     "language": "nl",
