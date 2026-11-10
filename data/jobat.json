@@ -7598,5 +7598,234 @@
         "location_city": "Antwerpen"
       }
     ]
+  },
+  {
+    "internal_id": "slaap-en-menopauze",
+    "title": "Slaap en menopauze",
+    "language": "nl",
+    "price": "",
+    "certificate_name": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "liesbeth.dhooge@kdg.be",
+    "job_title": [
+      "Vroedvrouw",
+      "Menopauzeconsulent",
+      "Zorgverlener gezondheidszorg"
+    ],
+    "skills": "Menopauzezorg, Slaapproblemen, Evidence-based werken, Klachtenherkenning",
+    "audience": [
+      "Vroedvrouwen"
+    ],
+    "domain_category": "Vroedkunde",
+    "domain_subcategory": "Menopauzezorg",
+    "webaddress": "https://www.kdg.be/opleidingen/navorming-en-studiedag/slaap-en-menopauze?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 0,
+    "duration_length": "",
+    "duration_type": "",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 2,
+    "description": "<![CDATA[<p>Veel vrouwen slapen tijdens de overgang slechter dan voorheen. Ze worden 's nachts wakker door opvliegers of nachtzweten, of vallen moeilijk opnieuw in slaap. Dat heeft gevolgen voor hun energie, stemming en welbevinden overdag.</p><p>In deze webinar ontdek je wat er gebeurt met slaap tijdens de menopauze.</p>]]>",
+    "description_program": "<![CDATA[<ul><li>Waarom slapen vrouwen in de menopauze vaak slechter?</li><li>Wat is de rol van opvliegers, nachtzweten en hormonale veranderingen?</li><li>Welke impact heeft slecht slapen op het dagelijks leven?</li><li>Hoe kan je vrouwen met slaapklachten begeleiden?</li></ul><p>Definitief programma en timing volgen.</p>]]>",
+    "description_extrainfo": "<![CDATA[]]>",
+    "job_function_category": 503,
+    "esco_category_code": 2221,
+    "nacebel_sector": "86.90",
+    "required_knowledge": "",
+    "government_subsidy": "",
+    "location_and_date": [
+      {
+        "date_start": "2027-03-11",
+        "date_end": "2027-03-11",
+        "hours": "avond",
+        "location_name": "Online",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
+  },
+  {
+    "internal_id": "babys-en-slaap",
+    "title": "Baby´s en slaap",
+    "language": "nl",
+    "price": "",
+    "certificate_name": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "liesbeth.dhooge@kdg.be",
+    "job_title": [
+      "Vroedvrouw",
+      "Verpleegkundige",
+      "Zorgverlener"
+    ],
+    "skills": "Babyslaap, Ouderbegeleiding, Perinatale zorg, Adviesvaardigheden",
+    "audience": [
+      "Verpleegkundigen",
+      "Vroedvrouwen"
+    ],
+    "domain_category": "Vroedkunde",
+    "domain_subcategory": "Perinatale zorg",
+    "webaddress": "https://www.kdg.be/opleidingen/navorming-en-studiedag/babys-en-slaap?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 0,
+    "duration_length": "",
+    "duration_type": "",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 1,
+    "description": "<![CDATA[<p>Slaapt mijn baby genoeg? Is dit normaal? Het zijn vragen die ouders van jonge baby's dagelijks bezighouden. Slaaptekort weegt op het welbevinden van het hele gezin, en ouders krijgen vaak tegenstrijdig advies. Als zorgverlener ben je voor hen een belangrijk aanspreekpunt.</p><p>Tijdens deze studiedag krijg je een actueel en genuanceerd beeld van babyslaap, zodat je ouders met kennis en vertrouwen kan begeleiden.</p>]]>",
+    "description_program": "<![CDATA[<ul><li>Wat is normaal slapen voor een baby?</li><li>Hoe ontwikkelt het slaapritme zich in de eerste levensmaanden?</li><li>Wanneer is er sprake van een slaapprobleem?</li><li>Hoe geef je ouders advies dat werkt in hun gezin?</li></ul><p>Definitief programma en timing volgen.</p>]]>",
+    "description_extrainfo": "<![CDATA[]]>",
+    "job_function_category": 503,
+    "esco_category_code": 2221,
+    "nacebel_sector": "86.90",
+    "required_knowledge": "",
+    "government_subsidy": "",
+    "location_and_date": [
+      {
+        "date_start": "2027-02-16",
+        "date_end": "2027-02-16",
+        "hours": "",
+        "location_name": "KdG campus zuid",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
+  },
+  {
+    "internal_id": "ai-de-verloskunde",
+    "title": "AI in de verloskunde",
+    "language": "nl",
+    "price": "",
+    "certificate_name": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "liesbeth.dhooge@kdg.be",
+    "job_title": [
+      "Vroedvrouw",
+      "Verpleegkundige",
+      "Zorgverlener"
+    ],
+    "skills": "Artificiële intelligentie, Zorgtechnologie, Ethiek en privacy, Perinatale zorg",
+    "audience": [
+      "Verpleegkundigen",
+      "Vroedvrouwen",
+      "Zorgkundigen"
+    ],
+    "domain_category": "Vroedkunde",
+    "domain_subcategory": "Perinatale zorg",
+    "webaddress": "https://www.kdg.be/opleidingen/navorming-en-studiedag/ai-de-verloskunde?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 0,
+    "duration_length": "",
+    "duration_type": "",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 1,
+    "description": "<![CDATA[<p>Ouders stellen hun vragen steeds vaker aan een chatbot, en ook in de zorg doet artificiële intelligentie zijn intrede. Dat roept nieuwe vragen op over kwaliteit, verantwoordelijkheid en de rol van de zorgverlener.</p><p>Tijdens deze studiedag verken je wat AI kan betekenen voor jou als vroedvrouw.</p>]]>",
+    "description_program": "<![CDATA[<ul><li>Wat is AI, en waar wordt het vandaag al ingezet in de verloskunde?</li><li>Welke kansen en risico's brengt AI voor de zorg?</li><li>Hoe ga je om met privacy, ethiek en je eigen verantwoordelijkheid?</li><li>Hoe reageer je op ouders die informatie halen uit AI-toepassingen?</li></ul><p>Definitief programma en timing volgen.</p>]]>",
+    "description_extrainfo": "<![CDATA[]]>",
+    "job_function_category": 503,
+    "esco_category_code": 2221,
+    "nacebel_sector": "86.90",
+    "required_knowledge": "",
+    "government_subsidy": "",
+    "location_and_date": [
+      {
+        "date_start": "2027-04-27",
+        "date_end": "2027-04-27",
+        "hours": "",
+        "location_name": "KdG campus zuid",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
+  },
+  {
+    "internal_id": "voeding-en-supplementen-de-perimenopauze",
+    "title": "Voeding en supplementen in de (peri)menopauze",
+    "language": "nl",
+    "price": "",
+    "certificate_name": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "liesbeth.dhooge@kdg.be",
+    "job_title": [
+      "Vroedvrouw",
+      "Menopauzeconsulent",
+      "Verpleegkundige",
+      "Zorgverlener gezondheidszorg"
+    ],
+    "skills": "Menopauzezorg, Voeding en supplementen, Evidence-based werken, Adviesvaardigheden",
+    "audience": [
+      "Verpleegkundigen",
+      "Vroedvrouwen",
+      "Zorgkundigen"
+    ],
+    "domain_category": "Vroedkunde",
+    "domain_subcategory": "Menopauzezorg",
+    "webaddress": "https://www.kdg.be/opleidingen/navorming-en-studiedag/voeding-en-supplementen-de-perimenopauze?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 0,
+    "duration_length": "",
+    "duration_type": "",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 1,
+    "description": "<![CDATA[<p>Vrouwen in de perimenopauze krijgen veel advies over voeding en supplementen, via de apotheek, sociale media of hun omgeving. Niet alles is even goed onderbouwd, en als zorgverlener krijg je daar vragen over.</p><p>Tijdens deze studiedag krijg je een onderbouwd overzicht, zodat je vrouwen helder en haalbaar advies kan geven.</p>]]>",
+    "description_program": "<![CDATA[<ul><li>Wat zegt de wetenschap over populaire supplementen tijdens de menopauze?</li><li>Welke voedingsstoffen verdienen extra aandacht tijdens en na de overgang?</li><li>Waar moet je op letten bij veiligheid en interacties?</li><li>Hoe geef je vrouwen onderbouwd en haalbaar advies?</li></ul><p>Definitief programma en timing volgen.</p>]]>",
+    "description_extrainfo": "<![CDATA[]]>",
+    "job_function_category": 503,
+    "esco_category_code": 2221,
+    "nacebel_sector": "86.90",
+    "required_knowledge": "",
+    "government_subsidy": "",
+    "location_and_date": [
+      {
+        "date_start": "2027-05-14",
+        "date_end": "2027-05-14",
+        "hours": "",
+        "location_name": "KdG campus zuid",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
+  },
+  {
+    "internal_id": "invisible-loss",
+    "title": "Invisible loss",
+    "language": "nl",
+    "price": "",
+    "certificate_name": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "liesbeth.dhooge@kdg.be",
+    "job_title": [
+      "Vroedvrouw",
+      "Perinataal coach",
+      "Verpleegkundige",
+      "Zorgverlener"
+    ],
+    "skills": "Rouwbegeleiding, Verliesverwerking, Perinatale zorg, Gesprekstechnieken",
+    "audience": [
+      "Verpleegkundigen",
+      "Vroedvrouwen",
+      "Zorgkundigen"
+    ],
+    "domain_category": "Vroedkunde",
+    "domain_subcategory": "Perinatale zorg",
+    "webaddress": "https://www.kdg.be/opleidingen/navorming-en-studiedag/invisible-loss?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 0,
+    "duration_length": "",
+    "duration_type": "",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 1,
+    "description": "<![CDATA[<p>Niet elk verlies van zwangerschap en geboorte is voor de omgeving zichtbaar. Denk aan een vroege miskraam, een onvervulde kinderwens of een bevalling die anders liep dan gehoopt. Ouders voelen zich daarin vaak alleen, omdat er weinig ruimte is om erover te praten.</p><p>Tijdens deze studiedag sta je stil bij hoe je dat verlies herkent en erkent.</p>]]>",
+    "description_program": "<![CDATA[<ul><li>Welke vormen van onzichtbaar verlies kom je tegen rond zwangerschap en geboorte?</li><li>Wat doet zo'n verlies met ouders, en waarom blijft het vaak onbesproken?</li><li>Hoe herken je onzichtbare rouw in je praktijk?</li><li>Hoe bied je als zorgverlener erkenning en steun?</li></ul><p>Definitief programma en timing volgen.</p>]]>",
+    "description_extrainfo": "<![CDATA[]]>",
+    "job_function_category": 503,
+    "esco_category_code": 2221,
+    "nacebel_sector": "86.90",
+    "required_knowledge": "",
+    "government_subsidy": "",
+    "location_and_date": [
+      {
+        "date_start": "2027-05-04",
+        "date_end": "2027-05-04",
+        "hours": "",
+        "location_name": "KdG campus zuid",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ]
   }
 ]
