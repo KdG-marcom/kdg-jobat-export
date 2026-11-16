@@ -2193,7 +2193,7 @@
     ],
     "domain_category": "Verpleegkunde",
     "domain_subcategory": "Technische vaardigheden",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/leren-hechten-voor-verpleegkundigen?utm_source=jobat&utm_medium=affiliate",
+    "webaddress": "https://www.kdg.be/opleidingen/navorming-en-studiedag/leren-hechten-voor-verpleegkundigen?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 0,
     "duration_length": "",
     "duration_type": "",
@@ -2238,7 +2238,7 @@
       {
         "date_start": "2027-02-19",
         "date_end": "2027-02-19",
-        "hours": "9 tot 12.30 u.",
+        "hours": "9 tot 12.30 u. (nog 2 plaatsen)",
         "location_name": "Campus Zuid",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
@@ -2247,16 +2247,7 @@
       {
         "date_start": "2027-03-01",
         "date_end": "2027-03-01",
-        "hours": "9 tot 12.30 u. (nog 1 plaats beschikbaar)",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-04-16",
-        "date_end": "2027-04-16",
-        "hours": "9 tot 12.30 u.",
+        "hours": "9 tot 12.30 u. (nog 1 plaats)",
         "location_name": "Campus Zuid",
         "location_address": "Brusselstraat 45",
         "location_zip": "2018",
@@ -5629,75 +5620,6 @@
     ]
   },
   {
-    "internal_id": "sterk-coachen-onderwijs-voor-stagementoren",
-    "title": "Sterk coachen in onderwijs: voor (stage)mentoren, aanvangsbegeleiders en andere onderwijsprofessionals",
-    "language": "nl",
-    "price": "325.00",
-    "certificate_name": "",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "petra.depesseroey@kdg.be",
-    "job_title": [
-      "Stagementor",
-      "Aanvangsbegeleider",
-      "Mentor",
-      "Leerkracht",
-      "Onderwijscoach"
-    ],
-    "skills": "Coachen, Actief luisteren, GROW-methodiek, Feedback geven, Reflectie stimuleren, Omgaan met weerstand",
-    "audience": [
-      "Buitengewoon onderwijs",
-      "Kleuteronderwijs",
-      "Lager onderwijs",
-      "Ondersteuningsnetwerk onderwijs",
-      "Secundair Onderwijs"
-    ],
-    "domain_category": "Onderwijs",
-    "domain_subcategory": "Coaching en mentoring",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/sterk-coachen-onderwijs-voor-stagementoren?utm_source=jobat&utm_medium=affiliate",
-    "degree_type": 0,
-    "duration_length": "3",
-    "duration_type": "days",
-    "provider": "Karel de Grote Hogeschool",
-    "course_type": 1,
-    "description": "<![CDATA[<p>Hoe voer je gesprekken die (toekomstige) leraren écht doen groeien?</p><p>In deze driedaagse opleiding versterken mentoren, aanvangsbegeleiders en andere onderwijsprofessionals hun coachende vaardigheden vanuit een verdiepende, praktijkgerichte aanpak.</p><p>De nadruk ligt op drie kernvaardigheden:</p><ul><li>actief luisteren,</li><li>stimuleren van diepgaande reflectie,</li><li>voeren van groeigerichte feedbackgesprekken met behulp van de coaching methodiek GROW.</li></ul><p>Deelnemers leren hoe ze via gerichte vragen, reflectietechnieken en constructieve feedback het professionele leerproces van de (toekomstige) leraar kunnen versterken. Via praktijkoefeningen, uitwisseling en reflectie maken we telkens de brug naar de dagelijkse onderwijspraktijk.</p>]]>",
-    "description_program": "<![CDATA[<p>Dag 1 — Geen prestatie zonder relatie: kennismaking met de GROW-methodiek, voorwaarden voor kwaliteitsvolle coachgesprekken, actief luisteren, luisterhoudingen en het belang van vertrouwen, veiligheid en verbinding.</p><p>Dag 2 — Wat je aandacht geeft, wordt sterker & feedback is een geschenk: wat mensen motiveert, effect van overtuigingen en kernwaarden, en ontwikkelingsgerichte feedback als motor voor professionele groei.</p><p>Dag 3 — Fouten maken mag: omgaan met weerstand en moeilijke gesprekken, growth mindset en het principe Help mij het zelf doen.</p>]]>",
-    "description_extrainfo": "<![CDATA[<p>Opgelet! Je inschrijving is pas definitief wanneer je van ons een bevestigingsmail hebt ontvangen. Check ook zeker je spam.</p>]]>",
-    "job_function_category": 743,
-    "esco_category_code": 2341,
-    "nacebel_sector": "85.20",
-    "required_knowledge": "",
-    "government_subsidy": "",
-    "location_and_date": [
-      {
-        "date_start": "2027-01-21",
-        "date_end": "2027-01-21",
-        "hours": "9.00 tot 16.00 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-02-22",
-        "date_end": "2027-02-22",
-        "hours": "9.00 tot 16.00 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      },
-      {
-        "date_start": "2027-03-12",
-        "date_end": "2027-03-12",
-        "hours": "9.00 tot 16.00 u.",
-        "location_name": "Campus Zuid",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018",
-        "location_city": "Antwerpen"
-      }
-    ]
-  },
-  {
     "internal_id": "van-kwaliteitsvolle-aanvangsbegeleiding-naar-begeleiding-van",
     "title": "Van kwaliteitsvolle aanvangsbegeleiding naar begeleiding van een sterke inductiefase",
     "language": "nl",
@@ -6880,6 +6802,52 @@
     ]
   },
   {
+    "internal_id": "storingen-bij-het-laden-van-elektrische-voertuigen",
+    "title": "Storingen bij het laden van elektrische voertuigen",
+    "language": "nl",
+    "price": "500.00",
+    "certificate_name": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "ben.roels@kdg.be",
+    "job_title": [
+      "Automotive technicus",
+      "Laadinfrastructuurtechnicus",
+      "E-mobility specialist",
+      "Onderhoudstechnicus"
+    ],
+    "skills": "Storingsdiagnose laadinfrastructuur, Elektrisch laden, Foutopsporing, EV-technologie",
+    "audience": [
+      "Technici"
+    ],
+    "domain_category": "Autotechnologie",
+    "domain_subcategory": "Laadinfrastructuur elektrische voertuigen",
+    "webaddress": "https://www.kdg.be/opleidingen/navorming-en-studiedag/storingen-bij-het-laden-van-elektrische-voertuigen?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 0,
+    "duration_length": "1",
+    "duration_type": "days",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 1,
+    "description": "<![CDATA[<p>Het laden van elektrische voertuigen lijkt eenvoudig: stekker inpluggen en laden. In de praktijk komt er echter heel wat communicatie, beveiliging en foutdetectie bij kijken.</p><p>In deze praktijkgerichte opleiding krijg je eerst een overzicht van de belangrijkste principes achter AC-laden. Daarna ga je zelf aan de slag met interactieve opdrachten en realistische scenario's:</p><ul><li>Wat gebeurt er wanneer een laadpaal onverwacht uitschakelt?</li><li>Hoe reageren verschillende voertuigen op een onderbreking van het laadproces?</li><li>Waar ontstaan laadverliezen en hoe groot zijn die in werkelijkheid?</li></ul><p>Aan de hand van praktijktesten ontdek je hoe verschillende merken omgaan met storingen, beveiligingen en uitzonderlijke situaties. We bekijken veelvoorkomende problemen uit het werkveld, maar ook toekomstige uitdagingen en mogelijke oplossingen.</p><p>Na deze opleiding heb je een beter inzicht in het volledige laadproces en weet je hoe je laadproblemen systematisch kunt analyseren en begrijpen.</p>]]>",
+    "description_program": "<![CDATA[<ul><li>9.00 - 9.30 u.: Ontvangst met koffie</li><li>9.30 - 10.30 u.: Introductie en theorie</li><li>10.30 - 11.15 u.: Kennismaking proefstand en proeven</li><li>11.15 - 11.30 u.: Korte koffiepauze</li><li>11.30 - 12.15 u.: Opstart praktische proeven</li><li>12.15 - 13.00 u.: Lunch</li><li>13.00 - 15 u.: Praktische opdrachten met doorschuifsysteem</li><li>15.00 - 15.15 u.: Korte koffiepauze</li><li>15.15 - 16.30 u.: Vervolg praktische opdrachten</li><li>16.30 - 17 u.: De toekomst van laadinfrastructuur en afsluit</li></ul>]]>",
+    "description_extrainfo": "<![CDATA[<p>Op maat: Liever een opleiding afgestemd op de noden van je organisatie of team, of bij jou op de werkvloer? Mail joy.dombrecht@kdg.be, tel 03 613 13 29.</p>]]>",
+    "job_function_category": 563,
+    "esco_category_code": 7411,
+    "nacebel_sector": "43.21",
+    "required_knowledge": "Er zijn geen diplomavereisten. Een basiskennis van elektriciteit, elektronica of voertuigtechniek is aanbevolen.",
+    "government_subsidy": "",
+    "location_and_date": [
+      {
+        "date_start": "2027-02-11",
+        "date_end": "2027-02-11",
+        "hours": "9.00 - 17.00 u.",
+        "location_name": "KdG Campus Hoboken",
+        "location_address": "Salesianenlaan 90",
+        "location_zip": "2660",
+        "location_city": "Hoboken"
+      }
+    ]
+  },
+  {
     "internal_id": "ervaringsgerichte-supervisie-de-welzijnssector",
     "title": "Ervaringsgerichte supervisie in de welzijnssector",
     "language": "nl",
@@ -7825,6 +7793,57 @@
         "location_name": "KdG campus zuid",
         "location_address": "",
         "location_zip": ""
+      }
+    ]
+  },
+  {
+    "internal_id": "sterk-coachen-onderwijs-voor-stagementoren-aanvangsbegeleiders",
+    "title": "Sterk coachen in onderwijs: voor (stage)mentoren, aanvangsbegeleiders en andere onderwijsprofessionals",
+    "language": "nl",
+    "price": "325.00",
+    "certificate_name": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "eve.baert@kdg.be",
+    "job_title": [
+      "Stagementor",
+      "Aanvangsbegeleider",
+      "Mentor",
+      "Leerkracht",
+      "Onderwijscoach"
+    ],
+    "skills": "Coachen, Actief luisteren, GROW-methodiek, Feedback geven, Reflectie stimuleren, Omgaan met weerstand",
+    "audience": [
+      "Buitengewoon onderwijs",
+      "Kleuteronderwijs",
+      "Lager onderwijs",
+      "Ondersteuningsnetwerk onderwijs",
+      "Secundair Onderwijs"
+    ],
+    "domain_category": "Onderwijs",
+    "domain_subcategory": "Coaching en mentoring",
+    "webaddress": "https://www.kdg.be/opleidingen/navorming-en-studiedag/sterk-coachen-onderwijs-voor-stagementoren-aanvangsbegeleiders?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 0,
+    "duration_length": "3",
+    "duration_type": "days",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 1,
+    "description": "<![CDATA[<p>Hoe voer je gesprekken die (toekomstige) leraren écht doen groeien?</p><p>In deze driedaagse opleiding versterken mentoren, aanvangsbegeleiders en andere onderwijsprofessionals hun coachende vaardigheden vanuit een verdiepende, praktijkgerichte aanpak.</p><p>De nadruk ligt op drie kernvaardigheden:</p><ul><li>actief luisteren,</li><li>stimuleren van diepgaande reflectie,</li><li>voeren van groeigerichte feedbackgesprekken met behulp van de coaching methodiek GROW.</li></ul><p>Deelnemers leren hoe ze via gerichte vragen, reflectietechnieken en constructieve feedback het professionele leerproces van de (toekomstige) leraar kunnen versterken. Via praktijkoefeningen, uitwisseling en reflectie maken we telkens de brug naar de dagelijkse onderwijspraktijk. Zo bouwen deelnemers stap voor stap aan een coachende aanpak die meteen inzetbaar is binnen hun eigen school- of begeleidingscontext.</p>]]>",
+    "description_program": "<![CDATA[<p>Dag 1 — Geen prestatie zonder relatie: kennismaking met de GROW-methodiek, voorwaarden voor kwaliteitsvolle coachgesprekken, actief luisteren, luisterhoudingen en het belang van vertrouwen, veiligheid en verbinding.</p><p>Dag 2 — Wat je aandacht geeft, wordt sterker & feedback is een geschenk: wat mensen motiveert, effect van overtuigingen en kernwaarden, en ontwikkelingsgerichte feedback als motor voor professionele groei.</p><p>Dag 3 — Fouten maken mag: omgaan met weerstand en moeilijke gesprekken, growth mindset en het principe Help mij het zelf doen.</p>]]>",
+    "description_extrainfo": "<![CDATA[<p>Prijs inclusief catering. Het traject wordt gegeven door een team van ervaren docenten verbonden aan de Lerarenopleiding (Katrien Hens, Cathy Crabbe).</p><p>VOLZET: inschrijven op de wachtlijst is mogelijk.</p><p>Opgelet! Je inschrijving is pas definitief wanneer je van ons een bevestigingsmail hebt ontvangen. Check ook zeker je spam.</p>]]>",
+    "job_function_category": 743,
+    "esco_category_code": 2341,
+    "nacebel_sector": "85.20",
+    "required_knowledge": "",
+    "government_subsidy": "",
+    "location_and_date": [
+      {
+        "date_start": "2027-01-21",
+        "date_end": "2027-03-12",
+        "hours": "Telkens 9.00 tot 16.00 u. (21 januari, 22 februari en 12 maart 2027) - VOLZET",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
       }
     ]
   }
