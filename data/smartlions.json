@@ -964,69 +964,6 @@
     ]
   },
   {
-    "internal_id": "open-lab-dag-2026",
-    "title": "Open Lab dag 2026",
-    "language": "NL",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/open-lab-dag-2026?utm_source=smartlions&utm_medium=affiliate",
-    "provider": "Karel de Grote Hogeschool",
-    "domain_category": "Chemie en labo",
-    "domain_subcategory": "Praktijkgericht onderzoek",
-    "duration_length": null,
-    "duration_type": "",
-    "course_type": 1,
-    "degree_type": 0,
-    "job_title": "['Onderzoeker', 'R&D-ingenieur', 'Procesingenieur', 'Innovatiemanager', 'Milieucoördinator']",
-    "job_function_category": 763,
-    "esco_category_code": "2310",
-    "nacebel_sector": "72.19",
-    "price": 0.0,
-    "government_subsidy": "",
-    "skills": "Duurzame procestechnologie, Chemische procesoptimalisatie, R&D-samenwerking, Emissiemetingen, Voertuigdata-analyse",
-    "audience": "Bedrijfsleven, Hoger onderwijs, Wetenschappers",
-    "required_knowledge": "",
-    "certificate_name": "",
-    "email": "jeroen.geuens@kdg.be",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "description": "<p>Op 17 november 2026.</p><p>Wil jij mee richting geven aan het onderzoek van onderzoekscentrum Duurzame Industrie? Kom dan op 17 november naar onze campus in Hoboken en ontdek hoe praktijkgericht wetenschappelijk onderzoek het verschil kan maken voor jouw organisatie.</p><p>Of je nu actief bent in de chemische industrie, de maakindustrie, mobiliteit of een aanverwante sector: deze dag is voor jou. Sluit aan bij een themasessie rond onze onderzoekslijnen, bezoek onze labo's met unieke toestellen en ga in gesprek met onze onderzoekers over hoe we jouw bedrijf concreet kunnen ondersteunen.</p>",
-    "description_program": "<ul><li>15.30 - 16.00 u.: Onthaal met een koffie</li><li>16.00 - 16.15 u.: Introductie door Jeroen Geuens (hoofd onderzoekscentrum)</li><li>16.15 - 17.15 u.: Thematafels (keuze uit 3 thema's)</li><li>17.30 - 18.15 u.: Rondleiding 1 (keuze uit chemielabo's en autotechnologielabo's)</li><li>18.30 - 19.15 u.: Optionele tweede rondleiding</li><li>18.30 - 20.30 u.: Receptie met een drankje en broodjes</li></ul><p><strong>Thematafels</strong></p><ul><li><strong>Agentic AI: van chatbot naar slimme bedrijfsassistent</strong> - inzichten en praktijkvoorbeelden rond AI-assistenten die interne kennis toegankelijker maken, informatie ophalen en medewerkers ondersteunen bij concrete taken, met aandacht voor toepassingen, randvoorwaarden en risico's.</li><li><strong>Van reststroom tot waardevolle grondstof</strong> - innovatieve extractietechnieken zoals superkritische CO2-extractie, ultrasoon- en microgolfgeassisteerde extractie, groene solventen en NADES, en de valorisatie van nevenstromen uit pluimvee en de voedingsindustrie.</li><li><strong>Alternatieve brandstoffen onder de loep</strong> - methanol, waterstof, e-fuels en biobrandstoffen: emissiemetingen, praktijktesten en de uitdagingen bij de introductie van nieuwe brandstoffen en aandrijftechnologieën.</li></ul>",
-    "description_extrainfo": "<p><strong>Praktisch</strong></p><ul><li>Dinsdag 17 november 2026, 15.30 - 20.00 u.</li><li>KdG Campus Hoboken, Salesianenlaan 90, 2660 Antwerpen.</li><li>Helemaal gratis, maar registreren is verplicht.</li></ul><p><strong>Over het onderzoekscentrum Duurzame Industrie</strong></p><p>Je kan bij het onderzoekscentrum onder meer terecht voor het vergroenen van chemische processen en het hergebruiken van afvalstromen, in-house ontwikkelde AI-gebaseerde tools om processen en producten te optimaliseren, het ontwikkelen van alternatieve aandrijf- en brandstofsystemen en emissiemetingen op verbrandingsmotoren, en analyses van voertuigdata door simulaties en reverse engineering op CAN-bussystemen.</p>",
-    "location_and_date": [
-      {
-        "date_start": "2026-11-17",
-        "date_end": "2026-11-17",
-        "hours": "15.30 - 20.00 u.",
-        "location_name": "KdG Campus Hoboken",
-        "location_address": "Salesianenlaan 90",
-        "location_zip": "2660",
-        "location_city": "Antwerpen"
-      }
-    ],
-    "sessions": [
-      {
-        "date": "17/11/2026",
-        "sessionDescription": "Einddatum",
-        "sessionId": "open-lab-dag-2026-end-2026-11-17",
-        "locationName": "KdG Campus Hoboken",
-        "address": "Salesianenlaan 90",
-        "zipCode": "2660",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      },
-      {
-        "date": "17/11/2026",
-        "sessionDescription": "Startdatum",
-        "sessionId": "open-lab-dag-2026-start-2026-11-17",
-        "locationName": "KdG Campus Hoboken",
-        "address": "Salesianenlaan 90",
-        "zipCode": "2660",
-        "city": "Antwerpen",
-        "startTime": "",
-        "endTime": ""
-      }
-    ]
-  },
-  {
     "internal_id": "personal-branding-voor-iedereen-die-hun-persoonlijke-merk-op",
     "title": "Personal branding voor iedereen die hun persoonlijke merk op LinkedIn wil aanpakken",
     "language": "NL",
