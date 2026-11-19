@@ -7544,5 +7544,73 @@
         "location_city": "Antwerpen"
       }
     ]
+  },
+  {
+    "internal_id": "hoe-is-t-nu-echt",
+    "title": "Hoe is 't nu echt?",
+    "language": "nl",
+    "price": "0.00",
+    "certificate_name": "",
+    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+    "email": "student.engagement@kdg.be",
+    "job_title": [
+      "Sociaal werker",
+      "Zorgprofessional",
+      "Leerkracht",
+      "Verpleegkundige"
+    ],
+    "skills": "Mentaal welzijn, Zelfzorg, Veerkracht, Stressreductie, Mindfulness",
+    "audience": [
+      "Jeugdzorg",
+      "Kinderopvang",
+      "Kleuteronderwijs",
+      "Lager onderwijs",
+      "Verpleegkundigen"
+    ],
+    "domain_category": "Sociaal werk & welzijn",
+    "domain_subcategory": "Mentaal welzijn",
+    "webaddress": "https://www.kdg.be/hoe-is-t-nu-echt?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 0,
+    "duration_length": "3",
+    "duration_type": "hours",
+    "provider": "Karel de Grote Hogeschool",
+    "course_type": 1,
+    "description": "<![CDATA[<p>Avondreeks rond mentaal welzijn. Heb jij het soms ook (een beetje) moeilijk? Zie je het (af en toe) ook niet meer zitten? Of wil je gewoon meer weten over dit onderwerp?</p><p>Kom dan op donderdag 26 november en/of woensdag 2 december naar onze avondreeks rond mentaal welzijn op campus Zuid. Op dinsdag 1 december is er een Engelstalige avond op campus Groenplaats.</p><p>Op het programma: interview met Elisabeth Lucie Baeten, workshops, mindfulness en veel meer. Helemaal gratis!</p>]]>",
+    "description_program": "<![CDATA[<ul><li>Donderdag 26 november, 18-21 u., Campus Zuid: plenaire sessie naar keuze: in gesprek met actrice en auteur Elisabeth Lucie Baeten over mentaal welzijn, of een Engelstalig interview met Gilbert Nyatanyi. Open bar met de campushonden en boekselectie van de bib.</li><li>Dinsdag 1 december, 18-21 u., Campus Groenplaats: je kiest vooraf 1 Engelstalige workshop (18.45-20.15 u.): Coloring Mandalas, Movement as a Boost, Reflection of your mind, Stress Reduction of Yin Yoga. Open bar.</li><li>Woensdag 2 december, 18-21 u., Campus Zuid: je kiest vooraf 1 workshop (18.45-20.15 u.): Beweging als boost, (B)Lijf jezelf!, De kracht van adem, Mandala's kleuren, Mannelijkheid en de impact van de manosfeer, Mindfulness & meditatie, Mindset: de kracht van je gedachten, Piekeren, Rouw, Veerkracht, Verslaving raakt ons allemaal of Yin yoga. Open bar.</li></ul>]]>",
+    "description_extrainfo": "<![CDATA[<p><strong>Voor wie?</strong></p><ul><li>KdG-studenten</li><li>KdG-medewerkers</li><li>En alle sympathisanten van KdG</li></ul><p>An English program is included. Deelname is gratis; inschrijven is nodig en plaatsen voor sommige workshops zijn beperkt. Drankjes en een avondmaal aan een betaalbare prijs bij de start.</p><p><strong>Contact</strong></p><p>student.engagement@kdg.be</p>]]>",
+    "job_function_category": 724,
+    "esco_category_code": 2635,
+    "nacebel_sector": "88.99",
+    "required_knowledge": "",
+    "government_subsidy": "",
+    "location_and_date": [
+      {
+        "date_start": "2026-11-26",
+        "date_end": "2026-11-26",
+        "hours": "18 tot 21 u.",
+        "location_name": "KdG Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      },
+      {
+        "date_start": "2026-12-01",
+        "date_end": "2026-12-01",
+        "hours": "18 tot 21 u.",
+        "location_name": "KdG Campus Groenplaats",
+        "location_address": "Nationalestraat 5",
+        "location_zip": "2000",
+        "location_city": "Antwerpen"
+      },
+      {
+        "date_start": "2026-12-02",
+        "date_end": "2026-12-02",
+        "hours": "18 tot 21 u.",
+        "location_name": "KdG Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ]
   }
 ]
