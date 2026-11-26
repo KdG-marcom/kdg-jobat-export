@@ -163,46 +163,6 @@
     ]
   },
   {
-    "internal_id": "basiskennis-cardiologie-en-ekg",
-    "title": "Basiskennis Cardiologie en EKG",
-    "language": "nl",
-    "price": "495.00",
-    "certificate_name": "Getuigschrift Basiskennis cardiologie en EKG",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "mark.willekens@kdg.be",
-    "job_title": "Cardiologisch verpleegkundige",
-    "skills": "EKG-interpretatie, cardiale anatomie en fysiologie, cardiale diagnostiek, klinisch redeneren, cardiale medicatiekennis, patientcommunicatie",
-    "audience": [
-      "Verpleegkundigen die zich willen verdiepen in cardiologische verpleegkunde en werken of willen werken op cardiologie, spoed, CCU of intensieve zorgen"
-    ],
-    "domain_category": "Gezondheidszorg",
-    "domain_subcategory": "Verpleegkunde",
-    "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/basiskennis-cardiologie-en-ekg?utm_source=jobat&utm_medium=affiliate",
-    "degree_type": 5,
-    "duration_length": "4",
-    "duration_type": "days",
-    "provider": "Karel de Grote Hogeschool",
-    "course_type": 1,
-    "description": "<![CDATA[<p>Bouw een stevige basiskennis cardiologie uit. Je krijgt inzicht in anatomie, fysiologie en veelvoorkomende aandoeningen, en ontwikkelt essentiele vaardigheden in cardiale diagnostiek, EKG-interpretatie en klinisch redeneren. Theoretische inzichten koppel je meteen aan de klinische praktijk, met specialisten uit het werkveld als docent.</p>]]>",
-    "description_program": "<![CDATA[Vier lesdagen in kleine groepen op campus Zuid, meestal op donderdag van 8.30 tot 17.45 uur, goed voor 5 studiepunten. Dag 1 (1 oktober 2026): grondige basis in anatomie, fysiologie en coronaire opbouw van het gezonde hart als opstap naar cardiologische pathologie. Dag 2 (8 oktober 2026): pathofysiologie en behandeling van cardiovasculaire aandoeningen zoals hypertensie, met preventie, screening, kwaliteitsverbetering en cardiale imaging. Dag 3 (15 oktober 2026): verpleegkundige aandachtspunten bij kleplijden en ritme- en geleidingsstoornissen, leefstijlinterventies, diagnostiek en patientgerichte zorg. Dag 4 (22 oktober 2026): ritme- en geleidingsstoornissen, met praktisch en theoretisch inzicht in EKG-interpretatie van basisbegrippen tot complexe ritmestoornissen. 29 oktober 2026 is reservedag, het examen valt op 19 november 2026. Je leert een EKG correct afnemen en analyseren, normale variaties onderscheiden van afwijkingen, ischemie en ritmestoornissen herkennen en lokaliseren, en de belangrijkste medicamenteuze behandelingen bij coronair lijden, hartfalen en ritmestoornissen kaderen. Je kan ook afzonderlijke lesdagen volgen aan 130 euro per dag.]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Doelgroep:</strong> verpleegkundigen die zich willen verdiepen in cardiologische verpleegkunde, wie werkt of wil werken op een cardiologieafdeling, spoed, CCU of intensieve zorgen, wie wil doorgroeien tot gespecialiseerd cardiologisch verpleegkundige, en verpleegkundigen met een brede focus die hun kennis willen opfrissen.</p><p><strong>Certificaat:</strong> slaag je voor alle vier de cardiologie-micro-credentials, dan ontvang je een extra postgraduaatcertificaat.</p><p><strong>Kostprijs:</strong> 495 euro, of 130 euro per losse lesdag.</p><p><strong>Subsidies:</strong> Vlaams opleidingsverlof, Vlaams opleidingskrediet, opleidingscheques en kmo-portefeuille.</p>]]>",
-    "job_function_category": 503,
-    "esco_category_code": 2221,
-    "nacebel_sector": "86",
-    "required_knowledge": "Bachelor-Verpleegkundige, HBO5 Verpleegkundige of Basisverpleegkundige (of gelijkgesteld); bij een andere vooropleiding in de gezondheidszorg is instap mogelijk na overleg",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), Vlaams opleidingskrediet, Opleidingscheques, Kmo-portefeuille",
-    "location_and_date": [
-      {
-        "date_start": "2026-10-01",
-        "date_end": "2026-11-19",
-        "hours": "",
-        "location_name": "",
-        "location_address": "",
-        "location_zip": ""
-      }
-    ]
-  },
-  {
     "internal_id": "beleggen",
     "title": "Beleggen",
     "language": "nl",
